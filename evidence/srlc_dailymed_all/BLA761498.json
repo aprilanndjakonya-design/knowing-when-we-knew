@@ -1,0 +1,94 @@
+{
+ "application": "BLA761498",
+ "srlc_rows": [
+  {
+   "drug_name": "AVTOZMA",
+   "active_ingredient": "TOCILIZUMAB-ANOH",
+   "application_number": "761498",
+   "application_type": "BLA",
+   "supplement_date": "09/29/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "3350"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-29",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "581c288f-8015-40ef-a4c3-683c96db193d",
+   "title": "AVTOZMA (TOCILIZUMAB) INJECTION, SOLUTION [CELLTRION USA, INC.]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-06-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-07-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-07-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-10-09"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "60381a7e-d7ae-4384-925d-c19c418d1663",
+   "title": "TOCILIZUMAB-ANOH INJECTION, SOLUTION [CELLTRION USA, INC.]",
+   "published_date": "Oct 01, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-03-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-10-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-10-01"
+   },
+   "lag_days_dailymed": 2,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 2,
+ "fetched_utc": "2026-10-16T08:42:07Z"
+}

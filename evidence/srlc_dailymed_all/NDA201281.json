@@ -1,0 +1,151 @@
+{
+ "application": "NDA201281",
+ "srlc_rows": [
+  {
+   "drug_name": "JENTADUETO",
+   "active_ingredient": "LINAGLIPTIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "201281",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "643"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "f6dd9b86-0d18-95d4-2bc7-05591bfdd597",
+   "title": "JENTADUETO (LINAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 26, 2026",
+   "spl_version": 46,
+   "versions": [
+    {
+     "spl_version": 15,
+     "published_date": "2012-02-16"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2013-07-02"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2013-07-26"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2013-09-20"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2014-06-06"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2014-08-13"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2015-08-11"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2015-09-11"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2016-02-22"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2016-03-02"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2016-05-31"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2016-06-24"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2017-01-10"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2017-03-27"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2017-07-21"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2017-08-23"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2019-03-08"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2019-07-17"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2019-07-19"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2020-06-01"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2022-04-28"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2023-06-30"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2023-07-27"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2024-08-22"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2026-08-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 46,
+    "published_date": "2026-08-26"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 24
+  },
+  {
+   "setid": "9822b5fa-6024-445a-a36d-a26106c69845",
+   "title": "JENTADUETO (LINAGLIPTIN) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 07, 2015",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-05-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:58:45Z"
+}

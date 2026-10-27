@@ -1,0 +1,56 @@
+{
+ "application": "BLA761390",
+ "srlc_rows": [
+  {
+   "drug_name": "NEMLUVIO",
+   "active_ingredient": "NEMOLIZUMAB-ILTO",
+   "application_number": "761390",
+   "application_type": "BLA",
+   "supplement_date": "06/26/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "3162"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-26",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 20,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e9229ef1-ac60-4c24-afb6-009d3c781687",
+   "title": "NEMLUVIO (NEMOLIZUMAB-ILTO) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GALDERMA LABORATORIES, L.P.]",
+   "published_date": "Dec 16, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-08-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-09-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-05-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-07-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-12-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-07-11"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:41:49Z"
+}

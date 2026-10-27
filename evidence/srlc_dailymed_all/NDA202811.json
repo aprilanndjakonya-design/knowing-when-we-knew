@@ -1,0 +1,166 @@
+{
+ "application": "NDA202811",
+ "srlc_rows": [
+  {
+   "drug_name": "LINZESS",
+   "active_ingredient": "LINACLOTIDE",
+   "application_number": "202811",
+   "application_type": "NDA",
+   "supplement_date": "05/21/2026",
+   "database_updated": "05/29/2026",
+   "drug_name_id": "382"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-21",
+ "srlc_database_updated": "2026-05-29",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2d09771d-69da-4c9d-92b6-74374ffa130f",
+   "title": "LINZESS (LINACLOTIDE) CAPSULE, GELATIN COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Oct 12, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-10-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-10-12"
+   },
+   "lag_days_dailymed": 144,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "09beda19-56d6-4a56-afdc-9a77b70b2ef3",
+   "title": "LINZESS (LINACLOTIDE) CAPSULE, GELATIN COATED [ALLERGAN, INC.]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 39,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2012-09-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-04-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-08-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-07-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-07-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-12-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-12-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-04-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-09-20"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-11-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-02-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-06-08"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-06-26"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-07-03"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2017-11-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-12-07"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-10-01"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2021-04-16"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2021-04-20"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2021-09-08"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2022-12-06"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2023-05-05"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2023-06-21"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-09-21"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2026-01-16"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 39,
+    "published_date": "2026-06-01"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 27
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T08:59:38Z"
+}

@@ -1,0 +1,84 @@
+{
+ "application": "NDA210730",
+ "srlc_rows": [
+  {
+   "drug_name": "OLINVYK",
+   "active_ingredient": "OLICERIDINE",
+   "application_number": "210730",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "2417"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-06",
+ "lag_days_srlc_database": 753,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ce167984-8b9d-40b7-84ce-d0f33fff1eaa",
+   "title": "OLINVYK (OLICERIDINE) INJECTION, SOLUTION [TREVENA, INC.]",
+   "published_date": "Jan 05, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2020-08-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-12-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-03-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-12-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-03-24"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-01-13"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-01-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2023-12-25"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:29:01Z"
+}

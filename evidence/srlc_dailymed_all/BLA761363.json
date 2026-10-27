@@ -1,0 +1,80 @@
+{
+ "application": "BLA761363",
+ "srlc_rows": [
+  {
+   "drug_name": "WINREVAIR",
+   "active_ingredient": "SOTATERCEPT-CSRK",
+   "application_number": "761363",
+   "application_type": "BLA",
+   "supplement_date": "09/21/2026",
+   "database_updated": "09/30/2026",
+   "drug_name_id": "3223"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-21",
+ "srlc_database_updated": "2026-09-30",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "21693ee2-cd23-4137-ac67-066bb3a4a9b7",
+   "title": "WINREVAIR (SOTATERCEPT-CSRK) KIT [MERCK SHARP & DOHME LLC]",
+   "published_date": "Oct 08, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-05-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-01-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-24"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-06-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-07-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-07-29"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-08-31"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-10-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-10-08"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:41:31Z"
+}

@@ -1,0 +1,143 @@
+{
+ "application": "BLA761404",
+ "srlc_rows": [
+  {
+   "drug_name": "OSENVELT",
+   "active_ingredient": "DENOSUMAB-BMWO",
+   "application_number": "761404",
+   "application_type": "BLA",
+   "supplement_date": "09/10/2025",
+   "database_updated": "09/18/2025",
+   "drug_name_id": "3183"
+  },
+  {
+   "drug_name": "STOBOCLO",
+   "active_ingredient": "DENOSUMAB-BMWO",
+   "application_number": "761404",
+   "application_type": "BLA",
+   "supplement_date": "09/10/2025",
+   "database_updated": "09/18/2025",
+   "drug_name_id": "3182"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-10",
+ "srlc_database_updated": "2025-09-18",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "10b9eea3-bf70-4ff3-a0b9-54248cbfd156",
+   "title": "STOBOCLO (DENOSUMAB-BMWO) INJECTION [CELLTRION USA, INC.]",
+   "published_date": "Apr 23, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-09-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-04-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-09-19"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "7a449553-105c-46a1-bb72-849d8f5b81bd",
+   "title": "DENOSUMAB-BMWO INJECTION [CELLTRION USA, INC.]",
+   "published_date": "Apr 23, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-09-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-04-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-09-19"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c5a5d750-80be-49cd-b4a6-c8a815956059",
+   "title": "OSENVELT (DENOSUMAB-BMWO) INJECTION [CELLTRION USA, INC.]",
+   "published_date": "Apr 23, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-09-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-04-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-09-19"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "d378622d-3a13-4918-ae18-3375cd10d270",
+   "title": "DENOSUMAB-BMWO INJECTION [CELLTRION USA, INC.]",
+   "published_date": "Apr 23, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-09-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-04-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-09-19"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:41:54Z"
+}

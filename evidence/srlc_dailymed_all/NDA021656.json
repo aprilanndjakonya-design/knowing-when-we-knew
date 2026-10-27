@@ -1,0 +1,133 @@
+{
+ "application": "NDA021656",
+ "srlc_rows": [
+  {
+   "drug_name": "TRICOR",
+   "active_ingredient": "FENOFIBRATE",
+   "application_number": "021656",
+   "application_type": "NDA",
+   "supplement_date": "06/06/2025",
+   "database_updated": "06/10/2025",
+   "drug_name_id": "1572"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-06",
+ "srlc_database_updated": "2025-06-10",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "84b2af1b-365e-4723-ac5f-bc826ec47772",
+   "title": "TRICOR (FENOFIBRATE) TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 01, 2024",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-07-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-03-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-05-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "142ca830-08ff-47b8-8841-3294e0f8a315",
+   "title": "FENOFIBRATE TABLET [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Dec 27, 2017",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-12-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "ca72a571-1d68-4526-b28a-a3034a1c8c09",
+   "title": "FENOFIBRATE TABLET [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "ddb63851-e9b9-4ab0-8e6d-6f83d79741e5",
+   "title": "TRICOR (FENOFIBRATE) TABLET [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Jun 11, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-08-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-06-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "194cd14a-d952-4507-91be-3f1d5371d3b8",
+   "title": "TRICOR (FENOFIBRATE) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jun 29, 2010",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-06-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:52:45Z"
+}

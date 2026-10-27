@@ -1,0 +1,84 @@
+{
+ "application": "NDA206976",
+ "srlc_rows": [
+  {
+   "drug_name": "LICART",
+   "active_ingredient": "DICLOFENAC EPOLAMINE",
+   "application_number": "206976",
+   "application_type": "NDA",
+   "supplement_date": "03/27/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "2461"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-27",
+ "srlc_database_updated": "2026-03-31",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "851c8b39-6056-4bbc-812e-b9b13977c1ac",
+   "title": "LICART (DICLOFENAC EPOLAMINE) SYSTEM [IBSA PHARMA INC.]",
+   "published_date": "Apr 08, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2020-09-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-10-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-11-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-12-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-09-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-01-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-10-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-01-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-04-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2026-04-08"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:02:21Z"
+}

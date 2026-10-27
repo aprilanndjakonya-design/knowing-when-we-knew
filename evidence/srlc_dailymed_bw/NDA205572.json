@@ -1,0 +1,101 @@
+{
+ "application": "NDA205572",
+ "srlc_rows": [
+  {
+   "drug_name": "MOXIFLOXACIN HYDROCHLORIDE",
+   "active_ingredient": "MOXIFLOXACIN HYDROCHLORIDE",
+   "application_number": "205572",
+   "application_type": "NDA",
+   "supplement_date": "07/26/2016",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/26/2016",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/27/2020",
+   "database_updated": "03/31/2020",
+   "drug_name_id": "343"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-07-26",
+ "srlc_database_updated": "2020-03-31",
+ "lag_days_srlc_database": 1344,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "6067b2ee-2171-49bb-aa07-1d401ebf4f2e",
+   "title": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE) INJECTION, SOLUTION [HP HALDEN PHARMA AS]",
+   "published_date": "Jul 19, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-08-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2017-08-02"
+   },
+   "lag_days_dailymed": 372,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a4e28b09-714b-46e7-b4e6-0163cad78fc5",
+   "title": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC\n]",
+   "published_date": "May 09, 2024",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-07-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-10-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-06-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-12-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-04-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-05-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2016-10-24"
+   },
+   "lag_days_dailymed": 90,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 90,
+ "fetched_utc": "2026-10-16T09:27:41Z"
+}

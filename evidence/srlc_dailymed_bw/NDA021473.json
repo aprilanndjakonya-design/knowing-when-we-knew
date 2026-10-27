@@ -1,0 +1,36 @@
+{
+ "application": "NDA021473",
+ "srlc_rows": [
+  {
+   "drug_name": "CIPRO XR",
+   "active_ingredient": "CIPROFLOXACIN; CIPROFLOXACIN HYDROCHLORIDE",
+   "application_number": "021473",
+   "application_type": "NDA",
+   "supplement_date": "07/26/2016",
+   "supplement": "SUPPL-37",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/26/2016",
+     "suppl": "SUPPL-37",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/08/2020",
+   "database_updated": "05/11/2020",
+   "drug_name_id": "352"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-07-26",
+ "srlc_database_updated": "2020-05-11",
+ "lag_days_srlc_database": 1385,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:22:23Z"
+}

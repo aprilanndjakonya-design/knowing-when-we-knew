@@ -1,0 +1,80 @@
+{
+ "application": "NDA211939",
+ "srlc_rows": [
+  {
+   "drug_name": "BONSITY",
+   "active_ingredient": "TERIPARATIDE",
+   "application_number": "211939",
+   "application_type": "NDA",
+   "supplement_date": "08/03/2026",
+   "database_updated": "08/12/2026",
+   "drug_name_id": "2880"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-03",
+ "srlc_database_updated": "2026-08-12",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2d0c89a2-3849-adf6-007d-aeca21cf417c",
+   "title": "BONSITY (TERIPARATIDE) INJECTION, SOLUTION [ALVOGEN INC.]",
+   "published_date": "Jun 09, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-06-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "1b007339-dd0d-f019-5e0a-9b1b0f75011c",
+   "title": "TERIPARATIDE INJECTION, SOLUTION [ALVOGEN, INC.]",
+   "published_date": "Jun 02, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-11-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-05-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-11-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-07-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-08-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-11-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-11-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-06-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:05:57Z"
+}

@@ -1,0 +1,234 @@
+{
+ "application": "NDA022044",
+ "srlc_rows": [
+  {
+   "drug_name": "JANUMET",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN PHOSPHATE",
+   "application_number": "022044",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "801"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "d19c7ed0-ad5c-426e-b2df-722508f97d67",
+   "title": "JANUMET (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+   "published_date": "Aug 27, 2026",
+   "spl_version": 61,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-09-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-02-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2008-03-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2008-09-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2008-12-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2009-04-21"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2010-06-01"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2010-10-07"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2011-05-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2011-05-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2012-04-06"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2012-05-08"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2013-02-19"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2013-03-26"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2013-09-20"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2014-02-18"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2015-03-06"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2015-09-09"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2016-02-23"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2016-04-18"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2016-11-16"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2017-01-30"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2017-08-22"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2018-02-21"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2019-01-31"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2019-03-18"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2019-06-27"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2019-08-26"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2020-12-22"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2021-06-08"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2021-12-13"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2022-07-06"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2022-08-03"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2023-08-15"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2024-01-18"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2024-08-30"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2025-03-31"
+    },
+    {
+     "spl_version": 61,
+     "published_date": "2026-08-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 61,
+    "published_date": "2026-08-27"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 38
+  },
+  {
+   "setid": "c603b844-2019-4ef4-8385-7bc3f96a2565",
+   "title": "JANUMET (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 9,
+     "published_date": "2023-07-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-07-07"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "b55ee3d9-7f0b-4dd9-9213-fbc69f09f567",
+   "title": "JANUMET (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 10, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 11,
+     "published_date": "2023-07-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-07-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:53:46Z"
+}

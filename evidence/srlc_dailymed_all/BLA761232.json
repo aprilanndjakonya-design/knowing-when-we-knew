@@ -1,0 +1,92 @@
+{
+ "application": "BLA761232",
+ "srlc_rows": [
+  {
+   "drug_name": "TEVIMBRA",
+   "active_ingredient": "TISLELIZUMAB-JSGR",
+   "application_number": "761232",
+   "application_type": "BLA",
+   "supplement_date": "08/25/2026",
+   "database_updated": "09/02/2026",
+   "drug_name_id": "3111"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-25",
+ "srlc_database_updated": "2026-09-02",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "08ef1e3e-496f-4b0b-94ee-fbba3cc1985a",
+   "title": "TEVIMBRA (TISLELIZUMAB-JSGR) INJECTION, SOLUTION, CONCENTRATE [BEONE MEDICINES USA, INC.]",
+   "published_date": "Oct 08, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-03-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-04-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-05-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-05-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-07-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-12-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-12-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-02-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-07-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-09-03"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-10-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2026-09-03"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:40:22Z"
+}

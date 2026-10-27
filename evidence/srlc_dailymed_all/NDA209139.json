@@ -1,0 +1,44 @@
+{
+ "application": "NDA209139",
+ "srlc_rows": [
+  {
+   "drug_name": "PREXXARTAN",
+   "active_ingredient": "VALSARTAN",
+   "application_number": "209139",
+   "application_type": "NDA",
+   "supplement_date": "09/22/2026",
+   "database_updated": "09/30/2026",
+   "drug_name_id": "3332"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-22",
+ "srlc_database_updated": "2026-09-30",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "508c5de8-9c70-57f5-e063-6394a90af295",
+   "title": "PREXXARTAN SOLUTION [APTAPHARMA INC.]",
+   "published_date": "Sep 28, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-05-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-09-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-09-28"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T09:03:46Z"
+}

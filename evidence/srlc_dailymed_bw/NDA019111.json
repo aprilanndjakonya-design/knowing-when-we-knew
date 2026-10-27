@@ -1,0 +1,89 @@
+{
+ "application": "NDA019111",
+ "srlc_rows": [
+  {
+   "drug_name": "TUSSIONEX PENNKINETIC",
+   "active_ingredient": "CHLORPHENIRAMINE POLISTIREX; HYDROCODONE POLISTIREX",
+   "application_number": "019111",
+   "application_type": "NDA",
+   "supplement_date": "06/28/2018",
+   "supplement": "SUPPL-22",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/13/2017",
+     "suppl": "SUPPL-19",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "06/28/2018",
+     "suppl": "SUPPL-22",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/28/2018",
+   "database_updated": "07/05/2018",
+   "drug_name_id": "785"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-06-28",
+ "srlc_database_updated": "2018-07-05",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "af2caf33-e587-4d80-9523-44e1b565aae2",
+   "title": "TUSSIONEX PENNKINETIC (HYDROCODONE POLISTIREX AND CHLORPHENIRAMINE POLISTIREX) SUSPENSION, EXTENDED RELEASE [UNITHER MANUFACTURING LLC]",
+   "published_date": "Mar 30, 2017",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-03-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-10-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-03-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-10-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-04-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-03-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:15:34Z"
+}

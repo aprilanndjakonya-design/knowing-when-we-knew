@@ -1,0 +1,228 @@
+{
+ "application": "NDA021166",
+ "srlc_rows": [
+  {
+   "drug_name": "ESTROGEL",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "021166",
+   "application_type": "NDA",
+   "supplement_date": "11/30/2021",
+   "supplement": "SUPPL-17",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "11/30/2021",
+     "suppl": "SUPPL-17",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1342"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-11-30",
+ "srlc_database_updated": "2024-02-20",
+ "lag_days_srlc_database": 812,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "762ac371-bb8b-47e7-b48f-e80d452c9dd4",
+   "title": "ESTROGEL (ESTRADIOL) GEL, METERED [ASCEND THERAPEUTICS US, LLC]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 55,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-03-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-02-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-07-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-09-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-10-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-12-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-06-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2011-12-22"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2012-07-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2012-08-28"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2012-12-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2013-01-14"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2013-06-06"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2013-12-12"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2014-04-11"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2014-07-11"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2014-08-13"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2014-12-09"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2015-08-24"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2015-12-09"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2016-07-01"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2016-12-08"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2016-12-09"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2017-06-29"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2017-11-22"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2018-06-21"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2018-10-29"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2019-10-24"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2020-04-22"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2020-10-13"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2021-03-04"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2021-12-22"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2023-08-28"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2024-03-12"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2024-03-27"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2026-01-05"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2026-01-26"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2026-02-09"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 42,
+    "published_date": "2021-12-22"
+   },
+   "lag_days_dailymed": 22,
+   "versions_before_supplement": 32
+  }
+ ],
+ "lag_days_dailymed_min": 22,
+ "fetched_utc": "2026-10-16T09:19:47Z"
+}

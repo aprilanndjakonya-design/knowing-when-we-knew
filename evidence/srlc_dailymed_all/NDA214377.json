@@ -1,0 +1,76 @@
+{
+ "application": "NDA214377",
+ "srlc_rows": [
+  {
+   "drug_name": "VERQUVO",
+   "active_ingredient": "VERICIGUAT",
+   "application_number": "214377",
+   "application_type": "NDA",
+   "supplement_date": "01/21/2026",
+   "database_updated": "01/23/2026",
+   "drug_name_id": "2754"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-21",
+ "srlc_database_updated": "2026-01-23",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "17056d73-1b1b-4bf2-9c07-b7a9367f0d6d",
+   "title": "VERQUVO (VERICIGUAT) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+   "published_date": "Feb 06, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2021-02-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-07-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-03-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-07-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-11-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-11-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-02-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-02-06"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T09:07:32Z"
+}

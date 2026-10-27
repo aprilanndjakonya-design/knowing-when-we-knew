@@ -1,0 +1,103 @@
+{
+ "application": "NDA022014",
+ "srlc_rows": [
+  {
+   "drug_name": "EVAMIST",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "022014",
+   "application_type": "NDA",
+   "supplement_date": "08/03/2023",
+   "supplement": "SUPPL-14",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/03/2023",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1343"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-08-03",
+ "srlc_database_updated": "2024-02-20",
+ "lag_days_srlc_database": 201,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "9a0aa631-133d-406b-9d32-8a1a99af4e50",
+   "title": "EVAMIST (ESTRADIOL) SPRAY [PADAGIS US LLC]",
+   "published_date": "Nov 01, 2024",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-06-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-08-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-11-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-03-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-08-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-08-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-11-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2023-08-16"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "d8c4a929-c039-4c7d-a3bc-986ae31fc8a6",
+   "title": "EVAMIST (ESTRADIOL) SPRAY, METERED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Oct 08, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-10-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:23:41Z"
+}

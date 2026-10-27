@@ -1,0 +1,68 @@
+{
+ "application": "BLA761142",
+ "srlc_rows": [
+  {
+   "drug_name": "UPLIZNA",
+   "active_ingredient": "INEBILIZUMAB-CDON",
+   "application_number": "761142",
+   "application_type": "BLA",
+   "supplement_date": "12/11/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "3106"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-11",
+ "srlc_database_updated": "2025-12-22",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "834db232-afb0-4dcf-93e0-009ce8245c20",
+   "title": "UPLIZNA (INEBILIZUMAB) INJECTION [HORIZON THERAPEUTICS USA, INC.]",
+   "published_date": "Sep 29, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-07-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-12-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-04-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-12-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-12-24"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:39:50Z"
+}

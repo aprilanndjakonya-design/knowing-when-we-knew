@@ -1,0 +1,40 @@
+{
+ "application": "NDA019917",
+ "srlc_rows": [
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "019917",
+   "application_type": "NDA",
+   "supplement_date": "12/16/2016",
+   "supplement": "SUPPL-10",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-10",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/08/2019",
+   "drug_name_id": "678"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-12-16",
+ "srlc_database_updated": "2019-10-08",
+ "lag_days_srlc_database": 1026,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:16:22Z"
+}

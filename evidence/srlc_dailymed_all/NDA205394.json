@@ -1,0 +1,62 @@
+{
+ "application": "NDA205394",
+ "srlc_rows": [
+  {
+   "drug_name": "RIZAFILM",
+   "active_ingredient": "RIZATRIPTAN BENZOATE",
+   "application_number": "205394",
+   "application_type": "NDA",
+   "supplement_date": "02/26/2026",
+   "database_updated": "03/02/2026",
+   "drug_name_id": "3257"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-26",
+ "srlc_database_updated": "2026-03-02",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "8e36b946-cf2a-44d9-9ba7-4385cfe6b360",
+   "title": "RIZAFILM (RIZATRIPTAN BENZOATE) FILM [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-08-31"
+   },
+   "lag_days_dailymed": 186,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "fa32794e-d26d-e0bf-e053-6294a90abb0e",
+   "title": "RIZAFILM (RIZATRIPTAN BENZOATE) FILM [GENSCO LABORATORIES LLC]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-04-27"
+   },
+   "lag_days_dailymed": 60,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 60,
+ "fetched_utc": "2026-10-16T09:01:14Z"
+}

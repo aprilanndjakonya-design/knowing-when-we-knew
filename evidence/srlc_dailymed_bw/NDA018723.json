@@ -1,0 +1,231 @@
+{
+ "application": "NDA018723",
+ "srlc_rows": [
+  {
+   "drug_name": "DEPAKOTE",
+   "active_ingredient": "DIVALPROEX SODIUM",
+   "application_number": "018723",
+   "application_type": "NDA",
+   "supplement_date": "02/21/2019",
+   "supplement": "SUPPL-61",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/21/2019",
+     "suppl": "SUPPL-61",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Adverse Reactions",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/31/2026",
+   "database_updated": "04/03/2026",
+   "drug_name_id": "53"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-02-21",
+ "srlc_database_updated": "2026-04-03",
+ "lag_days_srlc_database": 2598,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "08a65cf4-7749-4ceb-6895-8f4805e2b01f",
+   "title": "DEPAKOTE (DIVALPROEX SODIUM) TABLET, DELAYED RELEASE [ABBVIE INC.]",
+   "published_date": "Apr 14, 2026",
+   "spl_version": 1621,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-07-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-06-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2007-08-24"
+    },
+    {
+     "spl_version": 981,
+     "published_date": "2010-06-09"
+    },
+    {
+     "spl_version": 1406,
+     "published_date": "2011-08-26"
+    },
+    {
+     "spl_version": 1417,
+     "published_date": "2012-11-15"
+    },
+    {
+     "spl_version": 1427,
+     "published_date": "2013-03-19"
+    },
+    {
+     "spl_version": 1450,
+     "published_date": "2013-06-10"
+    },
+    {
+     "spl_version": 1454,
+     "published_date": "2013-09-19"
+    },
+    {
+     "spl_version": 1462,
+     "published_date": "2014-02-28"
+    },
+    {
+     "spl_version": 1470,
+     "published_date": "2014-04-29"
+    },
+    {
+     "spl_version": 1480,
+     "published_date": "2014-07-09"
+    },
+    {
+     "spl_version": 1486,
+     "published_date": "2014-09-02"
+    },
+    {
+     "spl_version": 1499,
+     "published_date": "2014-12-12"
+    },
+    {
+     "spl_version": 1514,
+     "published_date": "2015-01-20"
+    },
+    {
+     "spl_version": 1530,
+     "published_date": "2015-03-24"
+    },
+    {
+     "spl_version": 1540,
+     "published_date": "2015-10-06"
+    },
+    {
+     "spl_version": 1541,
+     "published_date": "2015-10-07"
+    },
+    {
+     "spl_version": 1547,
+     "published_date": "2016-02-29"
+    },
+    {
+     "spl_version": 1553,
+     "published_date": "2016-10-13"
+    },
+    {
+     "spl_version": 1557,
+     "published_date": "2016-11-10"
+    },
+    {
+     "spl_version": 1560,
+     "published_date": "2017-03-15"
+    },
+    {
+     "spl_version": 1571,
+     "published_date": "2017-05-11"
+    },
+    {
+     "spl_version": 1577,
+     "published_date": "2017-10-20"
+    },
+    {
+     "spl_version": 1586,
+     "published_date": "2018-11-19"
+    },
+    {
+     "spl_version": 1590,
+     "published_date": "2019-03-05"
+    },
+    {
+     "spl_version": 1596,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 1597,
+     "published_date": "2019-12-18"
+    },
+    {
+     "spl_version": 1598,
+     "published_date": "2020-05-28"
+    },
+    {
+     "spl_version": 1600,
+     "published_date": "2021-02-23"
+    },
+    {
+     "spl_version": 1602,
+     "published_date": "2021-06-14"
+    },
+    {
+     "spl_version": 1603,
+     "published_date": "2021-09-15"
+    },
+    {
+     "spl_version": 1604,
+     "published_date": "2021-12-01"
+    },
+    {
+     "spl_version": 1605,
+     "published_date": "2022-04-18"
+    },
+    {
+     "spl_version": 1608,
+     "published_date": "2023-04-06"
+    },
+    {
+     "spl_version": 1609,
+     "published_date": "2023-07-03"
+    },
+    {
+     "spl_version": 1611,
+     "published_date": "2023-09-26"
+    },
+    {
+     "spl_version": 1612,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 1615,
+     "published_date": "2025-02-06"
+    },
+    {
+     "spl_version": 1616,
+     "published_date": "2025-02-26"
+    },
+    {
+     "spl_version": 1618,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 1620,
+     "published_date": "2026-03-03"
+    },
+    {
+     "spl_version": 1621,
+     "published_date": "2026-04-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1590,
+    "published_date": "2019-03-05"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 26
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:15:12Z"
+}

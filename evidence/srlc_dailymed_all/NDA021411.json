@@ -1,0 +1,313 @@
+{
+ "application": "NDA021411",
+ "srlc_rows": [
+  {
+   "drug_name": "STRATTERA",
+   "active_ingredient": "ATOMOXETINE HYDROCHLORIDE",
+   "application_number": "021411",
+   "application_type": "NDA",
+   "supplement_date": "06/29/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "1079"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-29",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 8,
+ "labels": [
+  {
+   "setid": "309de576-c318-404a-bc15-660c2b1876fb",
+   "title": "STRATTERA (ATOMOXETINE HYDROCHLORIDE) CAPSULE [ELI LILLY AND COMPANY]",
+   "published_date": "Jul 23, 2026",
+   "spl_version": 69,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-07-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2007-11-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2008-02-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2008-09-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2008-12-16"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2009-06-25"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2009-11-09"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2010-06-09"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2010-08-11"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2010-10-15"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2011-01-12"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2011-02-02"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2011-03-30"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2011-04-22"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2011-11-02"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2011-12-15"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2012-06-22"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2012-07-12"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2012-08-28"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2012-11-28"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2013-01-03"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2013-01-08"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2013-05-09"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2013-08-19"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2013-12-12"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2014-03-05"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2014-12-19"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2015-01-06"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2015-01-21"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2015-04-08"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2015-07-02"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2017-03-23"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2017-05-15"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2017-08-04"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2018-03-28"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2019-01-04"
+    },
+    {
+     "spl_version": 61,
+     "published_date": "2020-02-03"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2020-03-10"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2022-01-12"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2026-02-05"
+    },
+    {
+     "spl_version": 68,
+     "published_date": "2026-07-15"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2026-07-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 68,
+    "published_date": "2026-07-15"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 41
+  },
+  {
+   "setid": "fd1c71bc-1445-4ac6-8a8d-79050e61b03a",
+   "title": "STRATTERA (ATOMOXETINE HYDROCHLORIDE) CAPSULE [TYA PHARMACEUTICALS]",
+   "published_date": "Oct 27, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-10-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "6a7584b5-524d-4726-86a2-1b08e422f60e",
+   "title": "STRATTERA (ATOMOXETINE HYDROCHLORIDE) CAPSULE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 22, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2da85bec-890d-477a-b347-767eabb27f9c",
+   "title": "STRATTERA (ATOMOXETINE HYDROCHLORIDE) CAPSULE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 20, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "6e99c551-897b-49a8-be87-d2954e39b6a5",
+   "title": "STRATTERA (ATOMOXETINE HYDROCHLORIDE) CAPSULE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 20, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "96c69fdd-4a8d-4a8d-bcef-c8d2201a7980",
+   "title": "STRATTERA (ATOMOXETINE HYDROCHLORIDE) CAPSULE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 20, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "b080e703-3fab-4914-8529-ffaa59da693d",
+   "title": "STRATTERA (ATOMOXETINE HYDROCHLORIDE) CAPSULE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 20, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f8f80fca-32b7-4fba-b0ab-e87530bc36b6",
+   "title": "STRATTERA (ATOMXETINE HYROCHLORIDE ) CAPSULE [STAT RX USA LLC]",
+   "published_date": "Jun 14, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:51:39Z"
+}

@@ -1,0 +1,183 @@
+{
+ "application": "NDA019839",
+ "srlc_rows": [
+  {
+   "drug_name": "ZOLOFT",
+   "active_ingredient": "SERTRALINE HYDROCHLORIDE",
+   "application_number": "019839",
+   "application_type": "NDA",
+   "supplement_date": "12/23/2016",
+   "supplement": "SUPPL-74",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/23/2016",
+     "suppl": "SUPPL-74",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/22/2023",
+   "drug_name_id": "640"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-12-23",
+ "srlc_database_updated": "2023-08-22",
+ "lag_days_srlc_database": 2433,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "fda754f6-d0f3-4dce-a17a-927d64f912f7",
+   "title": "ZOLOFT (SERTRALINE HYDROCHLORIDE) TABLET, FILM COATED ZOLOFT (SERTRALINE HYDROCHLORIDE) SOLUTION, CONCENTRATE [VIATRIS SPECIALTY LLC]",
+   "published_date": "Jul 24, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-09-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-11-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-07-04"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-09-26"
+   },
+   "lag_days_dailymed": 2468,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "dfc0d446-cdc0-402b-a094-eae9f1115508",
+   "title": "SERTRALINE HYDROCHLORIDE TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 14, 2014",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-07-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-01-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-04-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-06-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-10-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-02-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "9222a610-a6d9-4b06-8ea0-c23a9ba8e281",
+   "title": "SERTRALINE HYDROCHLORIDE TABLET, FILM COATED [LIFE LINE HOME CARE SERVICES]",
+   "published_date": "Mar 07, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-03-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "c3b0b1f8-abfd-4054-8645-fd076305f4f8",
+   "title": "ZOLOFT (SERTRALINE HYDROCHLORIDE) TABLET, FILM COATED [STAT RX USA LLC]",
+   "published_date": "Dec 23, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "13bbfcfe-24c8-4ca5-b119-918d1ab7aa37",
+   "title": "SERTRALINE HYDROCHLORIDE TABLET, FILM COATED [STATE OF FLORIDA DOH CENTRAL PHARMACY]",
+   "published_date": "Jun 14, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "3e2cb0ae-2284-44d0-9eff-f7d4ab6501a5",
+   "title": "SERTRALINE HYDROCHLORIDE TABLET, FILM COATED [CONTRACT PHARMACY SERVICES-PA]",
+   "published_date": "Mar 22, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 2468,
+ "fetched_utc": "2026-10-16T09:16:06Z"
+}

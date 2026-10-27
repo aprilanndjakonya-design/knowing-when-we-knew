@@ -1,0 +1,60 @@
+{
+ "application": "NDA212849",
+ "srlc_rows": [
+  {
+   "drug_name": "RYKINDO",
+   "active_ingredient": "RISPERIDONE",
+   "application_number": "212849",
+   "application_type": "NDA",
+   "supplement_date": "01/16/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "3074"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-16",
+ "srlc_database_updated": "2026-01-22",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "58534c96-96f5-4c2e-a061-92d4506aee91",
+   "title": "RYKINDO EXTENDED-RELEASE MICROSPHERES (RISPERIDONE) KIT [SHANDONG LUYE PHARMACEUTICAL CO., LTD.]",
+   "published_date": "May 28, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-02-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-02-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-05-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-02-06"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T09:06:39Z"
+}

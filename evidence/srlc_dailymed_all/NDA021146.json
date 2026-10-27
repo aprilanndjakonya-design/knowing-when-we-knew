@@ -1,0 +1,236 @@
+{
+ "application": "NDA021146",
+ "srlc_rows": [
+  {
+   "drug_name": "ATROPINE SULFATE",
+   "active_ingredient": "ATROPINE SULFATE",
+   "application_number": "021146",
+   "application_type": "NDA",
+   "supplement_date": "07/30/2025",
+   "database_updated": "08/07/2025",
+   "drug_name_id": "3168"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-30",
+ "srlc_database_updated": "2025-08-07",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "768dc21a-b7d9-144c-e053-2991aa0af889",
+   "title": "ATROPINE SULFATE INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Jun 22, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-09-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-07-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-02-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-12-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-10-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-01-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-02-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-06-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-06-22"
+   },
+   "lag_days_dailymed": 327,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "ad8916e7-206e-409e-2582-30d072845dd4",
+   "title": "ATROPINE SULFATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "May 20, 2026",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-07-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-11-20"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-07-31"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-11-13"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-12-13"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-07-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-07-12"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-07-23"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-12-04"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-07-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2021-07-12"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-07-16"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-08-04"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-08-09"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-10-31"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-01-24"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-09-08"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-09-18"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 28,
+    "published_date": "2025-09-08"
+   },
+   "lag_days_dailymed": 40,
+   "versions_before_supplement": 17
+  },
+  {
+   "setid": "d4839e54-b350-4643-8e6e-f0437f5349d6",
+   "title": "ATROPINE SULFATE (ATROPINE SULFATE) INJECTION, SOLUTION [HENRY SCHEIN, INC.]",
+   "published_date": "May 23, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-04-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-05-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-04-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-05-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "66710a22-2eaa-6dbd-e053-2a91aa0a900d",
+   "title": "ATROPINE SULFATE INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Oct 14, 2022",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-10-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 40,
+ "fetched_utc": "2026-10-16T08:49:53Z"
+}

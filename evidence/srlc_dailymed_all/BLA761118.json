@@ -1,0 +1,104 @@
+{
+ "application": "BLA761118",
+ "srlc_rows": [
+  {
+   "drug_name": "ABRILADA",
+   "active_ingredient": "ADALIMUMAB-AFZB",
+   "application_number": "761118",
+   "application_type": "BLA",
+   "supplement_date": "12/17/2025",
+   "database_updated": "12/23/2025",
+   "drug_name_id": "2650"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-17",
+ "srlc_database_updated": "2025-12-23",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5",
+   "title": "ABRILADA (ADALIMUMAB-AFZB) KIT [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Aug 17, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-08-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-08-17"
+   },
+   "lag_days_dailymed": 243,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "79943fe6-1249-4074-9aed-c53937820d0f",
+   "title": "ABRILADA (ADALIMUMAB-AFZB) KIT [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jun 23, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-06-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-06-23"
+   },
+   "lag_days_dailymed": 188,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "5ef1c7cf-466f-495e-8d13-82e2ddfa7a4f",
+   "title": "ABRILADA (ADALIMUMAB-AFZB) KIT ABRILADA (ADALIMUMAB-AFZB) INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "May 11, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-12-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-01-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-12-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-05-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-12-18"
+   },
+   "lag_days_dailymed": 1,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 1,
+ "fetched_utc": "2026-10-16T08:39:37Z"
+}

@@ -1,0 +1,50 @@
+{
+ "application": "NDA209210",
+ "srlc_rows": [
+  {
+   "drug_name": "BYDUREON BCISE",
+   "active_ingredient": "EXENATIDE",
+   "application_number": "209210",
+   "application_type": "NDA",
+   "supplement_date": "07/22/2021",
+   "supplement": "SUPPL-17",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/22/2021",
+     "suppl": "SUPPL-17",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/28/2025",
+   "database_updated": "06/05/2025",
+   "drug_name_id": "1872"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-07-22",
+ "srlc_database_updated": "2025-06-05",
+ "lag_days_srlc_database": 1414,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8f64a1da-980a-4c97-8c3f-c572643b48f9",
+   "title": "INJECTION [FOOD AND DRUG ADMINISTRATION]",
+   "published_date": "Dec 18, 2017",
+   "spl_version": -1,
+   "versions": [],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:28:41Z"
+}

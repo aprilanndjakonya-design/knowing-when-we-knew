@@ -1,0 +1,48 @@
+{
+ "application": "BLA761449",
+ "srlc_rows": [
+  {
+   "drug_name": "TYENNE",
+   "active_ingredient": "TOCILIZUMAB-AAZG",
+   "application_number": "761449",
+   "application_type": "BLA",
+   "supplement_date": "05/21/2026",
+   "database_updated": "05/21/2026",
+   "drug_name_id": "3286"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-21",
+ "srlc_database_updated": "2026-05-21",
+ "lag_days_srlc_database": 0,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "87ac5047-4f2b-4571-a8a8-32e08865f379",
+   "title": "TYENNE (TOCILIZUMAB-AAZG) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Aug 04, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-06-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-08-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-06-17"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T08:42:03Z"
+}

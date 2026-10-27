@@ -1,0 +1,72 @@
+{
+ "application": "NDA208712",
+ "srlc_rows": [
+  {
+   "drug_name": "VONJO",
+   "active_ingredient": "PACRITINIB CITRATE",
+   "application_number": "208712",
+   "application_type": "NDA",
+   "supplement_date": "07/20/2026",
+   "database_updated": "07/28/2026",
+   "drug_name_id": "3046"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-20",
+ "srlc_database_updated": "2026-07-28",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4b5ab444-0e1a-4984-99db-76ad11a298ee",
+   "title": "VONJO (PACRITINIB) CAPSULE [SOBI, INC.]",
+   "published_date": "Aug 03, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-03-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-06-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-11-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-09-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-03-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-07-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-08-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-07-27"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:03:27Z"
+}

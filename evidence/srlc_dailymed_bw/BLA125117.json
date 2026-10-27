@@ -1,0 +1,131 @@
+{
+ "application": "BLA125117",
+ "srlc_rows": [
+  {
+   "drug_name": "NAGLAZYME",
+   "active_ingredient": "GALSULFASE",
+   "application_number": "125117",
+   "application_type": "BLA",
+   "supplement_date": "07/10/2024",
+   "supplement": "SUPPL-131",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "07/10/2024",
+     "suppl": "SUPPL-131",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/12/2024",
+   "database_updated": "09/16/2024",
+   "drug_name_id": "2153"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-07-10",
+ "srlc_database_updated": "2024-09-16",
+ "lag_days_srlc_database": 68,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "59341250-deac-ed71-3823-a4f5d64dbd77",
+   "title": "NAGLAZYME (GALSULFASE) SOLUTION [BIOMARIN PHARMACEUTICAL INC.]",
+   "published_date": "Dec 12, 2024",
+   "spl_version": 39,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-08-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-05-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-02-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-04-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-07-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-06-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-12-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-06-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-06-27"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-12-08"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-07-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-12-24"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2020-04-15"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2020-11-13"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2021-11-15"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2022-07-15"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-07-19"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2024-09-20"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2024-12-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 36,
+    "published_date": "2024-07-19"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 17
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:12:28Z"
+}

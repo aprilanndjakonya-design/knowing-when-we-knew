@@ -1,0 +1,139 @@
+{
+ "application": "NDA018565",
+ "srlc_rows": [
+  {
+   "drug_name": "DURAMORPH PF",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "018565",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "728"
+  },
+  {
+   "drug_name": "INFUMORPH",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "018565",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "736"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-08",
+ "lag_days_srlc_database": 17,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "db9ac9e3-d761-4a99-9f34-4946ebe8f255",
+   "title": "INFUMORPH 200 (MORPHINE SULFATE) INJECTION, SOLUTION INFUMORPH 500 (MORPHINE SULFATE) INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Jan 30, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-06-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-01-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-12-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-04-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-04-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-11-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-12-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-04-11"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-01-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2026-01-30"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "ebb18761-e5c4-4238-bb84-f9549f500210",
+   "title": "DURAMORPH (MORPHINE SULFATE) INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Jan 30, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-05-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-11-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-01-04"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-12-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-04-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-04-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-01-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-01-30"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 39,
+ "fetched_utc": "2026-10-16T08:44:20Z"
+}

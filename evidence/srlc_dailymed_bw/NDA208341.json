@@ -1,0 +1,154 @@
+{
+ "application": "NDA208341",
+ "srlc_rows": [
+  {
+   "drug_name": "EPCLUSA",
+   "active_ingredient": "SOFOSBUVIR; VELPATASVIR",
+   "application_number": "208341",
+   "application_type": "NDA",
+   "supplement_date": "02/14/2017",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/14/2017",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/27/2022",
+   "database_updated": "04/29/2022",
+   "drug_name_id": "849"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-02-14",
+ "srlc_database_updated": "2022-04-29",
+ "lag_days_srlc_database": 1900,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "d0c1a945-4440-4b5c-81aa-693ed3db597c",
+   "title": "SOFOSBUVIR AND VELPATASVIR (VELPATASVIR AND SOFOSBUVIR) TABLET, FILM COATED [ASEGUA THERAPEUTICS LLC]",
+   "published_date": "Mar 10, 2025",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-11-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-10-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-11-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-04-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-07-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-05-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-03-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2018-11-19"
+   },
+   "lag_days_dailymed": 643,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "7f30631a-ee3b-4cfe-866b-964df3f0a44f",
+   "title": "EPCLUSA (VELPATASVIR AND SOFOSBUVIR) TABLET, FILM COATED EPCLUSA (VELPATASVIR AND SOFOSBUVIR) PELLET [GILEAD SCIENCES, INC.]",
+   "published_date": "Feb 06, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-07-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-02-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-08-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-10-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-11-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-04-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-07-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-12-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-04-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-06-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-05-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-06-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-02-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2017-02-27"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:28:29Z"
+}

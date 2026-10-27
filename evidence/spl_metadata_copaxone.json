@@ -1,0 +1,337 @@
+{
+ "note": "Extracted from SPL XML: identifiers, dates, LOINC section codes, section numbers and counts of the term anaphyla*. No labeling text stored; zips were processed in a temp dir and deleted.",
+ "versions": [
+  {
+   "spl_version": 32,
+   "document_id": "d3c2bb3f-c354-430c-9cad-68ff376f0508",
+   "set_id": "aa88f583-4f5f-433b-80b4-1f4c9fb28357",
+   "spl_effectiveTime": "20231120",
+   "dailymed_published_date": "Nov 23, 2023",
+   "boxed_warning_section_LOINC_34066_1_present": false,
+   "anaphyla_term_mentions_by_section": [
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.4]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34084-4 [6]",
+      "LOINC 42229-5 [6.2]"
+     ],
+     "count": 1
+    }
+   ],
+   "ingredients_classCode_UNII_name": [
+    [
+     "ACTIB",
+     "5M691HL4BO",
+     "GLATIRAMER ACETATE"
+    ],
+    [
+     "IACT",
+     "3OWL53L36A",
+     "MANNITOL"
+    ]
+   ],
+   "approval_ids": [
+    "NDA020622"
+   ],
+   "zip_url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=32"
+  },
+  {
+   "spl_version": 33,
+   "document_id": "e85fcb25-7473-4357-bdc0-d3e09b29d5a5",
+   "set_id": "aa88f583-4f5f-433b-80b4-1f4c9fb28357",
+   "spl_effectiveTime": "20231130",
+   "dailymed_published_date": "Sep 27, 2024",
+   "boxed_warning_section_LOINC_34066_1_present": false,
+   "anaphyla_term_mentions_by_section": [
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.4]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34084-4 [6]",
+      "LOINC 42229-5 [6.2]"
+     ],
+     "count": 1
+    }
+   ],
+   "ingredients_classCode_UNII_name": [
+    [
+     "ACTIB",
+     "5M691HL4BO",
+     "GLATIRAMER ACETATE"
+    ],
+    [
+     "IACT",
+     "3OWL53L36A",
+     "MANNITOL"
+    ]
+   ],
+   "approval_ids": [
+    "NDA020622"
+   ],
+   "zip_url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=33"
+  },
+  {
+   "spl_version": 34,
+   "document_id": "e90e0917-b20d-4d81-b1eb-cff567fc8adf",
+   "set_id": "aa88f583-4f5f-433b-80b4-1f4c9fb28357",
+   "spl_effectiveTime": "20250122",
+   "dailymed_published_date": "Jan 24, 2025",
+   "boxed_warning_section_LOINC_34066_1_present": true,
+   "anaphyla_term_mentions_by_section": [
+    {
+     "section_path": [
+      "LOINC 34066-1 [BOXED WARNING]"
+     ],
+     "count": 12
+    },
+    {
+     "section_path": [
+      "LOINC 34070-3 [4]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.1]"
+     ],
+     "count": 8
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.2]"
+     ],
+     "count": 3
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.5]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34084-4 [6]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34084-4 [6]",
+      "LOINC 42229-5 [6.2]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34076-0 [17]"
+     ],
+     "count": 7
+    },
+    {
+     "section_path": [
+      "LOINC 42231-1 []"
+     ],
+     "count": 3
+    }
+   ],
+   "ingredients_classCode_UNII_name": [
+    [
+     "ACTIB",
+     "5M691HL4BO",
+     "GLATIRAMER ACETATE"
+    ],
+    [
+     "IACT",
+     "3OWL53L36A",
+     "MANNITOL"
+    ]
+   ],
+   "approval_ids": [
+    "NDA020622"
+   ],
+   "zip_url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=34"
+  },
+  {
+   "spl_version": 35,
+   "document_id": "5a691b1f-367f-4635-a7d6-0111361a2dbb",
+   "set_id": "aa88f583-4f5f-433b-80b4-1f4c9fb28357",
+   "spl_effectiveTime": "20250131",
+   "dailymed_published_date": "Feb 21, 2025",
+   "boxed_warning_section_LOINC_34066_1_present": true,
+   "anaphyla_term_mentions_by_section": [
+    {
+     "section_path": [
+      "LOINC 34066-1 [BOXED WARNING]"
+     ],
+     "count": 12
+    },
+    {
+     "section_path": [
+      "LOINC 34070-3 [4]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.1]"
+     ],
+     "count": 8
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.2]"
+     ],
+     "count": 3
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.5]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34084-4 [6]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34084-4 [6]",
+      "LOINC 42229-5 [6.2]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34076-0 [17]"
+     ],
+     "count": 7
+    },
+    {
+     "section_path": [
+      "LOINC 42231-1 []"
+     ],
+     "count": 3
+    }
+   ],
+   "ingredients_classCode_UNII_name": [
+    [
+     "ACTIB",
+     "5M691HL4BO",
+     "GLATIRAMER ACETATE"
+    ],
+    [
+     "IACT",
+     "3OWL53L36A",
+     "MANNITOL"
+    ]
+   ],
+   "approval_ids": [
+    "NDA020622"
+   ],
+   "zip_url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=35"
+  },
+  {
+   "spl_version": 36,
+   "document_id": "11a58ba0-b865-49e6-86e3-eb9bb58341e5",
+   "set_id": "aa88f583-4f5f-433b-80b4-1f4c9fb28357",
+   "spl_effectiveTime": "20260623",
+   "dailymed_published_date": "Jun 26, 2026",
+   "boxed_warning_section_LOINC_34066_1_present": true,
+   "anaphyla_term_mentions_by_section": [
+    {
+     "section_path": [
+      "LOINC 34066-1 [BOXED WARNING]"
+     ],
+     "count": 12
+    },
+    {
+     "section_path": [
+      "LOINC 34070-3 [4]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.1]"
+     ],
+     "count": 8
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.2]"
+     ],
+     "count": 3
+    },
+    {
+     "section_path": [
+      "LOINC 43685-7 [5]",
+      "LOINC 42229-5 [5.5]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34084-4 [6]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34084-4 [6]",
+      "LOINC 42229-5 [6.2]"
+     ],
+     "count": 1
+    },
+    {
+     "section_path": [
+      "LOINC 34076-0 [17]"
+     ],
+     "count": 7
+    },
+    {
+     "section_path": [
+      "LOINC 42231-1 []"
+     ],
+     "count": 3
+    }
+   ],
+   "ingredients_classCode_UNII_name": [
+    [
+     "ACTIB",
+     "5M691HL4BO",
+     "GLATIRAMER ACETATE"
+    ],
+    [
+     "IACT",
+     "3OWL53L36A",
+     "MANNITOL"
+    ]
+   ],
+   "approval_ids": [
+    "NDA020622"
+   ],
+   "zip_url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=36"
+  }
+ ]
+}

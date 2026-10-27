@@ -1,0 +1,69 @@
+{
+ "application": "NDA020273",
+ "srlc_rows": [
+  {
+   "drug_name": "DOVONEX",
+   "active_ingredient": "CALCIPOTRIENE",
+   "application_number": "020273",
+   "application_type": "NDA",
+   "supplement_date": "10/03/2025",
+   "database_updated": "10/07/2025",
+   "drug_name_id": "3197"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-03",
+ "srlc_database_updated": "2025-10-07",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "fe7cd92a-f066-4c4a-80c8-e3f929ad4181",
+   "title": "CALCIPOTRIENE OINTMENT [PRASCO LABORATORIES]",
+   "published_date": "Aug 13, 2020",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-07-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-08-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-01-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-11-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-10-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-04-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-01-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-03-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-08-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:46:59Z"
+}

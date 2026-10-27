@@ -1,0 +1,163 @@
+{
+ "application": "BLA103353",
+ "srlc_rows": [
+  {
+   "drug_name": "NEUPOGEN",
+   "active_ingredient": "FILGRASTIM",
+   "application_number": "103353",
+   "application_type": "BLA",
+   "supplement_date": "07/16/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "370"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-16",
+ "srlc_database_updated": "2026-07-24",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "97cc73cc-b5b7-458a-a933-77b00523e193",
+   "title": "NEUPOGEN (FILGRASTIM) INJECTION, SOLUTION [AMGEN, INC]",
+   "published_date": "Jul 29, 2026",
+   "spl_version": 166,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-01-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-02-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-03-05"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2010-04-01"
+    },
+    {
+     "spl_version": 116,
+     "published_date": "2013-01-17"
+    },
+    {
+     "spl_version": 120,
+     "published_date": "2013-03-07"
+    },
+    {
+     "spl_version": 122,
+     "published_date": "2013-09-27"
+    },
+    {
+     "spl_version": 126,
+     "published_date": "2014-03-05"
+    },
+    {
+     "spl_version": 140,
+     "published_date": "2015-02-20"
+    },
+    {
+     "spl_version": 143,
+     "published_date": "2015-04-13"
+    },
+    {
+     "spl_version": 144,
+     "published_date": "2015-08-14"
+    },
+    {
+     "spl_version": 146,
+     "published_date": "2016-03-10"
+    },
+    {
+     "spl_version": 147,
+     "published_date": "2016-07-18"
+    },
+    {
+     "spl_version": 148,
+     "published_date": "2017-03-01"
+    },
+    {
+     "spl_version": 150,
+     "published_date": "2018-06-29"
+    },
+    {
+     "spl_version": 151,
+     "published_date": "2019-11-25"
+    },
+    {
+     "spl_version": 152,
+     "published_date": "2020-01-17"
+    },
+    {
+     "spl_version": 154,
+     "published_date": "2021-01-21"
+    },
+    {
+     "spl_version": 155,
+     "published_date": "2021-02-16"
+    },
+    {
+     "spl_version": 156,
+     "published_date": "2022-03-02"
+    },
+    {
+     "spl_version": 157,
+     "published_date": "2022-06-27"
+    },
+    {
+     "spl_version": 159,
+     "published_date": "2023-05-09"
+    },
+    {
+     "spl_version": 160,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 162,
+     "published_date": "2025-05-05"
+    },
+    {
+     "spl_version": 163,
+     "published_date": "2025-06-17"
+    },
+    {
+     "spl_version": 164,
+     "published_date": "2026-03-12"
+    },
+    {
+     "spl_version": 165,
+     "published_date": "2026-06-26"
+    },
+    {
+     "spl_version": 166,
+     "published_date": "2026-07-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 166,
+    "published_date": "2026-07-29"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 27
+  },
+  {
+   "setid": "3bc802bd-76b4-4f45-8571-a436ec26228e",
+   "title": "NEUPOGEN (FILGRASTIM) INJECTION, SOLUTION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Mar 22, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:37:28Z"
+}

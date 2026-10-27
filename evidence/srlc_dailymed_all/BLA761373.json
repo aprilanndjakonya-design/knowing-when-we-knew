@@ -1,0 +1,124 @@
+{
+ "application": "BLA761373",
+ "srlc_rows": [
+  {
+   "drug_name": "PYZCHIVA",
+   "active_ingredient": "USTEKINUMAB-TTWE",
+   "application_number": "761373",
+   "application_type": "BLA",
+   "supplement_date": "11/18/2025",
+   "database_updated": "11/25/2025",
+   "drug_name_id": "3067"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-18",
+ "srlc_database_updated": "2025-11-25",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "f356501d-1347-4557-a252-c2d9f1b2dcb2",
+   "title": "PYZCHIVA (USTEKINUMAB-TTWE) INJECTION, SOLUTION [CORDAVIS LIMITED]",
+   "published_date": "Jul 21, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-08-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-07-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-02-11"
+   },
+   "lag_days_dailymed": 85,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "e8a14922-7902-4d9f-8ba5-d91dccffed29",
+   "title": "PYZCHIVA (USTEKINUMAB-TTWE) INJECTION, SOLUTION [SANDOZ INC]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 9,
+     "published_date": "2025-02-24"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-04-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-06-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-07-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-05"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-12-12"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-03-23"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-12-05"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "2b34392a-ecf6-41bd-8706-d4e9f0b25da8",
+   "title": "USTEKINUMAB-TTWE INJECTION, SOLUTION [QUALLENT PHARMACEUTICALS HEALTH LLC]",
+   "published_date": "Jan 19, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-04-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-01-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-01-19"
+   },
+   "lag_days_dailymed": 62,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:41:40Z"
+}

@@ -1,0 +1,206 @@
+{
+ "application": "NDA021999",
+ "srlc_rows": [
+  {
+   "drug_name": "INVEGA",
+   "active_ingredient": "PALIPERIDONE",
+   "application_number": "021999",
+   "application_type": "NDA",
+   "supplement_date": "01/23/2025",
+   "database_updated": "02/06/2025",
+   "drug_name_id": "67"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-23",
+ "srlc_database_updated": "2025-02-06",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "7b8e5b26-b9e4-4704-921b-3c3c0d159916",
+   "title": "INVEGA (PALIPERIDONE) TABLET, EXTENDED RELEASE [JANSSEN PHARMACEUTICALS, INC.]",
+   "published_date": "Mar 20, 2026",
+   "spl_version": 43,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-02-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2008-12-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2009-01-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2009-09-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2010-02-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2010-12-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-02-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-04-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-09-13"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2014-01-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2014-05-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-03-14"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2016-04-12"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2016-09-12"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2017-03-09"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2017-03-31"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-07-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-08-03"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-09-22"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-01-19"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2018-03-21"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-08-07"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-09-06"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-02-04"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-05-30"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2019-08-20"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2020-09-15"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2020-10-06"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2021-03-01"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2022-04-04"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2022-08-11"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2023-08-24"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2025-02-10"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2026-03-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 40,
+    "published_date": "2025-02-10"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 32
+  },
+  {
+   "setid": "87d7eb59-2177-431d-bf6b-e14509c0c829",
+   "title": "INVEGA (PALIPERIDONE) TABLET, EXTENDED RELEASE [TYA PHARMACEUTICALS]",
+   "published_date": "Sep 26, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-09-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "8de6a6eb-9ed8-4e05-9a4c-d657b5634f76",
+   "title": "INVEGA (PALIPERIDONE) TABLET, EXTENDED RELEASE [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jan 04, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T08:53:39Z"
+}

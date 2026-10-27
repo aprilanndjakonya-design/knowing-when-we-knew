@@ -1,0 +1,254 @@
+{
+ "application": "NDA019734",
+ "srlc_rows": [
+  {
+   "drug_name": "CARDENE",
+   "active_ingredient": "NICARDIPINE HYDROCHLORIDE",
+   "application_number": "019734",
+   "application_type": "NDA",
+   "supplement_date": "03/27/2026",
+   "database_updated": "04/02/2026",
+   "drug_name_id": "364"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-27",
+ "srlc_database_updated": "2026-04-02",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+   "title": "CARDENE IV (NICARDIPINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Apr 14, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-03-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-11-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-03-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-04-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-10-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-04-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-04-14"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "a3e33add-0d09-423a-9109-42e5ba7148d5",
+   "title": "CARDENE IV (NICARDIPINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Apr 14, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-03-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-04-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-03-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-04-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-10-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-04-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2026-04-14"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "f12cea0d-b7cd-41d8-b551-2c74cc7f5f4e",
+   "title": "CARDENE IV (NICARDIPINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Apr 02, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-10-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-01-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-03-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-03-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-11-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-12-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-03-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-04-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-09-26"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-10-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-01-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-03-03"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-04-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2026-04-02"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 16
+  },
+  {
+   "setid": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+   "title": "CARDENE IV (NICARDIPINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Jan 09, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-01-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a14a6a4d-232b-634f-e053-2a95a90a2323",
+   "title": "NICARDIPINE HYDROCHLORIDE INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Apr 01, 2020",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-04-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T08:45:43Z"
+}

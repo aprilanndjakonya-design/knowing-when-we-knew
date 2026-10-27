@@ -1,0 +1,78 @@
+{
+ "application": "NDA210134",
+ "srlc_rows": [
+  {
+   "drug_name": "BAQSIMI",
+   "active_ingredient": "GLUCAGON",
+   "application_number": "210134",
+   "application_type": "NDA",
+   "supplement_date": "03/17/2025",
+   "database_updated": "03/19/2025",
+   "drug_name_id": "2349"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-17",
+ "srlc_database_updated": "2025-03-19",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "32ba41fa-4158-40af-8cb2-03693c248994",
+   "title": "BAQSIMI (GLUCAGON) POWDER [SPORTPHARM LLC]",
+   "published_date": "Jun 24, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-06-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-06-24"
+   },
+   "lag_days_dailymed": 464,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "f1f5df9b-872f-44e5-a18f-f0b68e7e9254",
+   "title": "BAQSIMI (GLUCAGON) POWDER [AMPHASTAR PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 11, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-02-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-02-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-02-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-08-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-08-11"
+   },
+   "lag_days_dailymed": 147,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 147,
+ "fetched_utc": "2026-10-16T09:04:46Z"
+}

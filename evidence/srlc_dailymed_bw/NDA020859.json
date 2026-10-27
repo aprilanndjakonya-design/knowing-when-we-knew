@@ -1,0 +1,57 @@
+{
+ "application": "NDA020859",
+ "srlc_rows": [
+  {
+   "drug_name": "SONATA",
+   "active_ingredient": "ZALEPLON",
+   "application_number": "020859",
+   "application_type": "NDA",
+   "supplement_date": "08/18/2019",
+   "supplement": "SUPPL-16",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/18/2019",
+     "suppl": "SUPPL-16",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1865"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-08-18",
+ "srlc_database_updated": "2019-08-26",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "43ac81cb-1e3f-4d44-86bd-13db2721d060",
+   "title": "SONATA (ZALEPLON) CAPSULE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Sep 14, 2010",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-09-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:18:18Z"
+}

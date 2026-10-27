@@ -1,0 +1,212 @@
+{
+ "application": "BLA761299",
+ "srlc_rows": [
+  {
+   "drug_name": "SIMLANDI",
+   "active_ingredient": "ADALIMUMAB-RYVK",
+   "application_number": "761299",
+   "application_type": "BLA",
+   "supplement_date": "10/16/2025",
+   "database_updated": "10/22/2025",
+   "drug_name_id": "3009"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-16",
+ "srlc_database_updated": "2025-10-22",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "12f609c9-2088-bb05-e063-6394a90a9ecc",
+   "title": "SIMLANDI (ADALIMUMAB-RYVK) KIT [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "Jul 22, 2026",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-03-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-06-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-07-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-07-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-03-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-03-13"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-11-20"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-12-29"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-07-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "f8c0d3c2-b5ed-4bb8-927c-5c5529343ee6",
+   "title": "ADALIMUMAB-RYVK KIT [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "May 01, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-05-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-05-01"
+   },
+   "lag_days_dailymed": 197,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "dce1590f-9e47-4c4d-9437-cfb18b779a75",
+   "title": "ADALIMUMAB-RYVK KIT [QUALLENT PHARMACEUTICALS HEALTH LLC]",
+   "published_date": "Jan 20, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-05-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-05-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-07-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-03-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-01-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "2d19a877-1f5a-4731-800a-dddadc424080",
+   "title": "ADALIMUMAB-RYVK KIT [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "Dec 25, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-07-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-12-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "ba9dd71c-13c9-4cfe-84a2-b4f17d1c583f",
+   "title": "SIMLANDI (ADALIMUMAB-RYVK) KIT [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 32,
+ "fetched_utc": "2026-10-16T08:40:56Z"
+}

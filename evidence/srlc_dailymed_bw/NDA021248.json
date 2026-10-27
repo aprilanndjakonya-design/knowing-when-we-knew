@@ -1,0 +1,126 @@
+{
+ "application": "NDA021248",
+ "srlc_rows": [
+  {
+   "drug_name": "TRISENOX",
+   "active_ingredient": "ARSENIC TRIOXIDE",
+   "application_number": "021248",
+   "application_type": "NDA",
+   "supplement_date": "10/20/2020",
+   "supplement": "SUPPL-19",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/20/2019",
+     "suppl": "SUPPL-18",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "10/20/2020",
+     "suppl": "SUPPL-19",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/20/2020",
+   "database_updated": "10/21/2020",
+   "drug_name_id": "1423"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-10-20",
+ "srlc_database_updated": "2020-10-21",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "101fc347-d0ad-4aee-8b06-9feb187fd741",
+   "title": "TRISENOX (ARSENIC TRIOXIDE) INJECTION, SOLUTION [CEPHALON, LLC]",
+   "published_date": "Sep 24, 2026",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-01-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-12-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-02-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-05-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-07-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-08-26"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-09-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-10-29"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-09-27"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-09-05"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-09-13"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-11-03"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-09-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2020-10-29"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:21:00Z"
+}

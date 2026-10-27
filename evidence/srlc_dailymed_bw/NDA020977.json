@@ -1,0 +1,53 @@
+{
+ "application": "NDA020977",
+ "srlc_rows": [
+  {
+   "drug_name": "ZIAGEN",
+   "active_ingredient": "ABACAVIR SULFATE",
+   "application_number": "020977",
+   "application_type": "NDA",
+   "supplement_date": "03/20/2017",
+   "supplement": "SUPPL-32",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/20/2017",
+     "suppl": "SUPPL-32",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/24/2020",
+   "database_updated": "11/25/2020",
+   "drug_name_id": "906"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-03-20",
+ "srlc_database_updated": "2020-11-25",
+ "lag_days_srlc_database": 1346,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ff62bcaa-a200-4ebf-a9ca-1ab2c254751c",
+   "title": "ZIAGEN (ABACAVIR SULFATE) TABLET, FILM COATED [STATE OF FLORIDA DOH CENTRAL PHARMACY]",
+   "published_date": "May 26, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:18:36Z"
+}

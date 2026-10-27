@@ -1,0 +1,56 @@
+{
+ "application": "NDA217700",
+ "srlc_rows": [
+  {
+   "drug_name": "OJEMDA",
+   "active_ingredient": "TOVORAFENIB",
+   "application_number": "217700",
+   "application_type": "NDA",
+   "supplement_date": "08/27/2025",
+   "database_updated": "08/29/2025",
+   "drug_name_id": "2987"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-27",
+ "srlc_database_updated": "2025-08-29",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ea3a9631-3a66-6a7c-e053-2995a90ae2ad",
+   "title": "OJEMDA (TOVORAFENIB) KIT OJEMDA (TOVORAFENIB) TABLET, FILM COATED [DAY ONE BIOPHARMACEUTICALS, INC.]",
+   "published_date": "Sep 08, 2025",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-07-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-09-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-09-08"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:10:07Z"
+}

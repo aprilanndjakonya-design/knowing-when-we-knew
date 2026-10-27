@@ -1,0 +1,72 @@
+{
+ "application": "NDA210166",
+ "srlc_rows": [
+  {
+   "drug_name": "MOTEGRITY",
+   "active_ingredient": "PRUCALOPRIDE SUCCINATE",
+   "application_number": "210166",
+   "application_type": "NDA",
+   "supplement_date": "07/10/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "2353"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-10",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "bca1e4c6-4b2b-4876-8ab3-654629c4ff1b",
+   "title": "MOTEGRITY (PRUCALOPRIDE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+   "published_date": "Jul 21, 2025",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-12-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-12-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-11-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-03-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-06-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-09-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-11-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-03-11"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-07-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2025-07-21"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:04:49Z"
+}

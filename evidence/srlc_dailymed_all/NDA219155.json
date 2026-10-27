@@ -1,0 +1,48 @@
+{
+ "application": "NDA219155",
+ "srlc_rows": [
+  {
+   "drug_name": "ANZUPGO",
+   "active_ingredient": "DELGOCITINIB",
+   "application_number": "219155",
+   "application_type": "NDA",
+   "supplement_date": "06/30/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "3300"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-30",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a59bf36e-6f04-4b47-b385-8040c95f040c",
+   "title": "ANZUPGO (DELGOCITINIB) CREAM [LEO PHARMA, INC]",
+   "published_date": "Jul 13, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-09-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-07-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-07-13"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:10:51Z"
+}

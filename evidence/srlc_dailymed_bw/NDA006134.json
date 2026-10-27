@@ -1,0 +1,150 @@
+{
+ "application": "NDA006134",
+ "srlc_rows": [
+  {
+   "drug_name": "DOLOPHINE HYDROCHLORIDE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "006134",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-48",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-40",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-41",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "02/01/2018",
+     "suppl": "SUPPL-45",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-48",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/02/2021",
+   "database_updated": "06/03/2021",
+   "drug_name_id": "779"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2021-06-03",
+ "lag_days_srlc_database": 989,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "8e5ce0ae-b6fc-cfea-e053-2995a90a3d44",
+   "title": "METHADONE HYDROCHLORIDE TABLET [DIRECT_RX]",
+   "published_date": "Jan 21, 2020",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-07-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-07-24"
+   },
+   "lag_days_dailymed": 309,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "8e5bc5d9-f8c3-3a34-e053-2995a90a8fb7",
+   "title": "METHADONE HYDROCHLORIDE TABLET [DIRECT_RX]",
+   "published_date": "Jul 24, 2019",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-07-24"
+   },
+   "lag_days_dailymed": 309,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "af2fa7bc-5d43-47d8-835e-b9adc565600a",
+   "title": "METHADONE HYDROCHLORIDE TABLET [DIRECT RX]",
+   "published_date": "Jun 06, 2016",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-04-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-06-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "ec41ab86-a948-44e4-b21c-c65a22cdf294",
+   "title": "METHADONE HYDROCHLORIDE TABLET [STAT RX USA LLC]",
+   "published_date": "Jan 10, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-01-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 309,
+ "fetched_utc": "2026-10-16T09:13:28Z"
+}

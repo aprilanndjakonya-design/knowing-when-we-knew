@@ -1,0 +1,239 @@
+{
+ "application": "NDA050629",
+ "srlc_rows": [
+  {
+   "drug_name": "DOXORUBICIN HYDROCHLORIDE",
+   "active_ingredient": "DOXORUBICIN HYDROCHLORIDE",
+   "application_number": "050629",
+   "application_type": "NDA",
+   "supplement_date": "12/20/2019",
+   "supplement": "SUPPL-28",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/20/2019",
+     "suppl": "SUPPL-28",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/20/2019",
+   "database_updated": "01/06/2020",
+   "drug_name_id": "2017"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-12-20",
+ "srlc_database_updated": "2020-01-06",
+ "lag_days_srlc_database": 17,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "1fd148fb-0fbc-4b6f-b790-23546fb46a71",
+   "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "May 07, 2026",
+   "spl_version": 28,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-04-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-04-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-04-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-05-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2011-10-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-02-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-11-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-11-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-08-22"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-01-16"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-03-20"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-05-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-11-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-07-16"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-05-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-01-24"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-05-28"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-08-02"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-08-21"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-11-13"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-11-21"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-05-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2020-01-16"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "00634b2b-4e48-4178-8877-28582af894ad",
+   "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "May 01, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-03-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-03-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-11-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-11-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-10-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-11-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-03-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-04-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-05-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-11-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-05-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-10-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-11-13"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-05-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2020-03-16"
+   },
+   "lag_days_dailymed": 87,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "d31d7f58-66d0-4826-b6b5-5914c031965f",
+   "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Apr 02, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-04-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-04-02"
+   },
+   "lag_days_dailymed": 1930,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T09:25:44Z"
+}

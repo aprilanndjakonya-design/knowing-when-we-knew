@@ -1,0 +1,150 @@
+{
+ "application": "NDA022560",
+ "srlc_rows": [
+  {
+   "drug_name": "ATELVIA",
+   "active_ingredient": "RISEDRONATE SODIUM",
+   "application_number": "022560",
+   "application_type": "NDA",
+   "supplement_date": "02/03/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "2306"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-03",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "c89430be-15f1-4b8b-ab7e-738de716ee7d",
+   "title": "RISEDRONATE SODIUM TABLET, DELAYED RELEASE [MYLAN PHARMACEUTICALS, INC.]",
+   "published_date": "May 21, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-03-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-05-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-03-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-01-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-05-21"
+   },
+   "lag_days_dailymed": 107,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "c8b9ab88-1a26-46c3-80ec-4eaa45202021",
+   "title": "ATELVIA (RISEDRONATE SODIUM) TABLET, DELAYED RELEASE [ALLERGAN, INC.]",
+   "published_date": "May 20, 2026",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-02-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-06-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-02-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-10-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-05-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2015-05-19"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-03-09"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-08-21"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-11-17"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2021-11-26"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-07-27"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-10-31"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-09-13"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-12-31"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-02-12"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-04-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 27,
+    "published_date": "2026-02-12"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:56:08Z"
+}

@@ -1,0 +1,59 @@
+{
+ "application": "NDA208253",
+ "srlc_rows": [
+  {
+   "drug_name": "ACTICLATE CAP",
+   "active_ingredient": "DOXYCYCLINE HYCLATE",
+   "application_number": "208253",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/09/2025",
+   "drug_name_id": "1377"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-31",
+ "srlc_database_updated": "2025-04-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "fad03768-f1d2-459f-965e-0ec29f189f1f",
+   "title": "DOXYCYCLINE HYCLATE TABLET, FILM COATED DOXYCYCLINE HYCLATE CAPSULE [CHARTWELL RX, LLC]",
+   "published_date": "Jul 01, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-04-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-07-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-04-14"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "5e96d473-63dd-4446-88cf-eef2cd3339f0",
+   "title": "ACTICLATE CAP (DOXYCYCLINE HYCLATE) CAPSULE [AQUA PHARMACEUTICALS]",
+   "published_date": "May 31, 2018",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-05-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:03:07Z"
+}

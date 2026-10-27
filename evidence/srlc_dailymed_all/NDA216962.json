@@ -1,0 +1,48 @@
+{
+ "application": "NDA216962",
+ "srlc_rows": [
+  {
+   "drug_name": "VYALEV",
+   "active_ingredient": "FOSCARBIDOPA; FOSLEVODOPA",
+   "application_number": "216962",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "3268"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-19",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "28e806e4-951c-40a9-9f0c-d0929caf054c",
+   "title": "VYALEV (FOSCARBIDOPA/FOSLEVODOPA) INJECTION [ABBVIE INC.]",
+   "published_date": "Apr 09, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-12-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-04-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-04-09"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T09:09:26Z"
+}

@@ -1,0 +1,126 @@
+{
+ "application": "NDA021476",
+ "srlc_rows": [
+  {
+   "drug_name": "LUNESTA",
+   "active_ingredient": "ESZOPICLONE",
+   "application_number": "021476",
+   "application_type": "NDA",
+   "supplement_date": "08/18/2019",
+   "supplement": "SUPPL-38",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "08/18/2019",
+     "suppl": "SUPPL-38",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1747"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-08-18",
+ "srlc_database_updated": "2019-08-26",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "3821f4b7-a3c8-4920-ba80-18aa96532c09",
+   "title": "LUNESTA (ESZOPICLONE) TABLET, COATED [WAYLIS THERAPEUTICS LLC]",
+   "published_date": "Jan 10, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-08-17"
+   },
+   "lag_days_dailymed": 1460,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "5e5929f1-bdd9-4001-b542-b83de39540ec",
+   "title": "LUNESTA (ESZOPICLONE) TABLET, COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Apr 27, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-04-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-04-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "1f468b3f-7edf-44aa-81e2-ddb1cc0c1724",
+   "title": "LUNESTA (ESZOPICLONE) TABLET, COATED [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Jan 20, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2012-01-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "20b122fb-42ec-4fa1-9a9e-e5930e5d2e7e",
+   "title": "LUNESTA (ESZOPICLONE) TABLET, COATED [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Oct 13, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-10-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "7b069c49-007c-4f77-878c-0a6c564e2717",
+   "title": "LUNESTA (ESZOPICLONE) TABLET, COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Dec 01, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 1460,
+ "fetched_utc": "2026-10-16T09:22:28Z"
+}

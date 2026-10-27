@@ -1,0 +1,182 @@
+{
+ "application": "BLA103772",
+ "srlc_rows": [
+  {
+   "drug_name": "REMICADE",
+   "active_ingredient": "INFLIXIMAB",
+   "application_number": "103772",
+   "application_type": "BLA",
+   "supplement_date": "02/28/2025",
+   "database_updated": "03/03/2025",
+   "drug_name_id": "1315"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-28",
+ "srlc_database_updated": "2025-03-03",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "b05c174f-832c-4321-b34f-2c4ad3742269",
+   "title": "INFLIXIMAB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [JANSSEN BIOTECH, INC.]",
+   "published_date": "Feb 19, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-10-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-03-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-06-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-02-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-03-13"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a0a046c1-056d-45a9-bfd9-13b47c24f257",
+   "title": "REMICADE (INFLIXIMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [JANSSEN BIOTECH, INC.]",
+   "published_date": "Jun 05, 2025",
+   "spl_version": 37,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-06-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-11-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-05-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-12-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-01-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-03-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2011-09-13"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-10-07"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-11-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2013-04-04"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-11-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2015-01-08"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2015-09-11"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2015-10-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2015-10-15"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2015-12-01"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2016-02-19"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-01-30"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-03-01"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2017-06-26"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2017-11-06"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-06-26"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-11-07"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2020-03-30"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2020-05-22"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2021-10-12"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2022-04-12"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2025-06-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 36,
+    "published_date": "2025-03-10"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 27
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:37:30Z"
+}

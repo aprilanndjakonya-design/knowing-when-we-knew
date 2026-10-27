@@ -1,0 +1,217 @@
+{
+ "application": "NDA020475",
+ "srlc_rows": [
+  {
+   "drug_name": "RETIN-A MICRO",
+   "active_ingredient": "TRETINOIN",
+   "application_number": "020475",
+   "application_type": "NDA",
+   "supplement_date": "09/10/2025",
+   "database_updated": "09/12/2025",
+   "drug_name_id": "3180"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-10",
+ "srlc_database_updated": "2025-09-12",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "d3c528d2-429d-4f37-9ebf-eee8b9fd3050",
+   "title": "TRETINOIN GEL [OCEANSIDE PHARMACEUTICALS]",
+   "published_date": "Feb 26, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-03-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-06-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-05-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-05-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-02-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-03-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-09-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-02-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-09-25"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "08ab7e0c-1437-455f-815c-98904d96a289",
+   "title": "RETIN-A MICRO (TRETINOIN) GEL [BAUSCH HEALTH US LLC]",
+   "published_date": "Feb 16, 2026",
+   "spl_version": 23,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-02-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-05-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-02-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-03-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-03-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-04-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-11-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-11-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-11-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-03-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-02-29"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-11-25"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-05-05"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-08-12"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-08-22"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-09-18"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-09-22"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-02-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2025-09-18"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 20
+  },
+  {
+   "setid": "78f03983-f636-43c3-90c5-3d5231909b2a",
+   "title": "RETIN-A MICRO (TRETINOIN) GEL [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 15, 2012",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-04-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-01-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-02-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T08:47:25Z"
+}

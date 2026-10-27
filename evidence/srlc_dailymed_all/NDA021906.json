@@ -1,0 +1,301 @@
+{
+ "application": "NDA021906",
+ "srlc_rows": [
+  {
+   "drug_name": "KALETRA",
+   "active_ingredient": "LOPINAVIR; RITONAVIR",
+   "application_number": "021906",
+   "application_type": "NDA",
+   "supplement_date": "07/23/2026",
+   "database_updated": "07/30/2026",
+   "drug_name_id": "418"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-23",
+ "srlc_database_updated": "2026-07-30",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 8,
+ "labels": [
+  {
+   "setid": "8290add3-4449-4e58-6c97-8fe1eec972e3",
+   "title": "KALETRA (LOPINAVIR AND RITONAVIR) SOLUTION KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [ABBVIE INC.]",
+   "published_date": "Aug 07, 2026",
+   "spl_version": 1702,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-01-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-12-16"
+    },
+    {
+     "spl_version": 630,
+     "published_date": "2009-11-30"
+    },
+    {
+     "spl_version": 898,
+     "published_date": "2010-05-13"
+    },
+    {
+     "spl_version": 936,
+     "published_date": "2010-05-17"
+    },
+    {
+     "spl_version": 1064,
+     "published_date": "2010-06-29"
+    },
+    {
+     "spl_version": 1404,
+     "published_date": "2011-03-01"
+    },
+    {
+     "spl_version": 1405,
+     "published_date": "2011-03-04"
+    },
+    {
+     "spl_version": 1407,
+     "published_date": "2012-03-02"
+    },
+    {
+     "spl_version": 1413,
+     "published_date": "2012-04-26"
+    },
+    {
+     "spl_version": 1416,
+     "published_date": "2012-05-31"
+    },
+    {
+     "spl_version": 1437,
+     "published_date": "2013-01-29"
+    },
+    {
+     "spl_version": 1448,
+     "published_date": "2013-07-17"
+    },
+    {
+     "spl_version": 1473,
+     "published_date": "2013-11-22"
+    },
+    {
+     "spl_version": 1529,
+     "published_date": "2015-02-11"
+    },
+    {
+     "spl_version": 1545,
+     "published_date": "2015-04-06"
+    },
+    {
+     "spl_version": 1557,
+     "published_date": "2015-07-02"
+    },
+    {
+     "spl_version": 1564,
+     "published_date": "2015-11-23"
+    },
+    {
+     "spl_version": 1567,
+     "published_date": "2015-11-24"
+    },
+    {
+     "spl_version": 1571,
+     "published_date": "2016-04-01"
+    },
+    {
+     "spl_version": 1582,
+     "published_date": "2016-09-27"
+    },
+    {
+     "spl_version": 1597,
+     "published_date": "2016-12-01"
+    },
+    {
+     "spl_version": 1613,
+     "published_date": "2017-06-21"
+    },
+    {
+     "spl_version": 1642,
+     "published_date": "2017-10-20"
+    },
+    {
+     "spl_version": 1651,
+     "published_date": "2018-11-20"
+    },
+    {
+     "spl_version": 1661,
+     "published_date": "2019-08-29"
+    },
+    {
+     "spl_version": 1666,
+     "published_date": "2020-01-03"
+    },
+    {
+     "spl_version": 1670,
+     "published_date": "2020-04-02"
+    },
+    {
+     "spl_version": 1673,
+     "published_date": "2020-04-03"
+    },
+    {
+     "spl_version": 1686,
+     "published_date": "2020-04-22"
+    },
+    {
+     "spl_version": 1688,
+     "published_date": "2020-05-06"
+    },
+    {
+     "spl_version": 1695,
+     "published_date": "2020-10-29"
+    },
+    {
+     "spl_version": 1697,
+     "published_date": "2021-10-18"
+    },
+    {
+     "spl_version": 1698,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 1699,
+     "published_date": "2023-07-11"
+    },
+    {
+     "spl_version": 1700,
+     "published_date": "2024-09-23"
+    },
+    {
+     "spl_version": 1702,
+     "published_date": "2026-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1702,
+    "published_date": "2026-08-07"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 36
+  },
+  {
+   "setid": "bb144a40-46db-4c61-e053-2995a90a1206",
+   "title": "KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "Dec 28, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-02-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "c7fc2d1e-802e-4da1-9763-3355f8aafe3a",
+   "title": "KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [DOH CENTRAL PHARMACY]",
+   "published_date": "Feb 06, 2017",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-04-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-02-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "3fa34341-1dce-4bad-b97e-f466e96a0bbe",
+   "title": "KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Oct 11, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-10-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "dac2ea61-f5ce-45b8-b4aa-d761c5aecd74",
+   "title": "KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Oct 11, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-10-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "47fdef53-4060-4372-9b48-fdb39a7e3fd3",
+   "title": "KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Apr 13, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-08-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-04-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "0b126fcd-2385-409f-9269-5bf886649c1a",
+   "title": "KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [HHS/PROGRAM SUPPORT CENTER/SUPPLY SERVICE CENTER]",
+   "published_date": "Mar 12, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-03-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "20f8c35b-bf1c-44cf-bdd7-01b56b85bc0c",
+   "title": "KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jan 04, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:53:30Z"
+}

@@ -1,0 +1,44 @@
+{
+ "application": "NDA218860",
+ "srlc_rows": [
+  {
+   "drug_name": "IQIRVO",
+   "active_ingredient": "ELAFIBRANOR",
+   "application_number": "218860",
+   "application_type": "NDA",
+   "supplement_date": "08/07/2026",
+   "database_updated": "08/12/2026",
+   "drug_name_id": "3315"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-07",
+ "srlc_database_updated": "2026-08-12",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d78aa14f-6ec1-4b1d-a4ae-e48658137a25",
+   "title": "IQIRVO (ELAFIBRANOR) TABLET, FILM COATED [IPSEN BIOPHARMACEUTICALS, INC.]",
+   "published_date": "Aug 17, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2024-06-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-08-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-08-17"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:10:43Z"
+}

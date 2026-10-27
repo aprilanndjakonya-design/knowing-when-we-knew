@@ -1,0 +1,57 @@
+{
+ "application": "NDA022485",
+ "srlc_rows": [
+  {
+   "drug_name": "ARGATROBAN IN SODIUM CHLORIDE",
+   "active_ingredient": "ARGATROBAN",
+   "application_number": "022485",
+   "application_type": "NDA",
+   "supplement_date": "09/25/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "1621"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-25",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "514ad15b-d060-9d65-e063-6294a90a6188",
+   "title": "ARGATROBAN SOLUTION [PLANO PHARMACEUTICALS INC.]",
+   "published_date": "Sep 24, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-05-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-07-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-07-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-08-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-09-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-09-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:55:52Z"
+}

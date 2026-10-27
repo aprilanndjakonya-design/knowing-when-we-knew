@@ -1,0 +1,48 @@
+{
+ "application": "BLA761416",
+ "srlc_rows": [
+  {
+   "drug_name": "ZIIHERA",
+   "active_ingredient": "ZANIDATAMAB-HRII",
+   "application_number": "761416",
+   "application_type": "BLA",
+   "supplement_date": "08/25/2026",
+   "database_updated": "09/02/2026",
+   "drug_name_id": "3322"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-25",
+ "srlc_database_updated": "2026-09-02",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ae5d9425-fae5-4541-a158-150998343348",
+   "title": "ZIIHERA (ZANIDATAMAB-HRII) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [JAZZ PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 27, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-11-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-08-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-08-27"
+   },
+   "lag_days_dailymed": 2,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 2,
+ "fetched_utc": "2026-10-16T08:41:57Z"
+}

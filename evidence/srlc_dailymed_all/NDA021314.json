@@ -1,0 +1,56 @@
+{
+ "application": "NDA021314",
+ "srlc_rows": [
+  {
+   "drug_name": "IDKIT:HP",
+   "active_ingredient": "CITRIC ACID; UREA C-13",
+   "application_number": "021314",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2026",
+   "database_updated": "07/31/2026",
+   "drug_name_id": "3311"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-24",
+ "srlc_database_updated": "2026-07-31",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8baab7a7-5d20-46ad-9c4a-762992ef6b51",
+   "title": "IDKIT HP ONE (CITRIC ACID ANHYDROUS AND 13C UREA) SOLUTION [MERIDIAN BIOSCIENCE ISRAEL LTD]",
+   "published_date": "Aug 07, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-09-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-08-07"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:50:31Z"
+}

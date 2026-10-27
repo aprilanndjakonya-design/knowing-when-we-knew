@@ -1,0 +1,70 @@
+{
+ "application": "NDA204592",
+ "srlc_rows": [
+  {
+   "drug_name": "ZORVOLEX",
+   "active_ingredient": "DICLOFENAC",
+   "application_number": "204592",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-7",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-7",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/26/2024",
+   "drug_name_id": "215"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-26",
+ "lag_days_srlc_database": 3123,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "dff10e66-a577-451d-ba75-1889458ca833",
+   "title": "ZORVOLEX (DICLOFENAC) CAPSULE [IROKO PHARMACEUTICALS LLC]",
+   "published_date": "Apr 11, 2019",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-11-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-12-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-09-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-05-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-04-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2016-05-24"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:27:25Z"
+}

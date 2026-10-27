@@ -1,0 +1,123 @@
+{
+ "application": "NDA211962",
+ "srlc_rows": [
+  {
+   "drug_name": "VANCOMYCIN HYDROCHLORIDE",
+   "active_ingredient": "VANCOMYCIN HYDROCHLORIDE",
+   "application_number": "211962",
+   "application_type": "NDA",
+   "supplement_date": "06/27/2025",
+   "supplement": "SUPPL-17",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/28/2021",
+     "suppl": "SUPPL-9",
+     "newly_added": false,
+     "sections": [
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Boxed Warning"
+     ]
+    },
+    {
+     "date": "06/27/2025",
+     "suppl": "SUPPL-17",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/27/2025",
+   "database_updated": "06/30/2025",
+   "drug_name_id": "2396"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-27",
+ "srlc_database_updated": "2025-06-30",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "72e9c5e2-07cc-4a8b-ba64-b2e7619ea560",
+   "title": "TYZAVAN (VANCOMYCIN) INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-08-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 143,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "60bee69b-be70-412c-9e83-a24a0a8a5e7b",
+   "title": "VANCOMYCIN INJECTION, SOLUTION [XELLIA PHARMACEUTICALS USA LLC]",
+   "published_date": "Mar 31, 2023",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-02-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-05-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-08-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-09-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-02-16"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-06-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-11-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-12-03"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-03-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 143,
+ "fetched_utc": "2026-10-16T09:29:17Z"
+}

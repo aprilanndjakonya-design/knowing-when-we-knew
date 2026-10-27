@@ -1,0 +1,155 @@
+{
+ "application": "NDA013263",
+ "srlc_rows": [
+  {
+   "drug_name": "VALIUM",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "013263",
+   "application_type": "NDA",
+   "supplement_date": "09/24/2026",
+   "database_updated": "09/30/2026",
+   "drug_name_id": "607"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-24",
+ "srlc_database_updated": "2026-09-30",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+   "title": "VALIUM (DIAZEPAM) TABLET [WAYLIS THERAPEUTICS LLC]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-04-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-11-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-02-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-03-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-10-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-11-01"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-11-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-08-14"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2026-10-09"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "554baee5-b171-4452-a50a-41a0946f956c",
+   "title": "VALIUM (DIAZEPAM) TABLET [ROCHE LABORATORIES INC.]",
+   "published_date": "Dec 10, 2025",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-10-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-12-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-06-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-11-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-04-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-08-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-01-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-07-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-01-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-11-05"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-02-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-11-20"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-01-08"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-12-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 18
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:43:03Z"
+}

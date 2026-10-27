@@ -1,0 +1,80 @@
+{
+ "application": "NDA204623",
+ "srlc_rows": [
+  {
+   "drug_name": "PENNSAID",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "204623",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/26/2024",
+   "drug_name_id": "196"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-26",
+ "lag_days_srlc_database": 3123,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "03ae4492-9e22-5a2c-e063-6294a90af3ba",
+   "title": "DICLOFENAC SODIUM TOPICAL SOLUTION SOLUTION [DIRECT_RX]",
+   "published_date": "Sep 28, 2023",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-09-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-09-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-08-25"
+   },
+   "lag_days_dailymed": 2664,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "0026d74b-7a6b-66ce-e063-6294a90a0ffa",
+   "title": "DICLOFENAC SODIUM TOPICAL SOL SOLUTION [DIRECT_RX]",
+   "published_date": "Jul 11, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-07-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-07-11"
+   },
+   "lag_days_dailymed": 2619,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 2619,
+ "fetched_utc": "2026-10-16T09:27:27Z"
+}

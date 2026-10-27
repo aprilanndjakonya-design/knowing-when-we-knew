@@ -1,0 +1,155 @@
+{
+ "application": "NDA206627",
+ "srlc_rows": [
+  {
+   "drug_name": "HYSINGLA",
+   "active_ingredient": "HYDROCODONE BITARTRATE",
+   "application_number": "206627",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-8",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-8",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/18/2018",
+   "database_updated": "09/21/2018",
+   "drug_name_id": "732"
+  },
+  {
+   "drug_name": "HYSINGLA ER",
+   "active_ingredient": "HYDROCODONE BITARTRATE",
+   "application_number": "206627",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-15",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "2081"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-05",
+ "lag_days_srlc_database": 752,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b7d23ac2-e776-9f62-3290-c64c2d6eb353",
+   "title": "HYSINGLA ER (HYDROCODONE BITARTRATE) TABLET, EXTENDED RELEASE [KNOA PHARMA LLC]",
+   "published_date": "Jun 18, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-01-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-02-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-08-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-12-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-01-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-09-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-10-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-01-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-03-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-06-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-01-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-05-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-05-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-06-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2023-12-19"
+   },
+   "lag_days_dailymed": 4,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 4,
+ "fetched_utc": "2026-10-16T09:28:01Z"
+}

@@ -1,0 +1,200 @@
+{
+ "application": "NDA206947",
+ "srlc_rows": [
+  {
+   "drug_name": "LENVIMA",
+   "active_ingredient": "LENVATINIB MESYLATE",
+   "application_number": "206947",
+   "application_type": "NDA",
+   "supplement_date": "09/24/2026",
+   "database_updated": "09/30/2026",
+   "drug_name_id": "159"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-24",
+ "srlc_database_updated": "2026-09-30",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f4bedd21-efde-44c6-9d9c-b48b78d7ed1e",
+   "title": "LENVIMA (LENVATINIB) CAPSULE LENVIMA (LENVATINIB) KIT [EISAI INC.]",
+   "published_date": "Oct 08, 2026",
+   "spl_version": 81,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2015-02-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-02-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-04-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-05-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-05-19"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-08-24"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-10-31"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-03-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-08-08"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-03-30"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-04-04"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2018-06-14"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2018-06-21"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2018-08-22"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-12-13"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-09-24"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2019-11-12"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2020-02-25"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2020-03-12"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2020-07-06"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2020-09-16"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2020-11-16"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2020-12-22"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2021-03-05"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2021-08-02"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2021-08-19"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2021-12-01"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2021-12-24"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2022-01-10"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2022-06-02"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2022-08-16"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2022-11-17"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2023-03-14"
+    },
+    {
+     "spl_version": 67,
+     "published_date": "2023-10-27"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 73,
+     "published_date": "2024-06-19"
+    },
+    {
+     "spl_version": 76,
+     "published_date": "2024-11-27"
+    },
+    {
+     "spl_version": 77,
+     "published_date": "2025-02-10"
+    },
+    {
+     "spl_version": 78,
+     "published_date": "2025-06-06"
+    },
+    {
+     "spl_version": 80,
+     "published_date": "2026-06-30"
+    },
+    {
+     "spl_version": 81,
+     "published_date": "2026-10-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 81,
+    "published_date": "2026-10-08"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 40
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:02:20Z"
+}

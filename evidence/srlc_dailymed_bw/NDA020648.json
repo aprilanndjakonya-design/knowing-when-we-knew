@@ -1,0 +1,109 @@
+{
+ "application": "NDA020648",
+ "srlc_rows": [
+  {
+   "drug_name": "DIASTAT",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "020648",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-21",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-21",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "611"
+  },
+  {
+   "drug_name": "DIASTAT ACUDIAL",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "020648",
+   "application_type": "NDA",
+   "supplement_date": "12/16/2016",
+   "supplement": "SUPPL-14",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "612"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-18",
+ "lag_days_srlc_database": 712,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b1b2848b-b265-4f6f-9141-bf106dec0726",
+   "title": "DIAZEPAM GEL DIAZEPAM GEL [OCEANSIDE PHARMACEUTICALS]",
+   "published_date": "Jan 05, 2024",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-08-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-11-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-06-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-09-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-01-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2021-06-22"
+   },
+   "lag_days_dailymed": 137,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 137,
+ "fetched_utc": "2026-10-16T09:17:33Z"
+}

@@ -1,0 +1,162 @@
+{
+ "application": "NDA211651",
+ "srlc_rows": [
+  {
+   "drug_name": "TALZENNA",
+   "active_ingredient": "TALAZOPARIB TOSYLATE",
+   "application_number": "211651",
+   "application_type": "NDA",
+   "supplement_date": "06/12/2025",
+   "database_updated": "06/13/2025",
+   "drug_name_id": "2070"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-12",
+ "srlc_database_updated": "2025-06-13",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "13839d4f-6acf-4ffb-a128-79df59319273",
+   "title": "TALZENNA (TALAZOPARIB) CAPSULE [U.S. PHARMACEUTICALS]",
+   "published_date": "Jun 03, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-12-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-09-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-01-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-09-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-02-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-06-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-06-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-06-25"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "f2423edd-6d24-495c-aec1-c2f457f08d9a",
+   "title": "TALZENNA (TALAZOPARIB) CAPSULE [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Dec 19, 2025",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-10-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-10-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-03-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-03-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-10-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-11-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-05-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-09-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-10-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-10-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-02-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-12-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-06-27"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-09-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-02-15"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-11-20"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-06-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-12-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2025-06-25"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 17
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:05:43Z"
+}

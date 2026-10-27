@@ -1,0 +1,498 @@
+{
+ "application": "NDA020998",
+ "srlc_rows": [
+  {
+   "drug_name": "CELEBREX",
+   "active_ingredient": "CELECOXIB",
+   "application_number": "020998",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-47",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-47",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "154"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 23,
+ "labels": [
+  {
+   "setid": "2d6675e4-5859-4be2-8037-a20ce9f707aa",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [VIATRIS SPECIALTY LLC]",
+   "published_date": "Dec 18, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-09-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-10-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-01-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-06-25"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-09-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-09-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-09-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-12-20"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-02-10"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-09-13"
+   },
+   "lag_days_dailymed": 2683,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "2087ead6-69b3-5f5a-e054-00144ff8d46c",
+   "title": "CELECOXIB CAPSULE [MEDSOURCE PHARMACEUTICALS]",
+   "published_date": "Dec 30, 2019",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-09-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2019-12-30"
+   },
+   "lag_days_dailymed": 1330,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a645dfcd-7343-4c79-af8b-1117e4a5b113",
+   "title": "CELEBREX CAPSULE [DIRECT RX]",
+   "published_date": "Oct 17, 2019",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-11-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-11-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-11-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-10-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2016-11-04"
+   },
+   "lag_days_dailymed": 179,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "fbe2ac60-fc15-471a-b616-7a378a549f1c",
+   "title": "CELECOXIB CAPSULE [UNIT DOSE SERVICES]",
+   "published_date": "Jul 03, 2017",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-06-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-04-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-07-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2017-07-03"
+   },
+   "lag_days_dailymed": 420,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "2aea0f50-b823-42ba-ab13-b40168bd55a2",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [LAKE ERIE MEDICAL DBA QUALITY CARE PRODUCTS LLC]",
+   "published_date": "Mar 20, 2017",
+   "spl_version": 3247,
+   "versions": [
+    {
+     "spl_version": 3243,
+     "published_date": "2011-11-23"
+    },
+    {
+     "spl_version": 3247,
+     "published_date": "2017-03-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3247,
+    "published_date": "2017-03-20"
+   },
+   "lag_days_dailymed": 315,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "d4a9aaeb-bd5e-4a69-b26d-4ede84cb4166",
+   "title": "CELECOXIB CAPSULE [DIRECT RX]",
+   "published_date": "Oct 18, 2016",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-03-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-10-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2016-10-18"
+   },
+   "lag_days_dailymed": 162,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "fcedbcb7-4a57-4fab-83ab-350ed020f438",
+   "title": "CELECOXIB CAPSULE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Jul 06, 2016",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-07-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2016-07-06"
+   },
+   "lag_days_dailymed": 58,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "2b998f03-ab77-0cb6-e054-00144ff8d46c",
+   "title": "CELECOXIB CAPSULE [BLENHEIM PHARMACAL, INC.]",
+   "published_date": "Feb 16, 2016",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-02-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "1aae31e7-eb98-4535-9e09-286ee94d2ed6",
+   "title": "CELECOXIB CAPSULE [DIRECTRX]",
+   "published_date": "Oct 26, 2015",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-10-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "1b53f099-4eae-2ee2-e054-00144ff88e88",
+   "title": "CELECOXIB CAPSULE [BLENHEIM PHARMACAL, INC.]",
+   "published_date": "Jul 21, 2015",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-07-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "1716195a-4c64-3612-e054-00144ff88e88",
+   "title": "CELECOXIB CAPSULE [BLENHEIM PHARMCAL, INC]",
+   "published_date": "May 29, 2015",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-05-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-05-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "167291dc-78ea-1346-e054-00144ff8d46c",
+   "title": "CELECOXIB CAPSULE [BLENHEIM PHARMACAL, INC.]",
+   "published_date": "May 27, 2015",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-05-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "73eb9256-dcda-4eb1-8a6e-700522146f2e",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 05, 2015",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-06-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-11-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-05-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "41b4dd3f-844c-4f98-8a1c-6df13436b712",
+   "title": "CELECOXIB CAPSULE [AIDAREX PHARMACEUTICALS LLC]",
+   "published_date": "Mar 30, 2015",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-03-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "e082d783-793f-4c17-b124-04fe377fb272",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 21, 2014",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-08-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "05cf80f2-12a0-46b0-bcb7-1c982ed7bd3e",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Jul 08, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-08-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-07-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "0dcc7017-31c2-4979-ad33-2dc7f7a53d43",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Nov 07, 2013",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2013-11-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "814511c9-89ef-42d7-912e-c00147833b7e",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [AIDAREX PHARMACEUTICALS LLC]",
+   "published_date": "Sep 13, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-09-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "925b0408-2ba4-4d4c-a1cd-ddfa7115234d",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [STAT RX USA LLC]",
+   "published_date": "Jan 31, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-03-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-01-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "b6bd0101-ebf0-43e8-99bf-21cb032b05d6",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Dec 15, 2011",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2011-12-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "bff7e0aa-0c01-4f6e-89ed-da27cc36706e",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [KELTMAN PHARMACEUTICALS INC.]",
+   "published_date": "Jul 12, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "e3591a83-fbb4-4679-89f0-ce3a2331ed54",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [STAT RX USA LLC]",
+   "published_date": "May 25, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-05-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "14e50e10-bbe0-4a2c-983a-19bfa79bdef7",
+   "title": "CELEBREX (CELECOXIB) CAPSULE [REBEL DISTRIBUTORS CORP.]",
+   "published_date": "Dec 29, 2009",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-12-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 58,
+ "fetched_utc": "2026-10-16T09:18:56Z"
+}

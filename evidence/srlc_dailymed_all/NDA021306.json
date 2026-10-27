@@ -1,0 +1,210 @@
+{
+ "application": "NDA021306",
+ "srlc_rows": [
+  {
+   "drug_name": "BUTRANS",
+   "active_ingredient": "BUPRENORPHINE",
+   "application_number": "021306",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "673"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-08",
+ "lag_days_srlc_database": 17,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2738feae-316e-426f-971c-5f142ac01b60",
+   "title": "BUPRENORPHINE PATCH [RHODES PHARMACEUTICALS LLC]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-07-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-08-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-09-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-12-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-10-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-11-01"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-02-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-03-22"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-06-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-04-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-01-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-04-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-02-10"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2026-02-10"
+   },
+   "lag_days_dailymed": 50,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "794aa355-66de-41b8-aedf-f2c40f6bc664",
+   "title": "BUTRANS (BUPRENORPHINE) PATCH, EXTENDED RELEASE [KNOA PHARMA LLC]",
+   "published_date": "May 13, 2026",
+   "spl_version": 32,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2011-03-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-07-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-07-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2011-09-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-10-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2012-07-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2013-08-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-04-25"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2014-07-07"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2014-07-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2016-12-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2017-03-06"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-10-20"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-02-06"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2018-09-28"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-10-18"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2019-12-19"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2020-12-02"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2021-03-19"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-06-29"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-06-19"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-01-14"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-05-06"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-05-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2026-01-14"
+   },
+   "lag_days_dailymed": 23,
+   "versions_before_supplement": 22
+  }
+ ],
+ "lag_days_dailymed_min": 23,
+ "fetched_utc": "2026-10-16T08:50:30Z"
+}

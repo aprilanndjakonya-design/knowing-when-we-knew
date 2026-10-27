@@ -1,0 +1,93 @@
+{
+ "application": "NDA050725",
+ "srlc_rows": [
+  {
+   "drug_name": "AUGMENTIN '200'",
+   "active_ingredient": "AMOXICILLIN; CLAVULANATE POTASSIUM",
+   "application_number": "050725",
+   "application_type": "NDA",
+   "supplement_date": "07/17/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "2663"
+  },
+  {
+   "drug_name": "AUGMENTIN '400'",
+   "active_ingredient": "AMOXICILLIN; CLAVULANATE POTASSIUM",
+   "application_number": "050725",
+   "application_type": "NDA",
+   "supplement_date": "07/17/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "2664"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-17",
+ "srlc_database_updated": "2026-07-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "1f252ad3-373c-4a6d-96e7-53ba820d201b",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM POWDER, FOR SUSPENSION [PROFICIENT RX LP]",
+   "published_date": "Nov 21, 2019",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-05-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-12-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-11-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "58a20183-4eb6-438e-bd1e-a74f4645bb0d",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, FILM COATED AMOXICILLIN AND CLAVULANATE POTASSIUM POWDER, FOR SUSPENSION [DR. REDDY'S LABORATORIES INC]",
+   "published_date": "Sep 13, 2016",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-10-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-03-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-03-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-07-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-09-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:57:49Z"
+}

@@ -1,0 +1,52 @@
+{
+ "application": "NDA218881",
+ "srlc_rows": [
+  {
+   "drug_name": "INLURIYO",
+   "active_ingredient": "IMLUNESTRANT TOSYLATE",
+   "application_number": "218881",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2026",
+   "database_updated": "09/24/2026",
+   "drug_name_id": "3331"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-18",
+ "srlc_database_updated": "2026-09-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5bc172e4-e8a2-441a-be52-279a7f890196",
+   "title": "INLURIYO (IMLUNESTRANT) TABLET, FILM COATED [ELI LILLY AND COMPANY]",
+   "published_date": "Oct 01, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-06-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-10-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-10-01"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:10:45Z"
+}

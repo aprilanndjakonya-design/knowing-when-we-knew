@@ -1,0 +1,41 @@
+{
+ "application": "NDA205917",
+ "srlc_rows": [
+  {
+   "drug_name": "PARICALCITOL",
+   "active_ingredient": "PARICALCITOL",
+   "application_number": "205917",
+   "application_type": "NDA",
+   "supplement_date": "06/17/2026",
+   "database_updated": "06/24/2026",
+   "drug_name_id": "3295"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-17",
+ "srlc_database_updated": "2026-06-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4db985c4-3ba2-4967-898b-35af77f150de",
+   "title": "PARICALCITOL INJECTION [WEST-WARD PHARMACEUTICALS CORP]",
+   "published_date": "Dec 13, 2018",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-08-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-12-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:01:47Z"
+}

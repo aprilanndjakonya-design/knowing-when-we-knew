@@ -1,0 +1,21 @@
+{
+ "application": "NDA020089",
+ "srlc_rows": [
+  {
+   "drug_name": "ZOVIRAX",
+   "active_ingredient": "ACYCLOVIR",
+   "application_number": "020089",
+   "application_type": "NDA",
+   "supplement_date": "11/12/2025",
+   "database_updated": "11/14/2025",
+   "drug_name_id": "3209"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-12",
+ "srlc_database_updated": "2025-11-14",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:46:20Z"
+}

@@ -1,0 +1,97 @@
+{
+ "application": "BLA761255",
+ "srlc_rows": [
+  {
+   "drug_name": "IDACIO",
+   "active_ingredient": "ADALIMUMAB-AACF",
+   "application_number": "761255",
+   "application_type": "BLA",
+   "supplement_date": "12/23/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "2862"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-23",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "43de75ac-1a37-4609-9edd-68bda2448a47",
+   "title": "IDACIO (ADALIMUMAB-AACF) KIT [FRESENIUS KABI USA, LLC]",
+   "published_date": "Feb 06, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-07-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-07-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-09-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-02-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-02-06"
+   },
+   "lag_days_dailymed": 45,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "2488b0bc-7b8f-4cc8-91ea-48e7ea5e8915",
+   "title": "ADALIMUMAB-AACF (ADALIMUMAB) KIT [FRESENIUS KABI USA, LLC]",
+   "published_date": "Jan 14, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-12-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-08-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-01-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-01-14"
+   },
+   "lag_days_dailymed": 22,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "08dbaffe-9d05-43cf-b24b-b44ade8685fc",
+   "title": "IDACIO (ADALIMUMAB-AACF) KIT [FRESENIUS KABI USA, LLC]",
+   "published_date": "Dec 09, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 22,
+ "fetched_utc": "2026-10-16T08:40:32Z"
+}

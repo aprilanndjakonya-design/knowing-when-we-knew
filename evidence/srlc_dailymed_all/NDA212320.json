@@ -1,0 +1,80 @@
+{
+ "application": "NDA212320",
+ "srlc_rows": [
+  {
+   "drug_name": "ACCRUFER",
+   "active_ingredient": "FERRIC MALTOL",
+   "application_number": "212320",
+   "application_type": "NDA",
+   "supplement_date": "12/19/2025",
+   "database_updated": "12/23/2025",
+   "drug_name_id": "2585"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-19",
+ "srlc_database_updated": "2025-12-23",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "367ac157-2d25-4f34-99ce-b126e0f03851",
+   "title": "ACCRUFER (FERRIC MALTOL) CAPSULE [SHIELD TX (UK) LTD]",
+   "published_date": "Jan 05, 2026",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 12,
+     "published_date": "2021-04-28"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-07-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-09-01"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-01-31"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-03-01"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-05-20"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-07-21"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-10-20"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-08-18"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-12-07"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-01-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 24,
+    "published_date": "2026-01-05"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:06:21Z"
+}

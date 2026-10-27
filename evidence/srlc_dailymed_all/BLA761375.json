@@ -1,0 +1,92 @@
+{
+ "application": "BLA761375",
+ "srlc_rows": [
+  {
+   "drug_name": "LEQEMBI IQLIK",
+   "active_ingredient": "LECANEMAB-IRMB",
+   "application_number": "761375",
+   "application_type": "BLA",
+   "supplement_date": "07/13/2026",
+   "database_updated": "07/20/2026",
+   "drug_name_id": "3305"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-13",
+ "srlc_database_updated": "2026-07-20",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9d1ff786-e577-410a-a273-c4d7d0e4e975",
+   "title": "LEQEMBI (LECANEMAB) INJECTION, SOLUTION LECANEMAB AUTOINJECTOR (LECANEMAB-IRMB) INJECTION, SOLUTION [EISAI INC.]",
+   "published_date": "Jul 27, 2026",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2023-01-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-01-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-07-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-09-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-02-03"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-09-08"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-09-15"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-01-05"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-01-30"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-06-30"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-07-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 24,
+    "published_date": "2026-07-27"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:41:41Z"
+}

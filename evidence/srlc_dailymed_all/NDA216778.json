@@ -1,0 +1,90 @@
+{
+ "application": "NDA216778",
+ "srlc_rows": [
+  {
+   "drug_name": "ZITUVIMET XR",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN",
+   "application_number": "216778",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "3318"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "2f635b36-e86a-4e53-8eaf-589917b5f342",
+   "title": "ZITUVIMET XR (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [ZYDUS PHARMACEUTICALS USA INC.]",
+   "published_date": "Jan 06, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-11-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-01-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "4bade493-499e-434a-97a0-26ca68917623",
+   "title": "ZITUVIMET XR (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+   "published_date": "Jan 06, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-11-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-01-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "a07fa1d9-7171-4f2a-ab34-f8fa410364a6",
+   "title": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+   "published_date": "Nov 01, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-11-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "d3a728a0-decb-4340-8ee4-c5e27c13eb19",
+   "title": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [ZYDUS PHARMACEUTICALS USA INC.]",
+   "published_date": "Nov 01, 2024",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-11-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:09:20Z"
+}

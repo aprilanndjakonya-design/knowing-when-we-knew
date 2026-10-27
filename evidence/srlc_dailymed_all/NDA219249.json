@@ -1,0 +1,64 @@
+{
+ "application": "NDA219249",
+ "srlc_rows": [
+  {
+   "drug_name": "ITOVEBI",
+   "active_ingredient": "INAVOLISIB",
+   "application_number": "219249",
+   "application_type": "NDA",
+   "supplement_date": "04/15/2026",
+   "database_updated": "04/20/2026",
+   "drug_name_id": "3193"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-04-15",
+ "srlc_database_updated": "2026-04-20",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5de59f5b-e5db-410f-b692-658686ef4107",
+   "title": "ITOVEBI (INAVOLISIB) TABLET, FILM COATED [GENENTECH, INC.]",
+   "published_date": "Apr 28, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-10-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-01-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-01-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-01-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-04-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-04-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-04-28"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:10:54Z"
+}

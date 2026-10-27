@@ -1,0 +1,56 @@
+{
+ "application": "NDA208147",
+ "srlc_rows": [
+  {
+   "drug_name": "DYANAVEL XR",
+   "active_ingredient": "AMPHETAMINE",
+   "application_number": "208147",
+   "application_type": "NDA",
+   "supplement_date": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "693"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-23",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ae304b29-0b40-40ec-ad0d-76b742d4a9b9",
+   "title": "DYANAVEL XR (AMPHETAMINE) SUSPENSION, EXTENDED RELEASE DYANAVEL XR (AMPHETAMINE) TABLET, EXTENDED RELEASE [NEXTWAVE PHARMACEUTICALS, INC]",
+   "published_date": "Feb 26, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-07-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-10-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-01-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-02-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2025-10-06"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:03:01Z"
+}

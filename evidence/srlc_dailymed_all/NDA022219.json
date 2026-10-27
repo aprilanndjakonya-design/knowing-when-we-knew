@@ -1,0 +1,108 @@
+{
+ "application": "NDA022219",
+ "srlc_rows": [
+  {
+   "drug_name": "AVEED",
+   "active_ingredient": "TESTOSTERONE UNDECANOATE",
+   "application_number": "022219",
+   "application_type": "NDA",
+   "supplement_date": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "491"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-11",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f80f025b-17d8-40af-8739-20ce07902045",
+   "title": "AVEED (TESTOSTERONE UNDECANOATE) INJECTION [ENDO USA, INC.]",
+   "published_date": "Mar 18, 2026",
+   "spl_version": 45,
+   "versions": [
+    {
+     "spl_version": 14,
+     "published_date": "2014-03-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2014-06-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2014-09-04"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2014-11-20"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2015-05-20"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2016-10-26"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-08-02"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-01-25"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-05-07"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-10-23"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2019-12-16"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2020-04-20"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2020-07-07"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2021-08-27"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2023-01-11"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2024-04-25"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2026-03-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 44,
+    "published_date": "2025-07-21"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:54:39Z"
+}

@@ -1,0 +1,106 @@
+{
+ "application": "NDA209449",
+ "srlc_rows": [
+  {
+   "drug_name": "HARLIKU",
+   "active_ingredient": "NITISINONE",
+   "application_number": "209449",
+   "application_type": "NDA",
+   "supplement_date": "06/10/2025",
+   "database_updated": "06/23/2025",
+   "drug_name_id": "3141"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-10",
+ "srlc_database_updated": "2025-06-23",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "00fd1905-27e4-420e-8dc5-a69e4ddc1526",
+   "title": "NITYR (NITISINONE) TABLET [CYCLE PHARMACEUTICALS LTD.]",
+   "published_date": "Dec 23, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-08-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-03-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-11-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-09-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-09-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-11-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-03-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-06-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-01-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-06-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-12-23"
+   },
+   "lag_days_dailymed": 196,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "7cf67e24-d46b-4376-bbd0-0b973c406d0d",
+   "title": "HARLIKU (NITISINONE) TABLET [CYCLE PHARMACEUTICALS LTD.]",
+   "published_date": "Jul 22, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-07-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-07-22"
+   },
+   "lag_days_dailymed": 42,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 42,
+ "fetched_utc": "2026-10-16T09:04:04Z"
+}

@@ -1,0 +1,436 @@
+{
+ "application": "BLA125514",
+ "srlc_rows": [
+  {
+   "drug_name": "KEYTRUDA",
+   "active_ingredient": "PEMBROLIZUMAB",
+   "application_number": "125514",
+   "application_type": "BLA",
+   "supplement_date": "06/24/2026",
+   "database_updated": "06/30/2026",
+   "drug_name_id": "263"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-24",
+ "srlc_database_updated": "2026-06-30",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9333c79b-d487-4538-a9f0-71b91a02b287",
+   "title": "KEYTRUDA (PEMBROLIZUMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION KEYTRUDA (PEMBROLIZUMAB) INJECTION, SOLUTION [MERCK SHARP & DOHME LLC ]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 228,
+   "versions": [
+    {
+     "spl_version": 11,
+     "published_date": "2015-12-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-08-08"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-10-26"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-03-17"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2017-05-12"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2017-05-19"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2017-05-23"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2017-05-30"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2017-07-31"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2017-09-26"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2017-12-06"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2018-06-18"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2018-06-22"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2018-06-28"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2018-08-24"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2018-11-05"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2018-11-16"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2018-12-26"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2019-01-11"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2019-02-25"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2019-04-23"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2019-04-29"
+    },
+    {
+     "spl_version": 67,
+     "published_date": "2019-05-15"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2019-06-19"
+    },
+    {
+     "spl_version": 70,
+     "published_date": "2019-06-25"
+    },
+    {
+     "spl_version": 73,
+     "published_date": "2019-08-07"
+    },
+    {
+     "spl_version": 76,
+     "published_date": "2019-09-24"
+    },
+    {
+     "spl_version": 79,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 84,
+     "published_date": "2020-05-07"
+    },
+    {
+     "spl_version": 92,
+     "published_date": "2020-06-26"
+    },
+    {
+     "spl_version": 93,
+     "published_date": "2020-07-06"
+    },
+    {
+     "spl_version": 94,
+     "published_date": "2020-07-09"
+    },
+    {
+     "spl_version": 99,
+     "published_date": "2020-10-13"
+    },
+    {
+     "spl_version": 100,
+     "published_date": "2020-10-23"
+    },
+    {
+     "spl_version": 103,
+     "published_date": "2020-11-19"
+    },
+    {
+     "spl_version": 104,
+     "published_date": "2020-11-23"
+    },
+    {
+     "spl_version": 106,
+     "published_date": "2021-01-07"
+    },
+    {
+     "spl_version": 111,
+     "published_date": "2021-03-26"
+    },
+    {
+     "spl_version": 112,
+     "published_date": "2021-04-01"
+    },
+    {
+     "spl_version": 114,
+     "published_date": "2021-04-09"
+    },
+    {
+     "spl_version": 116,
+     "published_date": "2021-05-13"
+    },
+    {
+     "spl_version": 119,
+     "published_date": "2021-07-08"
+    },
+    {
+     "spl_version": 120,
+     "published_date": "2021-07-12"
+    },
+    {
+     "spl_version": 124,
+     "published_date": "2021-07-29"
+    },
+    {
+     "spl_version": 125,
+     "published_date": "2021-08-03"
+    },
+    {
+     "spl_version": 126,
+     "published_date": "2021-08-13"
+    },
+    {
+     "spl_version": 128,
+     "published_date": "2021-08-20"
+    },
+    {
+     "spl_version": 129,
+     "published_date": "2021-09-08"
+    },
+    {
+     "spl_version": 131,
+     "published_date": "2021-10-25"
+    },
+    {
+     "spl_version": 132,
+     "published_date": "2021-11-26"
+    },
+    {
+     "spl_version": 134,
+     "published_date": "2021-12-13"
+    },
+    {
+     "spl_version": 135,
+     "published_date": "2021-12-23"
+    },
+    {
+     "spl_version": 138,
+     "published_date": "2022-02-14"
+    },
+    {
+     "spl_version": 141,
+     "published_date": "2022-03-29"
+    },
+    {
+     "spl_version": 145,
+     "published_date": "2022-05-30"
+    },
+    {
+     "spl_version": 147,
+     "published_date": "2022-07-06"
+    },
+    {
+     "spl_version": 148,
+     "published_date": "2022-08-18"
+    },
+    {
+     "spl_version": 149,
+     "published_date": "2022-09-12"
+    },
+    {
+     "spl_version": 156,
+     "published_date": "2023-01-05"
+    },
+    {
+     "spl_version": 157,
+     "published_date": "2023-02-03"
+    },
+    {
+     "spl_version": 160,
+     "published_date": "2023-03-22"
+    },
+    {
+     "spl_version": 162,
+     "published_date": "2023-04-07"
+    },
+    {
+     "spl_version": 163,
+     "published_date": "2023-04-17"
+    },
+    {
+     "spl_version": 166,
+     "published_date": "2023-07-13"
+    },
+    {
+     "spl_version": 168,
+     "published_date": "2023-08-29"
+    },
+    {
+     "spl_version": 170,
+     "published_date": "2023-10-27"
+    },
+    {
+     "spl_version": 171,
+     "published_date": "2023-11-02"
+    },
+    {
+     "spl_version": 173,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 174,
+     "published_date": "2023-11-20"
+    },
+    {
+     "spl_version": 175,
+     "published_date": "2023-11-28"
+    },
+    {
+     "spl_version": 178,
+     "published_date": "2024-01-04"
+    },
+    {
+     "spl_version": 180,
+     "published_date": "2024-01-26"
+    },
+    {
+     "spl_version": 181,
+     "published_date": "2024-02-07"
+    },
+    {
+     "spl_version": 186,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 189,
+     "published_date": "2024-06-19"
+    },
+    {
+     "spl_version": 190,
+     "published_date": "2024-07-01"
+    },
+    {
+     "spl_version": 195,
+     "published_date": "2024-08-06"
+    },
+    {
+     "spl_version": 196,
+     "published_date": "2024-08-16"
+    },
+    {
+     "spl_version": 197,
+     "published_date": "2024-09-30"
+    },
+    {
+     "spl_version": 199,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 201,
+     "published_date": "2024-12-20"
+    },
+    {
+     "spl_version": 202,
+     "published_date": "2025-02-12"
+    },
+    {
+     "spl_version": 205,
+     "published_date": "2025-03-31"
+    },
+    {
+     "spl_version": 207,
+     "published_date": "2025-04-30"
+    },
+    {
+     "spl_version": 208,
+     "published_date": "2025-06-05"
+    },
+    {
+     "spl_version": 209,
+     "published_date": "2025-06-12"
+    },
+    {
+     "spl_version": 210,
+     "published_date": "2025-06-16"
+    },
+    {
+     "spl_version": 211,
+     "published_date": "2025-06-23"
+    },
+    {
+     "spl_version": 213,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 215,
+     "published_date": "2025-08-25"
+    },
+    {
+     "spl_version": 219,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 220,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 221,
+     "published_date": "2026-02-23"
+    },
+    {
+     "spl_version": 222,
+     "published_date": "2026-03-12"
+    },
+    {
+     "spl_version": 223,
+     "published_date": "2026-04-22"
+    },
+    {
+     "spl_version": 224,
+     "published_date": "2026-04-30"
+    },
+    {
+     "spl_version": 225,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 226,
+     "published_date": "2026-06-29"
+    },
+    {
+     "spl_version": 227,
+     "published_date": "2026-07-06"
+    },
+    {
+     "spl_version": 228,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 226,
+    "published_date": "2026-06-29"
+   },
+   "lag_days_dailymed": 5,
+   "versions_before_supplement": 97
+  }
+ ],
+ "lag_days_dailymed_min": 5,
+ "fetched_utc": "2026-10-16T08:38:20Z"
+}

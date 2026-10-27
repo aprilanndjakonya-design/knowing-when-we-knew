@@ -1,0 +1,90 @@
+{
+ "application": "NDA205776",
+ "srlc_rows": [
+  {
+   "drug_name": "RASUVO",
+   "active_ingredient": "METHOTREXATE",
+   "application_number": "205776",
+   "application_type": "NDA",
+   "supplement_date": "03/11/2020",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/11/2020",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Use in Specific Populations",
+      "Warnings and Precautions",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/11/2020",
+   "database_updated": "03/13/2020",
+   "drug_name_id": "1478"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-03-11",
+ "srlc_database_updated": "2020-03-13",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d0075461-0e7e-4967-9c9b-d6440e912c0e",
+   "title": "RASUVO (METHOTREXATE) INJECTION, SOLUTION [MEDEXUS PHARMA INC.]",
+   "published_date": "Dec 18, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-07-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-02-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-07-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-03-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-09-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-12-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-12-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2020-03-27"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T09:27:45Z"
+}

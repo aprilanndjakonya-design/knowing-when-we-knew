@@ -1,0 +1,60 @@
+{
+ "application": "NDA020886",
+ "srlc_rows": [
+  {
+   "drug_name": "PANRETIN",
+   "active_ingredient": "ALITRETINOIN",
+   "application_number": "020886",
+   "application_type": "NDA",
+   "supplement_date": "11/17/2025",
+   "database_updated": "11/25/2025",
+   "drug_name_id": "3218"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-17",
+ "srlc_database_updated": "2025-11-25",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "49c16717-7d86-4257-80c9-baa1417e5555",
+   "title": "PANRETIN (ALITRETINOIN) GEL [ADVANZ PHARMA (US) CORP.]",
+   "published_date": "Dec 04, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-09-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-11-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-08-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-01-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-04-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-12-04"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:49:02Z"
+}

@@ -1,0 +1,145 @@
+{
+ "application": "NDA022466",
+ "srlc_rows": [
+  {
+   "drug_name": "ORABLOC",
+   "active_ingredient": "ARTICAINE HYDROCHLORIDE; EPINEPHRINE BITARTRATE",
+   "application_number": "022466",
+   "application_type": "NDA",
+   "supplement_date": "07/02/2025",
+   "database_updated": "07/09/2025",
+   "drug_name_id": "1730"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-02",
+ "srlc_database_updated": "2025-07-09",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "905cade1-9b37-486a-ac12-21f3262ab4e2",
+   "title": "ORABLOC (ARTICAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE) INJECTION [AIRA LLC]",
+   "published_date": "Sep 24, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-09-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-09-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-09-15"
+   },
+   "lag_days_dailymed": 440,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "4f11bb06-c71b-4d96-9baa-2a17ad473a05",
+   "title": "ARTICAINE HYDROCHLORIDE AND EPINEPHRINE (ARTICAINE HYDROCHLORIDE, EPINEPHRINE BITARTRATE) INJECTION, SOLUTION [BURKHART DENTAL SUPPLY CO., INC]",
+   "published_date": "Nov 20, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-01-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-11-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-11-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "0536a4de-578d-497e-a01b-0b1887344cc8",
+   "title": "ARTICAINE HCL AND EPINEPHRINE (ARTICAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE) INJECTION [SAFCO DENTAL SUPPLY CO.]",
+   "published_date": "Feb 20, 2023",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-06-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-03-28"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-10-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-11-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-04-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "d18424f0-a691-11dd-ad8b-0800200c9a66",
+   "title": "ORABLOC (ARTICAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE) INJECTION [PIERREL S.P.A.]",
+   "published_date": "Apr 23, 2019",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 9,
+     "published_date": "2011-02-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-09-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2013-09-12"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-07-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-11-15"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-04-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 440,
+ "fetched_utc": "2026-10-16T08:55:51Z"
+}

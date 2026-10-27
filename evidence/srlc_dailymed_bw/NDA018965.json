@@ -1,0 +1,62 @@
+{
+ "application": "NDA018965",
+ "srlc_rows": [
+  {
+   "drug_name": "NAPROSYN",
+   "active_ingredient": "NAPROXEN",
+   "application_number": "018965",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-22",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-22",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "201"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7e6f03fb-4b36-4418-9684-f45637abbb78",
+   "title": "NAPROXEN SUSPENSION [ACELLA PHARMACEUTICALS, LLC]",
+   "published_date": "Jan 06, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-11-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-01-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-11-16"
+   },
+   "lag_days_dailymed": 1652,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 1652,
+ "fetched_utc": "2026-10-16T09:15:25Z"
+}

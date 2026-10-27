@@ -1,0 +1,56 @@
+{
+ "application": "NDA213721",
+ "srlc_rows": [
+  {
+   "drug_name": "GAVRETO",
+   "active_ingredient": "PRALSETINIB",
+   "application_number": "213721",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "2557"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-09",
+ "lag_days_srlc_database": 18,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "16edd46e-28b8-f06d-e063-6394a90ae31b",
+   "title": "GAVRETO (PRALSETINIB) CAPSULE [RIGEL PHARMACEUTICALS, INC.]",
+   "published_date": "Jan 28, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-06-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-01-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-01-28"
+   },
+   "lag_days_dailymed": 37,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 37,
+ "fetched_utc": "2026-10-16T09:07:03Z"
+}

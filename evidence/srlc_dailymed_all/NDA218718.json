@@ -1,0 +1,44 @@
+{
+ "application": "NDA218718",
+ "srlc_rows": [
+  {
+   "drug_name": "FEMLYV",
+   "active_ingredient": "ETHINYL ESTRADIOL; NORETHINDRONE ACETATE",
+   "application_number": "218718",
+   "application_type": "NDA",
+   "supplement_date": "07/29/2025",
+   "database_updated": "08/01/2025",
+   "drug_name_id": "3166"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-29",
+ "srlc_database_updated": "2025-08-01",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a3c99fc1-9b05-4f0a-ad00-5e3e206302c9",
+   "title": "FEMLYV (NORETHINDRONE ACETATE/ETHINYL ESTRADIOL) KIT [MILLICENT US, INC.]",
+   "published_date": "Sep 15, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-11-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-09-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-09-15"
+   },
+   "lag_days_dailymed": 48,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 48,
+ "fetched_utc": "2026-10-16T09:10:35Z"
+}

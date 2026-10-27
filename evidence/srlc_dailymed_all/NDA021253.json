@@ -1,0 +1,71 @@
+{
+ "application": "NDA021253",
+ "srlc_rows": [
+  {
+   "drug_name": "ZYPREXA",
+   "active_ingredient": "OLANZAPINE",
+   "application_number": "021253",
+   "application_type": "NDA",
+   "supplement_date": "01/30/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "464"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-30",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "b418946a-1ab4-4d89-a012-d94fc361a3c4",
+   "title": "ZYPREXA (OLANZAPINE) TABLET ZYPREXA ZYDIS (OLANZAPINE) TABLET, ORALLY DISINTEGRATING ZYPREXA INTRAMUSCULAR (OLANZAPINE) INJECTION, POWDER, FOR SOLUTION [H2-PHARMA LLC]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 69,
+   "versions": [
+    {
+     "spl_version": 64,
+     "published_date": "2023-10-16"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2025-02-07"
+    },
+    {
+     "spl_version": 68,
+     "published_date": "2026-02-16"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 68,
+    "published_date": "2026-02-16"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "85688d8f-f2de-408a-8ae2-0976c266c961",
+   "title": "ZYPREXA INTRAMUSCULAR (OLANZAPINE) INJECTION, POWDER, FOR SOLUTION [TYA PHARMACEUTICALS]",
+   "published_date": "May 19, 2016",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-05-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:50:06Z"
+}

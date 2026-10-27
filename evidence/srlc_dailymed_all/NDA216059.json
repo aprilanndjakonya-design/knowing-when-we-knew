@@ -1,0 +1,69 @@
+{
+ "application": "NDA216059",
+ "srlc_rows": [
+  {
+   "drug_name": "JAYPIRCA",
+   "active_ingredient": "PIRTOBRUTINIB",
+   "application_number": "216059",
+   "application_type": "NDA",
+   "supplement_date": "10/02/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "2970"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-10-02",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "bd551845-0878-49a4-860f-839b83f6b801",
+   "title": "JAYPIRCA (PIRTOBRUTINIB) TABLET, COATED [ELI LILLY AND COMPANY]",
+   "published_date": "Mar 25, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-02-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-12-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-03-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-06-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-08-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-03-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-03-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:08:53Z"
+}

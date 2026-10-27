@@ -1,0 +1,63 @@
+{
+ "application": "NDA019429",
+ "srlc_rows": [
+  {
+   "drug_name": "FIORINAL W/CODEINE",
+   "active_ingredient": "ASPIRIN; BUTALBITAL; CAFFEINE; CODEINE PHOSPHATE",
+   "application_number": "019429",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-42",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-39",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/29/2017",
+     "suppl": "SUPPL-40",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-42",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/04/2021",
+   "drug_name_id": "650"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2021-05-04",
+ "lag_days_srlc_database": 959,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:15:49Z"
+}

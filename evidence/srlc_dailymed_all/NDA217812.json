@@ -1,0 +1,44 @@
+{
+ "application": "NDA217812",
+ "srlc_rows": [
+  {
+   "drug_name": "HYDROMORPHONE HYDROCHLORIDE",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "217812",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "3230"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-08",
+ "lag_days_srlc_database": 17,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "c729424e-e483-4bf8-b86c-ce56636dcffa",
+   "title": "HYDROMORPHONE HYDROCHLORIDE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Aug 25, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-05-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-08-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-08-25"
+   },
+   "lag_days_dailymed": 246,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 246,
+ "fetched_utc": "2026-10-16T09:10:14Z"
+}

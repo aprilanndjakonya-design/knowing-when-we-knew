@@ -1,0 +1,236 @@
+{
+ "application": "NDA050639",
+ "srlc_rows": [
+  {
+   "drug_name": "CLEOCIN PHOSPHATE IN DEXTROSE 5% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "050639",
+   "application_type": "NDA",
+   "supplement_date": "03/26/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "98"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-26",
+ "srlc_database_updated": "2026-03-31",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "05a75685-0af5-407c-ac57-e380c882b49d",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION CLEOCIN PHOSPHATE (0009-6582) (STANDALONE) (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Jul 31, 2026",
+   "spl_version": 60,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-09-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-06-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2007-12-10"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2010-06-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-03-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-03-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-06-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2012-03-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-05-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2013-11-20"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2013-12-13"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2013-12-26"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2014-10-27"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2014-11-05"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2015-10-14"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2015-11-12"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2015-11-16"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2016-02-18"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2016-04-19"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2016-09-21"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2016-11-18"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2016-11-23"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2017-03-20"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2017-06-15"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2017-10-13"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2017-11-02"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2018-05-02"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2018-07-19"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2018-09-17"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2019-01-29"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2019-07-11"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2020-02-26"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2020-05-21"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2020-11-09"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2020-11-12"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2020-11-13"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2021-08-31"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2021-11-01"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2022-06-28"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2022-07-11"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2022-11-18"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2026-04-09"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2026-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 59,
+    "published_date": "2026-04-09"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 48
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:57:10Z"
+}

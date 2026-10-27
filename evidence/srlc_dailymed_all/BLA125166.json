@@ -1,0 +1,170 @@
+{
+ "application": "BLA125166",
+ "srlc_rows": [
+  {
+   "drug_name": "SOLIRIS",
+   "active_ingredient": "ECULIZUMAB",
+   "application_number": "125166",
+   "application_type": "BLA",
+   "supplement_date": "02/28/2025",
+   "database_updated": "03/03/2025",
+   "drug_name_id": "795"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-28",
+ "srlc_database_updated": "2025-03-03",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "ebcd67fa-b4d1-4a22-b33d-ee8bf6b9c722",
+   "title": "SOLIRIS (ECULIZUMAB) INJECTION, SOLUTION, CONCENTRATE [ALEXION PHARMACEUTICALS INC.]",
+   "published_date": "Jul 13, 2026",
+   "spl_version": 44,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-04-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-09-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-11-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-07-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-08-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-01-31"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-08-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-11-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-04-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2014-05-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2014-10-14"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2015-05-28"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2015-12-11"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2016-02-03"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2016-02-26"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2016-09-02"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2017-01-27"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2017-11-02"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-03-14"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-08-07"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-04-10"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2019-07-09"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2021-02-02"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2021-04-21"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2022-07-28"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2024-04-02"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2024-10-10"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2025-03-11"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2026-07-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 42,
+    "published_date": "2025-03-11"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 29
+  },
+  {
+   "setid": "1944fe02-2140-486a-967c-ad54bb2a479a",
+   "title": "INJECTION [FOOD AND DRUG ADMINISTRATION]",
+   "published_date": "Dec 18, 2017",
+   "spl_version": -1,
+   "versions": [],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T08:37:48Z"
+}

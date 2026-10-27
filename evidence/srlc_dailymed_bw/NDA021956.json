@@ -1,0 +1,39 @@
+{
+ "application": "NDA021956",
+ "srlc_rows": [
+  {
+   "drug_name": "DUTOPROL",
+   "active_ingredient": "HYDROCHLOROTHIAZIDE; METOPROLOL SUCCINATE",
+   "application_number": "021956",
+   "application_type": "NDA",
+   "supplement_date": "01/14/2022",
+   "supplement": "SUPPL-11",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/14/2022",
+     "suppl": "SUPPL-11",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/14/2022",
+   "database_updated": "01/20/2022",
+   "drug_name_id": "2314"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-01-14",
+ "srlc_database_updated": "2022-01-20",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:23:26Z"
+}

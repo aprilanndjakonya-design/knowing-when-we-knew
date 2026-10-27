@@ -1,0 +1,64 @@
+{
+ "application": "NDA206544",
+ "srlc_rows": [
+  {
+   "drug_name": "MORPHABOND",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "206544",
+   "application_type": "NDA",
+   "supplement_date": "12/16/2016",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "01/09/2017",
+   "drug_name_id": "724"
+  },
+  {
+   "drug_name": "MORPHABOND ER",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "206544",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-10",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-10",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/11/2019",
+   "drug_name_id": "1685"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2019-10-11",
+ "lag_days_srlc_database": 388,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:27:59Z"
+}

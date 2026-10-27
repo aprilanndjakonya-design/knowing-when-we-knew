@@ -1,0 +1,140 @@
+{
+ "application": "BLA103946",
+ "srlc_rows": [
+  {
+   "drug_name": "ELITEK",
+   "active_ingredient": "RASBURICASE",
+   "application_number": "103946",
+   "application_type": "BLA",
+   "supplement_date": "06/13/2016",
+   "supplement": "SUPPL-5097",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/13/2016",
+     "suppl": "SUPPL-5097",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/12/2019",
+   "database_updated": "12/13/2019",
+   "drug_name_id": "58"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-06-13",
+ "srlc_database_updated": "2019-12-13",
+ "lag_days_srlc_database": 1278,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0ae10bc4-6b65-402f-9db5-2d7753054922",
+   "title": "ELITEK (RASBURICASE) KIT [SANOFI-AVENTIS U.S. LLC]",
+   "published_date": "Aug 04, 2026",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-02-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-11-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-11-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-03-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-01-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-03-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-02-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-05-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-06-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-07-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-07-18"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-05-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-09-29"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-11-08"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-08-19"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-12-20"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-11-27"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-08-21"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-10-07"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-07-29"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-08-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2016-06-21"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T09:12:14Z"
+}

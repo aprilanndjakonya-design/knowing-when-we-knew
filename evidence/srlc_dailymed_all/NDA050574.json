@@ -1,0 +1,21 @@
+{
+ "application": "NDA050574",
+ "srlc_rows": [
+  {
+   "drug_name": "SANDIMMUNE",
+   "active_ingredient": "CYCLOSPORINE",
+   "application_number": "050574",
+   "application_type": "NDA",
+   "supplement_date": "03/06/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "2857"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-06",
+ "srlc_database_updated": "2026-03-31",
+ "lag_days_srlc_database": 25,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:56:53Z"
+}

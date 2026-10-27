@@ -1,0 +1,74 @@
+{
+ "application": "NDA022279",
+ "srlc_rows": [
+  {
+   "drug_name": "HYCOFENIX",
+   "active_ingredient": "GUAIFENESIN; HYDROCODONE BITARTRATE; PSEUDOEPHEDRINE HYDROCHLORIDE",
+   "application_number": "022279",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/13/2017",
+     "suppl": "SUPPL-1",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "06/28/2018",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    },
+    {
+     "date": "12/22/2025",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Use in Specific Populations",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/13/2026",
+   "drug_name_id": "793"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-13",
+ "lag_days_srlc_database": 22,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:24:46Z"
+}

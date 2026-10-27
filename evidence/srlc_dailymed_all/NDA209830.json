@@ -1,0 +1,80 @@
+{
+ "application": "NDA209830",
+ "srlc_rows": [
+  {
+   "drug_name": "ARISTADA INITIO KIT",
+   "active_ingredient": "ARIPIPRAZOLE LAUROXIL",
+   "application_number": "209830",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2025",
+   "database_updated": "02/06/2025",
+   "drug_name_id": "2320"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-22",
+ "srlc_database_updated": "2025-02-06",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b18fdfd9-31cd-4a2f-9f1c-ebc70d7a9403",
+   "title": "ARISTADA INITIO (ARIPIPRAZOLE LAUROXIL) INJECTION, SUSPENSION, EXTENDED RELEASE [ALKERMES, INC.]",
+   "published_date": "Feb 10, 2025",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2018-07-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-08-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-02-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-10-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-01-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-04-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-08-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-03-01"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-12-05"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-02-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-02-10"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T09:04:32Z"
+}

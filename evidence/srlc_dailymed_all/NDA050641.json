@@ -1,0 +1,194 @@
+{
+ "application": "NDA050641",
+ "srlc_rows": [
+  {
+   "drug_name": "MONODOX",
+   "active_ingredient": "DOXYCYCLINE",
+   "application_number": "050641",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/08/2025",
+   "drug_name_id": "945"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-31",
+ "srlc_database_updated": "2025-04-08",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "57f97f68-11fb-4900-9efb-ca3b00818d8e",
+   "title": "DOXYCYCLINE CAPSULE [WELLHOUSE PHARMA, LLC]",
+   "published_date": "Jul 27, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-07-27"
+   },
+   "lag_days_dailymed": 483,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "02aa8731-d40f-43d8-8b63-a79a0503f8db",
+   "title": "DOXYCYCLINE MONOHYDRATE CAPSULE [CHARTWELL RX, LLC.]",
+   "published_date": "Jul 28, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-02-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-02-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-03-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-10-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-04-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-07-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-04-29"
+   },
+   "lag_days_dailymed": 29,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "8ced6ac0-22f2-42d2-bced-4a97da5507a0",
+   "title": "DOXYCYCLINE MONOHYDRATE (DOXYCYCLINE) CAPSULE [RPK PHARMACEUTICALS, INC.]",
+   "published_date": "Dec 28, 2020",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-12-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "6a0e5b78-bc00-0766-e053-2a91aa0a094d",
+   "title": "DOXYCYCLINE MONOHYDRATE CAPSULE [REDPHARM DRUG, INC.]",
+   "published_date": "Jan 21, 2020",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-04-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "a65325a7-ae0a-4704-99c4-a3a2e4e1dcf2",
+   "title": "MONODOX (DOXYCYCLINE) CAPSULE [AQUA PHARMACEUTICALS, LLC]",
+   "published_date": "May 03, 2017",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-03-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-05-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-02-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2011-05-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2012-01-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2012-02-07"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2014-05-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2017-05-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "96424d21-3fa4-4a32-8b98-fd593748f236",
+   "title": "DOXYCYCLINE MONOHYDRATE (DOXYCYCLINE) CAPSULE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 15, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-10-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-02-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 29,
+ "fetched_utc": "2026-10-16T08:57:16Z"
+}

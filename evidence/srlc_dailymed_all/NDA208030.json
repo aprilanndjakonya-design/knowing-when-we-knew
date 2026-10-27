@@ -1,0 +1,56 @@
+{
+ "application": "NDA208030",
+ "srlc_rows": [
+  {
+   "drug_name": "FERRIPROX",
+   "active_ingredient": "DEFERIPRONE",
+   "application_number": "208030",
+   "application_type": "NDA",
+   "supplement_date": "03/26/2025",
+   "database_updated": "03/28/2025",
+   "drug_name_id": "2199"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-26",
+ "srlc_database_updated": "2025-03-28",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f057cf4d-b06f-4fbd-aa2e-68c5e4d8a846",
+   "title": "FERRIPROX (DEFERIPRONE) SOLUTION [CHIESI USA, INC.]",
+   "published_date": "May 26, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-02-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-05-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-12-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-04-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-05-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-04-17"
+   },
+   "lag_days_dailymed": 22,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 22,
+ "fetched_utc": "2026-10-16T09:02:53Z"
+}

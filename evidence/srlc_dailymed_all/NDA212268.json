@@ -1,0 +1,64 @@
+{
+ "application": "NDA212268",
+ "srlc_rows": [
+  {
+   "drug_name": "SECUADO",
+   "active_ingredient": "ASENAPINE",
+   "application_number": "212268",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "3071"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-22",
+ "srlc_database_updated": "2025-02-05",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "685eaf44-5944-4f38-afba-0a4fc0b3462b",
+   "title": "SECUADO (ASENAPINE) FILM, EXTENDED RELEASE [NOVEN THERAPEUTICS, LLC]",
+   "published_date": "Feb 03, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2020-02-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-01-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-11-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-06-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-02-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-02-03"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:06:15Z"
+}

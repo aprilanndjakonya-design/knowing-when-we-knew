@@ -1,0 +1,124 @@
+{
+ "application": "NDA214373",
+ "srlc_rows": [
+  {
+   "drug_name": "BRENZAVVY",
+   "active_ingredient": "BEXAGLIFLOZIN",
+   "application_number": "214373",
+   "application_type": "NDA",
+   "supplement_date": "06/03/2026",
+   "database_updated": "06/11/2026",
+   "drug_name_id": "2847"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-03",
+ "srlc_database_updated": "2026-06-11",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "1a3ba9d5-1009-bad0-e063-6294a90ac4cc",
+   "title": "BEXAGLIFLOZIN TABLET [GOLDEN STATE MEDICAL SUPPLY, INC.]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-06-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-04-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-08-28"
+   },
+   "lag_days_dailymed": 86,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "7f0ad5d2-3509-4057-904c-d27993de7408",
+   "title": "BEXAGLIFLOZIN TABLET [THERACOSBIO, LLC]",
+   "published_date": "Jul 08, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-03-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-03-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-07-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-07-08"
+   },
+   "lag_days_dailymed": 35,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "3cdf28fc-4194-4ad6-aa03-c9eaa68da83e",
+   "title": "BRENZAVVY (BEXAGLIFLOZIN) TABLET [THERACOSBIO, LLC]",
+   "published_date": "Jun 18, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2023-06-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-09-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-03-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-04-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-06-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-06-18"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:07:31Z"
+}

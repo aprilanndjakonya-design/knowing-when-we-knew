@@ -1,0 +1,64 @@
+{
+ "application": "NDA018150",
+ "srlc_rows": [
+  {
+   "drug_name": "THALLOUS CHLORIDE TL 201",
+   "active_ingredient": "THALLOUS CHLORIDE TL-201",
+   "application_number": "018150",
+   "application_type": "NDA",
+   "supplement_date": "12/10/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "325"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-10",
+ "srlc_database_updated": "2025-12-22",
+ "lag_days_srlc_database": 12,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0da81fc0-a137-46d3-9378-d8053a82e61a",
+   "title": "THALLOUS CHLORIDE TL 201 (THALLOUS CHLORIDE, TL 201) INJECTION, SOLUTION [CURIUM US LLC]",
+   "published_date": "Dec 23, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-11-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-07-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-12-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-01-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-12-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-10-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-12-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2025-12-23"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:44:09Z"
+}

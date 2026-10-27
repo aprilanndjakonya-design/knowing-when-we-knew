@@ -1,0 +1,331 @@
+{
+ "application": "NDA201277",
+ "srlc_rows": [
+  {
+   "drug_name": "GADAVIST",
+   "active_ingredient": "GADOBUTROL",
+   "application_number": "201277",
+   "application_type": "NDA",
+   "supplement_date": "01/26/2024",
+   "supplement": "SUPPL-23",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/26/2024",
+     "suppl": "SUPPL-23",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/13/2026",
+   "database_updated": "02/20/2026",
+   "drug_name_id": "1553"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-01-26",
+ "srlc_database_updated": "2026-02-20",
+ "lag_days_srlc_database": 756,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "3c5101a0-0c7e-4078-8dc3-a57beb9a0e92",
+   "title": "GADAVIST (GADOBUTROL) INJECTION [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+   "published_date": "Sep 30, 2026",
+   "spl_version": 28,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-03-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-08-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-10-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-01-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-06-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-01-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-11-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-04-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-07-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-05-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-08-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-07-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-07-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-08-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-09-03"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-05-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-05-13"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-11-09"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-02-14"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-08-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-09-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2024-02-14"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 19
+  },
+  {
+   "setid": "b7afe34d-b70f-41a5-b89c-561bdf29f046",
+   "title": "GADAVIST (GADOBUTROL) INJECTION [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+   "published_date": "Sep 30, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-08-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-02-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-09-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-05-04"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-02-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-08-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-03-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-09-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2024-02-14"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "bd28560f-de4d-4140-874e-31df823f4dbb",
+   "title": "GADAVIST (GADOBUTROL) INJECTION [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+   "published_date": "May 28, 2026",
+   "spl_version": 23,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-03-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-08-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-10-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-03-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-06-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-01-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-04-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-05-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-08-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-07-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-07-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-08-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-04-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-05-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-11-09"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-02-14"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-08-06"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-05-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2024-02-14"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 17
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T09:26:18Z"
+}

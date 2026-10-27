@@ -1,0 +1,36 @@
+{
+ "application": "NDA021371",
+ "srlc_rows": [
+  {
+   "drug_name": "ESTRASORB",
+   "active_ingredient": "ESTRADIOL HEMIHYDRATE",
+   "application_number": "021371",
+   "application_type": "NDA",
+   "supplement_date": "09/10/2024",
+   "supplement": "SUPPL-9",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/10/2024",
+     "suppl": "SUPPL-9",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/10/2024",
+   "database_updated": "09/13/2024",
+   "drug_name_id": "1340"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-09-10",
+ "srlc_database_updated": "2024-09-13",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:22:07Z"
+}

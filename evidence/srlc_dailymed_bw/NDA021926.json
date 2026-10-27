@@ -1,0 +1,127 @@
+{
+ "application": "NDA021926",
+ "srlc_rows": [
+  {
+   "drug_name": "TREXIMET",
+   "active_ingredient": "NAPROXEN SODIUM; SUMATRIPTAN SUCCINATE",
+   "application_number": "021926",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-13",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-13",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "208"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "5762bbe6-bddf-495c-adf8-9096f98a3a9c",
+   "title": "SUMATRIPTAN SUCCINATE AND NAPROXEN SODIUM TABLET [CURRAX PHARMACEUTICALS LLC DBA CYPRESS, HAWTHORN, MACOVEN]",
+   "published_date": "Jan 08, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-02-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-08-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-11-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-01-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2018-02-14"
+   },
+   "lag_days_dailymed": 646,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "42ddf376-8dc0-4236-be2a-0c6ae92ece04",
+   "title": "TREXIMET (SUMATRIPTAN SUCCINATE AND NAPROXEN SODIUM) TABLET, FILM COATED [CURRAX PHARMACEUTICALS LLC]",
+   "published_date": "Dec 26, 2024",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-08-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-11-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-05-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-01-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-02-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-12-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-08-06"
+   },
+   "lag_days_dailymed": 1184,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "e08d5f22-f9c3-4627-8e5a-72c95183cf6a",
+   "title": "TREXIMET (SUMATRIPTAN SUCCINATE AND NAPROXEN SODIUM) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Sep 14, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 646,
+ "fetched_utc": "2026-10-16T09:23:21Z"
+}

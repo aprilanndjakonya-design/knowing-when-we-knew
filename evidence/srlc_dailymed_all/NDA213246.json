@@ -1,0 +1,96 @@
+{
+ "application": "NDA213246",
+ "srlc_rows": [
+  {
+   "drug_name": "RETEVMO",
+   "active_ingredient": "SELPERCATINIB",
+   "application_number": "213246",
+   "application_type": "NDA",
+   "supplement_date": "07/14/2026",
+   "database_updated": "07/29/2026",
+   "drug_name_id": "2398"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-14",
+ "srlc_database_updated": "2026-07-29",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7fa848ba-a59c-4144-9f52-64d090f4d828",
+   "title": "RETEVMO (SELPERCATINIB) CAPSULE RETEVMO (SELPERCATINIB) TABLET, COATED [ELI LILLY AND COMPANY]",
+   "published_date": "Sep 14, 2026",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-05-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-02-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-05-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-10-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-04-22"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-06-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-10-11"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-10-14"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-01-03"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-08-28"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-12-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-07-23"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-09-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 23,
+    "published_date": "2026-07-23"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:06:50Z"
+}

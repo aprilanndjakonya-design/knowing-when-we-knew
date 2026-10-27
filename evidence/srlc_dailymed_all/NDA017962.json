@@ -1,0 +1,141 @@
+{
+ "application": "NDA017962",
+ "srlc_rows": [
+  {
+   "drug_name": "PARLODEL",
+   "active_ingredient": "BROMOCRIPTINE MESYLATE",
+   "application_number": "017962",
+   "application_type": "NDA",
+   "supplement_date": "06/30/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "2163"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-30",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "17f3a343-1782-4799-95ba-31dfe93be2cf",
+   "title": "BROMOCRIPTINE MESYLATE TABLET BROMOCRIPTINE MESYLATE CAPSULE [ANI PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 30, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-06-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-04-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-07-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-07-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-07-15"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "ddd292a5-72af-448f-8b88-cc4fd99ec783",
+   "title": "BROMOCRIPTINE MESYLATE TABLET [AMERICAN HEALTH PACKAGING]",
+   "published_date": "Jun 15, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-05-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-06-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "fc2a08dd-4fb6-4ac4-9082-f99552fae25c",
+   "title": "PARLODEL (BROMOCRIPTINE MESYLATE) TABLET PARLODEL (BROMOCRIPTINE MESYLATE) CAPSULE, GELATIN COATED [VALIDUS PHARMACEUTICALS LLC]",
+   "published_date": "Dec 15, 2023",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-10-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-06-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-03-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-12-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-02-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-07-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-02-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-12-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "44cc1e5f-c509-40e6-ac51-eba6d0440b16",
+   "title": "BROMOCRIPTINE MESYLATE TABLET BROMOCRIPTINE MESYLATE CAPSULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+   "published_date": "Feb 12, 2020",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-12-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-12-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-02-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:44:00Z"
+}

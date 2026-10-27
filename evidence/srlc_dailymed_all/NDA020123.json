@@ -1,0 +1,100 @@
+{
+ "application": "NDA020123",
+ "srlc_rows": [
+  {
+   "drug_name": "OMNISCAN",
+   "active_ingredient": "GADODIAMIDE",
+   "application_number": "020123",
+   "application_type": "NDA",
+   "supplement_date": "03/05/2025",
+   "database_updated": "03/07/2025",
+   "drug_name_id": "1550"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-05",
+ "srlc_database_updated": "2025-03-07",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1e9a37e2-f28a-4373-bf0f-3e9b60f42d8a",
+   "title": "OMNISCAN (GADODIAMIDE) INJECTION [GE HEALTHCARE INC.]",
+   "published_date": "Apr 28, 2025",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-03-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-04-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2013-09-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-12-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-12-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-05-09"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-10-29"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-09-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-01-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-11-01"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-02-08"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-07-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-09-20"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-04-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 23,
+    "published_date": "2025-03-17"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 14
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:46:23Z"
+}

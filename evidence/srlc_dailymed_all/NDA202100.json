@@ -1,0 +1,72 @@
+{
+ "application": "NDA202100",
+ "srlc_rows": [
+  {
+   "drug_name": "QUILLIVANT XR",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "202100",
+   "application_type": "NDA",
+   "supplement_date": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "694"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-23",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "c2dc2109-44a6-4797-b04e-18761dd9d45a",
+   "title": "QUILLIVANT XR (METHYLPHENIDATE HYDROCHLORIDE) SUSPENSION, EXTENDED RELEASE [NEXTWAVE PHARMACEUTICALS, INC]",
+   "published_date": "Jun 15, 2026",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-10-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-07-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-10-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-10-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-10-27"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-12-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-03-23"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-06-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2025-10-06"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:59:05Z"
+}

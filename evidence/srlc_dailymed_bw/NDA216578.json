@@ -1,0 +1,85 @@
+{
+ "application": "NDA216578",
+ "srlc_rows": [
+  {
+   "drug_name": "VEOZAH",
+   "active_ingredient": "FEZOLINETANT",
+   "application_number": "216578",
+   "application_type": "NDA",
+   "supplement_date": "12/16/2024",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "12/16/2024",
+     "suppl": "SUPPL-4",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/16/2024",
+   "database_updated": "12/18/2024",
+   "drug_name_id": "3021"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-12-16",
+ "srlc_database_updated": "2024-12-18",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "cae9f798-24f9-4580-a4fc-e6c710cbda3c",
+   "title": "VEOZAH (FEZOLINETANT) TABLET, FILM COATED [ASTELLAS PHARMA US, INC.]",
+   "published_date": "Mar 06, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-08-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-09-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-12-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-01-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2024-12-18"
+   },
+   "lag_days_dailymed": 2,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 2,
+ "fetched_utc": "2026-10-16T09:29:38Z"
+}

@@ -1,0 +1,236 @@
+{
+ "application": "NDA018615",
+ "srlc_rows": [
+  {
+   "drug_name": "SULFATRIM",
+   "active_ingredient": "SULFAMETHOXAZOLE; TRIMETHOPRIM",
+   "application_number": "018615",
+   "application_type": "NDA",
+   "supplement_date": "02/21/2025",
+   "database_updated": "02/24/2025",
+   "drug_name_id": "2540"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-21",
+ "srlc_database_updated": "2025-02-24",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 7,
+ "labels": [
+  {
+   "setid": "cd4932ce-0856-4e99-8baf-70afce1d7ffd",
+   "title": "SULFATRIM (SULFAMETHOXAZOLE AND TRIMETHOPRIM) SUSPENSION [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "Sep 04, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-07-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-09-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-09-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-10-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-09-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-01-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-09-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-09-04"
+   },
+   "lag_days_dailymed": 560,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "80f7f00b-add4-4d6b-9e9c-bea29768c239",
+   "title": "SULFATRIM (SULFAMETHOXAZOLE AND TRIMETHOPRIM) SUSPENSION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 06, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-01-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-01-06"
+   },
+   "lag_days_dailymed": 319,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c62086ea-ba15-40f5-8431-4639c60c9825",
+   "title": "SULFATRIM (SULFAMETHOXAZOLE AND TRIMETHOPRIM) SUSPENSION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+   "published_date": "Mar 10, 2025",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-06-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-09-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-02-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-12-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-01-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-01-30"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-07-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-09-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-03-03"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-03-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-03-03"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "777da85a-a776-4681-976d-326ec421cfc9",
+   "title": "SULFAMETHOXAZOLE AND TRIMETHOPRIM SUSPENSION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+   "published_date": "Aug 23, 2024",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-09-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-02-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-02-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-08-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "b339af0b-4fa2-e8c3-e053-2995a90a6a34",
+   "title": "SULFATRIM (SULFAMETHOXAZOLE AND TRIMETHOPRIM) SUSPENSION [REDPHARM DRUG, INC.]",
+   "published_date": "Jul 25, 2024",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-11-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-01-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-07-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "4eb8dbf3-616c-0bbf-e054-00144ff88e88",
+   "title": "SULFATRIM SUSPENSION [REDPHARM DRUG, INC.]",
+   "published_date": "Jan 21, 2020",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-05-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "943ea381-7902-4ce9-abad-4270ebde9d3c",
+   "title": "SULFATRIM (SULFAMETHOXAZOLE AND TRIMETHOPRIM) SUSPENSION [ATLANTIC BIOLOGICALS CORPS]",
+   "published_date": "Nov 30, 2016",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-05-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-09-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-11-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:44:30Z"
+}

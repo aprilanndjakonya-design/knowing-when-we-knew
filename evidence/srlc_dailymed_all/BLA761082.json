@@ -1,0 +1,76 @@
+{
+ "application": "BLA761082",
+ "srlc_rows": [
+  {
+   "drug_name": "RELEUKO",
+   "active_ingredient": "FILGRASTIM-AYOW",
+   "application_number": "761082",
+   "application_type": "BLA",
+   "supplement_date": "04/29/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "2843"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-29",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 30,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "74e1ec6e-1630-4654-895c-2bd355f939e7",
+   "title": "RELEUKO (FILGRASTIM) INJECTION, SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+   "published_date": "May 15, 2025",
+   "spl_version": 28,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-03-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-07-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-11-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-11-21"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-11-24"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-12-14"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-08-01"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-09-11"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-05-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 27,
+    "published_date": "2025-05-12"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:39:14Z"
+}

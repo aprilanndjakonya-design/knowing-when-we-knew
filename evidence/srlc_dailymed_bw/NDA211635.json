@@ -1,0 +1,105 @@
+{
+ "application": "NDA211635",
+ "srlc_rows": [
+  {
+   "drug_name": "VALTOCO",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "211635",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-3",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/15/2025",
+   "database_updated": "05/27/2025",
+   "drug_name_id": "2403"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2025-05-27",
+ "lag_days_srlc_database": 1572,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1a8bcc90-68fa-474d-832c-0df01e825f39",
+   "title": "VALTOCO (DIAZEPAM) SPRAY [NEURELIS, INC]",
+   "published_date": "Jun 05, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-01-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-09-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-02-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-02-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-01-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-02-03"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-08-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-02-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-05-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-03-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-06-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2021-02-22"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:29:12Z"
+}

@@ -1,0 +1,89 @@
+{
+ "application": "NDA214697",
+ "srlc_rows": [
+  {
+   "drug_name": "NEFFY",
+   "active_ingredient": "EPINEPHRINE",
+   "application_number": "214697",
+   "application_type": "NDA",
+   "supplement_date": "03/26/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "3087"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-26",
+ "srlc_database_updated": "2026-03-31",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "2052f9db-7d76-443b-b702-b6b499f9a4b8",
+   "title": "NEFFY (EPINEPHRINE) SPRAY [SPORTPHARM LLC]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-12-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-04-27"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a1758142-a905-401d-8961-05829f51023a",
+   "title": "NEFFY (EPINEPHRINE) SPRAY [ARS PHARMACEUTICALS OPERATIONS, INC.]",
+   "published_date": "Apr 14, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-08-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-03-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-04-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-04-14"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "2d4063e8-f56c-6902-e063-6294a90a0d40",
+   "title": "NEFFY (EPINEPHRINE) SPRAY [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Feb 05, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-02-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T09:07:44Z"
+}

@@ -1,0 +1,120 @@
+{
+ "application": "NDA050640",
+ "srlc_rows": [
+  {
+   "drug_name": "BACTOCILL IN PLASTIC CONTAINER",
+   "active_ingredient": "OXACILLIN SODIUM",
+   "application_number": "050640",
+   "application_type": "NDA",
+   "supplement_date": "08/31/2026",
+   "database_updated": "09/09/2026",
+   "drug_name_id": "3326"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-31",
+ "srlc_database_updated": "2026-09-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d893e45b-7f18-4c67-b10c-1e2e52a6b3ef",
+   "title": "OXACILLIN INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Sep 10, 2026",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-07-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-01-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-11-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-12-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-06-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-11-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-01-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-03-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-09-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-01-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-09-10"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-08-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-12-05"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-04-12"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-11-18"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-12-19"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-05-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-07-27"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-09-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2026-09-10"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 20
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:57:11Z"
+}

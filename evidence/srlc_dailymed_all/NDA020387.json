@@ -1,0 +1,117 @@
+{
+ "application": "NDA020387",
+ "srlc_rows": [
+  {
+   "drug_name": "HYZAAR",
+   "active_ingredient": "HYDROCHLOROTHIAZIDE; LOSARTAN POTASSIUM",
+   "application_number": "020387",
+   "application_type": "NDA",
+   "supplement_date": "06/20/2025",
+   "database_updated": "06/25/2025",
+   "drug_name_id": "1697"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-20",
+ "srlc_database_updated": "2025-06-25",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "4116ccde-2e23-45f4-b12f-6337df877744",
+   "title": "HYZAAR (LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [ORGANON LLC]",
+   "published_date": "Nov 28, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-06-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-04-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-07-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2025-07-17"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "b82d5bbc-2ead-4060-a37d-7cffb0d87423",
+   "title": "HYZAAR (LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Jun 04, 2014",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-06-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "d7d7dcc9-c3e0-45e5-abcd-135a6d8c8dab",
+   "title": "HYZAAR (LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Nov 06, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-12-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-11-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "1ac2687d-1a70-4a69-b84c-22840925db09",
+   "title": "HYZAAR (LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jan 13, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T08:47:07Z"
+}

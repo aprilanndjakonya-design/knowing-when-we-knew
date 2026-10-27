@@ -1,0 +1,21 @@
+{
+ "application": "NDA201811",
+ "srlc_rows": [
+  {
+   "drug_name": "ARGATROBAN",
+   "active_ingredient": "ARGATROBAN",
+   "application_number": "201811",
+   "application_type": "NDA",
+   "supplement_date": "07/13/2026",
+   "database_updated": "07/20/2026",
+   "drug_name_id": "1443"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-13",
+ "srlc_database_updated": "2026-07-20",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:58:59Z"
+}

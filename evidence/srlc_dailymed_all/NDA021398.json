@@ -1,0 +1,135 @@
+{
+ "application": "NDA021398",
+ "srlc_rows": [
+  {
+   "drug_name": "COMBIGAN",
+   "active_ingredient": "BRIMONIDINE TARTRATE; TIMOLOL MALEATE",
+   "application_number": "021398",
+   "application_type": "NDA",
+   "supplement_date": "03/17/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "3263"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-17",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "feaf1480-a4b8-4486-992a-96be3a596243",
+   "title": "COMBIGAN (BRIMONIDINE TARTRATE, TIMOLOL MALEATE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+   "published_date": "Mar 30, 2026",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-11-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-01-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-04-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-11-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-10-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-12-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-11-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-11-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-12-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-10-25"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-11-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-01-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-05-03"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-07-03"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-10-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-11-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-11-16"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-04-04"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-08-02"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-11-08"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-03-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 22,
+    "published_date": "2026-03-30"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 20
+  },
+  {
+   "setid": "8c641b6c-3335-4ec3-89b9-2d97a8901062",
+   "title": "COMBIGAN (BRIMONIDINE TARTRATE, TIMOLOL MALEATE) SOLUTION/ DROPS [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Sep 06, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:51:33Z"
+}

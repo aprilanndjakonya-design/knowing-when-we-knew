@@ -1,0 +1,60 @@
+{
+ "application": "NDA210589",
+ "srlc_rows": [
+  {
+   "drug_name": "OMEGAVEN",
+   "active_ingredient": "FISH OIL TRIGLYCERIDES",
+   "application_number": "210589",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2756"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-24",
+ "srlc_database_updated": "2025-07-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5d9d0b24-e139-48bf-ab2d-536fb59cf8e0",
+   "title": "OMEGAVEN (FISH OIL) INJECTION, EMULSION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-08-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-09-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-12-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-07-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-09-29"
+   },
+   "lag_days_dailymed": 67,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 67,
+ "fetched_utc": "2026-10-16T09:05:04Z"
+}

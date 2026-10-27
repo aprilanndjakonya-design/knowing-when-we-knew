@@ -1,0 +1,112 @@
+{
+ "application": "NDA022058",
+ "srlc_rows": [
+  {
+   "drug_name": "SUPPRELIN LA",
+   "active_ingredient": "HISTRELIN ACETATE",
+   "application_number": "022058",
+   "application_type": "NDA",
+   "supplement_date": "09/23/2025",
+   "database_updated": "09/25/2025",
+   "drug_name_id": "1077"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-23",
+ "srlc_database_updated": "2025-09-25",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d8fb000e-3cc9-4803-b71d-2cc597661977",
+   "title": "SUPPRELIN LA (HISTRELIN ACETATE) IMPLANT [ENDO USA, INC.]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 38,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-09-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-01-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-03-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-11-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-12-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2012-04-13"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2012-05-25"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-02-15"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-04-04"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2013-07-02"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-05-24"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-05-26"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2018-11-27"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2019-10-23"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2019-11-22"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2019-12-16"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2022-04-29"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-04-25"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 38,
+    "published_date": "2025-09-29"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 18
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T08:53:53Z"
+}

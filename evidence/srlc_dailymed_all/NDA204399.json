@@ -1,0 +1,122 @@
+{
+ "application": "NDA204399",
+ "srlc_rows": [
+  {
+   "drug_name": "VOGELXO",
+   "active_ingredient": "TESTOSTERONE",
+   "application_number": "204399",
+   "application_type": "NDA",
+   "supplement_date": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "489"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-11",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2dd150f6-cdfd-4d51-8888-12b288f26262",
+   "title": "VOGELXO (TESTOSTERONE) GEL VOGELXO (TESTOSTERONE) GEL, METERED [UPSHER-SMITH LABORATORIES, LLC]",
+   "published_date": "Jul 16, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-06-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-06-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-10-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-05-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-07-10"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-07-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-07-16"
+   },
+   "lag_days_dailymed": 5,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "a887020f-b41f-49fe-8379-f01147b2a796",
+   "title": "TESTOSTERONE GEL TESTOSTERONE GEL, METERED [UPSHER-SMITH LABORATORIES, LLC]",
+   "published_date": "Jul 14, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-06-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-07-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-05-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-07-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-07-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-08-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-08-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-01-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-05-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-07-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-07-14"
+   },
+   "lag_days_dailymed": 3,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 3,
+ "fetched_utc": "2026-10-16T09:00:42Z"
+}

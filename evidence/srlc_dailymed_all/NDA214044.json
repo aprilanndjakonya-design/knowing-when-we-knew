@@ -1,0 +1,64 @@
+{
+ "application": "NDA214044",
+ "srlc_rows": [
+  {
+   "drug_name": "QDOLO",
+   "active_ingredient": "TRAMADOL HYDROCHLORIDE",
+   "application_number": "214044",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "2531"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-05",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2804c640-9d47-4b40-b58b-da321b79cf39",
+   "title": "TRAMADOL HYDROCHLORIDE SOLUTION [PALMETTO PHARMACEUTICALS, INC.]",
+   "published_date": "Dec 10, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-04-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-10-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-12-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "aea56ff9-94ac-47a8-8f15-8790d538973b",
+   "title": "TRAMADOL HYDROCHLORIDE SOLUTION [TRUPHARMA, LLC]",
+   "published_date": "Mar 29, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-03-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:07:18Z"
+}

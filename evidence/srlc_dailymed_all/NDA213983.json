@@ -1,0 +1,168 @@
+{
+ "application": "NDA213983",
+ "srlc_rows": [
+  {
+   "drug_name": "TIVICAY PD",
+   "active_ingredient": "DOLUTEGRAVIR SODIUM",
+   "application_number": "213983",
+   "application_type": "NDA",
+   "supplement_date": "08/25/2026",
+   "database_updated": "09/02/2026",
+   "drug_name_id": "2433"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-25",
+ "srlc_database_updated": "2026-09-02",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "63df5af3-b8ac-4e76-9830-2dbb340af922",
+   "title": "TIVICAY PD (DOLUTEGRAVIR SODIUM) TABLET, FOR SUSPENSION TIVICAY (DOLUTEGRAVIR SODIUM) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+   "published_date": "Oct 02, 2026",
+   "spl_version": 34,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-08-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-08-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-05-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-12-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-07-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-08-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-08-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-05-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-06-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-08-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-03-29"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-08-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-11-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-09-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-01-28"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-07-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-11-01"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-03-30"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-06-16"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-07-17"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-04-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-07-19"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2022-08-30"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2022-10-27"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-08-11"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2023-10-04"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-09-09"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-07-31"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-09-07"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-10-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2026-09-07"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 31
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:07:13Z"
+}

@@ -1,0 +1,92 @@
+{
+ "application": "BLA761088",
+ "srlc_rows": [
+  {
+   "drug_name": "TRUXIMA",
+   "active_ingredient": "RITUXIMAB-ABBS",
+   "application_number": "761088",
+   "application_type": "BLA",
+   "supplement_date": "06/09/2025",
+   "database_updated": "06/10/2025",
+   "drug_name_id": "1954"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-09",
+ "srlc_database_updated": "2025-06-10",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9af3ddc7-4217-417a-ac89-8704edc5bc44",
+   "title": "TRUXIMA (RITUXIMAB-ABBS) INJECTION, SOLUTION [CEPHALON, INC.]",
+   "published_date": "Jul 17, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-12-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-06-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-11-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-05-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-06-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-12-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-12-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-11-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-04-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-11-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-07-12"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-06-19"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-07-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2025-06-19"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:39:19Z"
+}

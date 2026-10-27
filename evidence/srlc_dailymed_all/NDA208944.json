@@ -1,0 +1,136 @@
+{
+ "application": "NDA208944",
+ "srlc_rows": [
+  {
+   "drug_name": "GOCOVRI",
+   "active_ingredient": "AMANTADINE HYDROCHLORIDE",
+   "application_number": "208944",
+   "application_type": "NDA",
+   "supplement_date": "07/10/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "2213"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-10",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "2bee0631-0028-1314-e063-6394a90aaaed",
+   "title": "GOCOVRI (AMANTADINE) CAPSULE, COATED PELLETS [SUPERNUS PHARMACEUTICALS, INC.]",
+   "published_date": "Oct 06, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-01-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-07-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-09-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-07-31"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "82ff865f-78f3-4c94-b6a9-727a54944b28",
+   "title": "GOCOVRI (AMANTADINE) CAPSULE, COATED PELLETS [ADAMAS PHARMA, LLC]",
+   "published_date": "Oct 06, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-09-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-12-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-04-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-02-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-02-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-02-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-10-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-08-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-09-10"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-08-04"
+   },
+   "lag_days_dailymed": 25,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "82f46845-b4c7-48da-a389-ba5721b956c9",
+   "title": "CAPSULE, EXTENDED RELEASE CAPSULE, EXTENDED RELEASE [FOOD AND DRUG ADMINISTRATION]",
+   "published_date": "Dec 18, 2017",
+   "spl_version": -1,
+   "versions": [],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T09:03:36Z"
+}

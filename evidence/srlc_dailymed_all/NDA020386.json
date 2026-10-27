@@ -1,0 +1,87 @@
+{
+ "application": "NDA020386",
+ "srlc_rows": [
+  {
+   "drug_name": "COZAAR",
+   "active_ingredient": "LOSARTAN POTASSIUM",
+   "application_number": "020386",
+   "application_type": "NDA",
+   "supplement_date": "06/20/2025",
+   "database_updated": "07/01/2025",
+   "drug_name_id": "1696"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-20",
+ "srlc_database_updated": "2025-07-01",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "9949448f-c3b9-44ee-94ed-c1aca8c90f39",
+   "title": "COZAAR (LOSARTAN POTASSIUM) TABLET, FILM COATED [ORGANON LLC]",
+   "published_date": "Jan 21, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-11-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-06-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-07-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2025-07-21"
+   },
+   "lag_days_dailymed": 31,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "9199238d-8b24-4ca8-bd24-c200853416f6",
+   "title": "COZAAR (LOSARTAN POTASSIUM) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Oct 04, 2012",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-01-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-12-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-10-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 31,
+ "fetched_utc": "2026-10-16T08:47:04Z"
+}

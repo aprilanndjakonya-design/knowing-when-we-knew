@@ -1,0 +1,160 @@
+{
+ "application": "BLA761145",
+ "srlc_rows": [
+  {
+   "drug_name": "DARZALEX FASPRO",
+   "active_ingredient": "DARATUMUMAB;HYALURONIDASE-FIHJ",
+   "application_number": "761145",
+   "application_type": "BLA",
+   "supplement_date": "01/27/2026",
+   "database_updated": "01/29/2026",
+   "drug_name_id": "2387"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-27",
+ "srlc_database_updated": "2026-01-29",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4bb241af-4299-4373-8762-2d6709515db0",
+   "title": "DARZALEX FASPRO (DARATUMUMAB AND HYALURONIDASE-FIHJ (HUMAN RECOMBINANT)) INJECTION [JANSSEN BIOTECH, INC.]",
+   "published_date": "Oct 14, 2026",
+   "spl_version": 34,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-05-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-06-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-07-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-01-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-01-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-02-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-03-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-06-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-07-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-12-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-01-31"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-04-22"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-11-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-12-26"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-05-29"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2023-07-28"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-08-01"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-11-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-07-08"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-08-09"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-11-19"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-12-02"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-02-09"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-02-16"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-06-19"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-09-07"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-10-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2026-02-02"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 25
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T08:39:52Z"
+}

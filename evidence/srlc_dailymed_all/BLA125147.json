@@ -1,0 +1,132 @@
+{
+ "application": "BLA125147",
+ "srlc_rows": [
+  {
+   "drug_name": "VECTIBIX",
+   "active_ingredient": "PANITUMUMAB",
+   "application_number": "125147",
+   "application_type": "BLA",
+   "supplement_date": "01/16/2025",
+   "database_updated": "01/20/2025",
+   "drug_name_id": "1123"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-16",
+ "srlc_database_updated": "2025-01-20",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e0fa4bca-f245-4d92-ae29-b0c630a315c2",
+   "title": "VECTIBIX (PANITUMUMAB) SOLUTION [AMGEN, INC]",
+   "published_date": "Jun 26, 2026",
+   "spl_version": 161,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-11-14"
+    },
+    {
+     "spl_version": 100,
+     "published_date": "2010-06-04"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2011-04-28"
+    },
+    {
+     "spl_version": 103,
+     "published_date": "2011-05-18"
+    },
+    {
+     "spl_version": 107,
+     "published_date": "2011-12-21"
+    },
+    {
+     "spl_version": 114,
+     "published_date": "2012-09-04"
+    },
+    {
+     "spl_version": 118,
+     "published_date": "2013-02-19"
+    },
+    {
+     "spl_version": 120,
+     "published_date": "2013-04-12"
+    },
+    {
+     "spl_version": 127,
+     "published_date": "2013-06-14"
+    },
+    {
+     "spl_version": 133,
+     "published_date": "2013-12-13"
+    },
+    {
+     "spl_version": 139,
+     "published_date": "2014-03-31"
+    },
+    {
+     "spl_version": 144,
+     "published_date": "2014-09-11"
+    },
+    {
+     "spl_version": 145,
+     "published_date": "2014-10-21"
+    },
+    {
+     "spl_version": 147,
+     "published_date": "2015-05-19"
+    },
+    {
+     "spl_version": 151,
+     "published_date": "2017-07-27"
+    },
+    {
+     "spl_version": 152,
+     "published_date": "2018-11-20"
+    },
+    {
+     "spl_version": 153,
+     "published_date": "2019-11-25"
+    },
+    {
+     "spl_version": 155,
+     "published_date": "2021-09-09"
+    },
+    {
+     "spl_version": 156,
+     "published_date": "2022-06-27"
+    },
+    {
+     "spl_version": 157,
+     "published_date": "2023-06-29"
+    },
+    {
+     "spl_version": 158,
+     "published_date": "2025-01-30"
+    },
+    {
+     "spl_version": 159,
+     "published_date": "2025-06-23"
+    },
+    {
+     "spl_version": 160,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 161,
+     "published_date": "2026-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 158,
+    "published_date": "2025-01-30"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 20
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:37:44Z"
+}

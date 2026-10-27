@@ -1,0 +1,138 @@
+{
+ "application": "NDA050709",
+ "srlc_rows": [
+  {
+   "drug_name": "PROGRAF",
+   "active_ingredient": "TACROLIMUS",
+   "application_number": "050709",
+   "application_type": "NDA",
+   "supplement_date": "05/24/2018",
+   "supplement": "SUPPL-40",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/24/2018",
+     "suppl": "SUPPL-40",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/22/2022",
+   "database_updated": "11/29/2022",
+   "drug_name_id": "1596"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-05-24",
+ "srlc_database_updated": "2022-11-29",
+ "lag_days_srlc_database": 1650,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
+   "title": "PROGRAF (TACROLIMUS) CAPSULE, GELATIN COATED PROGRAF (TACROLIMUS) INJECTION, SOLUTION PROGRAF (TACROLIMUS) GRANULE, FOR SUSPENSION [ASTELLAS PHARMA US, INC.]",
+   "published_date": "Mar 21, 2025",
+   "spl_version": 30,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-01-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-11-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-07-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2011-10-20"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2012-03-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2012-07-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2012-08-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2013-09-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2014-06-30"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2015-06-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-07-11"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2018-08-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-06-25"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-01-15"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-08-02"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2022-01-26"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-07-28"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2023-09-27"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-03-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2018-08-10"
+   },
+   "lag_days_dailymed": 78,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 78,
+ "fetched_utc": "2026-10-16T09:25:48Z"
+}

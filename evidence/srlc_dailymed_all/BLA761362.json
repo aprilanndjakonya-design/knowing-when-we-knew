@@ -1,0 +1,83 @@
+{
+ "application": "BLA761362",
+ "srlc_rows": [
+  {
+   "drug_name": "JUBBONTI",
+   "active_ingredient": "DENOSUMAB-BBDZ",
+   "application_number": "761362",
+   "application_type": "BLA",
+   "supplement_date": "10/29/2025",
+   "database_updated": "10/31/2025",
+   "drug_name_id": "3036"
+  },
+  {
+   "drug_name": "WYOST",
+   "active_ingredient": "DENOSUMAB-BBDZ",
+   "application_number": "761362",
+   "application_type": "BLA",
+   "supplement_date": "10/29/2025",
+   "database_updated": "10/31/2025",
+   "drug_name_id": "3205"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-29",
+ "srlc_database_updated": "2025-10-31",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "69e4890d-5dd9-42a5-aa41-ce50635eaed7",
+   "title": "WYOST (DENOSUMAB) INJECTION [SANDOZ INC]",
+   "published_date": "Mar 18, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-03-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "4bf239bb-c467-4add-b7cf-ea666e4fc693",
+   "title": "JUBBONTI (DENOSUMAB) INJECTION [SANDOZ INC]",
+   "published_date": "Dec 15, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T08:41:30Z"
+}

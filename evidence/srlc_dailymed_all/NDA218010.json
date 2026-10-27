@@ -1,0 +1,48 @@
+{
+ "application": "NDA218010",
+ "srlc_rows": [
+  {
+   "drug_name": "IDOSE TR",
+   "active_ingredient": "TRAVOPROST",
+   "application_number": "218010",
+   "application_type": "NDA",
+   "supplement_date": "01/27/2026",
+   "database_updated": "01/29/2026",
+   "drug_name_id": "3244"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-27",
+ "srlc_database_updated": "2026-01-29",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "92f6d3e2-8328-47df-972c-23008f4a1c1c",
+   "title": "IDOSE TR (TRAVOPROST INTRACAMERAL) IMPLANT [GLAUKOS CORPORATION]",
+   "published_date": "Mar 20, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-02-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-03-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-02-16"
+   },
+   "lag_days_dailymed": 20,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 20,
+ "fetched_utc": "2026-10-16T09:10:18Z"
+}

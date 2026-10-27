@@ -1,0 +1,90 @@
+{
+ "application": "NDA019050",
+ "srlc_rows": [
+  {
+   "drug_name": "SUFENTA PRESERVATIVE FREE",
+   "active_ingredient": "SUFENTANIL CITRATE",
+   "application_number": "019050",
+   "application_type": "NDA",
+   "supplement_date": "12/16/2016",
+   "supplement": "SUPPL-34",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-34",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "739"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-12-16",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 3309,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "95e639db-1ca3-4328-b347-7ea348f6cc72",
+   "title": "SUFENTANIL CITRATE INJECTION [AKORN]",
+   "published_date": "Sep 19, 2022",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-08-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-04-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-01-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-12-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-10-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-10-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-02-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-09-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2017-01-10"
+   },
+   "lag_days_dailymed": 25,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 25,
+ "fetched_utc": "2026-10-16T09:15:29Z"
+}

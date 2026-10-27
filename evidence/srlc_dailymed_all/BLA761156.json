@@ -1,0 +1,68 @@
+{
+ "application": "BLA761156",
+ "srlc_rows": [
+  {
+   "drug_name": "SOGROYA",
+   "active_ingredient": "SOMAPACITAN-BECO",
+   "application_number": "761156",
+   "application_type": "BLA",
+   "supplement_date": "02/27/2026",
+   "database_updated": "03/06/2026",
+   "drug_name_id": "2536"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-27",
+ "srlc_database_updated": "2026-03-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "eadd03b4-adc3-4b88-8a24-9d205c5b85aa",
+   "title": "SOGROYA (SOMAPACITAN-BECO) INJECTION, SOLUTION [NOVO NORDISK]",
+   "published_date": "Mar 16, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-08-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-10-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-03-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-05-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-02-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-07-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-03-16"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:39:56Z"
+}

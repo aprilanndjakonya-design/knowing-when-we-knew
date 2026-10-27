@@ -1,0 +1,266 @@
+{
+ "application": "NDA021821",
+ "srlc_rows": [
+  {
+   "drug_name": "TYGACIL",
+   "active_ingredient": "TIGECYCLINE",
+   "application_number": "021821",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/09/2025",
+   "drug_name_id": "257"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-31",
+ "srlc_database_updated": "2025-04-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2ccdb48e-c14a-4eeb-348c-4920ccfd7465",
+   "title": "TYGACIL (TIGECYCLINE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [WYETH PHARMACEUTICALS LLC, A SUBSIDIARY OF PFIZER INC.]",
+   "published_date": "Nov 19, 2025",
+   "spl_version": 50,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-08-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-12-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-03-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2009-04-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2009-09-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2010-02-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2010-05-12"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2010-08-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2011-02-18"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2012-07-10"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2012-12-21"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2013-04-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2013-05-10"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2014-07-10"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2014-07-18"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2014-12-23"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2015-06-19"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2016-02-03"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2016-06-16"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2016-09-07"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2018-04-03"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2018-05-03"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2018-07-02"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2019-12-06"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2020-01-31"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2020-07-01"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2020-07-09"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2020-07-21"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2020-12-03"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2021-06-03"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2021-07-08"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2023-04-24"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2025-01-27"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2025-04-16"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2025-05-01"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2025-07-11"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2025-11-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 47,
+    "published_date": "2025-04-16"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 35
+  },
+  {
+   "setid": "fd826e47-1b77-4ffd-bb22-fda3379903b0",
+   "title": "TYGACIL (TIGECYCLINE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [WYETH PHARMACEUTICALS LLC, A SUBSIDIARY OF PFIZER INC.]",
+   "published_date": "Nov 19, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-02-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-07-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-04-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-05-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-07-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-06-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-08-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-12-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-06-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-07-22"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-02-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-05-07"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-07-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-11-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-05-07"
+   },
+   "lag_days_dailymed": 37,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:53:14Z"
+}

@@ -1,0 +1,66 @@
+{
+ "application": "NDA005213",
+ "srlc_rows": [
+  {
+   "drug_name": "HYCODAN",
+   "active_ingredient": "HOMATROPINE METHYLBROMIDE; HYDROCODONE BITARTRATE",
+   "application_number": "005213",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "782"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 16,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "71319a6f-aaf4-4bc5-8b40-a16c6f139be6",
+   "title": "HYDROCODONE BITARTRATE AND HOMATROPINE METHYLBROMIDE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+   "published_date": "Jul 27, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-08-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-07-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-07-27"
+   },
+   "lag_days_dailymed": 217,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "320ff639-9854-407b-9bbd-a035c4f173e1",
+   "title": "HYDROCODONE BITARTRATE AND HOMATROPINE METHYLBROMIDE TABLET HYDROCODONE BITARTRATE AND HOMATROPINE METHYLBROMIDE SOLUTION [GENUS LIFESCIENCES INC.]",
+   "published_date": "May 11, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-08-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-05-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-05-11"
+   },
+   "lag_days_dailymed": 140,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 140,
+ "fetched_utc": "2026-10-16T08:42:15Z"
+}

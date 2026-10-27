@@ -1,0 +1,99 @@
+{
+ "application": "NDA020186",
+ "srlc_rows": [
+  {
+   "drug_name": "ZIAC",
+   "active_ingredient": "BISOPROLOL FUMARATE; HYDROCHLOROTHIAZIDE",
+   "application_number": "020186",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2026",
+   "database_updated": "07/31/2026",
+   "drug_name_id": "2312"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-24",
+ "srlc_database_updated": "2026-07-31",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "27d52b23-e3e2-4339-b00e-cd0fec43ffbb",
+   "title": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "Aug 13, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-08-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-09-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-10-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-11-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-03-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-04-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-10-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-01-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-02-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-02-12"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-08-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-08-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2026-08-13"
+   },
+   "lag_days_dailymed": 20,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "cf088009-203e-4d70-b56e-b4062cf3fcd8",
+   "title": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 24, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 20,
+ "fetched_utc": "2026-10-16T08:46:33Z"
+}

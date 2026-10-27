@@ -1,0 +1,131 @@
+{
+ "application": "NDA200656",
+ "srlc_rows": [
+  {
+   "drug_name": "KABIVEN IN PLASTIC CONTAINER",
+   "active_ingredient": "AMINO ACIDS; CALCIUM CHLORIDE; DEXTROSE; MAGNESIUM SULFATE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM GLYCEROPHOSPHATE; SOYBEAN OIL",
+   "application_number": "200656",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2639"
+  },
+  {
+   "drug_name": "PERIKABIVEN IN PLASTIC CONTAINER",
+   "active_ingredient": "AMINO ACIDS; CALCIUM CHLORIDE; DEXTROSE; MAGNESIUM SULFATE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM GLYCEROPHOSPHATE; SOYBEAN OIL",
+   "application_number": "200656",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2640"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-24",
+ "srlc_database_updated": "2025-07-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "afeb4837-a759-4484-a76e-e04611c459e7",
+   "title": "KABIVEN (DEXTROSE, SOYBEAN OIL, ELECTROLYTES, LYSINE, PHENYLALANINE, LEUCINE, VALINE, THREONINE, METHIONINE, ISOLEUCINE, TRYPTOPHAN, ALANINE, ARGININE, GLYCINE, PROLINE, HISTIDINE, GLUTAMIC ACID, SERINE, ASPARTIC ACID AND TYROSINE) INJECTION, EMULSION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Oct 06, 2025",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-09-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-09-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-12-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-11-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-01-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-04-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-08-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-08-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-10-06"
+   },
+   "lag_days_dailymed": 74,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "c2eb5522-8572-45f4-869d-42f9fd251bb6",
+   "title": "PERIKABIVEN (DEXTROSE, SOYBEAN OIL, ELECTROLYTES, LYSINE, PHENYLALANINE, LEUCINE, VALINE, THREONINE, METHIONINE, ISOLEUCINE, TRYPTOPHAN, ALANINE, ARGININE, GLYCINE, PROLINE, HISTIDINE, GLUTAMIC ACID, SERINE, ASPARTIC ACID AND TYROSINE) INJECTION, EMULSION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Oct 06, 2025",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-09-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-12-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-11-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-01-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-02-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-04-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-08-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-10-06"
+   },
+   "lag_days_dailymed": 74,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 74,
+ "fetched_utc": "2026-10-16T08:58:38Z"
+}

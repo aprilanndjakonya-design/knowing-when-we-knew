@@ -1,0 +1,107 @@
+{
+ "application": "NDA050786",
+ "srlc_rows": [
+  {
+   "drug_name": "PYLERA",
+   "active_ingredient": "BISMUTH SUBCITRATE POTASSIUM; METRONIDAZOLE; TETRACYCLINE",
+   "application_number": "050786",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/08/2025",
+   "drug_name_id": "807"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-31",
+ "srlc_database_updated": "2025-04-08",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "5cdacbf5-67be-42eb-bd54-8acc32ea1abc",
+   "title": "PYLERA (BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE, AND TETRACYCLINE HYDROCHLORIDE) CAPSULE [H2-PHARMA, LLC]",
+   "published_date": "Jul 01, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-10-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-04-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-07-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-04-11"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "c29bfde9-5eb4-422a-bd30-4bce45e73dc0",
+   "title": "BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE AND TETRACYCLINE HYDROCHLORIDE CAPSULE [H2-PHARMA, LLC]",
+   "published_date": "Apr 14, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-04-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-04-14"
+   },
+   "lag_days_dailymed": 379,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c50626a2-5969-490b-a88a-a4ee45e79615",
+   "title": "PYLERA (BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE, AND TETRACYCLINE HYDROCHLORIDE) CAPSULE [H2-PHARMA, LLC]",
+   "published_date": "Jan 21, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-08-21"
+   },
+   "lag_days_dailymed": 143,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "7fe5d2db-c59d-4e15-acd7-f9df8eca45aa",
+   "title": "PYLERA (BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE, TETRACYCLINE HYDROCHLORIDE (140 MG/125 MG/125 MG)) CAPSULE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Mar 21, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-03-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T08:58:11Z"
+}

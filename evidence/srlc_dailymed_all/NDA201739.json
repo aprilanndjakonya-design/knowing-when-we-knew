@@ -1,0 +1,320 @@
+{
+ "application": "NDA201739",
+ "srlc_rows": [
+  {
+   "drug_name": "AUVI-Q",
+   "active_ingredient": "EPINEPHRINE",
+   "application_number": "201739",
+   "application_type": "NDA",
+   "supplement_date": "04/30/2025",
+   "database_updated": "05/30/2025",
+   "drug_name_id": "221"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-30",
+ "srlc_database_updated": "2025-05-30",
+ "lag_days_srlc_database": 30,
+ "dailymed_setids": 11,
+ "labels": [
+  {
+   "setid": "5f40988b-8365-4f7b-84d1-b88e053725cf",
+   "title": "AUVI-Q (EPINEPHRINE) INJECTION, SOLUTION [SPORTPHARM LLC]",
+   "published_date": "Sep 24, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-09-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-09-24"
+   },
+   "lag_days_dailymed": 512,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "6180fb40-7fca-4602-b3da-ce62b8cd2470",
+   "title": "AUVI-Q (EPINEPHRINE) INJECTION, SOLUTION [KALEO, INC]",
+   "published_date": "Oct 06, 2025",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-06-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-11-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-07-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-12-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-10-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-10-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-11-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-12-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-11-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-12-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-12-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-03-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-08-23"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-12-13"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2025-05-15"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 14
+  },
+  {
+   "setid": "23e772f8-26d0-b516-e063-6394a90ada58",
+   "title": "AUVI-Q INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "May 09, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-10-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-05-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-05-09"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "296a9023-b5c6-6102-e063-6294a90af87e",
+   "title": "AUVI-Q (EPINEPHRINE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Dec 18, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "29299266-69c5-b1a7-e063-6394a90a25f8",
+   "title": "AUVI-Q (EPINEPHRINE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Dec 16, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "23fd4c93-0a42-922e-e063-6394a90a1887",
+   "title": "AUVI-Q INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Oct 10, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-10-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "23fdb616-0c60-44fe-e063-6394a90ad8f1",
+   "title": "AUVI-Q INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Oct 10, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-10-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "98aaa648-fc25-754d-e053-2995a90a7051",
+   "title": "EPINEPHRINE INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Mar 11, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-07-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-02-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-03-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "7664bb0d-dc1a-ca8b-e053-2991aa0ad627",
+   "title": "EPINEPHRINE INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Feb 20, 2024",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-09-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-08-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-08-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-02-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-10-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-01-30"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-02-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "8f110633-bf37-458d-e053-2a95a90a8fa9",
+   "title": "AUVI-Q (EPINEPHRINE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Jul 25, 2023",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-08-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "8f00231e-be88-49fe-e053-2a95a90ab6dd",
+   "title": "AUVI-Q (EPINEPHRINE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Jun 21, 2023",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-08-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:58:57Z"
+}

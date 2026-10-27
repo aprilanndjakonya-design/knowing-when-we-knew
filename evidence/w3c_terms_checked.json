@@ -1,0 +1,174 @@
+{
+ "owl_time_license": [
+  "https://creativecommons.org/licenses/by/4.0/"
+ ],
+ "owl_time_triples": 1296,
+ "owl_time_triples_with_object_xsd_duration": 1,
+ "owl_time_used_terms": {
+  "http://www.w3.org/2006/time#Instant": {
+   "declared": true,
+   "types": [
+    "owl:Class"
+   ],
+   "subClassOf": [
+    "TemporalEntity"
+   ],
+   "subPropertyOf": [],
+   "domain": [],
+   "range": [],
+   "disjointWith": [],
+   "inverseOf": []
+  },
+  "http://www.w3.org/2006/time#Interval": {
+   "declared": true,
+   "types": [
+    "owl:Class"
+   ],
+   "subClassOf": [
+    "TemporalEntity"
+   ],
+   "subPropertyOf": [],
+   "domain": [],
+   "range": [],
+   "disjointWith": [],
+   "inverseOf": []
+  },
+  "http://www.w3.org/2006/time#ProperInterval": {
+   "declared": true,
+   "types": [
+    "owl:Class"
+   ],
+   "subClassOf": [
+    "Interval"
+   ],
+   "subPropertyOf": [],
+   "domain": [],
+   "range": [],
+   "disjointWith": [
+    "Instant"
+   ],
+   "inverseOf": []
+  },
+  "http://www.w3.org/2006/time#TemporalEntity": {
+   "declared": true,
+   "types": [
+    "owl:Class"
+   ],
+   "subClassOf": [
+    "owl:Thing"
+   ],
+   "subPropertyOf": [],
+   "domain": [],
+   "range": [],
+   "disjointWith": [],
+   "inverseOf": []
+  },
+  "http://www.w3.org/2006/time#hasBeginning": {
+   "declared": true,
+   "types": [
+    "owl:ObjectProperty"
+   ],
+   "subClassOf": [],
+   "subPropertyOf": [
+    "hasTime"
+   ],
+   "domain": [
+    "TemporalEntity"
+   ],
+   "range": [
+    "Instant"
+   ],
+   "disjointWith": [],
+   "inverseOf": []
+  },
+  "http://www.w3.org/2006/time#hasEnd": {
+   "declared": true,
+   "types": [
+    "owl:ObjectProperty"
+   ],
+   "subClassOf": [],
+   "subPropertyOf": [
+    "hasTime"
+   ],
+   "domain": [
+    "TemporalEntity"
+   ],
+   "range": [
+    "Instant"
+   ],
+   "disjointWith": [],
+   "inverseOf": []
+  },
+  "http://www.w3.org/2006/time#hasTime": {
+   "declared": true,
+   "types": [
+    "owl:ObjectProperty"
+   ],
+   "subClassOf": [],
+   "subPropertyOf": [],
+   "domain": [],
+   "range": [
+    "TemporalEntity"
+   ],
+   "disjointWith": [],
+   "inverseOf": []
+  },
+  "http://www.w3.org/2006/time#inXSDDateTimeStamp": {
+   "declared": true,
+   "types": [
+    "owl:DatatypeProperty"
+   ],
+   "subClassOf": [],
+   "subPropertyOf": [],
+   "domain": [
+    "Instant"
+   ],
+   "range": [
+    "xsd:dateTimeStamp"
+   ],
+   "disjointWith": [],
+   "inverseOf": []
+  },
+  "http://www.w3.org/2006/time#intervalMeets": {
+   "declared": true,
+   "types": [
+    "owl:ObjectProperty"
+   ],
+   "subClassOf": [],
+   "subPropertyOf": [],
+   "domain": [
+    "ProperInterval"
+   ],
+   "range": [
+    "ProperInterval"
+   ],
+   "disjointWith": [],
+   "inverseOf": [
+    "intervalMetBy"
+   ]
+  },
+  "http://www.w3.org/2006/time#intervalMetBy": {
+   "declared": true,
+   "types": [
+    "owl:ObjectProperty"
+   ],
+   "subClassOf": [],
+   "subPropertyOf": [],
+   "domain": [
+    "ProperInterval"
+   ],
+   "range": [
+    "ProperInterval"
+   ],
+   "disjointWith": [],
+   "inverseOf": [
+    "intervalMeets"
+   ]
+  }
+ },
+ "prov_used_terms_declared": {
+  "http://www.w3.org/ns/prov#generatedAtTime": true,
+  "http://www.w3.org/ns/prov#wasDerivedFrom": true,
+  "http://www.w3.org/ns/prov#wasRevisionOf": true
+ }
+}

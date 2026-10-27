@@ -1,0 +1,36 @@
+{
+ "application": "BLA761178",
+ "srlc_rows": [
+  {
+   "drug_name": "ADUHELM",
+   "active_ingredient": "ADUCANUMAB-AVWA",
+   "application_number": "761178",
+   "application_type": "BLA",
+   "supplement_date": "08/30/2023",
+   "supplement": "SUPPL-11",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/30/2023",
+     "suppl": "SUPPL-11",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/30/2023",
+   "database_updated": "09/06/2023",
+   "drug_name_id": "2616"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-08-30",
+ "srlc_database_updated": "2023-09-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:13:05Z"
+}

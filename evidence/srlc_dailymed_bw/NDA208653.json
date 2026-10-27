@@ -1,0 +1,75 @@
+{
+ "application": "NDA208653",
+ "srlc_rows": [
+  {
+   "drug_name": "APADAZ",
+   "active_ingredient": "ACETAMINOPHEN; BENZHYDROCODONE HYDROCHLORIDE",
+   "application_number": "208653",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-8",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-8",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Contraindications",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/15/2023",
+   "database_updated": "12/19/2023",
+   "drug_name_id": "1683"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2023-12-19",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0590d4e5-7107-4015-a6a8-deac14265aa2",
+   "title": "APADAZ (BENZHYDROCODONE AND ACETAMINOPHEN) TABLET [ZEVRA THERAPEUTICS, INC.]",
+   "published_date": "Jan 08, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-06-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-10-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-01-08"
+   },
+   "lag_days_dailymed": 390,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 390,
+ "fetched_utc": "2026-10-16T09:28:36Z"
+}

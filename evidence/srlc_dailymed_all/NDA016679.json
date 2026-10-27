@@ -1,0 +1,92 @@
+{
+ "application": "NDA016679",
+ "srlc_rows": [
+  {
+   "drug_name": "LACTATED RINGER'S AND DEXTROSE 5% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "016679",
+   "application_type": "NDA",
+   "supplement_date": "11/05/2025",
+   "database_updated": "11/18/2025",
+   "drug_name_id": "1395"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-05",
+ "srlc_database_updated": "2025-11-18",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6acc9f96-7088-45a7-b48f-1a861e3467ab",
+   "title": "LACTATED RINGERS AND DEXTROSE (SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, CALCIUM CHLORIDE AND DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Jul 28, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-10-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-03-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-04-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-12-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-10-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-11-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-12-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-12-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-04-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-09-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-02-28"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-11-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-07-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-11-19"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:43:16Z"
+}

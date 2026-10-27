@@ -1,0 +1,87 @@
+{
+ "application": "NDA211746",
+ "srlc_rows": [
+  {
+   "drug_name": "RYALTRIS",
+   "active_ingredient": "MOMETASONE FUROATE; OLOPATADINE HYDROCHLORIDE",
+   "application_number": "211746",
+   "application_type": "NDA",
+   "supplement_date": "07/07/2026",
+   "database_updated": "07/16/2026",
+   "drug_name_id": "2844"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-07",
+ "srlc_database_updated": "2026-07-16",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "406be932-f00e-4c66-9dd1-c142090fe822",
+   "title": "RYALTRIS (OLOPATADINE HYDROCHLORIDE AND MOMETASONE FUROATE) SPRAY, METERED [GLENMARK PHARMACEUTICALS INC., USA]",
+   "published_date": "Jul 22, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-07-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-07-22"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "382eac74-a7ce-4f42-ac0a-b253308f335f",
+   "title": "RYALTRIS (OLOPATADINE HYDROCHLORIDE AND MOMETASONE FUROATE) SPRAY, METERED [HIKMA SPECIALTY USA INC.]",
+   "published_date": "Jan 26, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-06-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-08-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-10-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-09-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-03-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-05-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-01-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:05:48Z"
+}

@@ -1,0 +1,48 @@
+{
+ "application": "NDA208088",
+ "srlc_rows": [
+  {
+   "drug_name": "TLANDO",
+   "active_ingredient": "TESTOSTERONE UNDECANOATE",
+   "application_number": "208088",
+   "application_type": "NDA",
+   "supplement_date": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "3160"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-11",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4b0b92e9-6d3c-a0e5-e1c7-342999f72580",
+   "title": "TLANDO (TESTOSTERONE UNDECANOATE) CAPSULE, LIQUID FILLED [VERITY PHARMACEUTICALS INC.]",
+   "published_date": "Mar 12, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-07-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-03-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-07-24"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:02:58Z"
+}

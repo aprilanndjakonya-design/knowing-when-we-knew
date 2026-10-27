@@ -1,0 +1,22 @@
+{
+ "data": [
+  {
+   "spl_version": 36,
+   "published_date": "Jun 26, 2026",
+   "title": "COPAXONE (GLATIRAMER ACETATE) INJECTION, SOLUTION [TEVA NEUROSCIENCE, INC.]",
+   "setid": "aa88f583-4f5f-433b-80b4-1f4c9fb28357"
+  }
+ ],
+ "metadata": {
+  "db_published_date": "Oct 06, 2026 07:48:40PM EST",
+  "elements_per_page": 100,
+  "current_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=copaxone",
+  "next_page_url": "null",
+  "total_elements": 1,
+  "total_pages": 1,
+  "current_page": 1,
+  "previous_page": "null",
+  "previous_page_url": "null",
+  "next_page": "null"
+ }
+}

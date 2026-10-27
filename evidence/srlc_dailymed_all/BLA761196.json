@@ -1,0 +1,92 @@
+{
+ "application": "BLA761196",
+ "srlc_rows": [
+  {
+   "drug_name": "ZYNLONTA",
+   "active_ingredient": "LONCASTUXIMAB TESIRINE-LPYL",
+   "application_number": "761196",
+   "application_type": "BLA",
+   "supplement_date": "02/20/2026",
+   "database_updated": "02/25/2026",
+   "drug_name_id": "2685"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-20",
+ "srlc_database_updated": "2026-02-25",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "af54af12-3edf-4301-8bc5-0446bc813c1d",
+   "title": "ZYNLONTA (LONCASTUXIMAB TESIRINE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ADC THERAPEUTICS AMERICA, INC.]",
+   "published_date": "Jun 17, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2021-05-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-05-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-08-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-08-31"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-10-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-04-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-06-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-07-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-07-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-01-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-01-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-06-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2026-03-02"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:40:09Z"
+}

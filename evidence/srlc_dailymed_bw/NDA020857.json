@@ -1,0 +1,209 @@
+{
+ "application": "NDA020857",
+ "srlc_rows": [
+  {
+   "drug_name": "COMBIVIR",
+   "active_ingredient": "LAMIVUDINE; ZIDOVUDINE",
+   "application_number": "020857",
+   "application_type": "NDA",
+   "supplement_date": "04/27/2018",
+   "supplement": "SUPPL-33",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/24/2017",
+     "suppl": "SUPPL-31",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Use in Specific Populations",
+      "Adverse Reactions",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "04/27/2018",
+     "suppl": "SUPPL-33",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/10/2019",
+   "database_updated": "05/14/2019",
+   "drug_name_id": "871"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-04-27",
+ "srlc_database_updated": "2019-05-14",
+ "lag_days_srlc_database": 382,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "16da660b-9981-4d24-a14a-94c7744fce4f",
+   "title": "COMBIVIR (LAMIVUDINE AND ZIDOVUDINE) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+   "published_date": "Oct 03, 2024",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-10-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-07-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-12-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-12-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-12-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-01-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-10-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-09-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-10-13"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-10-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-02-27"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-03-31"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-09-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-05-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-10-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-05-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-09-02"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2021-09-03"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-09-02"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-09-07"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-10-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2018-05-02"
+   },
+   "lag_days_dailymed": 5,
+   "versions_before_supplement": 13
+  },
+  {
+   "setid": "1bc4c6c8-7e75-494e-810b-8f83135a3204",
+   "title": "COMBIVIR (LAMIVUDINE AND ZIDOVUDINE) TABLET, FILM COATED [STATE OF FLORIDA DOH CENTRAL PHARMACY]",
+   "published_date": "Nov 18, 2014",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-11-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "479a2784-8db2-4fe5-94ba-55316a3c4e4f",
+   "title": "COMBIVIR (LAMIVUDINE AND ZIDOVUDINE) TABLET, FILM COATED [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Feb 15, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-02-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "d8540843-055c-47fb-9cff-81e64b1d41c3",
+   "title": "COMBIVIR (LAMIVUDINE AND ZIDOVUDINE) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Nov 26, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "b03e286a-4d44-489a-89d0-ee563e1f280f",
+   "title": "COMBIVIR (LAMIVUDINE, ZIDOVUDINE ) TABLET, FILM COATED [STAT RX USA]",
+   "published_date": "Feb 12, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 5,
+ "fetched_utc": "2026-10-16T09:18:17Z"
+}

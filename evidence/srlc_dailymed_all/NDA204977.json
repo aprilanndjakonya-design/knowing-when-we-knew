@@ -1,0 +1,45 @@
+{
+ "application": "NDA204977",
+ "srlc_rows": [
+  {
+   "drug_name": "OMTRYG",
+   "active_ingredient": "OMEGA-3-ACID ETHYL ESTERS TYPE A",
+   "application_number": "204977",
+   "application_type": "NDA",
+   "supplement_date": "06/20/2025",
+   "database_updated": "06/24/2025",
+   "drug_name_id": "3144"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-20",
+ "srlc_database_updated": "2025-06-24",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5fe15bdb-f59f-4b87-8e5d-8a3d5683eb3d",
+   "title": "OMTRYG (OMEGA-3-ACID ETHYL ESTERS) CAPSULE [TRYGG PHARMA INC]",
+   "published_date": "Jul 01, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-06-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-09-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-07-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:01:07Z"
+}

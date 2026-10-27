@@ -1,0 +1,114 @@
+{
+ "application": "NDA210868",
+ "srlc_rows": [
+  {
+   "drug_name": "LORBRENA",
+   "active_ingredient": "LORLATINIB",
+   "application_number": "210868",
+   "application_type": "NDA",
+   "supplement_date": "01/29/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "2268"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-29",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2b34d62d-e02a-4af3-bc0d-1571dd4ee76d",
+   "title": "LORBRENA (LORLATINIB) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jun 29, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-11-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-06-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-02-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-03-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-03-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-09-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-01-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-05-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-02-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-06-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2026-02-11"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "004f93d7-a1cd-4b67-9207-31cdcb5c5976",
+   "title": "LORBRENA (LORLATINIB) TABLET, FILM COATED [U.S. PHARMACEUTICALS]",
+   "published_date": "Feb 18, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-03-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-02-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-02-18"
+   },
+   "lag_days_dailymed": 20,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:05:24Z"
+}

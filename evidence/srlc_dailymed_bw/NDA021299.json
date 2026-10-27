@@ -1,0 +1,40 @@
+{
+ "application": "NDA021299",
+ "srlc_rows": [
+  {
+   "drug_name": "PEXEVA",
+   "active_ingredient": "PAROXETINE MESYLATE",
+   "application_number": "021299",
+   "application_type": "NDA",
+   "supplement_date": "12/31/2020",
+   "supplement": "SUPPL-31",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/31/2020",
+     "suppl": "SUPPL-31",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/22/2023",
+   "drug_name_id": "707"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-12-31",
+ "srlc_database_updated": "2023-08-22",
+ "lag_days_srlc_database": 964,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:21:11Z"
+}

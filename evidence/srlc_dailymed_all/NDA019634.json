@@ -1,0 +1,88 @@
+{
+ "application": "NDA019634",
+ "srlc_rows": [
+  {
+   "drug_name": "DEXTROSE 5% IN LACTATED RINGER'S IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "019634",
+   "application_type": "NDA",
+   "supplement_date": "11/05/2025",
+   "database_updated": "11/18/2025",
+   "drug_name_id": "2551"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-05",
+ "srlc_database_updated": "2025-11-18",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "190da07e-a616-46e6-b4e5-1c0ba39306e5",
+   "title": "DEXTROSE IN LACTATED RINGERS (DEXTROSE, SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, AND CALCIUM CHLORIDE) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "Dec 19, 2025",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-12-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-10-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-01-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-02-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-05-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-02-26"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-03-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-07-13"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-03-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-11-18"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-03-21"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-12-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2025-12-19"
+   },
+   "lag_days_dailymed": 44,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 44,
+ "fetched_utc": "2026-10-16T08:45:31Z"
+}

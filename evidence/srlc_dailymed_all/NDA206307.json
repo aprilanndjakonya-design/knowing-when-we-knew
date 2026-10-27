@@ -1,0 +1,40 @@
+{
+ "application": "NDA206307",
+ "srlc_rows": [
+  {
+   "drug_name": "XTORO",
+   "active_ingredient": "FINAFLOXACIN",
+   "application_number": "206307",
+   "application_type": "NDA",
+   "supplement_date": "03/18/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "3264"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-18",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5c628272-019e-4511-8d5c-dcf56023da25",
+   "title": "XTORO (FINAFLOXACIN) SUSPENSION [FONSECA BIOSCIENCES, LLC]",
+   "published_date": "May 01, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-05-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-05-01"
+   },
+   "lag_days_dailymed": 44,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 44,
+ "fetched_utc": "2026-10-16T09:02:03Z"
+}

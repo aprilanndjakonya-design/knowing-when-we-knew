@@ -1,0 +1,21 @@
+{
+ "application": "NDA018644",
+ "srlc_rows": [
+  {
+   "drug_name": "WELLBUTRIN",
+   "active_ingredient": "BUPROPION HYDROCHLORIDE",
+   "application_number": "018644",
+   "application_type": "NDA",
+   "supplement_date": "11/05/2025",
+   "database_updated": "11/06/2025",
+   "drug_name_id": "172"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-05",
+ "srlc_database_updated": "2025-11-06",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:44:31Z"
+}

@@ -1,0 +1,92 @@
+{
+ "application": "NDA021980",
+ "srlc_rows": [
+  {
+   "drug_name": "FLUORESCITE",
+   "active_ingredient": "FLUORESCEIN SODIUM",
+   "application_number": "021980",
+   "application_type": "NDA",
+   "supplement_date": "06/10/2026",
+   "database_updated": "06/17/2026",
+   "drug_name_id": "32"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-10",
+ "srlc_database_updated": "2026-06-17",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9",
+   "title": "FLUORESCITE (FLUORESCEIN SODIUM) INJECTION, SOLUTION [ALCON, INC.]",
+   "published_date": "Jul 01, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-03-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-08-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-07-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-02-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-04-01"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-12-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-12-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-08-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-12-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-11-16"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-12-09"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2023-12-15"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-07-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2026-07-01"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T08:53:36Z"
+}

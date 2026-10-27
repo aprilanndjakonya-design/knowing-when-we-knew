@@ -1,0 +1,112 @@
+{
+ "application": "NDA020263",
+ "srlc_rows": [
+  {
+   "drug_name": "LUPRON DEPOT-PED KIT",
+   "active_ingredient": "LEUPROLIDE ACETATE",
+   "application_number": "020263",
+   "application_type": "NDA",
+   "supplement_date": "11/14/2025",
+   "database_updated": "11/18/2025",
+   "drug_name_id": "2431"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-14",
+ "srlc_database_updated": "2025-11-18",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e99f47d2-da10-3127-ecb3-e5d942ae6e81",
+   "title": "LUPRON DEPOT-PED (LEUPROLIDE ACETATE) KIT [ABBVIE INC.]",
+   "published_date": "Nov 26, 2025",
+   "spl_version": 97,
+   "versions": [
+    {
+     "spl_version": 32,
+     "published_date": "2013-06-20"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2013-09-30"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2015-12-30"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2017-05-25"
+    },
+    {
+     "spl_version": 70,
+     "published_date": "2017-08-14"
+    },
+    {
+     "spl_version": 71,
+     "published_date": "2017-10-10"
+    },
+    {
+     "spl_version": 76,
+     "published_date": "2018-11-29"
+    },
+    {
+     "spl_version": 78,
+     "published_date": "2019-10-25"
+    },
+    {
+     "spl_version": 82,
+     "published_date": "2020-04-15"
+    },
+    {
+     "spl_version": 83,
+     "published_date": "2021-03-19"
+    },
+    {
+     "spl_version": 85,
+     "published_date": "2021-07-22"
+    },
+    {
+     "spl_version": 87,
+     "published_date": "2022-05-06"
+    },
+    {
+     "spl_version": 88,
+     "published_date": "2022-05-09"
+    },
+    {
+     "spl_version": 89,
+     "published_date": "2023-05-01"
+    },
+    {
+     "spl_version": 90,
+     "published_date": "2023-09-21"
+    },
+    {
+     "spl_version": 93,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 95,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 96,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 97,
+     "published_date": "2025-11-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 97,
+    "published_date": "2025-11-26"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 18
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:46:55Z"
+}

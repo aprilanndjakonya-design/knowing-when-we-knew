@@ -1,0 +1,45 @@
+{
+ "application": "NDA214860",
+ "srlc_rows": [
+  {
+   "drug_name": "OLPRUVA",
+   "active_ingredient": "SODIUM PHENYLBUTYRATE",
+   "application_number": "214860",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/14/2025",
+   "drug_name_id": "3200"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-10",
+ "srlc_database_updated": "2025-10-14",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "89abc31c-43e8-4809-9eb7-172cb31a86f1",
+   "title": "OLPRUVA (SODIUM PHENYLBUTYRATE) KIT [ACER THERAPEUTICS INC.]",
+   "published_date": "Dec 20, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-01-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-01-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-12-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:07:50Z"
+}

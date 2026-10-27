@@ -1,0 +1,120 @@
+{
+ "application": "BLA761133",
+ "srlc_rows": [
+  {
+   "drug_name": "ENTYVIO",
+   "active_ingredient": "VEDOLIZUMAB",
+   "application_number": "761133",
+   "application_type": "BLA",
+   "supplement_date": "02/25/2026",
+   "database_updated": "03/02/2026",
+   "drug_name_id": "2919"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-25",
+ "srlc_database_updated": "2026-03-02",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6e94621c-1a95-4af9-98d1-52b9e6f1949c",
+   "title": "ENTYVIO (VEDOLIZUMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION ENTYVIO PEN (VEDOLIZUMAB) INJECTION, SOLUTION ENTYVIO (VEDOLIZUMAB) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+   "published_date": "May 13, 2026",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-05-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-01-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-05-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-06-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-04-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-11-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-08-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-06-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-10-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-03-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-04-03"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-12-25"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-02-19"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-03-06"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-05-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 24,
+    "published_date": "2026-03-06"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 19
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:39:44Z"
+}

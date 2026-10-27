@@ -1,0 +1,137 @@
+{
+ "application": "NDA021532",
+ "srlc_rows": [
+  {
+   "drug_name": "BENICAR HCT",
+   "active_ingredient": "HYDROCHLOROTHIAZIDE; OLMESARTAN MEDOXOMIL",
+   "application_number": "021532",
+   "application_type": "NDA",
+   "supplement_date": "04/10/2025",
+   "database_updated": "05/22/2025",
+   "drug_name_id": "2313"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-10",
+ "srlc_database_updated": "2025-05-22",
+ "lag_days_srlc_database": 42,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "569596a2-98f0-116a-e063-6294a90a3fa1",
+   "title": "OLMESARTAN MEDOXOMIL-HYDROCHLOROTHIAZIDE TABLET, FILM COATED [AVKARE]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-07-15"
+   },
+   "lag_days_dailymed": 461,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a90915ca-f9d3-4fff-8370-d5dc4cdfc521",
+   "title": "BENICAR HCT (OLMESARTAN MEDOXOMIL-HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+   "published_date": "Apr 02, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-02"
+   },
+   "lag_days_dailymed": 357,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "017bc6a3-5b3d-2381-e063-6394a90abece",
+   "title": "OLMESARTAN MEDOXOMIL-HYDROCHLOROTHIAZIDE TABLET, FILM COATED [AVKARE]",
+   "published_date": "Jan 21, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-08-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-01-21"
+   },
+   "lag_days_dailymed": 286,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "881a1c32-c209-4038-9c5e-c5e46c6e0546",
+   "title": "BENICAR HCT (OLMESARTAN MEDOXOMIL-HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 13, 2023",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-06-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-09-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-07-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "914ef77b-54ee-4b13-802a-d00c95082c47",
+   "title": "OLMESARTAN MEDOXOMIL AND HYDROCHLOROTHIAZIDE (OLMESARTAN MEDOXOMIL-HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jun 14, 2019",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2019-06-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "cd879bd1-38c0-4f72-904b-cf07f3186342",
+   "title": "BENICAR HCT (OLMESARTAN MEDOXOMIL AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Dec 20, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 286,
+ "fetched_utc": "2026-10-16T08:52:23Z"
+}

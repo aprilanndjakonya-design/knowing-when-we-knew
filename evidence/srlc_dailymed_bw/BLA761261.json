@@ -1,0 +1,82 @@
+{
+ "application": "BLA761261",
+ "srlc_rows": [
+  {
+   "drug_name": "XENPOZYME",
+   "active_ingredient": "OLIPUDASE ALFA-RPCP",
+   "application_number": "761261",
+   "application_type": "BLA",
+   "supplement_date": "12/05/2023",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/05/2023",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/05/2023",
+   "database_updated": "12/07/2023",
+   "drug_name_id": "2889"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-05",
+ "srlc_database_updated": "2023-12-07",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "01a910ee-a33e-4be3-ac41-322d64c34311",
+   "title": "XENPOZYME (OLIPUDASE ALFA-RPCP) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GENZYME CORPORATION]",
+   "published_date": "Dec 15, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-09-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-04-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-12-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-10-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-02-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-03-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-12-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2023-12-13"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T09:13:10Z"
+}

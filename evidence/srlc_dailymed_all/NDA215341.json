@@ -1,0 +1,76 @@
+{
+ "application": "NDA215341",
+ "srlc_rows": [
+  {
+   "drug_name": "KERENDIA",
+   "active_ingredient": "FINERENONE",
+   "application_number": "215341",
+   "application_type": "NDA",
+   "supplement_date": "09/16/2026",
+   "database_updated": "09/24/2026",
+   "drug_name_id": "3157"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-16",
+ "srlc_database_updated": "2026-09-24",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "fc726765-5d5a-4d6e-b037-b847bda9fb7c",
+   "title": "KERENDIA (FINERENONE) TABLET, FILM COATED KERENDIA (FINERENONE) TABLET [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+   "published_date": "Sep 29, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-07-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-08-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-09-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-07-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-07-31"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2026-09-29"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:08:16Z"
+}

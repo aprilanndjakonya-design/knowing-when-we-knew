@@ -1,0 +1,21 @@
+{
+ "application": "NDA209935",
+ "srlc_rows": [
+  {
+   "drug_name": "KISQALI FEMARA CO-PACK (COPACKAGED)",
+   "active_ingredient": "LETROZOLE; RIBOCICLIB SUCCINATE",
+   "application_number": "209935",
+   "application_type": "NDA",
+   "supplement_date": "07/01/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "1533"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-01",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:04:36Z"
+}

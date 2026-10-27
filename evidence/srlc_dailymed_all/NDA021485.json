@@ -1,0 +1,159 @@
+{
+ "application": "NDA021485",
+ "srlc_rows": [
+  {
+   "drug_name": "STALEVO 100",
+   "active_ingredient": "CARBIDOPA; ENTACAPONE; LEVODOPA",
+   "application_number": "021485",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2167"
+  },
+  {
+   "drug_name": "STALEVO 125",
+   "active_ingredient": "CARBIDOPA; ENTACAPONE; LEVODOPA",
+   "application_number": "021485",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2168"
+  },
+  {
+   "drug_name": "STALEVO 150",
+   "active_ingredient": "CARBIDOPA; ENTACAPONE; LEVODOPA",
+   "application_number": "021485",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2169"
+  },
+  {
+   "drug_name": "STALEVO 200",
+   "active_ingredient": "CARBIDOPA; ENTACAPONE; LEVODOPA",
+   "application_number": "021485",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2170"
+  },
+  {
+   "drug_name": "STALEVO 50",
+   "active_ingredient": "CARBIDOPA; ENTACAPONE; LEVODOPA",
+   "application_number": "021485",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2171"
+  },
+  {
+   "drug_name": "STALEVO 75",
+   "active_ingredient": "CARBIDOPA; ENTACAPONE; LEVODOPA",
+   "application_number": "021485",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2172"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-19",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "9c16c0e0-3b97-486b-b7d5-579f5853e2c5",
+   "title": "CARBIDOPA, LEVODOPA, AND ENTACAPONE TABLET, FILM COATED [SANDOZ INC]",
+   "published_date": "Apr 06, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 10,
+     "published_date": "2014-07-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-01-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-12-20"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-05-07"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-04-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2026-04-06"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "967bd870-7517-43bc-90eb-05e831d688ae",
+   "title": "CARBIDOPA, LEVODOPA AND ENTACAPONE TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+   "published_date": "Mar 04, 2019",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-02-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-10-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-12-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-12-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-05-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-03-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "dabb7f5d-03b3-4d46-951a-e41a1f8d69cc",
+   "title": "CARBIDOPA, LEVODOPA AND ENTACAPONE TABLET, FILM COATED [WOCKHARDT LIMITED]",
+   "published_date": "May 30, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-03-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-04-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-05-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T08:52:07Z"
+}

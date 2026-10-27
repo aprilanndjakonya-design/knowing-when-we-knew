@@ -1,0 +1,76 @@
+{
+ "application": "BLA761306",
+ "srlc_rows": [
+  {
+   "drug_name": "EBGLYSS",
+   "active_ingredient": "LEBRIKIZUMAB-LBKZ",
+   "application_number": "761306",
+   "application_type": "BLA",
+   "supplement_date": "10/28/2025",
+   "database_updated": "10/29/2025",
+   "drug_name_id": "3203"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-28",
+ "srlc_database_updated": "2025-10-29",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7a774ea2-acde-4aaa-9a8f-ccba5a5b1d5f",
+   "title": "EBGLYSS (LEBRIKIZUMAB-LBKZ) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+   "published_date": "Oct 05, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-02-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-06-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-01-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-06-15"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-10-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-11-18"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T08:40:58Z"
+}

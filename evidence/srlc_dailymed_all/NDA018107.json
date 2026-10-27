@@ -1,0 +1,56 @@
+{
+ "application": "NDA018107",
+ "srlc_rows": [
+  {
+   "drug_name": "TECHNETIUM TC-99M MEDRONATE KIT",
+   "active_ingredient": "TECHNETIUM TC-99M MEDRONATE KIT",
+   "application_number": "018107",
+   "application_type": "NDA",
+   "supplement_date": "05/22/2025",
+   "database_updated": "06/04/2025",
+   "drug_name_id": "3120"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-22",
+ "srlc_database_updated": "2025-06-04",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "54608807-4df6-49ba-b065-59a19ef224c4",
+   "title": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M MEDRONATE (TECHNETIUM TC 99M MEDRONATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CARDINAL HEALTH 414, LLC]",
+   "published_date": "Sep 10, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-12-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-05-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-06-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-02-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-09-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-09-10"
+   },
+   "lag_days_dailymed": 111,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 111,
+ "fetched_utc": "2026-10-16T08:44:06Z"
+}

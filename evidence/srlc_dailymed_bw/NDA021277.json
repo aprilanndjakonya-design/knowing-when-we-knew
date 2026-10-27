@@ -1,0 +1,36 @@
+{
+ "application": "NDA021277",
+ "srlc_rows": [
+  {
+   "drug_name": "AVELOX IN SODIUM CHLORIDE 0.8% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "021277",
+   "application_type": "NDA",
+   "supplement_date": "07/26/2016",
+   "supplement": "SUPPL-59",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/26/2016",
+     "suppl": "SUPPL-59",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "301"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-07-26",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 3277,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:21:04Z"
+}

@@ -1,0 +1,273 @@
+{
+ "application": "NDA020375",
+ "srlc_rows": [
+  {
+   "drug_name": "MENOSTAR",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "020375",
+   "application_type": "NDA",
+   "supplement_date": "09/30/2021",
+   "supplement": "SUPPL-37",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/30/2021",
+     "suppl": "SUPPL-36",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "09/30/2021",
+     "suppl": "SUPPL-37",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1357"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-09-30",
+ "srlc_database_updated": "2024-02-20",
+ "lag_days_srlc_database": 873,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "1e9702c4-f2d7-4ea8-b6e8-7dca31671864",
+   "title": "CLIMARA (ESTRADIOL) PATCH [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+   "published_date": "Mar 30, 2026",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-06-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-07-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-08-04"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-11-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-11-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-07-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-08-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-04-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-10-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-10-07"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-03-05"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-10-14"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-11-04"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-02-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-12-14"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-03-04"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-03-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2021-10-14"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "a78708cd-04d4-4221-a4e4-53680bbe2912",
+   "title": "MENOSTAR (ESTRADIOL) PATCH [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+   "published_date": "Mar 16, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-08-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-11-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-11-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-11-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-07-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-08-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-04-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-10-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-10-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-03-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-10-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-11-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-02-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-12-20"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-03-05"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-03-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2021-10-18"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "c714974b-766f-42f2-a846-b0c1f5a60560",
+   "title": "ESTRADIOL TRANSDERMAL SYSTEM (ESTRADIOL) PATCH [SANDOZ INC]",
+   "published_date": "Mar 05, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-08-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-07-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-10-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-11-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-12-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-03-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2021-10-08"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T09:16:59Z"
+}

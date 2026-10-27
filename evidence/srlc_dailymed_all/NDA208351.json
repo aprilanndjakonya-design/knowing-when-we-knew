@@ -1,0 +1,99 @@
+{
+ "application": "NDA208351",
+ "srlc_rows": [
+  {
+   "drug_name": "ODEFSEY",
+   "active_ingredient": "EMTRICITABINE; RILPIVIRINE HYDROCHLORIDE; TENOFOVIR ALAFENAMIDE FUMARATE",
+   "application_number": "208351",
+   "application_type": "NDA",
+   "supplement_date": "02/19/2025",
+   "database_updated": "02/20/2025",
+   "drug_name_id": "998"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-19",
+ "srlc_database_updated": "2025-02-20",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "ea3b9ec8-e04a-412c-8b3f-e5cbc7e641d5",
+   "title": "ODEFSEY (EMTRICITABINE, RILPIVIRINE HYDROCHLORIDE, AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+   "published_date": "Dec 10, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-03-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-05-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-09-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-11-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-12-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-12-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-03-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-09-24"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-02-13"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-03-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2025-03-06"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "f8689541-6526-47a5-9ff5-b8fc39ef4099",
+   "title": "ODEFSEY (EMTRICITABINE, RILPIVIRINE, AND TENOFOVIR ALAFENAMIDE) TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Feb 25, 2019",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2019-02-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:03:10Z"
+}

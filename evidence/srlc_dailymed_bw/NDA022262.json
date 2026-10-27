@@ -1,0 +1,169 @@
+{
+ "application": "NDA022262",
+ "srlc_rows": [
+  {
+   "drug_name": "LOSEASONIQUE",
+   "active_ingredient": "ETHINYL ESTRADIOL; LEVONORGESTREL",
+   "application_number": "022262",
+   "application_type": "NDA",
+   "supplement_date": "01/27/2023",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/09/2017",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "01/27/2023",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Boxed Warning",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "01/27/2023",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Boxed Warning",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/27/2023",
+   "database_updated": "01/31/2023",
+   "drug_name_id": "1209"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-01-27",
+ "srlc_database_updated": "2023-01-31",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "4a48e24c-9280-47fe-b200-9b79a7f6bd96",
+   "title": "CAMRESE LO (LEVONORGESTREL/ETHINYL ESTRADIOL AND ETHINYL ESTRADIOL) KIT [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "Sep 21, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2011-12-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-07-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-09-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-11-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-09-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-09-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-11-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-11-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-12-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-05-20"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-10-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-01-13"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-05-12"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-02-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-06-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-10-24"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-09-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2023-02-13"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 13
+  },
+  {
+   "setid": "676f6a52-8d82-4289-ae35-28eb4fbbc184",
+   "title": "LOSEASONIQUE (LEVONORGESTREL/ETHINYL ESTRADIOL AND ETHINYL ESTRADIOL) KIT [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 11, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-01-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:24:40Z"
+}

@@ -1,0 +1,126 @@
+{
+ "application": "NDA019700",
+ "srlc_rows": [
+  {
+   "drug_name": "ACULAR",
+   "active_ingredient": "KETOROLAC TROMETHAMINE",
+   "application_number": "019700",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2025",
+   "database_updated": "11/20/2025",
+   "drug_name_id": "3188"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-18",
+ "srlc_database_updated": "2025-11-20",
+ "lag_days_srlc_database": 63,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "c94644d3-7b64-4f3d-a0c7-12c77466a0fc",
+   "title": "ACULAR (KETOROLAC TROMETHAMINE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+   "published_date": "Oct 02, 2025",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-11-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-11-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-05-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-09-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-08-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-12-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-11-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-11-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-11-03"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-09-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-03-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-10-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-10-02"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 13
+  },
+  {
+   "setid": "5ba45168-ad5d-4ea9-bd85-fc2fa2b13dad",
+   "title": "ACULAR (KETOROLAC TROMETHAMINE) SOLUTION/ DROPS [STAT RX USA LLC]",
+   "published_date": "Jun 05, 2012",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-06-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "8014fa52-6180-4365-8285-0943a036a6f6",
+   "title": "ACULAR (KETOROLAC TROMETHAMINE) SOLUTION [REBEL DISTRIBUTORS CORP.]",
+   "published_date": "Sep 08, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-09-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:45:35Z"
+}

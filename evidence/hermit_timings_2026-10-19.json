@@ -1,0 +1,60 @@
+{
+ "note": "full_year/quarter/month rows are from the FIRST grid build, inconsistent by construction (the prescription record known from T was in usedRecord while the guard used T' < T); after the fix the grid leaves 59/60 checks without external records and was rejected. Timings measured on a Mac while other jobs ran.",
+ "results": [
+  {
+   "variant": "full_nosyn",
+   "wall_s": 2228.3,
+   "verdict": "ИТОГ: OK",
+   "seconds": 2226.9,
+   "consistent": true,
+   "unsat": 0,
+   "error": "",
+   "leak_detector_works": true,
+   "checks_raising": 1
+  },
+  {
+   "variant": "full_year",
+   "wall_s": 3.3,
+   "verdict": "ИТОГ: ЕСТЬ ПРОБЛЕМЫ",
+   "seconds": 1.9,
+   "consistent": false,
+   "unsat": 0,
+   "error": "",
+   "leak_detector_works": true,
+   "checks_raising": 0
+  },
+  {
+   "variant": "full_quarter",
+   "wall_s": 3.3,
+   "verdict": "ИТОГ: ЕСТЬ ПРОБЛЕМЫ",
+   "seconds": 1.9,
+   "consistent": false,
+   "unsat": 0,
+   "error": "",
+   "leak_detector_works": true,
+   "checks_raising": 0
+  },
+  {
+   "variant": "full_month",
+   "wall_s": 3.3,
+   "verdict": "ИТОГ: ЕСТЬ ПРОБЛЕМЫ",
+   "seconds": 1.9,
+   "consistent": false,
+   "unsat": 0,
+   "error": "",
+   "leak_detector_works": true,
+   "checks_raising": 0
+  },
+  {
+   "variant": "full_8checks",
+   "wall_s": 2393.8,
+   "verdict": "ИТОГ: OK",
+   "seconds": 2392.4,
+   "consistent": true,
+   "unsat": 0,
+   "error": "",
+   "leak_detector_works": true,
+   "checks_raising": 1
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "application": "NDA204447",
+ "srlc_rows": [
+  {
+   "drug_name": "TRINTELLIX",
+   "active_ingredient": "VORTIOXETINE HYDROBROMIDE",
+   "application_number": "204447",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2021",
+   "supplement": "SUPPL-21",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/22/2021",
+     "suppl": "SUPPL-21",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/23/2023",
+   "database_updated": "08/28/2023",
+   "drug_name_id": "381"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-01-22",
+ "srlc_database_updated": "2023-08-28",
+ "lag_days_srlc_database": 948,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "239215eb-be32-4286-9677-1e5556c6cccf",
+   "title": "TRINTELLIX (VORTIOXETINE) TABLET, FILM COATED [REMEDYREPACK INC.]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-02-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-02-14"
+   },
+   "lag_days_dailymed": 1484,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "bd0107e5-1cb9-4b40-a6af-fa65fcbe6b4e",
+   "title": "TRINTELLIX (VORTIOXETINE) TABLET, FILM COATED [REMEDYREPACK INC.]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-09-29"
+   },
+   "lag_days_dailymed": 1711,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "cb1e9df4-dd74-4073-9d78-bb55593dd000",
+   "title": "TRINTELLIX (VORTIOXETINE) TABLET, FILM COATED [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Feb 23, 2026",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-12-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-05-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-06-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-12-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-11-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-05-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-07-01"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-07-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-01-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-02-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-04-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-08-08"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-01-09"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-04-10"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-08-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-02-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2021-05-21"
+   },
+   "lag_days_dailymed": 119,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "1a5b68e2-14d0-419d-9ec6-1ca97145e838",
+   "title": "TRINTELLIX (VORTIOXETINE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+   "published_date": "Mar 11, 2025",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-05-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-09-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-10-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-03-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-04-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-05-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-05-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-11-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-08-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-11-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-02-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-10-05"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-11-24"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-09-04"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-01-14"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-03-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2021-02-04"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:27:21Z"
+}

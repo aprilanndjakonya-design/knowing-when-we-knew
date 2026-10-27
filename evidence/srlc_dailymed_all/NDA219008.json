@@ -1,0 +1,60 @@
+{
+ "application": "NDA219008",
+ "srlc_rows": [
+  {
+   "drug_name": "LAZCLUZE",
+   "active_ingredient": "LAZERTINIB MESYLATE",
+   "application_number": "219008",
+   "application_type": "NDA",
+   "supplement_date": "04/30/2026",
+   "database_updated": "05/05/2026",
+   "drug_name_id": "3208"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-04-30",
+ "srlc_database_updated": "2026-05-05",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "c417f9ee-2027-4ed5-92ad-3c19266de16c",
+   "title": "LAZCLUZE (LAZERTINIB) TABLET, FILM COATED [JANSSEN BIOTECH, INC.]",
+   "published_date": "May 07, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-08-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-11-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-05-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-05-07"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:10:48Z"
+}

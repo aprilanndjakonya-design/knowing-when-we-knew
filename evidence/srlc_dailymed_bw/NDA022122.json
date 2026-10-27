@@ -1,0 +1,338 @@
+{
+ "application": "NDA022122",
+ "srlc_rows": [
+  {
+   "drug_name": "VOLTAREN",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "022122",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-10",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-10",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "212"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2016-08-08",
+ "lag_days_srlc_database": 91,
+ "dailymed_setids": 12,
+ "labels": [
+  {
+   "setid": "30a94282-0892-442a-aa10-6525cbd4fe88",
+   "title": "VOLTAREN ARTHRITIS PAIN (DICLOFENAC SODIUM) GEL VOLTAREN ARTHRITIS PAIN (DICLOFENAC SODIUM) KIT [HALEON US HOLDINGS LLC]",
+   "published_date": "Feb 21, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-05-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-07-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-12-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-01-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-07-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-01-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-07-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-11-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-12-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-03-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-03-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-02-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-05-13"
+   },
+   "lag_days_dailymed": 1465,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "5c264f39-d23f-4bfb-9b67-fb7b005bbb44",
+   "title": "DICLOFENAC SODIUM GEL [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Mar 03, 2021",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-03-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-03-03"
+   },
+   "lag_days_dailymed": 1759,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "721fceb7-25c6-43bc-85a7-58ac4a525d3b",
+   "title": "DICLOFENAC SODIUM GEL [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Mar 02, 2021",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-03-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2018-03-02"
+   },
+   "lag_days_dailymed": 662,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "d240f348-8a14-4f62-9815-a760f02b4f4f",
+   "title": "DICLOFENAC SODIUM GEL [PAR PHARMACEUTICAL INC]",
+   "published_date": "Mar 12, 2020",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-07-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-03-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-11-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-05-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-03-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2016-07-01"
+   },
+   "lag_days_dailymed": 53,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a7447467-79e0-436e-a273-d1ddd06169cf",
+   "title": "DICLOFENAC SODIUM GEL [PROFICIENT RX LP]",
+   "published_date": "Nov 21, 2019",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-11-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-12-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-11-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2016-11-03"
+   },
+   "lag_days_dailymed": 178,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "ea23fc47-3b7b-4fad-ae34-b6eb6913d957",
+   "title": "VOLTAREN (DICLOFENAC SODIUM) GEL [UNIT DOSE SERVICES]",
+   "published_date": "Aug 29, 2017",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2012-03-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-08-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2017-08-29"
+   },
+   "lag_days_dailymed": 477,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "b04009ca-7545-4cd4-af63-f15aebf20f18",
+   "title": "VOLTAREN GEL [DIRECT RX]",
+   "published_date": "Aug 10, 2015",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-04-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-08-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "e1685937-3980-40e3-8f04-998174fef3a2",
+   "title": "VOLTAREN (DICLOFENAC SODIUM) GEL [STAT RX USA LLC]",
+   "published_date": "Feb 27, 2012",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-07-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-03-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-02-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-02-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "1940300f-2b4a-4016-a1bb-21f821797a89",
+   "title": "VOLTAREN (DICLOFENAC SODIUM) GEL [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 30, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-01-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "26b2d99e-d471-4758-8aa0-a26ef464eb35",
+   "title": "VOLTAREN (DICLOFENAC SODIUM) GEL [KELTMAN PHARMACEUTICALS INC.]",
+   "published_date": "Jul 12, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "137c4e7a-e671-413e-b687-89490ef98974",
+   "title": "VOLTAREN (DICLOFENAC SODIUM) GEL [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jun 22, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "4c9f995c-d687-483a-b6bb-11c8b263681b",
+   "title": "VOLTAREN (DICLOFENAC SODIUM) GEL [STAT RX USA LLC]",
+   "published_date": "Jun 14, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 53,
+ "fetched_utc": "2026-10-16T09:24:03Z"
+}

@@ -1,0 +1,127 @@
+{
+ "application": "NDA022057",
+ "srlc_rows": [
+  {
+   "drug_name": "ENDOMETRIN",
+   "active_ingredient": "PROGESTERONE",
+   "application_number": "022057",
+   "application_type": "NDA",
+   "supplement_date": "07/15/2026",
+   "database_updated": "07/29/2026",
+   "drug_name_id": "3307"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-15",
+ "srlc_database_updated": "2026-07-29",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2ba50fa9-b349-40cb-9a4b-1af8faa4ec09",
+   "title": "ENDOMETRIN (PROGESTERONE) INSERT [FERRING PHARMACEUTICALS INC.]",
+   "published_date": "Aug 05, 2026",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-09-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2010-11-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-01-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2012-12-05"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-06-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-07-14"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-03-08"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-05-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-06-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-09-17"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-12-18"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-08-19"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-02-26"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-03-31"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-07-31"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-08-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 26,
+    "published_date": "2026-07-31"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 16
+  },
+  {
+   "setid": "fcdde0d0-4329-4725-a76b-684f9d97fe95",
+   "title": "PROGESTERONE INSERT [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+   "published_date": "May 21, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-04-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-05-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:53:52Z"
+}

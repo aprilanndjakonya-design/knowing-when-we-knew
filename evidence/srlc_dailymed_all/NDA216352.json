@@ -1,0 +1,56 @@
+{
+ "application": "NDA216352",
+ "srlc_rows": [
+  {
+   "drug_name": "ERZOFRI",
+   "active_ingredient": "PALIPERIDONE PALMITATE",
+   "application_number": "216352",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "3073"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-22",
+ "srlc_database_updated": "2025-02-05",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "492bf9dd-868e-421a-92db-8cca8973aac1",
+   "title": "ERZOFRI EXTENDED-RELEASE (PALIPERIDONE PALMITATE) INJECTION [SHANDONG LUYE PHARMACEUTICAL CO., LTD.]",
+   "published_date": "Mar 10, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2024-12-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-03-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-03-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-03-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-03-21"
+   },
+   "lag_days_dailymed": 58,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 58,
+ "fetched_utc": "2026-10-16T09:09:02Z"
+}

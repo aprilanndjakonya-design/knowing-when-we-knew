@@ -1,0 +1,210 @@
+{
+ "application": "BLA125559",
+ "srlc_rows": [
+  {
+   "drug_name": "PRALUENT",
+   "active_ingredient": "ALIROCUMAB",
+   "application_number": "125559",
+   "application_type": "BLA",
+   "supplement_date": "10/09/2025",
+   "database_updated": "10/20/2025",
+   "drug_name_id": "1033"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-09",
+ "srlc_database_updated": "2025-10-20",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "446f6b5c-0dd4-44ff-9bc2-c2b41f2806b4",
+   "title": "PRALUENT (ALIROCUMAB) INJECTION, SOLUTION [SANOFI-AVENTIS U.S. LLC]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 35,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-07-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-12-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-08-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-04-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-08-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-09-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-02-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-05-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-06-22"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-08-30"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-11-13"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-11-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-04-29"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-06-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-09-17"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-09-19"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-09-30"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-03-18"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-04-09"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2020-04-30"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2020-06-09"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2020-09-18"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2020-11-27"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2021-04-14"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-04-05"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-09-12"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-09-18"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 30
+  },
+  {
+   "setid": "7bcfbac2-e8ac-4569-8edc-bcde3b1fd172",
+   "title": "PRALUENT (ALIROCUMAB) INJECTION, SOLUTION [REGENERON PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-06-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-06-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-09-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-11-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-04-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-04-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 39,
+ "fetched_utc": "2026-10-16T08:38:27Z"
+}

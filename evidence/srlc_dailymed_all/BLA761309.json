@@ -1,0 +1,64 @@
+{
+ "application": "BLA761309",
+ "srlc_rows": [
+  {
+   "drug_name": "COLUMVI",
+   "active_ingredient": "GLOFITAMAB-GXBM",
+   "application_number": "761309",
+   "application_type": "BLA",
+   "supplement_date": "06/22/2026",
+   "database_updated": "06/25/2026",
+   "drug_name_id": "3202"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-22",
+ "srlc_database_updated": "2026-06-25",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "3516e753-f064-4d30-9bd5-e3f2e143f75d",
+   "title": "COLUMVI (GLOFITAMAB) CONCENTRATE COLUMVI (GLOFITAMAB) SOLUTION, CONCENTRATE [GENENTECH, INC.]",
+   "published_date": "Jul 02, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-06-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-06-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-06-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-07-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-07-02"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:41:00Z"
+}

@@ -1,0 +1,114 @@
+{
+ "application": "NDA018484",
+ "srlc_rows": [
+  {
+   "drug_name": "PROSTIN VR PEDIATRIC",
+   "active_ingredient": "ALPROSTADIL",
+   "application_number": "018484",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "3231"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-09",
+ "lag_days_srlc_database": 18,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "930f8c02-46a8-4cff-a484-660468ab23c3",
+   "title": "PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Aug 25, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-02-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-08-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-02-20"
+   },
+   "lag_days_dailymed": 60,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "dea460fa-d05e-4191-8461-f185a711ad89",
+   "title": "PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Aug 25, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-05-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-02-28"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-06-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-08-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-08-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-08-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-08-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-05-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-02-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-08-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-02-06"
+   },
+   "lag_days_dailymed": 46,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 46,
+ "fetched_utc": "2026-10-16T08:44:18Z"
+}

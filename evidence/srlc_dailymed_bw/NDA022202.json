@@ -1,0 +1,160 @@
+{
+ "application": "NDA022202",
+ "srlc_rows": [
+  {
+   "drug_name": "ZIPSOR",
+   "active_ingredient": "DICLOFENAC POTASSIUM",
+   "application_number": "022202",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-11",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-11",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "214"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "ed2a8868-78eb-47b8-8f46-0f70e2891e07",
+   "title": "ZIPSOR (DICLOFENAC POTASSIUM) CAPSULE, LIQUID FILLED [ASSERTIO SPECIALTY PHARMACEUTICALS LLC]",
+   "published_date": "Sep 07, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-09-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-09-07"
+   },
+   "lag_days_dailymed": 3773,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c982eca0-fc41-11e1-a9c8-0002a5d5c51b",
+   "title": "ZIPSOR (DICLOFENAC POTASSIUM) CAPSULE, LIQUID FILLED [ASSERTIO THERAPEUTICS, INC.]",
+   "published_date": "Sep 08, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-09-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-07-25"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-06-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-08-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-09-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-05-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-12-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-09-13"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-10-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-06-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-09-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2016-05-27"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "698690a7-4978-4457-b123-0a670bbab481",
+   "title": "DICLOFENAC POTASSIUM CAPSULE, LIQUID FILLED [LEADING PHARMA, LLC]",
+   "published_date": "Mar 17, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-03-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-03-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2022-03-24"
+   },
+   "lag_days_dailymed": 2145,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "69ab6f91-5770-480c-8bd1-8c1f1f8bfdb5",
+   "title": "DICLOFENAC POTASSIUM CAPSULE, LIQUID FILLED [BRYANT RANCH PREPACK]",
+   "published_date": "Jan 23, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-01-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-01-23"
+   },
+   "lag_days_dailymed": 3181,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T09:24:28Z"
+}

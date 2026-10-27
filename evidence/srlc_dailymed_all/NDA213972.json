@@ -1,0 +1,44 @@
+{
+ "application": "NDA213972",
+ "srlc_rows": [
+  {
+   "drug_name": "ORLYNVAH",
+   "active_ingredient": "PROBENECID; SULOPENEM ETZADROXIL",
+   "application_number": "213972",
+   "application_type": "NDA",
+   "supplement_date": "12/23/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "3232"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-23",
+ "srlc_database_updated": "2026-01-09",
+ "lag_days_srlc_database": 17,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "24c451c0-4cfb-37f3-e063-6394a90a895e",
+   "title": "ORLYNVAH (SULOPENEM ETZADROXIL AND PROBENECID) TABLET, FILM COATED [ITERUM THERAPEUTICS US LIMITED]",
+   "published_date": "Feb 09, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-02-09"
+   },
+   "lag_days_dailymed": 48,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 48,
+ "fetched_utc": "2026-10-16T09:07:10Z"
+}

@@ -1,0 +1,124 @@
+{
+ "application": "BLA761049",
+ "srlc_rows": [
+  {
+   "drug_name": "BAVENCIO",
+   "active_ingredient": "AVELUMAB",
+   "application_number": "761049",
+   "application_type": "BLA",
+   "supplement_date": "08/31/2026",
+   "database_updated": "09/08/2026",
+   "drug_name_id": "1313"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-31",
+ "srlc_database_updated": "2026-09-08",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5cd725a1-2fa4-408a-a651-57a7b84b2118",
+   "title": "BAVENCIO (AVELUMAB) INJECTION, SOLUTION, CONCENTRATE [EMD SERONO, INC.]",
+   "published_date": "Sep 25, 2026",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2017-03-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-04-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-05-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-08-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-12-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-10-24"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-05-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-07-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-11-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-02-04"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-06-01"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-07-22"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-09-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-10-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-01-31"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-11-08"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-04-17"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-06-19"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-08-27"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-09-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2026-09-25"
+   },
+   "lag_days_dailymed": 25,
+   "versions_before_supplement": 21
+  }
+ ],
+ "lag_days_dailymed_min": 25,
+ "fetched_utc": "2026-10-16T08:38:44Z"
+}

@@ -1,0 +1,163 @@
+{
+ "application": "NDA050795",
+ "srlc_rows": [
+  {
+   "drug_name": "DORYX",
+   "active_ingredient": "DOXYCYCLINE HYCLATE",
+   "application_number": "050795",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/08/2025",
+   "drug_name_id": "371"
+  },
+  {
+   "drug_name": "DORYX MPC",
+   "active_ingredient": "DOXYCYCLINE HYCLATE",
+   "application_number": "050795",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/08/2025",
+   "drug_name_id": "2197"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-31",
+ "srlc_database_updated": "2025-04-08",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "f9277bb8-982d-444d-9325-35d5c53a2d35",
+   "title": "DORYX MPC (DOXYCYCLINE HYCLATE) TABLET, DELAYED RELEASE DORYX MPC (DOXYCYCLINE HYCLATE) TABLET, DELAYED RELEASE [MAYNE PHARMA COMMERCIAL LLC]",
+   "published_date": "Feb 18, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-07-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-07-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-12-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-08-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-11-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-06-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-01-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-06-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-04-29"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-02-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-04-10"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "cd2ab9b8-9619-4199-8a5d-83377b3274d1",
+   "title": "DOXYCYCLINE HYCLATE TABLET, DELAYED RELEASE [MAYNE PHARMA COMMERCIAL LLC]",
+   "published_date": "Apr 17, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-07-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-02-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-02-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-06-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-06-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-11-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-07-30"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-04-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-10-14"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-06-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-08-22"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-04-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-04-10"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:58:17Z"
+}

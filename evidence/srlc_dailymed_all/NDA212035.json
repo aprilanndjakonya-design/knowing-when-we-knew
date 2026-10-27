@@ -1,0 +1,49 @@
+{
+ "application": "NDA212035",
+ "srlc_rows": [
+  {
+   "drug_name": "ARGATROBAN IN SODIUM CHLORIDE",
+   "active_ingredient": "ARGATROBAN",
+   "application_number": "212035",
+   "application_type": "NDA",
+   "supplement_date": "07/31/2026",
+   "database_updated": "08/05/2026",
+   "drug_name_id": "3288"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-31",
+ "srlc_database_updated": "2026-08-05",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "46cdf9e6-839c-49c8-9ee1-c30cfdd9368d",
+   "title": "ARGATROBAN INJECTION [ACCORD HEALTHCARE INC.]",
+   "published_date": "May 25, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2021-10-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-11-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-10-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-05-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:06:06Z"
+}

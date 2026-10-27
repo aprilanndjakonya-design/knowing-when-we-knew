@@ -1,0 +1,82 @@
+{
+ "application": "NDA017105",
+ "srlc_rows": [
+  {
+   "drug_name": "TRANXENE",
+   "active_ingredient": "CLORAZEPATE DIPOTASSIUM",
+   "application_number": "017105",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-84",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-79",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-84",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "605"
+  },
+  {
+   "drug_name": "TRANXENE SD",
+   "active_ingredient": "CLORAZEPATE DIPOTASSIUM",
+   "application_number": "017105",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-84",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-79",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-84",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/20/2023",
+   "drug_name_id": "613"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-20",
+ "lag_days_srlc_database": 714,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:14:12Z"
+}

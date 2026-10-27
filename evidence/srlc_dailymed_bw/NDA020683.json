@@ -1,0 +1,38 @@
+{
+ "application": "NDA020683",
+ "srlc_rows": [
+  {
+   "drug_name": "ALESSE",
+   "active_ingredient": "ETHINYL ESTRADIOL; LEVONORGESTREL",
+   "application_number": "020683",
+   "application_type": "NDA",
+   "supplement_date": "07/16/2024",
+   "supplement": "SUPPL-14",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/16/2024",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/16/2024",
+   "database_updated": "07/22/2024",
+   "drug_name_id": "1191"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-07-16",
+ "srlc_database_updated": "2024-07-22",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:36Z"
+}

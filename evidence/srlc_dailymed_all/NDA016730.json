@@ -1,0 +1,68 @@
+{
+ "application": "NDA016730",
+ "srlc_rows": [
+  {
+   "drug_name": "DEXTROSE 5% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "016730",
+   "application_type": "NDA",
+   "supplement_date": "05/12/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "3290"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-12",
+ "srlc_database_updated": "2026-06-01",
+ "lag_days_srlc_database": 20,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "60b6d7c3-0164-46c9-aa38-b5aa1c31a5d5",
+   "title": "DEXTROSE INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "May 25, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-03-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-05-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-12-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-04-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-10-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-05-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-05-25"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:43:23Z"
+}

@@ -1,0 +1,92 @@
+{
+ "application": "NDA022405",
+ "srlc_rows": [
+  {
+   "drug_name": "CAPRELSA",
+   "active_ingredient": "VANDETANIB",
+   "application_number": "022405",
+   "application_type": "NDA",
+   "supplement_date": "05/14/2025",
+   "database_updated": "06/02/2025",
+   "drug_name_id": "313"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-14",
+ "srlc_database_updated": "2025-06-02",
+ "lag_days_srlc_database": 19,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e5721cb8-4185-47b9-bbb3-1c587e558a03",
+   "title": "CAPRELSA (VANDETANIB) TABLET, FILM COATED [GENZYME CORPORATION]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-06-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-11-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-06-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-12-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-02-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-08-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-04-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-05-26"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-03-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-04-22"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-11-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-02-04"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-05-23"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:55:25Z"
+}

@@ -1,0 +1,446 @@
+{
+ "application": "NDA021446",
+ "srlc_rows": [
+  {
+   "drug_name": "LYRICA",
+   "active_ingredient": "PREGABALIN",
+   "application_number": "021446",
+   "application_type": "NDA",
+   "supplement_date": "04/25/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "637"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-25",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 34,
+ "dailymed_setids": 10,
+ "labels": [
+  {
+   "setid": "60185c88-ecfd-46f9-adb9-b97c6b00a553",
+   "title": "LYRICA (PREGABALIN) CAPSULE LYRICA (PREGABALIN) SOLUTION [PARKE-DAVIS DIV OF PFIZER INC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 59,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-09-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-05-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-11-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-02-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-03-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2010-03-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-10-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-04-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-06-03"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-07-29"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2012-11-20"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-06-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2013-09-11"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2014-03-18"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2014-06-03"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2014-08-25"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2016-03-07"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2016-08-24"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2016-09-08"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2017-03-27"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2017-04-18"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2017-07-20"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2017-09-01"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2018-01-11"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2018-02-14"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2018-05-15"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2019-06-03"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2019-06-28"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2019-08-29"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2020-04-20"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2020-06-17"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2023-09-06"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2024-10-24"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2024-11-14"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2024-11-21"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2025-06-20"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2025-07-16"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 54,
+    "published_date": "2025-05-12"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 37
+  },
+  {
+   "setid": "d4734e7d-5079-455e-8ff5-8f4539c998a9",
+   "title": "LYRICA (PREGABALIN) CAPSULE LYRICA (PREGABALIN) SOLUTION [VIATRIS SPECIALTY LLC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-02-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-11-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-06-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-06-20"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-07-16"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-09-22"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-05-12"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "54e6d137-a495-4b87-b3c2-2f5a0226dd3e",
+   "title": "PREGABALIN CAPSULE [DIRECT RX]",
+   "published_date": "Jan 30, 2020",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-11-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-11-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "ed2a7ed8-25e0-48cc-af01-9ad0956023da",
+   "title": "LYRICA (PREGABALIN) CAPSULE [DIRECT RX]",
+   "published_date": "Jan 30, 2020",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-11-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-12-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "5df64e19-0162-44f0-825d-6a0996581e6e",
+   "title": "LYRICA CAPSULE [DIRECTRX]",
+   "published_date": "Jan 21, 2020",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-10-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-10-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "297f44e6-914e-4df1-a136-7e11ef4acbcd",
+   "title": "PREGABALIN CAPSULE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Nov 20, 2019",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-11-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "0c5d6728-be43-4e1b-9f14-a7ce920e12a3",
+   "title": "LYRICA (PREGABALIN) CAPSULE [UNIT DOSE SERVICES]",
+   "published_date": "May 03, 2019",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2012-03-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-04-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-06-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-11-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-05-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "a38672e5-2a0f-463e-8eed-97a78fc18b8d",
+   "title": "LYRICA CAPSULE [DIRECT RX]",
+   "published_date": "Oct 24, 2016",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-02-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-10-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "3e1fb774-7460-44d2-bf96-a17c59999676",
+   "title": "LYRICA (PREGABALIN) CAPSULE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 18, 2014",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-08-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-02-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "8fb45a78-b2d8-45dd-b844-0de21d1fdde9",
+   "title": "LYRICA (PREGABALIN) CAPSULE [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jun 22, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:52:00Z"
+}

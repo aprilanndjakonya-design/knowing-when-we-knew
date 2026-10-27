@@ -1,0 +1,36 @@
+{
+ "core_triples": 1151,
+ "data_triples": 44621,
+ "merged_triples": 45751,
+ "data_bytes": 2428076,
+ "within_submission_limit": true,
+ "records": 1150,
+ "records_without_valid_time": 0,
+ "records_with_two_valid_times": 0,
+ "srlc_records": 777,
+ "srlc_with_known_from": 183,
+ "label_records": 368,
+ "label_with_known_from": 368,
+ "rx_records": 2,
+ "rx_with_known_from": 2,
+ "label_versions_section_asserted": 40,
+ "as_of_checks": 2,
+ "as_of_checks_leaking_closed_world": 0,
+ "used_records_without_known_from": 0,
+ "hermit": {
+  "consistent": true,
+  "unsatisfiable_classes": [],
+  "error": "",
+  "seconds": 2226.9
+ },
+ "checks_raising_boxed_warning_inferred": 1,
+ "leak_control": {
+  "check": "iatd:check_SYN001_2024-06",
+  "T": "2024-06-14T15:00:00Z",
+  "leaked_record": "iatd:label_NDA202811_2d09771d_69da_4c9d_92b6_74374ffa130f_v2",
+  "known_from": "2026-10-12T23:59:59-12:00",
+  "hermit_consistent": false,
+  "detector_works": true
+ },
+ "generated_utc": "2026-10-19T09:40:53Z"
+}

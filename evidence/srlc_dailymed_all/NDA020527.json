@@ -1,0 +1,233 @@
+{
+ "application": "NDA020527",
+ "srlc_rows": [
+  {
+   "drug_name": "PREMPHASE 14/14",
+   "active_ingredient": "ESTROGENS, CONJUGATED; MEDROXYPROGESTERONE ACETATE",
+   "application_number": "020527",
+   "application_type": "NDA",
+   "supplement_date": "04/22/2025",
+   "database_updated": "05/28/2025",
+   "drug_name_id": "1349"
+  },
+  {
+   "drug_name": "PREMPRO",
+   "active_ingredient": "ESTROGENS, CONJUGATED; MEDROXYPROGESTERONE ACETATE",
+   "application_number": "020527",
+   "application_type": "NDA",
+   "supplement_date": "04/22/2025",
+   "database_updated": "05/28/2025",
+   "drug_name_id": "1350"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-22",
+ "srlc_database_updated": "2025-05-28",
+ "lag_days_srlc_database": 36,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "fd0c0836-5d23-2183-da81-9dc7f4287052",
+   "title": "PREMPHASE (CONJUGATED ESTROGENS AND MEDROXYPROGESTERONE ACETATE) KIT PREMPRO (CONJUGATED ESTROGENS AND MEDROXYPROGESTERONE ACETATE) TABLET, SUGAR COATED [WYETH PHARMACEUTICALS LLC, A SUBSIDIARY OF PFIZER INC.]",
+   "published_date": "Apr 29, 2026",
+   "spl_version": 39,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2009-09-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2009-10-30"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-01-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-03-16"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2010-11-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-07-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2013-03-01"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2013-12-17"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2015-02-24"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2015-07-13"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2016-12-07"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-11-14"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-12-04"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-01-23"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2019-01-08"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-05-16"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-12-06"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-11-01"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-12-20"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2025-05-08"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2026-04-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 37,
+    "published_date": "2025-05-08"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 23
+  },
+  {
+   "setid": "3aff3442-641c-4639-8273-cf0347d8e4c8",
+   "title": "PREMPRO (CONJUGATED ESTROGENS AND MEDROXYPROGESTERONE ACETATE) TABLET, SUGAR COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Feb 08, 2021",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 7,
+     "published_date": "2017-10-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-12-11"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-02-13"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-05-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-02-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "62551977-a89a-4a97-bdf1-ef74868d3c1a",
+   "title": "PREMPRO (CONJUGATED ESTROGENS AND MEDROXYPROGESTERONE ACETATE) TABLET, SUGAR COATED [AVERA MCKENNAN HOSPITAL]",
+   "published_date": "Apr 12, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-04-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "198d547d-c985-46bc-a66f-e3182a294cb5",
+   "title": "PREMPRO (CONJUGATED ESTROGENS AND MEDROXYPROGESTERONE ACETATE) TABLET, SUGAR COATED [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Mar 15, 2013",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2013-03-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "36ec4df9-298d-4b15-9386-7848d217a46c",
+   "title": "PREMPRO (CONJUGATED ESTROGENS AND MEDROXYPROGESTERONE ACETATE) TABLET, SUGAR COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Nov 27, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-03-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-11-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:47:45Z"
+}

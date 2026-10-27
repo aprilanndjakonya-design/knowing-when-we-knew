@@ -1,0 +1,377 @@
+{
+ "application": "NDA020401",
+ "srlc_rows": [
+  {
+   "drug_name": "TIAZAC",
+   "active_ingredient": "DILTIAZEM HYDROCHLORIDE",
+   "application_number": "020401",
+   "application_type": "NDA",
+   "supplement_date": "04/16/2025",
+   "database_updated": "05/27/2025",
+   "drug_name_id": "565"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-16",
+ "srlc_database_updated": "2025-05-27",
+ "lag_days_srlc_database": 41,
+ "dailymed_setids": 14,
+ "labels": [
+  {
+   "setid": "c567fe7e-887e-4291-a0d1-2dd3f25cbf25",
+   "title": "TIAZAC EXTENDED RELEASE (DILTIAZEM HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [BAUSCH HEALTH US, LLC]",
+   "published_date": "Aug 10, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-08-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-12-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-12-28"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-02-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-11-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-12-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-04-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-04-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-08-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2025-04-28"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "58eeb8bc-91d0-4cf8-a0d7-be3548d92196",
+   "title": "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE (DILTIAZEM HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [BRYANT RANCH PREPACK]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-06-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-08-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-02-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 215,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "862d65cb-a732-4786-b569-bad2eaafddfd",
+   "title": "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE (DILTIAZEM HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-08-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-09-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-12-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-12-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-10-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-11-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-12-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2025-09-29"
+   },
+   "lag_days_dailymed": 166,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "c7c6a74e-5f73-4265-a0e0-8fd2cd26909e",
+   "title": "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE (DILTIAZEM HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [BRYANT RANCH PREPACK]",
+   "published_date": "Jan 23, 2025",
+   "spl_version": 103,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2022-02-14"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2024-01-18"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2024-05-27"
+    },
+    {
+     "spl_version": 103,
+     "published_date": "2025-01-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "c7cf9276-4b4c-10b2-e053-2995a90a3738",
+   "title": "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE CAPSULE, EXTENDED RELEASE [DIRECT RX]",
+   "published_date": "Jan 21, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-07-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "26ab25a7-a17e-6a9e-e063-6394a90a24f5",
+   "title": "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE (DILTIAZEM HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [COUPLER LLC]",
+   "published_date": "Nov 15, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-11-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "9be536b1-1ba6-42d2-9d5a-2b8a1c83c0b1",
+   "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [PURACAP LABORATORIES LLC]",
+   "published_date": "Nov 19, 2019",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-12-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-01-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-11-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "2e6d6cfc-d214-4d01-8bd5-8e1c34c69fd6",
+   "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-07-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "66d650f4-93dc-4aa2-8908-f87d6691a875",
+   "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "bc4a78f2-6987-4f71-a8d3-5cb050ae0059",
+   "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-07-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "e9185196-cc45-45cb-bb48-2a99d2ef918c",
+   "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-07-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "ef28a98e-946f-441d-b666-a3e669b13f20",
+   "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-07-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "bf56b78c-9ace-4404-9147-707d61379237",
+   "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "May 29, 2014",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-05-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "bac9d5bb-1dd5-4057-a9a6-953dc7b597c7",
+   "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Oct 28, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-10-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:47:17Z"
+}

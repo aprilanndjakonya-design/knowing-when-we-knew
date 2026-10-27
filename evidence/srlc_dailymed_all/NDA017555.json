@@ -1,0 +1,56 @@
+{
+ "application": "NDA017555",
+ "srlc_rows": [
+  {
+   "drug_name": "SINEMET",
+   "active_ingredient": "CARBIDOPA; LEVODOPA",
+   "application_number": "017555",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "3266"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-19",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9b17b028-964a-473c-823d-81423535bd66",
+   "title": "SINEMET (CARBIDOPA AND LEVODOPA) TABLET [ORGANON LLC]",
+   "published_date": "Aug 24, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-06-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-02-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-04-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-08-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-04-02"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:43:42Z"
+}

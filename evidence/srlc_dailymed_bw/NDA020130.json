@@ -1,0 +1,38 @@
+{
+ "application": "NDA020130",
+ "srlc_rows": [
+  {
+   "drug_name": "ESTROSTEP FE",
+   "active_ingredient": "ETHINYL ESTRADIOL; NORETHINDRONE ACETATE",
+   "application_number": "020130",
+   "application_type": "NDA",
+   "supplement_date": "07/14/2021",
+   "supplement": "SUPPL-21",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/14/2021",
+     "suppl": "SUPPL-21",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/29/2022",
+   "database_updated": "05/05/2022",
+   "drug_name_id": "1189"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-07-14",
+ "srlc_database_updated": "2022-05-05",
+ "lag_days_srlc_database": 295,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:16:41Z"
+}

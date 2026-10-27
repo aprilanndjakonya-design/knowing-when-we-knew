@@ -1,0 +1,104 @@
+{
+ "application": "NDA022110",
+ "srlc_rows": [
+  {
+   "drug_name": "VIBATIV",
+   "active_ingredient": "TELAVANCIN HYDROCHLORIDE",
+   "application_number": "022110",
+   "application_type": "NDA",
+   "supplement_date": "02/20/2020",
+   "supplement": "SUPPL-15",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/20/2020",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/07/2020",
+   "database_updated": "07/08/2020",
+   "drug_name_id": "2200"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-02-20",
+ "srlc_database_updated": "2020-07-08",
+ "lag_days_srlc_database": 139,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "5359b759-db7c-4672-9e8a-59c93869bd91",
+   "title": "VIBATIV (TELAVANCIN HYDROCHLORIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CUMBERLAND PHARMACEUTICALS INC.]",
+   "published_date": "Dec 23, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-01-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-12-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-01-06"
+   },
+   "lag_days_dailymed": 321,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "9fc67b76-9ba1-45ec-9749-ca3f3a6477d9",
+   "title": "VIBATIV (TELAVANCIN HYDROCHLORIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [THERAVANCE, INC.]",
+   "published_date": "Apr 03, 2014",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-04-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-06-28"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-07-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-03-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-04-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 321,
+ "fetched_utc": "2026-10-16T09:23:53Z"
+}

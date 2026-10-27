@@ -1,0 +1,48 @@
+{
+ "application": "NDA218230",
+ "srlc_rows": [
+  {
+   "drug_name": "BLUJEPA",
+   "active_ingredient": "GEPOTIDACIN MESYLATE",
+   "application_number": "218230",
+   "application_type": "NDA",
+   "supplement_date": "12/11/2025",
+   "database_updated": "12/11/2025",
+   "drug_name_id": "3221"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-11",
+ "srlc_database_updated": "2025-12-11",
+ "lag_days_srlc_database": 0,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "80b57cfe-7819-4d95-a57d-014af42f118d",
+   "title": "BLUJEPA (GEPOTIDACIN) TABLET, FILM COATED [GLAXOSMITHKLINE LLC]",
+   "published_date": "Feb 23, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-03-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-12-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-02-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-12-16"
+   },
+   "lag_days_dailymed": 5,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 5,
+ "fetched_utc": "2026-10-16T09:10:24Z"
+}

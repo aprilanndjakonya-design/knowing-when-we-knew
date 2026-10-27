@@ -1,0 +1,39 @@
+{
+ "application": "NDA214900",
+ "srlc_rows": [
+  {
+   "drug_name": "BREXAFEMME",
+   "active_ingredient": "IBREXAFUNGERP CITRATE",
+   "application_number": "214900",
+   "application_type": "NDA",
+   "supplement_date": "11/30/2022",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "11/30/2022",
+     "suppl": "SUPPL-2",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/24/2026",
+   "database_updated": "07/31/2026",
+   "drug_name_id": "2636"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-11-30",
+ "srlc_database_updated": "2026-07-31",
+ "lag_days_srlc_database": 1339,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:29:29Z"
+}

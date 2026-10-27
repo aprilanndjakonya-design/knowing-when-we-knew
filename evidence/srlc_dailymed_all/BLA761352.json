@@ -1,0 +1,67 @@
+{
+ "application": "BLA761352",
+ "srlc_rows": [
+  {
+   "drug_name": "BIZENGRI",
+   "active_ingredient": "ZENOCUTUZUMAB-ZBCO",
+   "application_number": "761352",
+   "application_type": "BLA",
+   "supplement_date": "05/08/2026",
+   "database_updated": "05/19/2026",
+   "drug_name_id": "3285"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-08",
+ "srlc_database_updated": "2026-05-19",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "203daea4-fc87-40a4-a92f-ba2351b16de1",
+   "title": "BIZENGRI (ZENOCUTUZUMAB) INJECTION [PARTNER THERAPEUTICS, INC.]",
+   "published_date": "May 25, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-05-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-05-25"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "2a33e782-fc75-4dba-b77c-a44536ac13a5",
+   "title": "BIZENGRI (ZENOCUTUZUMAB) INJECTION [MERUS US, INC.]",
+   "published_date": "Jan 23, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:41:25Z"
+}

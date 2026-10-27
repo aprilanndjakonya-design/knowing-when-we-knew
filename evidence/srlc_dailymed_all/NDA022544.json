@@ -1,0 +1,64 @@
+{
+ "application": "NDA022544",
+ "srlc_rows": [
+  {
+   "drug_name": "GRALISE",
+   "active_ingredient": "GABAPENTIN",
+   "application_number": "022544",
+   "application_type": "NDA",
+   "supplement_date": "04/25/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "2227"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-25",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 34,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "466273b1-c9fc-3930-c94b-aa11394d5140",
+   "title": "GRALISE (GABAPENTIN) TABLET, FILM COATED GRALISE (GABAPENTIN) KIT [ALMATICA PHARMA LLC]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-10-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-02-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-06-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-04-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-07-04"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-07-02"
+   },
+   "lag_days_dailymed": 68,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 68,
+ "fetched_utc": "2026-10-16T08:56:05Z"
+}

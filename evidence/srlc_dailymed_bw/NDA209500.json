@@ -1,0 +1,113 @@
+{
+ "application": "NDA209500",
+ "srlc_rows": [
+  {
+   "drug_name": "CAPLYTA",
+   "active_ingredient": "LUMATEPERONE TOSYLATE",
+   "application_number": "209500",
+   "application_type": "NDA",
+   "supplement_date": "12/17/2021",
+   "supplement": "SUPPL-6",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/17/2021",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "12/17/2021",
+     "suppl": "SUPPL-6",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/05/2025",
+   "database_updated": "11/07/2025",
+   "drug_name_id": "2568"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-12-17",
+ "srlc_database_updated": "2025-11-07",
+ "lag_days_srlc_database": 1421,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "db730b06-6351-47fd-8183-e61e61bbead5",
+   "title": "CAPLYTA (LUMATEPERONE) CAPSULE [INTRA-CELLULAR THERAPIES, INC]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-07-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-12-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-12-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-04-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-08-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-09-27"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-07-07"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-11-19"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-05-04"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2021-12-21"
+   },
+   "lag_days_dailymed": 4,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 4,
+ "fetched_utc": "2026-10-16T09:28:48Z"
+}

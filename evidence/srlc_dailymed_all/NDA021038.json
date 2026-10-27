@@ -1,0 +1,342 @@
+{
+ "application": "NDA021038",
+ "srlc_rows": [
+  {
+   "drug_name": "PRECEDEX",
+   "active_ingredient": "DEXMEDETOMIDINE HYDROCHLORIDE",
+   "application_number": "021038",
+   "application_type": "NDA",
+   "supplement_date": "05/01/2026",
+   "database_updated": "05/05/2026",
+   "drug_name_id": "179"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-01",
+ "srlc_database_updated": "2026-05-05",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "92b7ddaa-e45a-4b64-a802-bb5df8771dd6",
+   "title": "PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Jun 18, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-01-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-02-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-06-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-06-18"
+   },
+   "lag_days_dailymed": 48,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "4419162d-81d4-49bd-96de-1729440bdb74",
+   "title": "PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Jun 12, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-03-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-05-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-06-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-07-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-09-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-01-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-02-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-02-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-02-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-06-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-06-12"
+   },
+   "lag_days_dailymed": 42,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "9eb336de-5fa5-4b46-b40b-a7ca5a0864bd",
+   "title": "PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION, CONCENTRATE [HENRY SCHEIN, INC.]",
+   "published_date": "May 28, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-02-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-11-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-08-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-03-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-09-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-10-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-06-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-05-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-05-28"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "548a88c0-afda-427e-75ac-5af0cfa2224c",
+   "title": "PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+   "published_date": "May 22, 2026",
+   "spl_version": 59,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-11-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2010-11-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2011-09-13"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2012-04-23"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2012-07-05"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2012-11-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2013-04-01"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2014-01-09"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2014-12-10"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2015-10-27"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2016-05-18"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2017-06-15"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-12-24"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-11-29"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2019-12-16"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2019-12-19"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2020-09-28"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2021-05-18"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2021-12-10"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2022-05-26"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2022-06-10"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2022-08-29"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2022-12-28"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2023-11-14"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2023-12-29"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2024-04-11"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2024-05-14"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2024-09-23"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2025-01-10"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2025-02-03"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2025-03-26"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2025-12-01"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2026-01-09"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2026-04-17"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2026-04-28"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2026-05-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 59,
+    "published_date": "2026-05-22"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 38
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T08:49:26Z"
+}

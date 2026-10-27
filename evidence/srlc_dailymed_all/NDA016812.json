@@ -1,0 +1,135 @@
+{
+ "application": "NDA016812",
+ "srlc_rows": [
+  {
+   "drug_name": "KETALAR",
+   "active_ingredient": "KETAMINE HYDROCHLORIDE",
+   "application_number": "016812",
+   "application_type": "NDA",
+   "supplement_date": "03/23/2026",
+   "database_updated": "03/25/2026",
+   "drug_name_id": "1039"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-23",
+ "srlc_database_updated": "2026-03-25",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "14e8f864-8b8a-4e7e-8439-e510d3107063",
+   "title": "KETALAR (KETAMINE HYDROCHLORIDE) INJECTION [PAR HEALTH USA, LLC]",
+   "published_date": "Mar 26, 2026",
+   "spl_version": 33,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-02-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-10-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-03-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-10-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-03-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-04-20"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-05-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-08-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-09-04"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-02-18"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-04-15"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-09-13"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-08-20"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-03-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2026-03-26"
+   },
+   "lag_days_dailymed": 3,
+   "versions_before_supplement": 16
+  },
+  {
+   "setid": "46dab560-8ecd-4d92-8c92-6baa2310b09b",
+   "title": "KETALAR (KETAMINE HYDROCHLORIDE) INJECTION [HENRY SCHEIN, INC]",
+   "published_date": "Jan 29, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-10-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-11-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 3,
+ "fetched_utc": "2026-10-16T08:43:27Z"
+}

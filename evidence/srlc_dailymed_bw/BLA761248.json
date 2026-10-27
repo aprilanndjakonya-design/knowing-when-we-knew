@@ -1,0 +1,68 @@
+{
+ "application": "BLA761248",
+ "srlc_rows": [
+  {
+   "drug_name": "KISUNLA",
+   "active_ingredient": "DONANEMAB-AZBT",
+   "application_number": "761248",
+   "application_type": "BLA",
+   "supplement_date": "07/01/2025",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/01/2025",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/01/2025",
+   "database_updated": "07/02/2025",
+   "drug_name_id": "3149"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-01",
+ "srlc_database_updated": "2025-07-02",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "190352d4-ef62-4679-b4fa-e846e2766afa",
+   "title": "KISUNLA (DONANEMAB-AZBT) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+   "published_date": "Jan 02, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-08-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-01-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-07-18"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:13:09Z"
+}

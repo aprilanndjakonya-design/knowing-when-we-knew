@@ -1,0 +1,78 @@
+{
+ "application": "NDA217202",
+ "srlc_rows": [
+  {
+   "drug_name": "RAPIBLYK",
+   "active_ingredient": "LANDIOLOL HYDROCHLORIDE",
+   "application_number": "217202",
+   "application_type": "NDA",
+   "supplement_date": "02/13/2026",
+   "database_updated": "02/19/2026",
+   "drug_name_id": "3251"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-13",
+ "srlc_database_updated": "2026-02-19",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "27e7f20f-78a4-f1a9-e063-6394a90ae465",
+   "title": "RAPIBLYK (LANDIOLOL) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AOP ORPHAN PHARMACEUTICALS GMBH]",
+   "published_date": "Jun 23, 2026",
+   "spl_version": 107,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-04-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-05-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-04-09"
+    },
+    {
+     "spl_version": 106,
+     "published_date": "2026-04-30"
+    },
+    {
+     "spl_version": 107,
+     "published_date": "2026-06-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-04-09"
+   },
+   "lag_days_dailymed": 55,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "411b0949-3a5e-2a4b-e063-6394a90abcbf",
+   "title": "RAPIBLYK (LANDIOLOL) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AOP HEALTH US, LLC]",
+   "published_date": "Feb 26, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-02-26"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:09:42Z"
+}

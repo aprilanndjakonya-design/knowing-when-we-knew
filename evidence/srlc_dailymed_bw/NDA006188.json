@@ -1,0 +1,145 @@
+{
+ "application": "NDA006188",
+ "srlc_rows": [
+  {
+   "drug_name": "PROPYLTHIOURACIL",
+   "active_ingredient": "PROPYLTHIOURACIL",
+   "application_number": "006188",
+   "application_type": "NDA",
+   "supplement_date": "01/15/2016",
+   "supplement": "SUPPL-25",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/15/2016",
+     "suppl": "SUPPL-25",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/19/2018",
+   "database_updated": "09/21/2018",
+   "drug_name_id": "7"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-01-15",
+ "srlc_database_updated": "2018-09-21",
+ "lag_days_srlc_database": 980,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "b0c23a2c-b250-4c0d-9b2a-c1483faa2ca0",
+   "title": "PROPYLTHIOURACIL TABLET [PAR HEALTH USA, LLC]",
+   "published_date": "Sep 10, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-03-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-04-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-03-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-08-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-03-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-02-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-10-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-02-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-01-09"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-09-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2016-03-02"
+   },
+   "lag_days_dailymed": 47,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "d819e532-09ac-434a-84a6-636c4204c7aa",
+   "title": "PROPYLTHIOURACIL TABLET [AMERICAN HEALTH PACKAGING]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-09-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-09-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-07-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-12-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-10-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2017-09-25"
+   },
+   "lag_days_dailymed": 619,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 47,
+ "fetched_utc": "2026-10-16T09:13:30Z"
+}

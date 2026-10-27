@@ -1,0 +1,94 @@
+{
+ "application": "NDA020716",
+ "srlc_rows": [
+  {
+   "drug_name": "VICOPROFEN",
+   "active_ingredient": "HYDROCODONE BITARTRATE; IBUPROFEN",
+   "application_number": "020716",
+   "application_type": "NDA",
+   "supplement_date": "12/16/2016",
+   "supplement": "SUPPL-16",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-13",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    },
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    },
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    },
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-16",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "01/16/2017",
+   "drug_name_id": "790"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-12-16",
+ "srlc_database_updated": "2017-01-16",
+ "lag_days_srlc_database": 31,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f914699b-12a7-44f1-846f-e6437a16e35d",
+   "title": "VICOPROFEN (HYDROCODONE BITARTRATE AND IBUPROFEN) TABLET, COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Nov 08, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-11-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:47Z"
+}

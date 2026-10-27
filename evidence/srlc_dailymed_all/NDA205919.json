@@ -1,0 +1,130 @@
+{
+ "application": "NDA205919",
+ "srlc_rows": [
+  {
+   "drug_name": "PURIXAN",
+   "active_ingredient": "MERCAPTOPURINE",
+   "application_number": "205919",
+   "application_type": "NDA",
+   "supplement_date": "07/16/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "1056"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-16",
+ "srlc_database_updated": "2026-07-24",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "9c6fc66b-522f-499d-961a-cde6ca0ec2e5",
+   "title": "MERCAPTOPURINE SUSPENSION [NOVA LABORATORIES, LTD]",
+   "published_date": "Jul 22, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-09-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-12-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-07-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-07-22"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "9fd27952-7787-47d9-b6cf-7af2dc38217b",
+   "title": "PURIXAN SUSPENSION [NOVA LABORATORIES, LTD]",
+   "published_date": "Jul 22, 2026",
+   "spl_version": 30,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-05-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-01-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-03-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-03-30"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-05-22"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-03-05"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-05-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-10-31"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-04-10"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-04-15"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2022-10-12"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-10-28"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-06-13"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-08-22"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-07-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2026-07-22"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T09:01:49Z"
+}

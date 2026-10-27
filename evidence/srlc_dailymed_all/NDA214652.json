@@ -1,0 +1,60 @@
+{
+ "application": "NDA214652",
+ "srlc_rows": [
+  {
+   "drug_name": "ATROPINE SULFATE",
+   "active_ingredient": "ATROPINE SULFATE",
+   "application_number": "214652",
+   "application_type": "NDA",
+   "supplement_date": "02/04/2026",
+   "database_updated": "02/11/2026",
+   "drug_name_id": "3247"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-04",
+ "srlc_database_updated": "2026-02-11",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "bfc93de4-f731-31fa-e053-2a95a90aadcb",
+   "title": "ATROPINE SULFATE INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 01, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-04-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "bfc8a727-0cb8-3152-e053-2995a90a28ba",
+   "title": "ATROPINE SULFATE INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Oct 14, 2022",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-04-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-10-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:07:37Z"
+}

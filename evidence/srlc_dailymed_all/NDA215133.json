@@ -1,0 +1,75 @@
+{
+ "application": "NDA215133",
+ "srlc_rows": [
+  {
+   "drug_name": "SERTRALINE HYDROCHLORIDE",
+   "active_ingredient": "SERTRALINE HYDROCHLORIDE",
+   "application_number": "215133",
+   "application_type": "NDA",
+   "supplement_date": "10/06/2026",
+   "database_updated": "10/07/2026",
+   "drug_name_id": "2836"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-10-06",
+ "srlc_database_updated": "2026-10-07",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "8c8bcba9-eaeb-aa44-f9ea-b580de55a439",
+   "title": "SERTRALINE HCL (SERTRALINE HYDROCHLORIDE) CAPSULE [ALMATICA PHARMA LLC]",
+   "published_date": "Oct 15, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-10-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-12-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-08-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-10-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-10-15"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "e0e1f35e-114d-bb39-34f1-70208b94ac9e",
+   "title": "SERTRALINE HYDROCHLORIDE CAPSULE [ALVOGEN, INC.]",
+   "published_date": "Sep 22, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-09-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:08:04Z"
+}

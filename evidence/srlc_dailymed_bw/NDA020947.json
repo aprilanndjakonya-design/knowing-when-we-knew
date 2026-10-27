@@ -1,0 +1,51 @@
+{
+ "application": "NDA020947",
+ "srlc_rows": [
+  {
+   "drug_name": "PENNSAID",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "020947",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-10",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-10",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "202"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2016-08-08",
+ "lag_days_srlc_database": 91,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4732a181-9fe0-49b4-b486-e2da9ad66e31",
+   "title": "PENNSAID (DICLOFENAC SODIUM) LIQUID [STAT RX USA LLC]",
+   "published_date": "Nov 09, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:18:34Z"
+}

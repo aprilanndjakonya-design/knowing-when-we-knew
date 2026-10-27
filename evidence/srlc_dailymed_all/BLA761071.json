@@ -1,0 +1,152 @@
+{
+ "application": "BLA761071",
+ "srlc_rows": [
+  {
+   "drug_name": "HYRIMOZ",
+   "active_ingredient": "ADALIMUMAB-ADAZ",
+   "application_number": "761071",
+   "application_type": "BLA",
+   "supplement_date": "10/16/2025",
+   "database_updated": "10/22/2025",
+   "drug_name_id": "2413"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-16",
+ "srlc_database_updated": "2025-10-22",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "1ac7d061-3380-468c-b077-c05f8dfbc829",
+   "title": "HYRIMOZ (ADALIMUMAB-ADAZ) INJECTION, SOLUTION HYRIMOZ (ADALIMUMAB-ADAZ) KIT [SANDOZ INC]",
+   "published_date": "Aug 19, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2023-07-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-04-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-02-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-08-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "3468792f-63ef-4916-8ed1-8214f327d9dd",
+   "title": "ADALIMUMAB (ADALIMUMAB-ADAZ) INJECTION, SOLUTION [SANDOZ INC]",
+   "published_date": "Jan 28, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-07-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-05-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-06-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-12-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-01-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-03-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-01-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "3e303a4a-980b-4f2a-9d03-786928758637",
+   "title": "HYRIMOZ (ADALIMUMAB-ADAZ) INJECTION, SOLUTION HYRIMOZ (ADALIMUMAB-ADAZ) KIT [CORDAVIS LIMITED]",
+   "published_date": "Jan 23, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-09-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-04-25"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-01-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 32,
+ "fetched_utc": "2026-10-16T08:39:07Z"
+}

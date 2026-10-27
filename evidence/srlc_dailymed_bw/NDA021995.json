@@ -1,0 +1,638 @@
+{
+ "application": "NDA021995",
+ "srlc_rows": [
+  {
+   "drug_name": "JANUVIA",
+   "active_ingredient": "SITAGLIPTIN PHOSPHATE",
+   "application_number": "021995",
+   "application_type": "NDA",
+   "supplement_date": "12/04/2020",
+   "supplement": "SUPPL-47",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/04/2020",
+     "suppl": "SUPPL-47",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/21/2022",
+   "database_updated": "06/24/2022",
+   "drug_name_id": "799"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-12-04",
+ "srlc_database_updated": "2022-06-24",
+ "lag_days_srlc_database": 567,
+ "dailymed_setids": 11,
+ "labels": [
+  {
+   "setid": "1b03c82f-b52e-4092-b9dc-f2c9b0d6ab40",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 10, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-08-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-07-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-07-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2023-07-21"
+   },
+   "lag_days_dailymed": 959,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "4a758211-8af1-449b-9a10-f3d67d7ec8b6",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 10, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-03-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-07-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-03-03"
+   },
+   "lag_days_dailymed": 89,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "62c4f58b-2b28-4825-aeb6-213ab9b7a026",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 10, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2020-08-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-06-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-07-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2021-04-19"
+   },
+   "lag_days_dailymed": 136,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "eb81a45f-05b8-49de-99ce-5089bd360d9b",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 10, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-08-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-06-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-07-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2021-04-19"
+   },
+   "lag_days_dailymed": 136,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "194c3718-5eb5-4cf5-85d0-2bb1ed8293b8",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 09, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-10-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-06-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-08-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-07-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2021-04-19"
+   },
+   "lag_days_dailymed": 136,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "39253ddd-0245-43b1-ad28-d5923983afb4",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-08-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-10-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-11-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-04-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-08-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-10-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-11-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-11-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-01-13"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-10-31"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-01-03"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-05-16"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-06-20"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-11-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-07-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-01-21"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-02-16"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-03-14"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-02-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-04-10"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-09-11"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-09-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2021-07-29"
+   },
+   "lag_days_dailymed": 237,
+   "versions_before_supplement": 14
+  },
+  {
+   "setid": "9d558f96-24a5-4788-8933-38256c17384b",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-04-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-11-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-10-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-01-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-05-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-11-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-07-30"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-01-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-02-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-04-10"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-05-01"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-09-30"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2022-01-21"
+   },
+   "lag_days_dailymed": 413,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "f85a48d0-0407-4c50-b0fa-7673a160bf01",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 71,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-12-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2008-09-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2008-12-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2009-03-19"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2010-06-01"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2010-10-08"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2011-05-02"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2011-12-09"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2012-03-09"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2012-04-06"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2012-05-08"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2013-02-22"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2013-03-26"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2013-05-17"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2013-08-30"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2013-09-09"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2014-02-18"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2015-03-06"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2015-03-19"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2015-09-23"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2015-10-06"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2016-02-24"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2016-04-18"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2016-11-16"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2017-01-30"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2017-08-22"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2018-02-21"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2019-01-31"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2019-03-18"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2019-06-27"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2019-08-26"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2020-12-21"
+    },
+    {
+     "spl_version": 63,
+     "published_date": "2021-11-22"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2021-12-15"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2022-07-07"
+    },
+    {
+     "spl_version": 67,
+     "published_date": "2022-08-05"
+    },
+    {
+     "spl_version": 68,
+     "published_date": "2022-11-04"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2023-08-14"
+    },
+    {
+     "spl_version": 70,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 71,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 62,
+    "published_date": "2020-12-21"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 33
+  },
+  {
+   "setid": "e2e576e6-6181-4178-b989-61d0e795e559",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Feb 02, 2024",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2017-11-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-02-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-08-01"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-02-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2023-08-01"
+   },
+   "lag_days_dailymed": 970,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "963792a9-4029-4e7b-9759-9ad52e1b0962",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [CLINICAL SOLUTIONS WHOLESALE]",
+   "published_date": "Dec 23, 2013",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-12-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "aaadccea-4842-493b-a0bd-0ee7645fc250",
+   "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 08, 2011",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-11-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-09-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-02-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:23:37Z"
+}

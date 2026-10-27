@@ -1,0 +1,64 @@
+{
+ "application": "BLA761369",
+ "srlc_rows": [
+  {
+   "drug_name": "HYMPAVZI",
+   "active_ingredient": "MARSTACIMAB-HNCQ",
+   "application_number": "761369",
+   "application_type": "BLA",
+   "supplement_date": "06/05/2026",
+   "database_updated": "06/12/2026",
+   "drug_name_id": "3184"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-05",
+ "srlc_database_updated": "2026-06-12",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a2cc631e-13a6-40c2-acf9-065ccedfb90a",
+   "title": "HYMPAVZI (MARSTACIMAB-HNCQ) INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jun 23, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-11-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-12-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-06-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-06-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-06-17"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:41:36Z"
+}

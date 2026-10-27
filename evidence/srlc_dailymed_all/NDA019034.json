@@ -1,0 +1,102 @@
+{
+ "application": "NDA019034",
+ "srlc_rows": [
+  {
+   "drug_name": "DILAUDID-HP",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "019034",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "658"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-08",
+ "lag_days_srlc_database": 17,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "9eebd88a-5632-460f-b7b6-26c8a180540d",
+   "title": "DILAUDID (HYDROMORPHONE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-01-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-02-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-08-31"
+   },
+   "lag_days_dailymed": 252,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "e034eb96-03e0-46e1-8b92-5e1f94555e7b",
+   "title": "HYDROMORPHONE HYDROCHLORIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-12-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-07-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-07-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-04-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-08-28"
+   },
+   "lag_days_dailymed": 249,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 249,
+ "fetched_utc": "2026-10-16T08:44:50Z"
+}

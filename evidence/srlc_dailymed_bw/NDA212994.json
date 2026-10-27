@@ -1,0 +1,84 @@
+{
+ "application": "NDA212994",
+ "srlc_rows": [
+  {
+   "drug_name": "AZSTARYS",
+   "active_ingredient": "DEXMETHYLPHENIDATE HYDROCHLORIDE; SERDEXMETHYLPHENIDATE CHLORIDE",
+   "application_number": "212994",
+   "application_type": "NDA",
+   "supplement_date": "10/13/2023",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/13/2023",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2868"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-13",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 714,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "00b5e716-5564-4bbd-acaf-df2bc45a5663",
+   "title": "AZSTARYS (SERDEXMETHYLPHENIDATE AND DEXMETHYLPHENIDATE) CAPSULE [COMMAVE SUB, LLC]",
+   "published_date": "May 13, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-09-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-12-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-06-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-11-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-10-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-05-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2023-10-26"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:29:24Z"
+}

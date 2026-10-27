@@ -1,0 +1,100 @@
+{
+ "application": "NDA206353",
+ "srlc_rows": [
+  {
+   "drug_name": "EVOTAZ",
+   "active_ingredient": "ATAZANAVIR SULFATE; COBICISTAT",
+   "application_number": "206353",
+   "application_type": "NDA",
+   "supplement_date": "05/12/2025",
+   "database_updated": "06/04/2025",
+   "drug_name_id": "302"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-12",
+ "srlc_database_updated": "2025-06-04",
+ "lag_days_srlc_database": 23,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "83db29d7-5d85-49d6-8cb6-740473365cf8",
+   "title": "EVOTAZ (ATAZANAVIR AND COBICISTAT) TABLET [E.R. SQUIBB & SONS, L.L.C.]",
+   "published_date": "May 26, 2025",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-02-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-05-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-06-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-01-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-07-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-02-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-03-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-04-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-04-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-06-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-06-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-05-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-08-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-05-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-05-25"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-05-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-05-26"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 15
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:02:10Z"
+}

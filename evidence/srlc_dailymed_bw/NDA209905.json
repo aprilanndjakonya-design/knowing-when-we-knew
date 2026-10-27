@@ -1,0 +1,37 @@
+{
+ "application": "NDA209905",
+ "srlc_rows": [
+  {
+   "drug_name": "EVEKEO ODT",
+   "active_ingredient": "AMPHETAMINE SULFATE",
+   "application_number": "209905",
+   "application_type": "NDA",
+   "supplement_date": "10/13/2023",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/13/2023",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "2446"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-13",
+ "srlc_database_updated": "2023-10-17",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:28:56Z"
+}

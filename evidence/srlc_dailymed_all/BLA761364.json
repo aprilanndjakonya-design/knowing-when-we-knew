@@ -1,0 +1,56 @@
+{
+ "application": "BLA761364",
+ "srlc_rows": [
+  {
+   "drug_name": "IMULDOSA",
+   "active_ingredient": "USTEKINUMAB-SRLF",
+   "application_number": "761364",
+   "application_type": "BLA",
+   "supplement_date": "06/05/2026",
+   "database_updated": "06/12/2026",
+   "drug_name_id": "3219"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-05",
+ "srlc_database_updated": "2026-06-12",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "2539a6cf-0fe5-1565-e063-6294a90a3618",
+   "title": "IMULDOSA (USTEKINUMAB-SRLF) INJECTION [ACCORD BIOPHARMA INC.]",
+   "published_date": "Jun 18, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-09-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-12-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-06-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-06-18"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:41:33Z"
+}

@@ -1,0 +1,68 @@
+{
+ "application": "NDA017538",
+ "srlc_rows": [
+  {
+   "drug_name": "TECHNESCAN PYP KIT",
+   "active_ingredient": "TECHNETIUM TC-99M PYROPHOSPHATE KIT",
+   "application_number": "017538",
+   "application_type": "NDA",
+   "supplement_date": "11/24/2025",
+   "database_updated": "12/03/2025",
+   "drug_name_id": "912"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-24",
+ "srlc_database_updated": "2025-12-03",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "304b63f4-a32e-4700-805d-5bc9f27e7d6a",
+   "title": "TECHNESCAN PYP (TECHNETIUM TC 99M PYROPHOSPHATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CURIUM US LLC]",
+   "published_date": "Dec 08, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-10-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-05-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-12-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-01-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-06-10"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-05-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-12-08"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:43:40Z"
+}

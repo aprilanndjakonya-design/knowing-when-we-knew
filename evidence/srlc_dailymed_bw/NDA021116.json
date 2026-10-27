@@ -1,0 +1,1296 @@
+{
+ "application": "NDA021116",
+ "srlc_rows": [
+  {
+   "drug_name": "THYRO-TABS",
+   "active_ingredient": "LEVOTHYROXINE SODIUM",
+   "application_number": "021116",
+   "application_type": "NDA",
+   "supplement_date": "08/31/2017",
+   "supplement": "SUPPL-13",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/31/2017",
+     "suppl": "SUPPL-13",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/16/2023",
+   "database_updated": "11/20/2023",
+   "drug_name_id": "1323"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-08-31",
+ "srlc_database_updated": "2023-11-20",
+ "lag_days_srlc_database": 2272,
+ "dailymed_setids": 41,
+ "labels": [
+  {
+   "setid": "4ddcaec1-a58f-340b-9bc1-bbe048b8c885",
+   "title": "LEVOTHYROXINE SODIUM TABLET [ALVOGEN, INC.]",
+   "published_date": "Sep 17, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-05-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-10-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-12-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-11-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-11-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-08-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-08-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-09-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-05-07"
+   },
+   "lag_days_dailymed": 614,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "3b282e57-1009-4d2c-8ca2-9cca9f791937",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Jun 15, 2026",
+   "spl_version": 103,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2023-11-02"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2024-07-18"
+    },
+    {
+     "spl_version": 103,
+     "published_date": "2026-06-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2023-11-02"
+   },
+   "lag_days_dailymed": 2254,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "3519c765-2077-4f23-8644-a6242ddbf743",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "May 25, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-08-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-10-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-06-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-08-12"
+   },
+   "lag_days_dailymed": 1077,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "eb53dc23-8337-497e-b466-192f905563ed",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "May 25, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-05-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-06-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-05-13"
+   },
+   "lag_days_dailymed": 986,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "645c52bb-c46e-426e-91d4-151aeac975a7",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "May 22, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-07-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-01-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-07-24"
+   },
+   "lag_days_dailymed": 1058,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "65c8b305-8ffb-4aa5-aca1-f4e4ead71a9c",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "May 21, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-08-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-08-12"
+   },
+   "lag_days_dailymed": 1077,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "ac10b751-5195-4987-a841-400ae79730f0",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "May 21, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-07-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-09-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-07-23"
+   },
+   "lag_days_dailymed": 1057,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c9f4923e-5625-1d4f-e053-2a95a90aabc9",
+   "title": "LEVOTHYROXINE SODIUM TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+   "published_date": "Jan 28, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-08-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-03-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-12-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-08-23"
+   },
+   "lag_days_dailymed": 1453,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "db5dd9d2-4f96-25d0-e053-2995a90af9dc",
+   "title": "LEVOTHYROXINE SODIUM TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+   "published_date": "Jan 28, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-03-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-12-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-03-20"
+   },
+   "lag_days_dailymed": 2027,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "db89c58f-9dd0-b6d6-e053-2a95a90ae2e7",
+   "title": "LEVOTHYROXINE SODIUM TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+   "published_date": "Jan 28, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-03-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-12-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-03-20"
+   },
+   "lag_days_dailymed": 2027,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "8f7dc71e-4a48-4ba5-945b-f340ff51636e",
+   "title": "LEVOTHYROXINE SODIUM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 26, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-11-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-09-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-01-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-12-23"
+   },
+   "lag_days_dailymed": 844,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "f2bed4e7-86e9-430e-80d9-7bd7cfcf9bf5",
+   "title": "LEVOTHYROXINE SODIUM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 26, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-01-26"
+   },
+   "lag_days_dailymed": 3070,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "4e6dce46-cbf5-4353-9d0c-36b6f857197a",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "Jan 15, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-07-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-06-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-01-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-07-23"
+   },
+   "lag_days_dailymed": 1057,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "579b1935-77f5-4381-9cb0-e0130e4834e8",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "Jan 14, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-05-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-01-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-05-08"
+   },
+   "lag_days_dailymed": 981,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "59a99739-2da5-46a7-8811-1169123bed9b",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "Jan 14, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-05-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-06-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-01-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-05-07"
+   },
+   "lag_days_dailymed": 980,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "00a4fc0b-7162-455e-8ed3-56efdbbe182e",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PROFICIENT RX LP]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-11-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-11-08"
+   },
+   "lag_days_dailymed": 799,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "48c29432-a36c-4787-a05f-8d25a0abcc37",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 100,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 3000,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "9e3bffb9-f66e-4c73-befc-e60d769f6610",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Jul 31, 2025",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-03-03"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-05-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-07-08"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-09-21"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-11-14"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-08-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2020-01-17"
+   },
+   "lag_days_dailymed": 869,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c1b0fbad-5816-4152-ab59-05079e8c2148",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Jul 31, 2025",
+   "spl_version": 102,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2023-12-07"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2025-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2023-12-07"
+   },
+   "lag_days_dailymed": 2289,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "398a00d0-1247-4f6f-b4c1-dade399cc417",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 17, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-05-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-05-07"
+   },
+   "lag_days_dailymed": 980,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "412fc3f4-d9e0-49c5-b042-a6010aea7e5e",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PREFERRED PHARMACEUTICALS INC.]",
+   "published_date": "Jul 16, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-05-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-07-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2024-05-06"
+   },
+   "lag_days_dailymed": 2440,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "fc803107-aaa2-4753-ab97-7b4ed5cf4be5",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Jan 23, 2025",
+   "spl_version": 102,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2024-01-08"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2024-02-05"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2025-01-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2024-01-08"
+   },
+   "lag_days_dailymed": 2321,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c22af2e0-fb36-4645-a911-3d293af5bd88",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Aug 07, 2024",
+   "spl_version": 105,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2021-08-23"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2022-04-12"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2023-11-02"
+    },
+    {
+     "spl_version": 103,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 104,
+     "published_date": "2024-06-05"
+    },
+    {
+     "spl_version": 105,
+     "published_date": "2024-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2021-08-23"
+   },
+   "lag_days_dailymed": 1453,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "d79526e0-d327-4545-a50c-99678766d817",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Aug 07, 2024",
+   "spl_version": 107,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2021-08-23"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2021-09-09"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2022-04-12"
+    },
+    {
+     "spl_version": 103,
+     "published_date": "2023-01-27"
+    },
+    {
+     "spl_version": 104,
+     "published_date": "2023-11-02"
+    },
+    {
+     "spl_version": 105,
+     "published_date": "2024-04-01"
+    },
+    {
+     "spl_version": 106,
+     "published_date": "2024-05-06"
+    },
+    {
+     "spl_version": 107,
+     "published_date": "2024-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2021-08-23"
+   },
+   "lag_days_dailymed": 1453,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a2157cf0-5c8f-7e69-e053-2a95a90aa083",
+   "title": "LEVOTHYROXINE SODIUM TABLET [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "Jun 24, 2024",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-03-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-02-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-06-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-03-31"
+   },
+   "lag_days_dailymed": 943,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a215da96-acd9-6b8d-e053-2995a90a7e0d",
+   "title": "LEVOTHYROXINE SODIUM TABLET [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "Jun 24, 2024",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-03-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-02-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-06-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-03-31"
+   },
+   "lag_days_dailymed": 943,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a2194c58-b755-e6b5-e053-2a95a90a36d4",
+   "title": "LEVOTHYROXINE SODIUM TABLET [NUCAR PHARMACEUTICALS,INC.]",
+   "published_date": "Jun 24, 2024",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-03-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-02-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-06-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-03-31"
+   },
+   "lag_days_dailymed": 943,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a5f15022-1166-09fe-e053-2a95a90aa218",
+   "title": "LEVOTHYROXINE SODIUM TABLET [DIRECT RX]",
+   "published_date": "May 24, 2024",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-05-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-07-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-10-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-12-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-01-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-02-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-06-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-07-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-07-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-08-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-08-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-08-19"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-09-30"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-10-12"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-06-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-05-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2020-05-19"
+   },
+   "lag_days_dailymed": 992,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "8849620a-5e8d-4031-884f-9a2817b050f2",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "May 06, 2024",
+   "spl_version": 101,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2023-12-07"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2024-05-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2023-12-07"
+   },
+   "lag_days_dailymed": 2289,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "d35b5250-c26d-4d67-8a33-2f993b13e3e9",
+   "title": "LEVOTHYROXINE SODIUM TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Apr 15, 2024",
+   "spl_version": 101,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2024-01-08"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2024-04-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2024-01-08"
+   },
+   "lag_days_dailymed": 2321,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "dfd9ef18-13c7-37b4-e053-2995a90af904",
+   "title": "LEVOTHYROXINE SODIUM TABLET [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "May 26, 2022",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-05-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2022-05-26"
+   },
+   "lag_days_dailymed": 1729,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "32d44309-e17b-4e9d-bdc4-452c224be548",
+   "title": "LEVOTHYROXINE SODIUM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Apr 19, 2021",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-12-09"
+   },
+   "lag_days_dailymed": 830,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "73219266-dbcd-4db3-8b1e-53d5a2bdc15d",
+   "title": "LEVOTHYROXINE SODIUM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Apr 19, 2021",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-04-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2019-12-31"
+   },
+   "lag_days_dailymed": 852,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "f0c0144f-252e-4f86-a1f2-4b0de60e7a47",
+   "title": "LEVOTHYROXINE SODIUM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Apr 16, 2021",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-12-09"
+   },
+   "lag_days_dailymed": 830,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "2daab9ce-0570-4fdf-a7bd-01c3178f8cf3",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PROFICIENT RX LP]",
+   "published_date": "Mar 19, 2021",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-03-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-03-19"
+   },
+   "lag_days_dailymed": 1296,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "0b94e62c-eb04-47fd-b6ec-a70c588d7cd7",
+   "title": "LEVOTHYROXINE SODIUM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Mar 10, 2021",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-03-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-03-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-12-31"
+   },
+   "lag_days_dailymed": 852,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "eceefcf0-d2a3-4661-86b2-046ed8ded836",
+   "title": "LEVOTHYROXINE SODIUM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Mar 03, 2021",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-03-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-03-03"
+   },
+   "lag_days_dailymed": 1280,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a5c03bb2-2364-4e34-8d64-03996a29a8ab",
+   "title": "LEVOTHYROXINE SODIUM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 15, 2021",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-01-15"
+   },
+   "lag_days_dailymed": 1233,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "12ccf2fd-ccf0-4bcf-8eee-e2a16c8b44d6",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PROFICIENT RX LP]",
+   "published_date": "Jan 04, 2021",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-01-04"
+   },
+   "lag_days_dailymed": 1222,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "3019762c-d480-4530-a3b2-762b523e7961",
+   "title": "LEVOTHYROXINE SODIUM TABLET [PROFICIENT RX LP]",
+   "published_date": "Nov 13, 2019",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-11-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-11-13"
+   },
+   "lag_days_dailymed": 804,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "101de879-bb0a-4157-9c0d-2c5720dd454e",
+   "title": "LEVOTHROID (LEVOTHYROXINE SODIUM) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Mar 06, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-03-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 614,
+ "fetched_utc": "2026-10-16T09:19:38Z"
+}

@@ -1,0 +1,149 @@
+{
+ "application": "NDA203195",
+ "srlc_rows": [
+  {
+   "drug_name": "SUPRAX",
+   "active_ingredient": "CEFIXIME",
+   "application_number": "203195",
+   "application_type": "NDA",
+   "supplement_date": "05/22/2025",
+   "database_updated": "06/03/2025",
+   "drug_name_id": "898"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-22",
+ "srlc_database_updated": "2025-06-03",
+ "lag_days_srlc_database": 12,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "3194433c-c04e-442b-9668-fbeb0a15bac7",
+   "title": "CEFIXIME CAPSULE [REMEDYREPACK INC.]",
+   "published_date": "Aug 07, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-09-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-11-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-06-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-09-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-12-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-04-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-07-21"
+   },
+   "lag_days_dailymed": 60,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "6d68dbd9-7d75-4ff1-91db-79ff8ae879ec",
+   "title": "CEFIXIME POWDER, FOR SUSPENSION CEFIXIME CAPSULE [LUPIN PHARMACEUTICALS, INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-04-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-12-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-10-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-01-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-01-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-12-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-01-30"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-08-04"
+   },
+   "lag_days_dailymed": 74,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "655a59ba-08e9-51d4-e053-2991aa0aef34",
+   "title": "SUPRAX (CEFIXIME) CAPSULE [DENTON PHARMA, INC. DBA NORTHWIND PHARMACEUTICALS]",
+   "published_date": "Dec 30, 2019",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-02-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 60,
+ "fetched_utc": "2026-10-16T08:59:56Z"
+}

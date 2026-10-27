@@ -1,0 +1,68 @@
+{
+ "application": "NDA217564",
+ "srlc_rows": [
+  {
+   "drug_name": "FRUZAQLA",
+   "active_ingredient": "FRUQUINTINIB",
+   "application_number": "217564",
+   "application_type": "NDA",
+   "supplement_date": "02/28/2025",
+   "database_updated": "03/03/2025",
+   "drug_name_id": "3085"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-28",
+ "srlc_database_updated": "2025-03-03",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "186d786e-dc8a-45f2-b5e1-01ac0201879f",
+   "title": "FRUZAQLA (FRUQUINTINIB) CAPSULE [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+   "published_date": "Aug 12, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-11-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-06-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-08-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-07-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-08-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-03-10"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:09:58Z"
+}

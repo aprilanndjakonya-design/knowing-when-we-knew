@@ -1,0 +1,61 @@
+{
+ "application": "NDA020281",
+ "srlc_rows": [
+  {
+   "drug_name": "ULTRAM",
+   "active_ingredient": "TRAMADOL HYDROCHLORIDE",
+   "application_number": "020281",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-43",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-38",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/29/2017",
+     "suppl": "SUPPL-39",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-43",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/13/2023",
+   "database_updated": "02/17/2023",
+   "drug_name_id": "654"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2023-02-17",
+ "lag_days_srlc_database": 1613,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:16:50Z"
+}

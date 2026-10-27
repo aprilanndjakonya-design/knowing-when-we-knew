@@ -1,0 +1,70 @@
+{
+ "application": "NDA217439",
+ "srlc_rows": [
+  {
+   "drug_name": "TALZENNA",
+   "active_ingredient": "TALAZOPARIB TOSYLATE",
+   "application_number": "217439",
+   "application_type": "NDA",
+   "supplement_date": "06/12/2025",
+   "database_updated": "06/13/2025",
+   "drug_name_id": "3138"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-12",
+ "srlc_database_updated": "2025-06-13",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "c6fd147f-a77e-4a0b-9280-e82ecc41b4be",
+   "title": "TALZENNA (TALAZOPARIB) CAPSULE, LIQUID FILLED [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Apr 13, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-04-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-06-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-04-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-06-25"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "b653221e-971f-4452-92d4-797924f1ff59",
+   "title": "TALZENNA (TALAZOPARIB) CAPSULE, LIQUID FILLED [U.S. PHARMACEUTICALS]",
+   "published_date": "Feb 26, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-02-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-02-26"
+   },
+   "lag_days_dailymed": 259,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:09:53Z"
+}

@@ -1,0 +1,152 @@
+{
+ "application": "NDA050817",
+ "srlc_rows": [
+  {
+   "drug_name": "CEFEPIME IN PLASTIC CONTAINER",
+   "active_ingredient": "CEFEPIME HYDROCHLORIDE",
+   "application_number": "050817",
+   "application_type": "NDA",
+   "supplement_date": "06/25/2026",
+   "database_updated": "06/29/2026",
+   "drug_name_id": "223"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-25",
+ "srlc_database_updated": "2026-06-29",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "be5f8ca6-7232-423a-a2d5-cccb7abe7921",
+   "title": "CEFEPIME INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Jul 01, 2026",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-09-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-01-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-03-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-10-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-06-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-12-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-09-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-06-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-01-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-01-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-05-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-08-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-09-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-01-07"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-05-28"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-03-12"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-05-18"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-08-23"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-01-31"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-02-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-10-30"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-05-13"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-09-09"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-08-14"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-12-16"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-04-09"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-07-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2026-07-01"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 28
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T08:58:22Z"
+}

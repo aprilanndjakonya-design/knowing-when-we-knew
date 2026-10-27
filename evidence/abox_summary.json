@@ -1,0 +1,17 @@
+{
+ "applications": 530,
+ "label_sets": 363,
+ "label_versions": 363,
+ "change_records": 774,
+ "approvals": 774,
+ "boxed_warnings": 530,
+ "patients": 31,
+ "prescriptions": 60,
+ "checks": 60,
+ "known_as_of_classes": 50,
+ "verified_sections": 35,
+ "srlc_known_from_asserted": 181,
+ "bytes": 2103099,
+ "file": "/Users/denis/MyAgentsProjects/UniverseIdeas/solutions/grant-packages/NIH_ITS_ABOUT_TIME/ontology/its-about-time-data-0.2.ttl",
+ "generated_utc": "2026-10-16T09:33:15Z"
+}

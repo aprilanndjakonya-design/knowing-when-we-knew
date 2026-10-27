@@ -1,0 +1,72 @@
+{
+ "application": "NDA214869",
+ "srlc_rows": [
+  {
+   "drug_name": "DHIVY",
+   "active_ingredient": "CARBIDOPA; LEVODOPA",
+   "application_number": "214869",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2641"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-19",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "39d79ade-8ee0-40ba-9fdd-13045b8ddbdf",
+   "title": "DHIVY (CARBIDOPA LEVODOPA) TABLET [AVION PHARMACEUTICALS, LLC]",
+   "published_date": "Aug 25, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-11-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-02-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-02-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-08-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-11-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-02-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-04-03"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-08-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-04-03"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:07:51Z"
+}

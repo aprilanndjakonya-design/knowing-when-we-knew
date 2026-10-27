@@ -1,0 +1,196 @@
+{
+ "application": "NDA011719",
+ "srlc_rows": [
+  {
+   "drug_name": "METHOTREXATE LPF",
+   "active_ingredient": "METHOTREXATE SODIUM",
+   "application_number": "011719",
+   "application_type": "NDA",
+   "supplement_date": "05/28/2025",
+   "database_updated": "06/04/2025",
+   "drug_name_id": "1480"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-28",
+ "srlc_database_updated": "2025-06-04",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "0e30eaef-5a09-4104-8a11-c32933eadeab",
+   "title": "METHOTREXATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Aug 26, 2025",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-11-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-12-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-05-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-06-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-08-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-06-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-08-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-08-22"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-01-03"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-07-07"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-08-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-07-07"
+   },
+   "lag_days_dailymed": 40,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "bd287e89-32f9-4396-95fa-4b562869f476",
+   "title": "METHOTREXATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Jul 07, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-01-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-01-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-01-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-11-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-07-07"
+   },
+   "lag_days_dailymed": 40,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "0d63ba29-b692-41b4-87e8-351265c8273f",
+   "title": "METHOTREXATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Jun 12, 2025",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-12-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-05-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-06-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-08-13"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-04-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-06-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-11-08"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-08-22"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-12-11"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-12-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-06-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2025-06-12"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:42:35Z"
+}

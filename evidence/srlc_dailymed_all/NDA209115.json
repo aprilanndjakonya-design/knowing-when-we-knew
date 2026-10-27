@@ -1,0 +1,64 @@
+{
+ "application": "NDA209115",
+ "srlc_rows": [
+  {
+   "drug_name": "RUBRACA",
+   "active_ingredient": "RUCAPARIB CAMSYLATE",
+   "application_number": "209115",
+   "application_type": "NDA",
+   "supplement_date": "12/17/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "1515"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-17",
+ "srlc_database_updated": "2025-12-22",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0295d202-1cfe-7659-e063-6294a90a476e",
+   "title": "RUBRACA (RUCAPARIB) TABLET, FILM COATED [PHARMAAND GMBH]",
+   "published_date": "Jan 02, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 13,
+     "published_date": "2023-08-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-11-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-11-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-12-07"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-12-25"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-01-30"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-01-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2026-01-02"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T09:03:44Z"
+}

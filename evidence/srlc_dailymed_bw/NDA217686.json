@@ -1,0 +1,76 @@
+{
+ "application": "NDA217686",
+ "srlc_rows": [
+  {
+   "drug_name": "TRYVIO",
+   "active_ingredient": "APROCITENTAN",
+   "application_number": "217686",
+   "application_type": "NDA",
+   "supplement_date": "04/02/2025",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/02/2025",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/02/2025",
+   "database_updated": "05/14/2025",
+   "drug_name_id": "3105"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-02",
+ "srlc_database_updated": "2025-05-14",
+ "lag_days_srlc_database": 42,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "dfe7a2ee-612c-4aba-834a-d68e6b59a0a6",
+   "title": "TRYVIO (APROCITENTAN) TABLET, FILM COATED [IDORSIA PHARMACEUTICALS LTD]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2024-04-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-09-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-04-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-02-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-04-17"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:29:50Z"
+}

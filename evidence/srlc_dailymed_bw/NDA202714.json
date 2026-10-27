@@ -1,0 +1,184 @@
+{
+ "application": "NDA202714",
+ "srlc_rows": [
+  {
+   "drug_name": "KYPROLIS",
+   "active_ingredient": "CARFILZOMIB",
+   "application_number": "202714",
+   "application_type": "NDA",
+   "supplement_date": "08/20/2020",
+   "supplement": "SUPPL-30",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/20/2020",
+     "suppl": "SUPPL-30",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/22/2025",
+   "database_updated": "06/04/2025",
+   "drug_name_id": "13"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-08-20",
+ "srlc_database_updated": "2025-06-04",
+ "lag_days_srlc_database": 1749,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ea66eb30-e665-4693-99a1-a9d3b4bbe2d6",
+   "title": "KYPROLIS (CARFILZOMIB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ONYX PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 26, 2025",
+   "spl_version": 59,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-07-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-11-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-01-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-02-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-04-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-08-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-09-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-11-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-02-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-06-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-07-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-08-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-12-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2017-06-07"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2018-01-30"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2018-06-05"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-06-20"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-08-17"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2018-10-15"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2019-03-13"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2019-06-03"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2019-10-21"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2020-05-15"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2020-09-03"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2021-03-25"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2021-11-08"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2022-01-28"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2022-06-20"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2022-07-29"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2024-09-26"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2025-06-06"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2025-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 41,
+    "published_date": "2020-09-03"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 23
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:26:37Z"
+}

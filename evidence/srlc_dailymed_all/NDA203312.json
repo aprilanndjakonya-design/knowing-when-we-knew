@@ -1,0 +1,195 @@
+{
+ "application": "NDA203312",
+ "srlc_rows": [
+  {
+   "drug_name": "RYTARY",
+   "active_ingredient": "CARBIDOPA; LEVODOPA",
+   "application_number": "203312",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "507"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-19",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "4ce99f65-5857-448c-b22a-9b3b64de69e2",
+   "title": "CARBIDOPA AND LEVODOPA CAPSULE, EXTENDED RELEASE [REMEDYREPACK INC.]",
+   "published_date": "Apr 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-30"
+   },
+   "lag_days_dailymed": 42,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "9ac804f1-7e15-48bc-8ae9-25181a629dd4",
+   "title": "CARBIDOPA AND LEVODOPA CAPSULE, EXTENDED RELEASE [REMEDYREPACK INC.]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-27"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "b29e58f0-67b1-4036-a4a8-4915a8c13cdf",
+   "title": "CARBIDOPA AND LEVODOPA CAPSULE, EXTENDED RELEASE [REMEDYREPACK INC.]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-27"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "beedd327-bbc5-4f17-838a-4e72bf0867f0",
+   "title": "CARBIDOPA AND LEVODOPA CAPSULE, EXTENDED RELEASE [REMEDYREPACK INC.]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-27"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "6c1f7cd4-de56-45c1-a734-5e77b4aeb6f7",
+   "title": "RYTARY (CARBIDOPA AND LEVODOPA) CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+   "published_date": "Mar 27, 2026",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-01-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-03-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-04-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-05-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-11-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-08-10"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-06-12"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-06-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-12-20"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-12-30"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-12-23"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-11-15"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-10-25"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-11-19"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-03-23"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-03-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2026-03-23"
+   },
+   "lag_days_dailymed": 4,
+   "versions_before_supplement": 15
+  },
+  {
+   "setid": "74e7f96b-de31-4e3c-b32d-11421b291d4e",
+   "title": "CARBIDOPA AND LEVODOPA CAPSULE, EXTENDED RELEASE [ZYDUS PHARMACEUTICALS USA INC.]",
+   "published_date": "Nov 18, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-11-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 4,
+ "fetched_utc": "2026-10-16T09:00:03Z"
+}

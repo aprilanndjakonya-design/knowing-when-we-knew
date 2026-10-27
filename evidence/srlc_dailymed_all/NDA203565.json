@@ -1,0 +1,138 @@
+{
+ "application": "NDA203565",
+ "srlc_rows": [
+  {
+   "drug_name": "INJECTAFER",
+   "active_ingredient": "FERRIC CARBOXYMALTOSE",
+   "application_number": "203565",
+   "application_type": "NDA",
+   "supplement_date": "08/13/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "1435"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-13",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "bfdf7447-62e4-48ca-b903-11cb3b211064",
+   "title": "FERRIC CARBOXYMALTOSE (FERRIC CARBOXYMALTOSE INJECTION) INJECTION, SOLUTION [SANDOZ, INC.]",
+   "published_date": "Sep 04, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-09-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-09-04"
+   },
+   "lag_days_dailymed": 22,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "517b4a19-45b3-4286-9f6a-ced4e10447de",
+   "title": "INJECTAFER (FERRIC CARBOXYMALTOSE INJECTION) INJECTION, SOLUTION INJECTAFER (FERRIC CARBOXYMALTOSE) INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 30,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2013-08-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-05-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-08-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-10-12"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-02-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-02-22"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-05-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-12-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-01-16"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-03-18"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-03-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-09-25"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-08-13"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-12-03"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-06-01"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-09-26"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2023-06-08"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-01-08"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2026-08-20"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 19
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:00:17Z"
+}

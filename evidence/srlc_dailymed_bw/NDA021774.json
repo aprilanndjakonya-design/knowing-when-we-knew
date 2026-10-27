@@ -1,0 +1,193 @@
+{
+ "application": "NDA021774",
+ "srlc_rows": [
+  {
+   "drug_name": "AMBIEN CR",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "021774",
+   "application_type": "NDA",
+   "supplement_date": "08/18/2019",
+   "supplement": "SUPPL-27",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "08/18/2019",
+     "suppl": "SUPPL-27",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/23/2022",
+   "database_updated": "02/25/2022",
+   "drug_name_id": "265"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-08-18",
+ "srlc_database_updated": "2022-02-25",
+ "lag_days_srlc_database": 922,
+ "dailymed_setids": 8,
+ "labels": [
+  {
+   "setid": "41124767-8ff7-da5d-e063-6394a90a5203",
+   "title": "ZOLPIDEM TARTRATE TABLET, COATED [GOLDEN STATE MEDICAL SUPPLY, INC.]",
+   "published_date": "Nov 21, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-11-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 2283,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "2d934da3-bd77-4470-e063-6294a90a64f5",
+   "title": "AMBIEN CR (ZOLPIDEM TARTRATE) TABLET, COATED [COSETTE PHARMACEUTICALS, INC.]",
+   "published_date": "Feb 10, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-02-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-02-10"
+   },
+   "lag_days_dailymed": 2003,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "39d91478-ea0e-407e-b5cb-0eeb592e0aa4",
+   "title": "ZOLPIDEM TARTRATE TABLET, FILM COATED, EXTENDED RELEASE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Jan 25, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-01-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2024-01-25"
+   },
+   "lag_days_dailymed": 1621,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "facfc337-3447-4052-a9aa-8aa55282a3e3",
+   "title": "ZOLPIDEM TARTRATE TABLET, FILM COATED, EXTENDED RELEASE [PROFICIENT RX LP]",
+   "published_date": "Nov 13, 2019",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-08-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-12-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-11-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2019-11-13"
+   },
+   "lag_days_dailymed": 87,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "0d83cde7-4604-4bdd-a7cd-c31a5830514d",
+   "title": "AMBIEN CR (ZOLPIDEM TARTRATE) TABLET, COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Sep 05, 2012",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-09-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "40f9a7b1-b57b-4e70-b709-e81705e784a7",
+   "title": "AMBIEN CR (ZOLPIDEM TARTRATE) TABLET, COATED [STAT RX USA LLC]",
+   "published_date": "May 09, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-09-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-05-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "b2c3e941-efa9-4688-b45a-ceb758df717d",
+   "title": "ZOLPIDEM TARTRATE TABLET, FILM COATED, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 28, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-02-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "968b5154-3c38-4f20-bbeb-495bcb91cc2b",
+   "title": "AMBIEN CR (ZOLPIDEM TARTRATE) TABLET, COATED [REBEL DISTRIBUTORS CORP.]",
+   "published_date": "Jun 29, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 87,
+ "fetched_utc": "2026-10-16T09:23:05Z"
+}

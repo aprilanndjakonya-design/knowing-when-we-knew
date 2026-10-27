@@ -1,0 +1,72 @@
+{
+ "application": "NDA216873",
+ "srlc_rows": [
+  {
+   "drug_name": "OJJAARA",
+   "active_ingredient": "MOMELOTINIB DIHYDROCHLORIDE",
+   "application_number": "216873",
+   "application_type": "NDA",
+   "supplement_date": "07/20/2026",
+   "database_updated": "07/30/2026",
+   "drug_name_id": "3110"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-20",
+ "srlc_database_updated": "2026-07-30",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4a672fd1-eb7b-4aa9-9b23-845e4b5dc400",
+   "title": "OJJAARA (MOMELOTINIB) TABLET [GLAXOSMITHKLINE LLC]",
+   "published_date": "Jul 31, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-09-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-10-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-09-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-03-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-04-30"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-03-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-07-31"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:09:24Z"
+}

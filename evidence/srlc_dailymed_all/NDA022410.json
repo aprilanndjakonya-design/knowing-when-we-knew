@@ -1,0 +1,167 @@
+{
+ "application": "NDA022410",
+ "srlc_rows": [
+  {
+   "drug_name": "SUBOXONE",
+   "active_ingredient": "BUPRENORPHINE HYDROCHLORIDE; NALOXONE HYDROCHLORIDE",
+   "application_number": "022410",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "844"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-05",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "8a5edcf9-828c-4f97-b671-268ab13a8ecd",
+   "title": "SUBOXONE (BUPRENORPHINE HYDROCHLORIDE, NALOXONE HYDROCHLORIDE) FILM, SOLUBLE [INDIVIOR INC.]",
+   "published_date": "Feb 11, 2026",
+   "spl_version": 37,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2010-09-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-08-30"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-12-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-05-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-10-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-12-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-07-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-11-14"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-12-29"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-02-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-06-30"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-02-12"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-06-10"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-07-19"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-11-05"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-11-13"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-04-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-03-22"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-07-11"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2022-09-09"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2023-03-20"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2023-10-30"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2024-11-14"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2025-06-05"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2026-01-06"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2026-01-09"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2026-02-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 35,
+    "published_date": "2026-01-06"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 25
+  },
+  {
+   "setid": "54c487ac-750b-462e-a4cb-dcab1dd43ba8",
+   "title": "SUBOXONE (BUPRENORPHINE HYDROCHLORIDE, NALOXONE HYDROCHLORIDE) FILM, SOLUBLE [AIDAREX PHARMACEUTICALS LLC]",
+   "published_date": "Jun 01, 2018",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-05-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-06-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:55:32Z"
+}

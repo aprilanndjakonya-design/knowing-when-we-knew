@@ -1,0 +1,36 @@
+{
+ "application": "NDA019661",
+ "srlc_rows": [
+  {
+   "drug_name": "CYTOVENE",
+   "active_ingredient": "GANCICLOVIR SODIUM",
+   "application_number": "019661",
+   "application_type": "NDA",
+   "supplement_date": "08/06/2018",
+   "supplement": "SUPPL-37",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/06/2018",
+     "suppl": "SUPPL-37",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/06/2018",
+   "database_updated": "08/13/2018",
+   "drug_name_id": "1169"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-08-06",
+ "srlc_database_updated": "2018-08-13",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:15:55Z"
+}

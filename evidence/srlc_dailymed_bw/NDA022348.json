@@ -1,0 +1,110 @@
+{
+ "application": "NDA022348",
+ "srlc_rows": [
+  {
+   "drug_name": "CALDOLOR",
+   "active_ingredient": "IBUPROFEN",
+   "application_number": "022348",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-10",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-10",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "151"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1eaa7790-f1a1-4f51-b10a-cbbaf033f684",
+   "title": "CALDOLOR (IBUPROFEN) INJECTION [CUMBERLAND PHARMACEUTICALS INC.]",
+   "published_date": "Aug 17, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-08-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-03-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-12-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-05-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-11-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-02-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-07-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-01-13"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-05-07"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-11-24"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-01-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-05-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-11-27"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-02-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-08-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2018-11-20"
+   },
+   "lag_days_dailymed": 925,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 925,
+ "fetched_utc": "2026-10-16T09:24:58Z"
+}

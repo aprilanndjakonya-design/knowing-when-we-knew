@@ -1,0 +1,330 @@
+{
+ "application": "NDA021436",
+ "srlc_rows": [
+  {
+   "drug_name": "ABILIFY",
+   "active_ingredient": "ARIPIPRAZOLE",
+   "application_number": "021436",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2025",
+   "database_updated": "02/06/2025",
+   "drug_name_id": "38"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-22",
+ "srlc_database_updated": "2025-02-06",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 11,
+ "labels": [
+  {
+   "setid": "c040bd1d-45b7-49f2-93ea-aed7220b30ac",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [OTSUKA AMERICA PHARMACEUTICAL, INC.]",
+   "published_date": "Feb 03, 2025",
+   "spl_version": 73,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-01-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-02-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2008-05-05"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2008-06-20"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2008-09-11"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2009-08-07"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2009-12-07"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2010-08-13"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2010-12-21"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2011-01-20"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2011-04-04"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2012-04-18"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2013-05-10"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2014-02-19"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2014-07-02"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2014-07-03"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2014-12-10"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2015-12-24"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2016-01-12"
+    },
+    {
+     "spl_version": 61,
+     "published_date": "2016-09-02"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2017-03-08"
+    },
+    {
+     "spl_version": 63,
+     "published_date": "2018-12-20"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2019-01-03"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2019-08-22"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2020-02-18"
+    },
+    {
+     "spl_version": 67,
+     "published_date": "2020-06-17"
+    },
+    {
+     "spl_version": 68,
+     "published_date": "2020-07-16"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2021-08-05"
+    },
+    {
+     "spl_version": 70,
+     "published_date": "2022-11-23"
+    },
+    {
+     "spl_version": 71,
+     "published_date": "2022-12-14"
+    },
+    {
+     "spl_version": 72,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 73,
+     "published_date": "2025-02-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 73,
+    "published_date": "2025-02-03"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 31
+  },
+  {
+   "setid": "6875b848-8b13-45f8-ada5-69ef8aece6b6",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "bbc2b53b-b712-49eb-b2ce-766bcc448616",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "f9648990-0627-4c66-aae1-d3eef398b5b4",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "634b6431-48ca-480c-a4d8-0ba022bbf0f4",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [TYA PHARMACEUTICALS]",
+   "published_date": "Aug 28, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "d0640208-44e9-4052-a56f-9a4cd9a5aaab",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [TYA PHARMACEUTICALS]",
+   "published_date": "Aug 28, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "cbbd3dc0-6a39-48f7-91b9-a95c6c12ee0c",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Apr 16, 2014",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-04-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "d8275c2d-f42d-4f32-aa9f-03a202c8e99f",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Jan 18, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2012-01-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "231e2433-31fe-4612-80f0-ba00dee3b26a",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 06, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-01-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "16710a27-aa76-4dd7-92e8-7d3c7efe3e42",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [STAT RX USA LLC]",
+   "published_date": "Feb 11, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-04-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-02-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "217e52b5-3a7b-4bbe-af3c-b18de7d426c3",
+   "title": "ABILIFY (ARIPIPRAZOLE) TABLET [REBEL DISTRIBUTORS CORP.]",
+   "published_date": "Sep 07, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-09-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:51:46Z"
+}

@@ -1,0 +1,122 @@
+{
+ "application": "NDA022372",
+ "srlc_rows": [
+  {
+   "drug_name": "SUPREP BOWEL PREP KIT",
+   "active_ingredient": "MAGNESIUM SULFATE; POTASSIUM SULFATE; SODIUM SULFATE",
+   "application_number": "022372",
+   "application_type": "NDA",
+   "supplement_date": "11/18/2025",
+   "database_updated": "11/24/2025",
+   "drug_name_id": "2299"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-18",
+ "srlc_database_updated": "2025-11-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "2f5f06de-ee98-44c0-be7e-9a998d1e5c16",
+   "title": "SUPREP BOWEL PREP (SODIUM SULFATE, POTASSIUM SULFATE, MAGNESIUM SULFATE) SOLUTION, CONCENTRATE [BRAINTREE LABORATORIES, INC.]",
+   "published_date": "Oct 12, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2010-08-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-01-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-11-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-08-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-01-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-10-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-01-07"
+   },
+   "lag_days_dailymed": 50,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "f86bdcc8-e643-4160-89ae-01c89bee842d",
+   "title": "SODIUM SULFATE, POTASSIUM SULFATE AND MAGNESIUM SULFATE (SODIUM SULFATE, POTASSIUM SULFATE, MAGNESIUM SULFATE) SOLUTION, CONCENTRATE [AFFORDABLE PHARMACEUTICALS, LLC]",
+   "published_date": "Oct 12, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-07-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-01-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-10-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-01-22"
+   },
+   "lag_days_dailymed": 65,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f269929e-c2ff-4288-9d3b-7770bcb5a498",
+   "title": "SODIUM SULFATE, POTASSIUM SULFATE AND MAGNESIUM SULFATE (SODIUM SULFATE, POTASSIUM SULFATE, MAGNESIUM SULFATE) SOLUTION, CONCENTRATE [WILSHIRE PHARMACEUTICALS, INC.]",
+   "published_date": "Apr 15, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-15"
+   },
+   "lag_days_dailymed": 148,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "50f23abd-6a66-44cb-960e-d43c16a5ae5f",
+   "title": "SUPREP BOWEL PREP (SODIUM SULFATE, POTASSIUM SULFATE, MAGNESIUM SULFATE) SOLUTION, CONCENTRATE [AZURITY PHARMACEUTICALS, INC.]",
+   "published_date": "Apr 02, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-02"
+   },
+   "lag_days_dailymed": 135,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 50,
+ "fetched_utc": "2026-10-16T08:55:20Z"
+}

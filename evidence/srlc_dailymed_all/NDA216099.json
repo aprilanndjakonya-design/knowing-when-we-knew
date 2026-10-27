@@ -1,0 +1,44 @@
+{
+ "application": "NDA216099",
+ "srlc_rows": [
+  {
+   "drug_name": "PHYRAGO",
+   "active_ingredient": "DASATINIB",
+   "application_number": "216099",
+   "application_type": "NDA",
+   "supplement_date": "08/01/2025",
+   "database_updated": "08/11/2025",
+   "drug_name_id": "2999"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-01",
+ "srlc_database_updated": "2025-08-11",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "60976d1e-c415-417f-8168-4e07999a7281",
+   "title": "PHYRAGO (DASATINIB) TABLET [CYCLE PHARMACEUTICALS LTD]",
+   "published_date": "Mar 18, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-09-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-03-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-09-23"
+   },
+   "lag_days_dailymed": 53,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 53,
+ "fetched_utc": "2026-10-16T09:08:54Z"
+}

@@ -1,0 +1,79 @@
+{
+ "application": "NDA021735",
+ "srlc_rows": [
+  {
+   "drug_name": "TERCONAZOLE",
+   "active_ingredient": "TERCONAZOLE",
+   "application_number": "021735",
+   "application_type": "NDA",
+   "supplement_date": "08/22/2025",
+   "database_updated": "08/25/2025",
+   "drug_name_id": "3176"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-22",
+ "srlc_database_updated": "2025-08-25",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "f59448bd-f730-46d2-a785-c2d6205579ff",
+   "title": "TERCONAZOLE VAGINAL CREAM 0.8% (TERCONAZOLE) CREAM [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+   "published_date": "Feb 27, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2009-09-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-02-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-07-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-02-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-09-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-02-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-09-10"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "9b1c38ac-ebf3-471c-bcdf-1ff8ad197f91",
+   "title": "TERCONAZOLE VAGINAL CREAM 0.8% (TERCONAZOLE) CREAM [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Feb 20, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-02-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T08:52:53Z"
+}

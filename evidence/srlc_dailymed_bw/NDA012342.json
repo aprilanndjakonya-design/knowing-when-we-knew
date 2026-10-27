@@ -1,0 +1,146 @@
+{
+ "application": "NDA012342",
+ "srlc_rows": [
+  {
+   "drug_name": "PARNATE",
+   "active_ingredient": "TRANYLCYPROMINE SULFATE",
+   "application_number": "012342",
+   "application_type": "NDA",
+   "supplement_date": "01/04/2018",
+   "supplement": "SUPPL-64",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/04/2018",
+     "suppl": "SUPPL-64",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/04/2018",
+   "database_updated": "01/11/2018",
+   "drug_name_id": "1419"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-01-04",
+ "srlc_database_updated": "2018-01-11",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "6a0b609b-0625-4c26-91a1-59ee3ece3ddf",
+   "title": "TRANYLCYPROMINE SULFATE TABLET, FILM COATED [ACTAVIS PHARMA, INC.]",
+   "published_date": "Jul 28, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-02-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-01-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-12-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-01-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-10-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-01-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-03-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-07-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2018-01-31"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "b72d8187-dfcc-4ea0-b5e9-c0be95b69a27",
+   "title": "PARNATE (TRANYLCYPROMINE SULFATE) TABLET, FILM COATED [ADVANZ PHARMA (US) CORP.]",
+   "published_date": "Jul 07, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-12-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-08-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-12-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-01-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-10-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-12-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-01-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-08-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-03-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-12-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-07-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2018-01-19"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:13:45Z"
+}

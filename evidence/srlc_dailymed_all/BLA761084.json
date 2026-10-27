@@ -1,0 +1,56 @@
+{
+ "application": "BLA761084",
+ "srlc_rows": [
+  {
+   "drug_name": "FYLNETRA",
+   "active_ingredient": "PEGFILGRASTIM-PBBK",
+   "application_number": "761084",
+   "application_type": "BLA",
+   "supplement_date": "04/23/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "3113"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-23",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 36,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "eeadd641-573d-47fe-897a-61006e5f9e03",
+   "title": "FYLNETRA (PEGFILGRASTIM) INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+   "published_date": "May 09, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-06-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-06-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-06-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-08-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-05-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2025-05-09"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:39:16Z"
+}

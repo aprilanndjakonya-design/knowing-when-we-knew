@@ -1,0 +1,91 @@
+{
+ "application": "BLA125561",
+ "srlc_rows": [
+  {
+   "drug_name": "KANUMA",
+   "active_ingredient": "SEBELIPASE ALFA",
+   "application_number": "125561",
+   "application_type": "BLA",
+   "supplement_date": "07/10/2024",
+   "supplement": "SUPPL-20",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "07/10/2024",
+     "suppl": "SUPPL-20",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/10/2024",
+   "database_updated": "07/15/2024",
+   "drug_name_id": "2559"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-07-10",
+ "srlc_database_updated": "2024-07-15",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "83a77b9d-42f0-4645-8420-786285da7326",
+   "title": "KANUMA (SEBELIPASE ALFA) INJECTION, SOLUTION, CONCENTRATE [ALEXION PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 31, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-12-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-12-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-11-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-01-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-08-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-12-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-09-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-07-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-07-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2024-07-19"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:12:56Z"
+}

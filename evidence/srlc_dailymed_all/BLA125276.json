@@ -1,0 +1,204 @@
+{
+ "application": "BLA125276",
+ "srlc_rows": [
+  {
+   "drug_name": "ACTEMRA",
+   "active_ingredient": "TOCILIZUMAB",
+   "application_number": "125276",
+   "application_type": "BLA",
+   "supplement_date": "12/10/2025",
+   "database_updated": "12/16/2025",
+   "drug_name_id": "440"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-10",
+ "srlc_database_updated": "2025-12-16",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "2e5365ff-cb2a-4b16-b2c7-e35c6bf2de13",
+   "title": "ACTEMRA (TOCILIZUMAB) INJECTION, SOLUTION, CONCENTRATE ACTEMRA (TOCILIZUMAB) INJECTION, SOLUTION ACTEMRA ACTPEN (TOCILIZUMAB) INJECTION, SOLUTION [GENENTECH, INC.]",
+   "published_date": "Dec 19, 2025",
+   "spl_version": 53,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2010-01-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2011-01-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2011-04-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2012-10-25"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2013-06-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2013-10-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2014-11-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-09-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2016-12-07"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-12-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-12-23"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-04-07"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2017-06-08"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2017-08-16"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2017-09-12"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-11-13"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2018-04-04"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2018-05-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-12-10"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-12-19"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-04-24"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-06-28"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2019-11-19"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2020-04-20"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2020-06-10"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2020-12-21"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2021-03-17"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2021-09-01"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2021-10-13"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2021-12-01"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2022-03-07"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2022-06-01"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2022-06-30"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2023-01-02"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2024-09-13"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2024-09-30"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2024-10-30"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2025-08-25"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2025-12-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 53,
+    "published_date": "2025-12-19"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 41
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:37:52Z"
+}

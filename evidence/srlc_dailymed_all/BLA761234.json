@@ -1,0 +1,48 @@
+{
+ "application": "BLA761234",
+ "srlc_rows": [
+  {
+   "drug_name": "OPDUALAG",
+   "active_ingredient": "NIVOLUMAB;RELATLIMAB-RMBW",
+   "application_number": "761234",
+   "application_type": "BLA",
+   "supplement_date": "06/08/2026",
+   "database_updated": "06/17/2026",
+   "drug_name_id": "2930"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-08",
+ "srlc_database_updated": "2026-06-17",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b22c9d83-3256-4e17-85f7-f331a504adc6",
+   "title": "OPDUALAG (NIVOLUMAB AND RELATLIMAB-RMBW) INJECTION [E.R. SQUIBB & SONS, L.L.C.]",
+   "published_date": "Jun 22, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-03-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-03-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-06-22"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:40:23Z"
+}

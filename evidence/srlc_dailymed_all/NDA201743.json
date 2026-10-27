@@ -1,0 +1,21 @@
+{
+ "application": "NDA201743",
+ "srlc_rows": [
+  {
+   "drug_name": "ARGATROBAN IN DEXTROSE",
+   "active_ingredient": "ARGATROBAN",
+   "application_number": "201743",
+   "application_type": "NDA",
+   "supplement_date": "06/03/2026",
+   "database_updated": "06/12/2026",
+   "drug_name_id": "1616"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-03",
+ "srlc_database_updated": "2026-06-12",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:58:58Z"
+}

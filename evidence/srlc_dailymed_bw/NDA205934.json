@@ -1,0 +1,39 @@
+{
+ "application": "NDA205934",
+ "srlc_rows": [
+  {
+   "drug_name": "DOCETAXEL",
+   "active_ingredient": "DOCETAXEL",
+   "application_number": "205934",
+   "application_type": "NDA",
+   "supplement_date": "02/19/2020",
+   "supplement": "SUPPL-3",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/19/2020",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/05/2023",
+   "database_updated": "07/07/2023",
+   "drug_name_id": "2198"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-02-19",
+ "srlc_database_updated": "2023-07-07",
+ "lag_days_srlc_database": 1234,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:27:53Z"
+}

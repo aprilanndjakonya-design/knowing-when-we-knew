@@ -1,0 +1,147 @@
+{
+ "application": "NDA204168",
+ "srlc_rows": [
+  {
+   "drug_name": "FETZIMA",
+   "active_ingredient": "LEVOMILNACIPRAN HYDROCHLORIDE",
+   "application_number": "204168",
+   "application_type": "NDA",
+   "supplement_date": "10/07/2019",
+   "supplement": "SUPPL-6",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/07/2019",
+     "suppl": "SUPPL-6",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/19/2024",
+   "database_updated": "04/24/2024",
+   "drug_name_id": "742"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-10-07",
+ "srlc_database_updated": "2024-04-24",
+ "lag_days_srlc_database": 1661,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f371258d-91b3-4b6a-ac99-434a1964c3af",
+   "title": "FETZIMA (LEVOMILNACIPRAN HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE FETZIMA (LEVOMILNACIPRAN HYDROCHLORIDE) KIT [ALLERGAN, INC.]",
+   "published_date": "Feb 23, 2026",
+   "spl_version": 33,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2013-08-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-11-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-07-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-11-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-01-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-01-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-01-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-10-16"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-06-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-10-05"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-02-14"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-03-01"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-04-10"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-05-11"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2023-05-26"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2023-08-14"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2023-09-04"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-09-21"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2023-10-26"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-02-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2019-10-16"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:27:09Z"
+}

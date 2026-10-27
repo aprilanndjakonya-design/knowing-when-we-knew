@@ -1,0 +1,80 @@
+{
+ "application": "NDA209817",
+ "srlc_rows": [
+  {
+   "drug_name": "NUZYRA",
+   "active_ingredient": "OMADACYCLINE TOSYLATE",
+   "application_number": "209817",
+   "application_type": "NDA",
+   "supplement_date": "05/13/2026",
+   "database_updated": "05/19/2026",
+   "drug_name_id": "3103"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-13",
+ "srlc_database_updated": "2026-05-19",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "51591524-4703-44c6-8bde-dce3e6a463d1",
+   "title": "NUZYRA (OMADACYCLINE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION NUZYRA (OMADACYCLINE) TABLET, FILM COATED [PARATEK PHARMACEUTICALS, INC.]",
+   "published_date": "May 28, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-10-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-02-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-06-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-02-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-04-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-07-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-11-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-06-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-09-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-05-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2026-05-28"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:04:29Z"
+}

@@ -1,0 +1,84 @@
+{
+ "application": "NDA209803",
+ "srlc_rows": [
+  {
+   "drug_name": "STEGLATRO",
+   "active_ingredient": "ERTUGLIFLOZIN",
+   "application_number": "209803",
+   "application_type": "NDA",
+   "supplement_date": "06/03/2026",
+   "database_updated": "06/11/2026",
+   "drug_name_id": "1736"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-03",
+ "srlc_database_updated": "2026-06-11",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e6f3e718-bb99-48f1-ab94-b9f0af05fed6",
+   "title": "STEGLATRO (ERTUGLIFLOZIN) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+   "published_date": "Jun 23, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-11-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-03-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-10-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-06-20"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-09-26"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-07-04"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-01-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-06-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2026-06-23"
+   },
+   "lag_days_dailymed": 20,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 20,
+ "fetched_utc": "2026-10-16T09:04:22Z"
+}

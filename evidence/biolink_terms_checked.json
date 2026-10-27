@@ -1,0 +1,367 @@
+{
+ "release_tag": "v4.4.5",
+ "release_published_at": "2026-09-18T15:05:33Z",
+ "yaml_declared_version": "4.4.4",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "n_classes": 336,
+ "n_slots": 554,
+ "used_terms": {
+  "https://w3id.org/biolink/vocab/Association": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "association",
+    "is_a": "entity"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/BiologicalEntity": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "biological entity",
+    "is_a": "named thing"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/Case": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "case",
+    "is_a": "individual organism"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/ChemicalEntity": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "chemical entity",
+    "is_a": "named thing"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/ChemicalMixture": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "chemical mixture",
+    "is_a": "chemical entity"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/Disease": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "disease",
+    "is_a": "disease or phenotypic feature"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/DiseaseOrPhenotypicFeature": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "disease or phenotypic feature",
+    "is_a": "biological entity"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/Drug": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "drug",
+    "is_a": "molecular mixture"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/DrugExposure": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "drug exposure",
+    "is_a": "chemical exposure"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/DrugLabel": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "drug label",
+    "is_a": "publication"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/IndividualOrganism": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "individual organism",
+    "is_a": "organismal entity"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/InformationContentEntity": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "information content entity",
+    "is_a": "named thing"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/MolecularMixture": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "molecular mixture",
+    "is_a": "chemical mixture"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/NamedThing": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "named thing",
+    "is_a": "entity"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/OrganismalEntity": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "organismal entity",
+    "is_a": "biological entity"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/Publication": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "class",
+    "name": "publication",
+    "is_a": "information content entity"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/agent_type": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "agent type",
+    "is_a": "association slot",
+    "domain": "association",
+    "range": "AgentTypeEnum"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/has_active_ingredient": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "has active ingredient",
+    "is_a": "has part",
+    "domain": "drug",
+    "range": "molecular entity"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/has_adverse_event": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "has adverse event",
+    "is_a": "affects",
+    "domain": "chemical or drug or treatment",
+    "range": "disease or phenotypic feature"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/knowledge_level": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "knowledge level",
+    "is_a": "association slot",
+    "domain": "association",
+    "range": "KnowledgeLevelEnum"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/object": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "object",
+    "is_a": "association slot",
+    "domain": "association",
+    "range": "named thing"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/preceded_by": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "preceded by",
+    "is_a": "temporally related to",
+    "domain": "occurrent",
+    "range": "occurrent"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/precedes": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "precedes",
+    "is_a": "temporally related to",
+    "domain": "occurrent",
+    "range": "occurrent"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/predicate": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "predicate",
+    "is_a": "association slot",
+    "range": "uriorcurie"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/primary_knowledge_source": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "primary knowledge source",
+    "is_a": "knowledge source"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/subject": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "subject",
+    "is_a": "association slot",
+    "domain": "association",
+    "range": "named thing"
+   },
+   "w3id_http_status": 200
+  },
+  "https://w3id.org/biolink/vocab/temporal_interval_qualifier": {
+   "in_schema": true,
+   "schema_entry": {
+    "kind": "slot",
+    "name": "temporal interval qualifier",
+    "is_a": "temporal context qualifier"
+   },
+   "w3id_http_status": 200
+  }
+ },
+ "negative_control_status": 404,
+ "time_type_definition": [
+  "    uri: xsd:string\n    typeof: time\n    description: >-\n      A value representing a point in time, serialised as a lexical\n      representation of xsd:time.\n"
+ ],
+ "date_time_related_slots": {
+  "retrieval source ids": {
+   "range": "retrieval source"
+  },
+  "timepoint": {
+   "range": "time type"
+  },
+  "creation date": {
+   "is_a": "node property",
+   "range": "date"
+  },
+  "update date": {
+   "is_a": "node property",
+   "range": "date"
+  },
+  "retrieved on": {
+   "is_a": "node property",
+   "domain": "dataset",
+   "range": "date"
+  },
+  "ingest date": {
+   "is_a": "node property",
+   "domain": "dataset version"
+  },
+  "published in": {
+   "is_a": "node property",
+   "domain": "publication",
+   "range": "uriorcurie"
+  },
+  "clinical trial time perspective": {
+   "is_a": "node property",
+   "range": "string",
+   "domain": "clinical trial"
+  },
+  "clinical trial start date": {
+   "is_a": "node property",
+   "range": "string",
+   "domain": "clinical trial"
+  },
+  "temporal interval qualifier": {
+   "is_a": "temporal context qualifier"
+  },
+  "available from": {
+   "is_a": "node property",
+   "range": "DrugAvailabilityEnum"
+  },
+  "animal model available from": {
+   "is_a": "node property",
+   "range": "string"
+  },
+  "onset qualifier": {
+   "is_a": "qualifier",
+   "range": "onset"
+  },
+  "publisher": {
+   "is_a": "contributor",
+   "domain": "agent",
+   "range": "publication"
+  },
+  "has publisher": {
+   "is_a": "has contributor",
+   "domain": "publication",
+   "range": "agent"
+  },
+  "relative frequency subject confidence interval": {
+   "is_a": "association slot",
+   "range": "string"
+  },
+  "relative frequency object confidence interval": {
+   "is_a": "association slot",
+   "range": "string"
+  },
+  "ln ratio confidence interval": {
+   "is_a": "association slot",
+   "range": "float"
+  },
+  "study date range": {
+   "is_a": "study metadata",
+   "range": "string"
+  },
+  "supporting study date range": {
+   "is_a": "supporting study metadata",
+   "range": "string"
+  }
+ },
+ "infores": {
+  "infores:dailymed": true,
+  "infores:rxnorm": true,
+  "infores:chebi": true,
+  "infores:mesh": true,
+  "infores:mondo": true,
+  "fda_srlc_or_dsc_like_ids_found": []
+ }
+}

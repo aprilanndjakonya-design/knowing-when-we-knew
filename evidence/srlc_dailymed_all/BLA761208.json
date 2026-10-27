@@ -1,0 +1,68 @@
+{
+ "application": "BLA761208",
+ "srlc_rows": [
+  {
+   "drug_name": "TIVDAK",
+   "active_ingredient": "TISOTUMAB VEDOTIN-TFTV",
+   "application_number": "761208",
+   "application_type": "BLA",
+   "supplement_date": "11/12/2025",
+   "database_updated": "11/14/2025",
+   "drug_name_id": "2822"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-12",
+ "srlc_database_updated": "2025-11-14",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "c9fe3f32-4219-466e-acb9-3f609b4f4df1",
+   "title": "TIVDAK (TISOTUMAB VEDOTIN) INJECTION, POWDER, FOR SOLUTION [SEAGEN INC.]",
+   "published_date": "Nov 21, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-10-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-11-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-08-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-11-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 5,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 5,
+ "fetched_utc": "2026-10-16T08:40:14Z"
+}

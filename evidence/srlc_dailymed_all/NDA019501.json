@@ -1,0 +1,58 @@
+{
+ "application": "NDA019501",
+ "srlc_rows": [
+  {
+   "drug_name": "ROGAINE (FOR MEN)",
+   "active_ingredient": "MINOXIDIL",
+   "application_number": "019501",
+   "application_type": "NDA",
+   "supplement_date": "01/14/2026",
+   "database_updated": "01/16/2026",
+   "drug_name_id": "3234"
+  },
+  {
+   "drug_name": "ROGAINE (FOR WOMEN)",
+   "active_ingredient": "MINOXIDIL",
+   "application_number": "019501",
+   "application_type": "NDA",
+   "supplement_date": "01/14/2026",
+   "database_updated": "01/16/2026",
+   "drug_name_id": "3235"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-14",
+ "srlc_database_updated": "2026-01-16",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8bf0000c-95f3-4a4d-830b-f5ac1539823d",
+   "title": "WOMENS ROGAINE UNSCENTED (MINOXIDIL) SOLUTION [KENVUE BRANDS LLC]",
+   "published_date": "Nov 04, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-12-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-01-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-04-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-11-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:45:19Z"
+}

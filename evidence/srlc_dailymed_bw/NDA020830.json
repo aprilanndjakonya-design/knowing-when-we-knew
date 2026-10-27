@@ -1,0 +1,117 @@
+{
+ "application": "NDA020830",
+ "srlc_rows": [
+  {
+   "drug_name": "SINGULAIR",
+   "active_ingredient": "MONTELUKAST SODIUM",
+   "application_number": "020830",
+   "application_type": "NDA",
+   "supplement_date": "04/29/2020",
+   "supplement": "SUPPL-75",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/29/2020",
+     "suppl": "SUPPL-75",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/22/2021",
+   "database_updated": "02/26/2021",
+   "drug_name_id": "625"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-04-29",
+ "srlc_database_updated": "2021-02-26",
+ "lag_days_srlc_database": 303,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "482dcc92-b47f-4ea6-854a-f5ac2aea7842",
+   "title": "SINGULAIR (MONTELUKAST SODIUM) GRANULE SINGULAIR (MONTELUKAST SODIUM) TABLET, CHEWABLE SINGULAIR (MONTELUKAST SODIUM) TABLET, FILM COATED [ORGANON LLC]",
+   "published_date": "Jun 25, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-06-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-11-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-06-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-06-01"
+   },
+   "lag_days_dailymed": 398,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "e8d9021d-73aa-4c96-8b8a-e90069e78555",
+   "title": "SINGULAIR (MONTELUKAST SODIUM) TABLET, CHEWABLE SINGULAIR (MONTELUKAST SODIUM) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 21, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-02-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "78eea56d-15a6-4ceb-b755-d1a3e9707f32",
+   "title": "SINGULAIR (MONTELUKAST SODIUM) TABLET, CHEWABLE SINGULAIR (MONTELUKAST SODIUM) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Dec 10, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "10cd5ca5-6f8b-417c-af11-a2054a2dde34",
+   "title": "SINGULAIR (MONTELUKAST SODIUM) TABLET, CHEWABLE SINGULAIR (MONTELUKAST SODIUM) TABLET, FILM COATED [DISPENSING SOLUTIONS INC.]",
+   "published_date": "Mar 03, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 398,
+ "fetched_utc": "2026-10-16T09:18:08Z"
+}

@@ -1,0 +1,72 @@
+{
+ "application": "BLA761180",
+ "srlc_rows": [
+  {
+   "drug_name": "ADBRY",
+   "active_ingredient": "TRALOKINUMAB",
+   "application_number": "761180",
+   "application_type": "BLA",
+   "supplement_date": "12/12/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "3227"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-12",
+ "srlc_database_updated": "2025-12-22",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d8020b69-3001-44e2-9b5d-5f93d9aaf6e1",
+   "title": "ADBRY (TRALOKINUMAB-LDRM) INJECTION, SOLUTION [LEO PHARMA INC.]",
+   "published_date": "Dec 19, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2022-01-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-03-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-05-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-08-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-12-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-05-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-07-01"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-12-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2025-12-19"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T08:40:02Z"
+}

@@ -1,0 +1,81 @@
+{
+ "application": "NDA020616",
+ "srlc_rows": [
+  {
+   "drug_name": "KADIAN",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "020616",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-62",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-57",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-62",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/09/2021",
+   "drug_name_id": "666"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2021-03-09",
+ "lag_days_srlc_database": 903,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "a6b1858a-e796-4cb0-8a4d-d5c521874e84",
+   "title": "KADIAN (MORPHINE SULFATE) CAPSULE, EXTENDED RELEASE [STAT RX USA LLC]",
+   "published_date": "Jun 20, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "6c826b0a-ac87-48cc-a780-9a4a2118e8a8",
+   "title": "KADIAN (MORPHINE SULFATE) CAPSULE, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jul 09, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-07-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:21Z"
+}

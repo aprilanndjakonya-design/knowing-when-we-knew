@@ -1,0 +1,108 @@
+{
+ "application": "NDA021887",
+ "srlc_rows": [
+  {
+   "drug_name": "ALLI",
+   "active_ingredient": "ORLISTAT",
+   "application_number": "021887",
+   "application_type": "NDA",
+   "supplement_date": "03/27/2026",
+   "database_updated": "04/02/2026",
+   "drug_name_id": "220"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-27",
+ "srlc_database_updated": "2026-04-02",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+   "title": "ALLI (ORLISTAT) CAPSULE [HALEON US HOLDINGS LLC]",
+   "published_date": "Mar 20, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-01-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-09-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-05-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-12-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-01-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-08-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-06-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-02-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-04-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-11-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-10-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-11-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-01-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-03-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 15
+  },
+  {
+   "setid": "14a75092-f910-53df-e063-6294a90acc66",
+   "title": "ALLI (ORLISTAT) CAPSULE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC ]",
+   "published_date": "Apr 01, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-04-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:53:22Z"
+}

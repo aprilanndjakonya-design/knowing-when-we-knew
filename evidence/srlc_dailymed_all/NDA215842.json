@@ -1,0 +1,48 @@
+{
+ "application": "NDA215842",
+ "srlc_rows": [
+  {
+   "drug_name": "RIVFLOZA",
+   "active_ingredient": "NEDOSIRAN SODIUM",
+   "application_number": "215842",
+   "application_type": "NDA",
+   "supplement_date": "03/27/2025",
+   "database_updated": "03/28/2025",
+   "drug_name_id": "3095"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-27",
+ "srlc_database_updated": "2025-03-28",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ace9d4bc-4d20-4beb-9e9d-888690424833",
+   "title": "RIVFLOZA (NEDOSIRAN) INJECTION, SOLUTION [NOVO NORDISK]",
+   "published_date": "Apr 10, 2025",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-02-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-05-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-04-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-04-10"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:08:38Z"
+}

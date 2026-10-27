@@ -1,0 +1,100 @@
+{
+ "application": "NDA206628",
+ "srlc_rows": [
+  {
+   "drug_name": "DEXMEDETOMIDINE HYDROCHLORIDE",
+   "active_ingredient": "DEXMEDETOMIDINE HYDROCHLORIDE",
+   "application_number": "206628",
+   "application_type": "NDA",
+   "supplement_date": "05/01/2026",
+   "database_updated": "05/05/2026",
+   "drug_name_id": "434"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-01",
+ "srlc_database_updated": "2026-05-05",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0d2710f2-ee47-4114-ab5c-8dca74cdcb8d",
+   "title": "DEXMEDETOMIDINE INJECTION, SOLUTION, CONCENTRATE DEXMEDETOMIDINE IN DEXTROSE (DEXMEDETOMIDINE) INJECTION [WG CRITICAL CARE, LLC]",
+   "published_date": "Sep 30, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-04-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-01-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-10-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-01-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-10-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-01-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-01-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-08-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-09-12"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-05-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-05-20"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-05-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-06-03"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-09-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-05-18"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:02:15Z"
+}

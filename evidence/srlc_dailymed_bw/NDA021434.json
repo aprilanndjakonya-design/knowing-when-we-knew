@@ -1,0 +1,176 @@
+{
+ "application": "NDA021434",
+ "srlc_rows": [
+  {
+   "drug_name": "XANAX XR",
+   "active_ingredient": "ALPRAZOLAM",
+   "application_number": "021434",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-21",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-16",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-21",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/23/2023",
+   "drug_name_id": "610"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-23",
+ "lag_days_srlc_database": 717,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "c8990714-c2f5-4b0c-9f1c-91d77156d962",
+   "title": "XANAX XR (ALPRAZOLAM) TABLET, EXTENDED RELEASE [VIATRIS SPECIALTY LLC]",
+   "published_date": "Oct 12, 2026",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 20,
+     "published_date": "2024-05-27"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-06-25"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-07-29"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-08-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-06-03"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-10-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2024-05-27"
+   },
+   "lag_days_dailymed": 1207,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3",
+   "title": "ALPRAZOLAM XR (ALPRAZOLAM) TABLET, EXTENDED RELEASE [MYLAN PHARMACEUTICALS INC.]",
+   "published_date": "May 07, 2025",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-01-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-04-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-04-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-03-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-03-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-12-30"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-04-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-10-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-01-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-04-13"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-12-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-03-05"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-04-13"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-05-06"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-08-29"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-05-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2021-04-13"
+   },
+   "lag_days_dailymed": 67,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 67,
+ "fetched_utc": "2026-10-16T09:22:19Z"
+}

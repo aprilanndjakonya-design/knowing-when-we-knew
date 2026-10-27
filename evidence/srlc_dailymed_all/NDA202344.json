@@ -1,0 +1,142 @@
+{
+ "application": "NDA202344",
+ "srlc_rows": [
+  {
+   "drug_name": "BINOSTO",
+   "active_ingredient": "ALENDRONATE SODIUM",
+   "application_number": "202344",
+   "application_type": "NDA",
+   "supplement_date": "02/03/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "642"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-03",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "09765234-01bc-40f7-b9bb-c167056f3909",
+   "title": "BINOSTO (ALENDRONATE SODIUM) TABLET, EFFERVESCENT [RADIUS HEALTH, INC.]",
+   "published_date": "Feb 16, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-10-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-11-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-02-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-02-16"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "b278a11a-b8d7-49f3-9b38-29b67c4c417e",
+   "title": "BINOSTO (ALENDRONATE SODIUM) TABLET, EFFERVESCENT [ASCEND THERAPEUTICS]",
+   "published_date": "Dec 21, 2023",
+   "spl_version": 23,
+   "versions": [
+    {
+     "spl_version": 10,
+     "published_date": "2019-10-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-10-22"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-10-24"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-12-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-06-16"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-11-05"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-03-04"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2021-12-22"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-12-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "ad670460-141b-e481-f713-7aed9485de8d",
+   "title": "BINOSTO (ALENDRONATE SODIUM) TABLET, EFFERVESCENT [MISSION PHARMACAL COMPANY]",
+   "published_date": "Oct 23, 2018",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-09-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-05-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-08-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-06-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-08-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-11-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-10-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:59:24Z"
+}

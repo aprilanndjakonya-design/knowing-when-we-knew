@@ -1,0 +1,77 @@
+{
+ "application": "BLA761103",
+ "srlc_rows": [
+  {
+   "drug_name": "RUXIENCE",
+   "active_ingredient": "RITUXIMAB-PVVR",
+   "application_number": "761103",
+   "application_type": "BLA",
+   "supplement_date": "09/28/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "2265"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-28",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f941fc61-f7a3-4e4a-ab7c-87c1667fa05b",
+   "title": "RUXIENCE (RITUXIMAB-PVVR) INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-06-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-12-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-01-04"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-08-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-10-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-03-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-06-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-04-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:39:26Z"
+}

@@ -1,0 +1,104 @@
+{
+ "application": "NDA019367",
+ "srlc_rows": [
+  {
+   "drug_name": "POTASSIUM CHLORIDE 10MEQ IN DEXTROSE 5% AND LACTATED RINGER'S IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "019367",
+   "application_type": "NDA",
+   "supplement_date": "11/05/2025",
+   "database_updated": "11/18/2025",
+   "drug_name_id": "1389"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-05",
+ "srlc_database_updated": "2025-11-18",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "05f326e6-10e4-4ceb-8a23-f53c592f00b8",
+   "title": "POTASSIUM CHLORIDE IN LACTATED RINGERS AND DEXTROSE (DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, CALCIUM CHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Jul 31, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-04-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-02-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-11-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-04-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-12-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-02-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-05-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-10-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-08-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-08-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-12-28"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-10-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-12-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-08-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-09-19"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-11-19"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-11-19"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 15
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:45:05Z"
+}

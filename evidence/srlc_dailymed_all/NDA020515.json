@@ -1,0 +1,21 @@
+{
+ "application": "NDA020515",
+ "srlc_rows": [
+  {
+   "drug_name": "ZOLADEX",
+   "active_ingredient": "GOSERELIN",
+   "application_number": "020515",
+   "application_type": "NDA",
+   "supplement_date": "05/06/2026",
+   "database_updated": "05/13/2026",
+   "drug_name_id": "3191"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-06",
+ "srlc_database_updated": "2026-05-13",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:47:36Z"
+}

@@ -1,0 +1,60 @@
+{
+ "application": "NDA217186",
+ "srlc_rows": [
+  {
+   "drug_name": "CREXONT",
+   "active_ingredient": "CARBIDOPA; LEVODOPA",
+   "application_number": "217186",
+   "application_type": "NDA",
+   "supplement_date": "05/15/2026",
+   "database_updated": "05/20/2026",
+   "drug_name_id": "3267"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-15",
+ "srlc_database_updated": "2026-05-20",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "095a08b6-b0b8-4f88-b759-67e8b87287a0",
+   "title": "CREXONT (CARBIDOPA AND LEVODOPA) CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 13,
+     "published_date": "2024-08-09"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-06-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-03-23"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2026-05-21"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T09:09:38Z"
+}

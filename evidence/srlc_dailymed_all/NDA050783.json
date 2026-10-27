@@ -1,0 +1,21 @@
+{
+ "application": "NDA050783",
+ "srlc_rows": [
+  {
+   "drug_name": "PERIOSTAT",
+   "active_ingredient": "DOXYCYCLINE HYCLATE",
+   "application_number": "050783",
+   "application_type": "NDA",
+   "supplement_date": "04/01/2025",
+   "database_updated": "05/13/2025",
+   "drug_name_id": "3104"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-01",
+ "srlc_database_updated": "2025-05-13",
+ "lag_days_srlc_database": 42,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:58:03Z"
+}

@@ -1,0 +1,21 @@
+{
+ "application": "NDA022200",
+ "srlc_rows": [
+  {
+   "drug_name": "BYDUREON",
+   "active_ingredient": "EXENATIDE SYNTHETIC",
+   "application_number": "022200",
+   "application_type": "NDA",
+   "supplement_date": "05/28/2025",
+   "database_updated": "06/05/2025",
+   "drug_name_id": "1312"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-28",
+ "srlc_database_updated": "2025-06-05",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:54:29Z"
+}

@@ -1,0 +1,158 @@
+{
+ "application": "BLA125293",
+ "srlc_rows": [
+  {
+   "drug_name": "KRYSTEXXA",
+   "active_ingredient": "PEGLOTICASE",
+   "application_number": "125293",
+   "application_type": "BLA",
+   "supplement_date": "09/09/2016",
+   "supplement": "SUPPL-89",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/09/2016",
+     "suppl": "SUPPL-89",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/07/2022",
+   "database_updated": "07/13/2022",
+   "drug_name_id": "408"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-09-09",
+ "srlc_database_updated": "2022-07-13",
+ "lag_days_srlc_database": 2133,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "6e566303-d93a-4130-b764-25749829aa95",
+   "title": "KRYSTEXXA (PEGLOTICASE) INJECTION, SOLUTION [HORIZON THERAPEUTICS USA, INC.]",
+   "published_date": "Jul 20, 2026",
+   "spl_version": 1149,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-10-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-08-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-12-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-07-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-05-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-07-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-08-31"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-12-09"
+    },
+    {
+     "spl_version": 1132,
+     "published_date": "2023-08-08"
+    },
+    {
+     "spl_version": 1133,
+     "published_date": "2023-09-04"
+    },
+    {
+     "spl_version": 1135,
+     "published_date": "2024-04-08"
+    },
+    {
+     "spl_version": 1140,
+     "published_date": "2025-04-24"
+    },
+    {
+     "spl_version": 1141,
+     "published_date": "2025-09-15"
+    },
+    {
+     "spl_version": 1142,
+     "published_date": "2026-04-29"
+    },
+    {
+     "spl_version": 1143,
+     "published_date": "2026-06-01"
+    },
+    {
+     "spl_version": 1148,
+     "published_date": "2026-07-01"
+    },
+    {
+     "spl_version": 1149,
+     "published_date": "2026-07-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2016-10-07"
+   },
+   "lag_days_dailymed": 28,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "5f4574d1-401f-4647-83e5-28c0f4a122a7",
+   "title": "KRYSTEXXA (PEGLOTICASE) INJECTION, SOLUTION [SAVIENT PHARMACEUTICALS, INC.]",
+   "published_date": "Apr 19, 2013",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-09-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-04-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-05-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-12-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-04-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 28,
+ "fetched_utc": "2026-10-16T09:12:33Z"
+}

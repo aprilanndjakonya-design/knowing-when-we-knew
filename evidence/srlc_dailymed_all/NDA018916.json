@@ -1,0 +1,337 @@
+{
+ "application": "NDA018916",
+ "srlc_rows": [
+  {
+   "drug_name": "HEPARIN SODIUM 1,000 UNITS IN SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2042"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 10,000 UNITS IN SODIUM CHLORIDE 0.45%",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2043"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 10,000 UNITS IN SODIUM CHLORIDE 0.9%",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2044"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 12,500 UNITS IN SODIUM CHLORIDE 0.45% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2045"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 12,500 UNITS IN SODIUM CHLORIDE 0.9%",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2046"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 2,000 UNITS IN SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2047"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 25,000 UNITS IN SODIUM CHLORIDE 0.45% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2048"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 25,000 UNITS IN SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2049"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 5,000 UNITS IN SODIUM CHLORIDE 0.45%",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2050"
+  },
+  {
+   "drug_name": "HEPARIN SODIUM 5,000 UNITS IN SODIUM CHLORIDE 0.9%",
+   "active_ingredient": "",
+   "application_number": "018916",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "2051"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-19",
+ "srlc_database_updated": "2025-11-26",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "0413f511-6b34-4c15-e48b-3fad08baacbe",
+   "title": "HEPARIN SODIUM INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "May 13, 2026",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-12-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-11-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2012-01-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2013-05-29"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-06-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-04-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-11-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-03-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2017-12-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-11-27"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-07-06"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-08-12"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-01-05"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-02-06"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-02-28"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-01-23"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-01-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-08-16"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-11-05"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-05-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2025-12-08"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 21
+  },
+  {
+   "setid": "32e34077-aff1-4ec7-f9b0-b8e240768fb8",
+   "title": "HEPARIN SODIUM INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "May 13, 2026",
+   "spl_version": 34,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-12-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-11-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2012-09-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2013-05-29"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-06-24"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2015-10-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2015-11-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2016-04-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-09-14"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2017-03-22"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-02-05"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-04-09"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-10-08"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2020-06-15"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-02-03"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-02-28"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2023-03-16"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-01-30"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-08-16"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-11-27"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-05-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2025-12-08"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 22
+  },
+  {
+   "setid": "51197aa6-de34-3a55-e063-6294a90a89c9",
+   "title": "HEPARIN SODIUM INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "May 07, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-05-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-05-07"
+   },
+   "lag_days_dailymed": 169,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T08:44:44Z"
+}

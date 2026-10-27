@@ -1,0 +1,162 @@
+{
+ "application": "NDA020757",
+ "srlc_rows": [
+  {
+   "drug_name": "AVAPRO",
+   "active_ingredient": "IRBESARTAN",
+   "application_number": "020757",
+   "application_type": "NDA",
+   "supplement_date": "08/01/2025",
+   "database_updated": "08/11/2025",
+   "drug_name_id": "1651"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-01",
+ "srlc_database_updated": "2025-08-11",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "7885b2a8-be4e-48ab-8113-4e6ab791eb98",
+   "title": "AVAPRO (IRBESARTAN) TABLET, FILM COATED [SANOFI-AVENTIS U.S. LLC]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-01-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-06-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-12-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-03-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-07-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-08-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-06-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-11-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-12-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-01-14"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-05-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-09-28"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-11-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-08-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-08-14"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-03-03"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2025-08-14"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 17
+  },
+  {
+   "setid": "07a6a82f-6a28-4784-8fbc-6f356ecdcdd1",
+   "title": "IRBESARTAN TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jun 15, 2021",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-05-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-06-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "4536ad0b-42f4-4bd1-83d4-467762291664",
+   "title": "AVAPRO (IRBESARTAN) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Dec 21, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-12-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:48:24Z"
+}

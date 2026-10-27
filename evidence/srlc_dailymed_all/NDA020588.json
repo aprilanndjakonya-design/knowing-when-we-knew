@@ -1,0 +1,384 @@
+{
+ "application": "NDA020588",
+ "srlc_rows": [
+  {
+   "drug_name": "RISPERDAL",
+   "active_ingredient": "RISPERIDONE",
+   "application_number": "020588",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2025",
+   "database_updated": "02/06/2025",
+   "drug_name_id": "77"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-22",
+ "srlc_database_updated": "2025-02-06",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "701e1cd8-2868-4d29-85a9-a2212c88165f",
+   "title": "RISPERIDONE TABLET RISPERIDONE SOLUTION RISPERIDONE M-TAB (RISPERIDONE) TABLET, ORALLY DISINTEGRATING [JANSSEN PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 24, 2026",
+   "spl_version": 35,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-09-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-02-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-04-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-01-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-05-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-12-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-12-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-12-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-05-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-04-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-09-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-01-09"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-03-08"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-04-07"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-11-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-04-05"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-08-27"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-09-18"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-02-12"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-05-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-02-05"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-09-28"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-03-11"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2022-05-20"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-05-25"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-06-16"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-07-06"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2022-09-21"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2025-02-24"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-03-03"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-06-18"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2026-08-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 31,
+    "published_date": "2025-02-24"
+   },
+   "lag_days_dailymed": 33,
+   "versions_before_supplement": 28
+  },
+  {
+   "setid": "7e117c7e-02fc-4343-92a1-230061dfc5e0",
+   "title": "RISPERDAL (RISPERIDONE) TABLET RISPERDAL M-TAB (RISPERIDONE) TABLET, ORALLY DISINTEGRATING RISPERDAL (RISPERIDONE) SOLUTION [JANSSEN PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 45,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-01-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-10-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-02-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-04-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2010-10-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-12-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-05-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-09-13"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2011-10-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2012-08-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2013-12-05"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2014-05-12"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2016-03-14"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-04-14"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-09-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-01-03"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2017-03-09"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2017-04-06"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2018-03-21"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2018-04-30"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2018-08-03"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2018-09-18"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-11-29"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2019-02-05"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2019-05-16"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2019-07-22"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-11-08"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2020-01-14"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2020-01-30"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2020-09-29"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2021-02-26"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2022-05-20"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2022-08-31"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2022-09-23"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2025-02-07"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2025-02-28"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2026-06-03"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2026-08-14"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 39,
+    "published_date": "2025-02-07"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 35
+  },
+  {
+   "setid": "ab1cf6fd-9932-47fc-8736-476cc53a13fa",
+   "title": "RISPERIDONE SOLUTION [REMEDYREPACK INC.]",
+   "published_date": "Apr 17, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-06-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-04-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-08-01"
+   },
+   "lag_days_dailymed": 191,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:47:56Z"
+}

@@ -1,0 +1,75 @@
+{
+ "application": "NDA210661",
+ "srlc_rows": [
+  {
+   "drug_name": "AXTLE",
+   "active_ingredient": "PEMETREXED DIPOTASSIUM",
+   "application_number": "210661",
+   "application_type": "NDA",
+   "supplement_date": "10/03/2025",
+   "database_updated": "10/07/2025",
+   "drug_name_id": "3199"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-03",
+ "srlc_database_updated": "2025-10-07",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "9582c46c-d8b0-44b7-a2ee-9c86f5e9b7b1",
+   "title": "AXTLE (PEMETREXED) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AVYXA PHARMA, LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-07-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 45,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "adc9ce4c-926a-4ee8-bd0d-d06fc89c17fc",
+   "title": "PEMETREXED DIPOTASSIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AVYXA PHARMA, LLC]",
+   "published_date": "Feb 07, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-02-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 45,
+ "fetched_utc": "2026-10-16T09:05:07Z"
+}

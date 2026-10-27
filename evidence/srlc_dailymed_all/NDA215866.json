@@ -1,0 +1,214 @@
+{
+ "application": "NDA215866",
+ "srlc_rows": [
+  {
+   "drug_name": "MOUNJARO",
+   "active_ingredient": "TIRZEPATIDE",
+   "application_number": "215866",
+   "application_type": "NDA",
+   "supplement_date": "08/27/2026",
+   "database_updated": "09/02/2026",
+   "drug_name_id": "2823"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-27",
+ "srlc_database_updated": "2026-09-02",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 7,
+ "labels": [
+  {
+   "setid": "d2d7da5d-ad07-4228-955f-cf7e355c8cc0",
+   "title": "MOUNJARO (TIRZEPATIDE) INJECTION, SOLUTION MOUNJARO KWIKPEN (TIRZEPATIDE) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+   "published_date": "Sep 02, 2026",
+   "spl_version": 40,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2022-05-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-09-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-05-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-08-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-08-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-09-28"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-08-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-11-21"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-12-30"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-02-03"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-04-18"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-06-13"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-08-28"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-12-31"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-01-26"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2026-02-09"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2026-02-25"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2026-05-06"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2026-09-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 40,
+    "published_date": "2026-09-02"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 21
+  },
+  {
+   "setid": "0818426a-53eb-4db7-9609-bbae1e7a3964",
+   "title": "MOUNJARO (TIRZEPATIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "78aad975-4971-49fa-b4b0-6aa39f76d2e7",
+   "title": "MOUNJARO (TIRZEPATIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "78b268b4-9215-44b4-b565-fcec315d027c",
+   "title": "MOUNJARO (TIRZEPATIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "7dd5ae1d-2156-44c1-a2d0-4be1bc76420e",
+   "title": "MOUNJARO (TIRZEPATIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "c1ceb7ca-9976-4ac1-b45c-3975de8aac4c",
+   "title": "MOUNJARO (TIRZEPATIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f4edc99a-ecdb-4a68-bcb4-69fbba2190e8",
+   "title": "MOUNJARO (TIRZEPATIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T09:08:45Z"
+}

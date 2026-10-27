@@ -1,0 +1,270 @@
+{
+ "application": "NDA020639",
+ "srlc_rows": [
+  {
+   "drug_name": "SEROQUEL",
+   "active_ingredient": "QUETIAPINE FUMARATE",
+   "application_number": "020639",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "141"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-22",
+ "srlc_database_updated": "2025-02-05",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "8ae62aaf-f8c5-417f-baac-0098369ca322",
+   "title": "SEROQUEL (QUETIAPINE) TABLET, FILM COATED [H2-PHARMA, LLC]",
+   "published_date": "Apr 13, 2026",
+   "spl_version": 53,
+   "versions": [
+    {
+     "spl_version": 53,
+     "published_date": "2026-04-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 53,
+    "published_date": "2026-04-13"
+   },
+   "lag_days_dailymed": 446,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "0584dda8-bc3c-48fe-1a90-79608f78e8a0",
+   "title": "SEROQUEL (QUETIAPINE) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Mar 12, 2025",
+   "spl_version": 50,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-03-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-06-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2007-08-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2007-10-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2009-11-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-01-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-06-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2010-12-20"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-01-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-03-07"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-03-30"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2011-05-26"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2011-07-20"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2011-11-18"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2012-01-23"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2012-08-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2012-09-24"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2013-05-13"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2013-05-16"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2013-07-15"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2013-09-06"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2013-11-07"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2015-09-25"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2016-06-14"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2016-06-22"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2017-03-06"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2018-12-12"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2019-09-04"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2019-12-05"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2020-01-08"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2020-05-27"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2020-09-28"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2022-02-08"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2024-11-20"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2025-02-05"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2025-03-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 49,
+    "published_date": "2025-02-05"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 36
+  },
+  {
+   "setid": "235f367b-544a-4523-a7bf-a9e2b3aa6fa0",
+   "title": "SEROQUEL (QUETIAPINE FUMARATE) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 06, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-01-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-02-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "39f4fcea-a586-4c79-a47e-d38c10601fd7",
+   "title": "SEROQUEL (QUETIAPINE FUMARATE) TABLET, FILM COATED [STAT RX USA LLC]",
+   "published_date": "Jul 08, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "3dc79540-2f24-4920-99cd-ef6482f68eb2",
+   "title": "SEROQUEL (QUETIAPINE FUMARATE) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jun 22, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "276e53bf-d3c0-4457-a76e-ee39c1cd2a3d",
+   "title": "SEROQUEL (QUETIAPINE FUMARATE) TABLET, FILM COATED [CONTRACT PHARMACY SERVICES-PA]",
+   "published_date": "Jun 16, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:48:13Z"
+}

@@ -1,0 +1,101 @@
+{
+ "application": "NDA021812",
+ "srlc_rows": [
+  {
+   "drug_name": "MEN'S ROGAINE",
+   "active_ingredient": "MINOXIDIL",
+   "application_number": "021812",
+   "application_type": "NDA",
+   "supplement_date": "01/14/2026",
+   "database_updated": "01/16/2026",
+   "drug_name_id": "3237"
+  },
+  {
+   "drug_name": "WOMEN'S ROGAINE",
+   "active_ingredient": "MINOXIDIL",
+   "application_number": "021812",
+   "application_type": "NDA",
+   "supplement_date": "01/14/2026",
+   "database_updated": "01/16/2026",
+   "drug_name_id": "3238"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-14",
+ "srlc_database_updated": "2026-01-16",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "4d328537-b7f5-43cc-9837-c5a0c6c390f8",
+   "title": "WOMENS ROGAINE UNSCENTED (MINOXIDIL) AEROSOL, FOAM [KENVUE BRANDS LLC]",
+   "published_date": "Nov 15, 2024",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-03-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-06-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-01-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "1b5e2860-6855-4a65-8bbc-e064172a1adf",
+   "title": "MENS ROGAINE MINOXIDIL - UNSCENTED FORMULA (MINOXIDIL) AEROSOL, FOAM [KENVUE BRANDS LLC]",
+   "published_date": "Nov 14, 2024",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-03-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-09-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-01-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-11-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:53:11Z"
+}

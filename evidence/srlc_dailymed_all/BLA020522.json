@@ -1,0 +1,21 @@
+{
+ "application": "BLA020522",
+ "srlc_rows": [
+  {
+   "drug_name": "NUTROPIN AQ",
+   "active_ingredient": "SOMATROPIN RECOMBINANT",
+   "application_number": "020522",
+   "application_type": "BLA",
+   "supplement_date": "07/09/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "593"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-09",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:37:08Z"
+}

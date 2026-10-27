@@ -1,0 +1,128 @@
+{
+ "application": "NDA212839",
+ "srlc_rows": [
+  {
+   "drug_name": "XCOPRI",
+   "active_ingredient": "CENOBAMATE",
+   "application_number": "212839",
+   "application_type": "NDA",
+   "supplement_date": "08/18/2025",
+   "database_updated": "08/20/2025",
+   "drug_name_id": "2322"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-18",
+ "srlc_database_updated": "2025-08-20",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "565c2126-57ae-4e29-b443-723bbe7e2072",
+   "title": "XCOPRI TITRATION PACK (CENOBAMATE) KIT XCOPRI (CENOBAMATE) TABLET, FILM COATED XCOPRI MAINTENANCE PACK (CENOBAMATE) KIT XCOPRI (CENOBAMATE) TABLET [SK LIFE SCIENCE, INC.]",
+   "published_date": "Aug 27, 2026",
+   "spl_version": 46,
+   "versions": [
+    {
+     "spl_version": 7,
+     "published_date": "2020-03-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-09-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-10-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-04-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-11-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-11-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-07-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-07-22"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-12-06"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-10-26"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-02-16"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-04-08"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-05-10"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-06-03"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2024-08-09"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2024-09-02"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2025-09-10"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2025-09-22"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2026-08-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 41,
+    "published_date": "2025-09-10"
+   },
+   "lag_days_dailymed": 23,
+   "versions_before_supplement": 19
+  }
+ ],
+ "lag_days_dailymed_min": 23,
+ "fetched_utc": "2026-10-16T09:06:38Z"
+}

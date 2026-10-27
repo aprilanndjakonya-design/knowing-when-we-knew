@@ -1,0 +1,134 @@
+{
+ "application": "NDA018449",
+ "srlc_rows": [
+  {
+   "drug_name": "INTRALIPID 20%",
+   "active_ingredient": "",
+   "application_number": "018449",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2624"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-24",
+ "srlc_database_updated": "2025-07-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "48c12fbe-c5e8-a1fc-e063-6294a90a15ae",
+   "title": "INTRALIPID (I.V. FAT EMULSION) EMULSION [PROPHARMA DISTRIBUTION]",
+   "published_date": "Jan 21, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-01-21"
+   },
+   "lag_days_dailymed": 181,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "61e025f1-a38e-4af2-9e18-13ea12977cf5",
+   "title": "INTRALIPID (I.V. FAT EMULSION) EMULSION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Nov 27, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-02-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-10-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-11-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-11-27"
+   },
+   "lag_days_dailymed": 126,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "42dffe5a-892b-03ec-e063-6394a90ae50c",
+   "title": "INTRALIPID (I.V. FAT EMULSION) EMULSION [PROPHARMA DISTRIBUTION]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 116,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a69c82da-15ba-4d4d-8d7f-871dc3981eb8",
+   "title": "INTRALIPID (I.V. FAT EMULSION) EMULSION [BAXTER HEALTHCARE CORPORATION\n]",
+   "published_date": "Aug 12, 2022",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-07-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-11-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-08-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "7d8d2c75-1766-1215-e053-2a91aa0a3f7d",
+   "title": "INTRALIPID EMULSION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Feb 24, 2020",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-12-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 116,
+ "fetched_utc": "2026-10-16T08:44:16Z"
+}

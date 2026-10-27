@@ -1,0 +1,76 @@
+{
+ "application": "NDA213702",
+ "srlc_rows": [
+  {
+   "drug_name": "ZEPZELCA",
+   "active_ingredient": "LURBINECTEDIN",
+   "application_number": "213702",
+   "application_type": "NDA",
+   "supplement_date": "09/30/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "2605"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-30",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "632bb50c-3bcb-4c85-9056-fc33410550ae",
+   "title": "ZEPZELCA (LURBINECTEDIN) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [JAZZ PHARMACEUTICALS, INC.]",
+   "published_date": "Oct 02, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-06-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-06-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-10-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-08-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-10-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-10-02"
+   },
+   "lag_days_dailymed": 2,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 2,
+ "fetched_utc": "2026-10-16T09:07:00Z"
+}

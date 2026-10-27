@@ -1,0 +1,140 @@
+{
+ "application": "NDA209819",
+ "srlc_rows": [
+  {
+   "drug_name": "SUBLOCADE",
+   "active_ingredient": "BUPRENORPHINE",
+   "application_number": "209819",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "2079"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-06",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6189fb21-9432-45f8-8481-0bfaf3ccde95",
+   "title": "SUBLOCADE (BUPRENORPHINE) SOLUTION [INDIVIOR INC.]",
+   "published_date": "Jul 28, 2026",
+   "spl_version": 43,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-02-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-03-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-01-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-03-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-06-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-08-14"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-10-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-02-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-03-22"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-05-26"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-06-30"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-07-11"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2022-09-05"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2023-02-06"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2023-03-20"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-09-27"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-12-05"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2023-12-11"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2024-11-14"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2025-06-13"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2025-09-15"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2026-01-09"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2026-02-16"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2026-07-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 41,
+    "published_date": "2026-01-09"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 23
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T09:04:30Z"
+}

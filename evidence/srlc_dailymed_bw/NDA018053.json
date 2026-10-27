@@ -1,0 +1,39 @@
+{
+ "application": "NDA018053",
+ "srlc_rows": [
+  {
+   "drug_name": "BUPIVACAINE HYDROCHLORIDE",
+   "active_ingredient": "BUPIVACAINE HYDROCHLORIDE",
+   "application_number": "018053",
+   "application_type": "NDA",
+   "supplement_date": "03/09/2021",
+   "supplement": "SUPPL-61",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/09/2021",
+     "suppl": "SUPPL-61",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/09/2021",
+   "database_updated": "03/11/2021",
+   "drug_name_id": "1713"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-03-09",
+ "srlc_database_updated": "2021-03-11",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:14:42Z"
+}

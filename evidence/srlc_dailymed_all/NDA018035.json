@@ -1,0 +1,52 @@
+{
+ "application": "NDA018035",
+ "srlc_rows": [
+  {
+   "drug_name": "DRAXIMAGE MDP-25",
+   "active_ingredient": "TECHNETIUM TC-99M MEDRONATE",
+   "application_number": "018035",
+   "application_type": "NDA",
+   "supplement_date": "05/22/2025",
+   "database_updated": "06/03/2025",
+   "drug_name_id": "3118"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-22",
+ "srlc_database_updated": "2025-06-03",
+ "lag_days_srlc_database": 12,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "3c91d0d8-6cc5-834c-bda0-aa83a873b9fb",
+   "title": "TECHNETIUM TC 99M MEDRONATE INJECTION, POWDER, FOR SOLUTION [JUBILANT DRAXIMAGE INC., DBA JUBILANT RADIOPHARMA]",
+   "published_date": "Jun 13, 2025",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-11-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-12-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-08-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-06-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-06-13"
+   },
+   "lag_days_dailymed": 22,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 22,
+ "fetched_utc": "2026-10-16T08:44:03Z"
+}

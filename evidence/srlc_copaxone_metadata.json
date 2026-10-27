@@ -1,0 +1,128 @@
+{
+ "search_url": "https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchResult.page (POST drug_name=copaxone)",
+ "drug_name_ids_found": [
+  "1430"
+ ],
+ "search_result_row": [
+  "Link",
+  "COPAXONE",
+  "GLATIRAMER ACETATE",
+  "020622",
+  "NDA",
+  "06/22/2026",
+  "06/25/2026",
+  "https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430"
+ ],
+ "detail_url": "https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430",
+ "header": {
+  "drug": "COPAXONE",
+  "application": "NDA-020622"
+ },
+ "note": "Metadata only (approval dates, supplement numbers, section names parsed heuristically from headings). The page does NOT state when each entry was first posted, so SrLC availability time is UNVERIFIED.",
+ "entries": [
+  {
+   "approval_date_mmddyyyy": "06/22/2026",
+   "supplement": "SUPPL-121",
+   "sections_changed": [
+    "Use in Specific Populations"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "01/22/2025",
+   "supplement": "SUPPL-118",
+   "sections_changed": [
+    "Use in Specific Populations",
+    "Medication Guide"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "01/22/2025",
+   "supplement": "SUPPL-119",
+   "sections_changed": [
+    "Boxed Warning",
+    "Contraindications",
+    "Warnings and Precautions",
+    "Adverse Reactions",
+    "Medication Guide"
+   ],
+   "boxed_warning_newly_added": true
+  },
+  {
+   "approval_date_mmddyyyy": "11/16/2023",
+   "supplement": "SUPPL-116",
+   "sections_changed": [
+    "Warnings and Precautions"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "04/15/2022",
+   "supplement": "SUPPL-114",
+   "sections_changed": [
+    "Use in Specific Populations",
+    "Patient Information"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "01/28/2022",
+   "supplement": "SUPPL-113",
+   "sections_changed": [
+    "Patient Counseling Information"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "07/22/2020",
+   "supplement": "SUPPL-110",
+   "sections_changed": [
+    "Warnings and Precautions",
+    "Adverse Reactions",
+    "Patient Counseling Information",
+    "Patient Information"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "12/27/2019",
+   "supplement": "SUPPL-107",
+   "sections_changed": [
+    "Use in Specific Populations",
+    "Patient Counseling Information"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "07/19/2019",
+   "supplement": "SUPPL-106",
+   "sections_changed": [
+    "Patient Information"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "09/07/2018",
+   "supplement": "SUPPL-104",
+   "sections_changed": [
+    "Warnings and Precautions",
+    "Adverse Reactions",
+    "Patient Counseling Information",
+    "Patient Information"
+   ],
+   "boxed_warning_newly_added": false
+  },
+  {
+   "approval_date_mmddyyyy": "01/23/2018",
+   "supplement": "SUPPL-102",
+   "sections_changed": [
+    "Warnings and Precautions",
+    "Adverse Reactions",
+    "Patient Counseling Information",
+    "Patient Information"
+   ],
+   "boxed_warning_newly_added": false
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "application": "NDA020834",
+ "srlc_rows": [
+  {
+   "drug_name": "ROGAINE EXTRA STRENGTH (FOR MEN)",
+   "active_ingredient": "MINOXIDIL",
+   "application_number": "020834",
+   "application_type": "NDA",
+   "supplement_date": "01/14/2026",
+   "database_updated": "01/16/2026",
+   "drug_name_id": "3236"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-14",
+ "srlc_database_updated": "2026-01-16",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "ccaecec5-5348-4b24-9190-5464c50f6d80",
+   "title": "MENS ROGAINE EXTRA STRENGTH UNSCENTED (MINOXIDIL) SOLUTION [KENVUE BRANDS LLC]",
+   "published_date": "Nov 04, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-12-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-04-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-01-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-04-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-11-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "ee71efe1-2505-4e9e-b1aa-ae8b6463596b",
+   "title": "MENS KIRKLAND (MINOXIDIL) SOLUTION [COSTCO WHOLESALE CORPORATION]",
+   "published_date": "Sep 21, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-09-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:48:53Z"
+}

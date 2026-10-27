@@ -1,0 +1,21 @@
+{
+ "application": "NDA022152",
+ "srlc_rows": [
+  {
+   "drug_name": "STAVZOR",
+   "active_ingredient": "VALPROIC ACID",
+   "application_number": "022152",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2026",
+   "database_updated": "04/03/2026",
+   "drug_name_id": "2156"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-31",
+ "srlc_database_updated": "2026-04-03",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:54:10Z"
+}

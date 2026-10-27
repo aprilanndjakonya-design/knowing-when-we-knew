@@ -1,0 +1,72 @@
+{
+ "application": "NDA215153",
+ "srlc_rows": [
+  {
+   "drug_name": "VOQUEZNA DUAL PAK",
+   "active_ingredient": "AMOXICILLIN; VONOPRAZAN FUMARATE",
+   "application_number": "215153",
+   "application_type": "NDA",
+   "supplement_date": "10/31/2025",
+   "database_updated": "11/04/2025",
+   "drug_name_id": "2833"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-31",
+ "srlc_database_updated": "2025-11-04",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0cb2ee04-8581-46c8-a781-7be170ab5c86",
+   "title": "VOQUEZNA DUAL PAK (VONOPRAZAN FUMARATE AND AMOXICILLIN) KIT VOQUEZNA TRIPLE PAK (VONOPRAZAN FUMARATE, AMOXICILLIN AND CLARITHROMYCIN) KIT [PHATHOM PHARMACEUTICALS INC.]",
+   "published_date": "Jul 20, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2022-06-24"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-08-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-05-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-07-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-07-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:08:08Z"
+}

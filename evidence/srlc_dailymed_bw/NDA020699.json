@@ -1,0 +1,247 @@
+{
+ "application": "NDA020699",
+ "srlc_rows": [
+  {
+   "drug_name": "EFFEXOR XR",
+   "active_ingredient": "VENLAFAXINE HYDROCHLORIDE",
+   "application_number": "020699",
+   "application_type": "NDA",
+   "supplement_date": "08/15/2022",
+   "supplement": "SUPPL-112",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/15/2022",
+     "suppl": "SUPPL-112",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/23/2023",
+   "drug_name_id": "65"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-08-15",
+ "srlc_database_updated": "2023-08-23",
+ "lag_days_srlc_database": 373,
+ "dailymed_setids": 10,
+ "labels": [
+  {
+   "setid": "c848a5d8-ba94-4c84-80e3-0bf35fb8e32e",
+   "title": "EFFEXOR XR (VENLAFAXINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [VIATRIS SPECIALTY LLC]",
+   "published_date": "Jul 04, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-10-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-07-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-08-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-07-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2023-10-11"
+   },
+   "lag_days_dailymed": 422,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "1f808a76-4837-687f-e054-00144ff88e88",
+   "title": "VENLAFAXINE HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [MEDSOURCE PHARMACEUTICALS]",
+   "published_date": "Dec 30, 2019",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-09-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-12-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "3cfc589e-455e-4df3-91e6-6cfece5c420a",
+   "title": "VENLAFAXINE HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [DIRECT RX]",
+   "published_date": "Apr 25, 2019",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-02-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-11-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "aa4e4e77-4247-4b61-90af-6cac241344da",
+   "title": "VENLAFAXINE HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "505881c2-d0fe-4123-937e-41cc7a3f7243",
+   "title": "VENLAFAXINE HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Feb 16, 2016",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-02-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2829937a-d59b-4abb-8873-0970cf4d38a1",
+   "title": "VENLAFAXINE HYDROCHLORIDE CAPSULE, DELAYED RELEASE [DIRECT RX]",
+   "published_date": "Aug 12, 2015",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2015-08-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2bb09fc1-1c0a-4586-9af9-5aed8d4322db",
+   "title": "VENLAFAXINE HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Feb 23, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-02-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "b379b413-5d66-4adb-8521-3978f10bbd1d",
+   "title": "EFFEXOR XR (VENLAFAXINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Dec 20, 2011",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-09-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-11-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-12-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "8a2302ca-5c25-4d2d-9ffe-320080934aab",
+   "title": "EFFEXOR XR EXTENDED-RELEASE (VENLAFAXINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Nov 23, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f2f03495-12b6-457a-901f-958b9c844bfd",
+   "title": "EFFEXOR XR (VENLAFAXINE HYDROCHLORIDE ) CAPSULE, EXTENDED RELEASE EFFEXOR XR (VENLAFAXINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [STAT RX USA]",
+   "published_date": "Mar 15, 2010",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-03-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 422,
+ "fetched_utc": "2026-10-16T09:17:45Z"
+}

@@ -1,0 +1,76 @@
+{
+ "application": "BLA761289",
+ "srlc_rows": [
+  {
+   "drug_name": "IMJUDO",
+   "active_ingredient": "TREMELIMUMAB-ACTL",
+   "application_number": "761289",
+   "application_type": "BLA",
+   "supplement_date": "08/31/2026",
+   "database_updated": "09/09/2026",
+   "drug_name_id": "2762"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-31",
+ "srlc_database_updated": "2026-09-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6690679c-be2f-4588-a2e4-89fff74dd6be",
+   "title": "IMJUDO (TREMELIMUMAB) INJECTION, SOLUTION [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Sep 07, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2022-10-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-06-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-02-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-05-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-08-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-09-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2026-09-07"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T08:40:47Z"
+}

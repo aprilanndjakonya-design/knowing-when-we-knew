@@ -1,0 +1,55 @@
+{
+ "application": "NDA022064",
+ "srlc_rows": [
+  {
+   "drug_name": "XYZAL",
+   "active_ingredient": "LEVOCETIRIZINE DIHYDROCHLORIDE",
+   "application_number": "022064",
+   "application_type": "NDA",
+   "supplement_date": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "143"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-11",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "1673f7ff-0c7c-4403-86cf-c05eb1475222",
+   "title": "XYZAL (LEVOCETIRIZINE DIHYDROCHLORIDE) TABLET, FILM COATED XYZAL (LEVOCETIRIZINE DIHYDROCHLORIDE) SOLUTION [CHATTEM, INC.]",
+   "published_date": "Jul 23, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-07-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-07-23"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "371ca86d-7ffd-4f20-b6c6-af0a9ff7362f",
+   "title": "XYZAL (LEVOCETIRIZINE DIHYDROCHLORIDE) TABLET XYZAL (LEVOCETIRIZINE DIHYDROCHLORIDE) SOLUTION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 14, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:53:56Z"
+}

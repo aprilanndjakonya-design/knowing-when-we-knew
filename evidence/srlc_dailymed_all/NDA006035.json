@@ -1,0 +1,52 @@
+{
+ "application": "NDA006035",
+ "srlc_rows": [
+  {
+   "drug_name": "METHERGINE",
+   "active_ingredient": "METHYLERGONOVINE MALEATE",
+   "application_number": "006035",
+   "application_type": "NDA",
+   "supplement_date": "05/29/2025",
+   "database_updated": "06/04/2025",
+   "drug_name_id": "3127"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-29",
+ "srlc_database_updated": "2025-06-04",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "b1552d48-86f5-4184-810a-001e57e96c02",
+   "title": "METHERGINE (METHYLERGONOVINE MALEATE) TABLET, COATED [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Sep 30, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "b91d1729-2e8e-4398-9a0d-02763bcfe284",
+   "title": "METHERGINE (METHYLERGONOVINE MALEATE) TABLET, COATED [APOTHECA, INC.]",
+   "published_date": "Feb 25, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:42:19Z"
+}

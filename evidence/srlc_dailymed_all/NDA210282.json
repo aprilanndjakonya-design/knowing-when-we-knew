@@ -1,0 +1,56 @@
+{
+ "application": "NDA210282",
+ "srlc_rows": [
+  {
+   "drug_name": "DAPTOMYCIN",
+   "active_ingredient": "DAPTOMYCIN",
+   "application_number": "210282",
+   "application_type": "NDA",
+   "supplement_date": "04/30/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "2652"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-30",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 29,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1957b6ce-7382-4a7b-bf02-3595948d09c6",
+   "title": "DAPTOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HOSPIRA, INC.]",
+   "published_date": "May 12, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-08-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-04-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-08-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-04-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-05-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-05-12"
+   },
+   "lag_days_dailymed": 377,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 377,
+ "fetched_utc": "2026-10-16T09:04:57Z"
+}

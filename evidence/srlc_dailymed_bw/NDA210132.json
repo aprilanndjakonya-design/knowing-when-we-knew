@@ -1,0 +1,147 @@
+{
+ "application": "NDA210132",
+ "srlc_rows": [
+  {
+   "drug_name": "BIJUVA",
+   "active_ingredient": "ESTRADIOL; PROGESTERONE",
+   "application_number": "210132",
+   "application_type": "NDA",
+   "supplement_date": "06/22/2021",
+   "supplement": "SUPPL-1",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/22/2021",
+     "suppl": "SUPPL-1",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/12/2026",
+   "database_updated": "02/13/2026",
+   "drug_name_id": "2498"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-06-22",
+ "srlc_database_updated": "2026-02-13",
+ "lag_days_srlc_database": 1697,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "59eadb88-c9f3-4871-b176-7ddd98faf9bc",
+   "title": "BIJUVA (ESTRADIOL AND PROGESTERONE) CAPSULE [MAYNE PHARMA]",
+   "published_date": "Oct 01, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-11-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-02-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-04-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-04-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-10-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-12-04"
+   },
+   "lag_days_dailymed": 895,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "bc52489a-5149-411d-9665-2c75405ad15d",
+   "title": "BIJUVA (ESTRADIOL AND PROGESTERONE) CAPSULE [MAYNE PHARMA LLC]",
+   "published_date": "Oct 01, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-01-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-01-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-04-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-07-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-01-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-07-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-11-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-01-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-04-22"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-10-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2021-07-01"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:28:58Z"
+}

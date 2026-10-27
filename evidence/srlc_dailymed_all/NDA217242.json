@@ -1,0 +1,76 @@
+{
+ "application": "NDA217242",
+ "srlc_rows": [
+  {
+   "drug_name": "ZORYVE",
+   "active_ingredient": "ROFLUMILAST",
+   "application_number": "217242",
+   "application_type": "NDA",
+   "supplement_date": "05/22/2025",
+   "database_updated": "06/04/2025",
+   "drug_name_id": "3124"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-22",
+ "srlc_database_updated": "2025-06-04",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f9e0b4a9-a227-4947-b00c-41fb18d16589",
+   "title": "ZORYVE (ROFLUMILAST) AEROSOL, FOAM [ARCUTIS BIOTHERAPEUTICS, INC.]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-02-28"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-05-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-12-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-07-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-09-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-10-05"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-05-29"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:09:44Z"
+}

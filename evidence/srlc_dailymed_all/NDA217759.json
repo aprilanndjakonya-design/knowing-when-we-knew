@@ -1,0 +1,56 @@
+{
+ "application": "NDA217759",
+ "srlc_rows": [
+  {
+   "drug_name": "JOENJA",
+   "active_ingredient": "LENIOLISIB PHOSPHATE",
+   "application_number": "217759",
+   "application_type": "NDA",
+   "supplement_date": "09/11/2026",
+   "database_updated": "09/17/2026",
+   "drug_name_id": "3129"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-11",
+ "srlc_database_updated": "2026-09-17",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "eefbcef8-2130-4654-8f29-b58077e08212",
+   "title": "JOENJA (LENIOLISIB) TABLET, FILM COATED [PHARMING HEALTHCARE INC.]",
+   "published_date": "Oct 05, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2023-04-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-04-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-10-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-06-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-10-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-10-05"
+   },
+   "lag_days_dailymed": 24,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 24,
+ "fetched_utc": "2026-10-16T09:10:10Z"
+}

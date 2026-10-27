@@ -1,0 +1,149 @@
+{
+ "generated_utc": "2026-10-19T09:13:17Z",
+ "codes": 1939,
+ "status_by_tty": {
+  "Active": {
+   "PIN": 210,
+   "IN": 503,
+   "SBD": 862,
+   "SCD": 319,
+   "BPCK": 45
+  }
+ },
+ "status_totals": {
+  "Active": 1939
+ },
+ "active_start_year_buckets": {
+  "≤2005 (initial RxNorm)": 566,
+  "2006–2015": 853,
+  "2016–2020": 356,
+  "2021–2026": 164
+ },
+ "codes_with_end_date": 0,
+ "codes_remapped": 0,
+ "spl_sets": 1003,
+ "codes_per_set": {
+  "min": 0,
+  "median": 11,
+  "max": 46
+ },
+ "codes_shared_by_several_sets": 861,
+ "synthea_codes": 254,
+ "synthea_code_status": {
+  "Active": 246,
+  "Obsolete": 8
+ },
+ "synthea_code_tty": {
+  "SBD": 29,
+  "SCD": 211,
+  "BPCK": 11,
+  "MIN": 1,
+  "SCDC": 1,
+  "SBDC": 1
+ },
+ "synthea_codes_with_end_date": [
+  "897685",
+  "757594",
+  "749762",
+  "198767",
+  "749882",
+  "1723208",
+  "105078",
+  "1366343"
+ ],
+ "method_note": "RxNav historystatus for every RxCUI linked from the DailyMed SPL sets of the Boxed Warning applications; activeStartDate 042005 is the first RxNorm release, i.e. the code predates the archive, not the drug.",
+ "ontology_note": "Validity interval of a code (activeStartDate–activeEndDate) is NOT asserted in the 0.2 module: it needs a new property on iat:DrugProduct in the core (to be agreed in N3); the status is recorded here only.",
+ "synthea_obsolete_codes": [
+  {
+   "rxcui": "897685",
+   "name": "verapamil hydrochloride 80 MG Oral Tablet [Calan]",
+   "status": "Obsolete",
+   "activeStartDate": "032010",
+   "activeEndDate": "042026",
+   "prescriptions": 251,
+   "first_start": "2001-10-17",
+   "last_start": "2026-10-09",
+   "prescriptions_after_code_end": 11
+  },
+  {
+   "rxcui": "757594",
+   "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]",
+   "status": "Obsolete",
+   "activeStartDate": "032008",
+   "activeEndDate": "072022",
+   "prescriptions": 96,
+   "first_start": "2015-11-03",
+   "last_start": "2026-08-25",
+   "prescriptions_after_code_end": 29
+  },
+  {
+   "rxcui": "749762",
+   "name": "{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]",
+   "status": "Obsolete",
+   "activeStartDate": "012008",
+   "activeEndDate": "092026",
+   "prescriptions": 81,
+   "first_start": "2006-06-21",
+   "last_start": "2026-03-23",
+   "prescriptions_after_code_end": 0
+  },
+  {
+   "rxcui": "198767",
+   "name": "pancreatin 600 MG Oral Tablet",
+   "status": "Obsolete",
+   "activeStartDate": "042005",
+   "activeEndDate": "072026",
+   "prescriptions": 47,
+   "first_start": "1981-01-27",
+   "last_start": "2026-05-30",
+   "prescriptions_after_code_end": 0
+  },
+  {
+   "rxcui": "749882",
+   "name": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]",
+   "status": "Obsolete",
+   "activeStartDate": "012008",
+   "activeEndDate": "072019",
+   "prescriptions": 18,
+   "first_start": "1977-05-03",
+   "last_start": "1997-06-12",
+   "prescriptions_after_code_end": 0
+  },
+  {
+   "rxcui": "1723208",
+   "name": "10 ML alfentanil 0.5 MG/ML Injection",
+   "status": "Obsolete",
+   "activeStartDate": "012016",
+   "activeEndDate": "052025",
+   "prescriptions": 8,
+   "first_start": "2018-06-19",
+   "last_start": "2024-07-08",
+   "prescriptions_after_code_end": 0
+  },
+  {
+   "rxcui": "105078",
+   "name": "penicillin G 375 MG/ML Injectable Solution",
+   "status": "Obsolete",
+   "activeStartDate": "042005",
+   "activeEndDate": "022026",
+   "prescriptions": 8,
+   "first_start": "1946-05-12",
+   "last_start": "1964-01-16",
+   "prescriptions_after_code_end": 0
+  },
+  {
+   "rxcui": "1366343",
+   "name": "levonorgestrel 0.00354 MG/HR Drug Implant",
+   "status": "Obsolete",
+   "activeStartDate": "022013",
+   "activeEndDate": "052017",
+   "prescriptions": 5,
+   "first_start": "1993-05-05",
+   "last_start": "2004-07-01",
+   "prescriptions_after_code_end": 0
+  }
+ ],
+ "synthea_prescriptions_total": 62448,
+ "synthea_prescriptions_on_obsolete_codes": 514,
+ "synthea_prescriptions_after_code_end_date": 40
+}

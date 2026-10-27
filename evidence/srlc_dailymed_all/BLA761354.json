@@ -1,0 +1,79 @@
+{
+ "application": "BLA761354",
+ "srlc_rows": [
+  {
+   "drug_name": "TOFIDENCE",
+   "active_ingredient": "TOCILIZUMAB-BAVI",
+   "application_number": "761354",
+   "application_type": "BLA",
+   "supplement_date": "05/22/2026",
+   "database_updated": "06/04/2026",
+   "drug_name_id": "2994"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-22",
+ "srlc_database_updated": "2026-06-04",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "1ab3207a-ebfe-4565-9ce5-3a1538815c83",
+   "title": "TOFIDENCE (TOCILIZUMAB) INJECTION [ORGANON LLC]",
+   "published_date": "Jun 05, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-07-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-06-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-06-05"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "00529b23-850a-42b9-a152-125a95b5242c",
+   "title": "TOFIDENCE (TOCILIZUMAB) INJECTION [BIOGEN MA INC]",
+   "published_date": "Jan 14, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-07-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-12-12"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-03-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-01-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:41:27Z"
+}

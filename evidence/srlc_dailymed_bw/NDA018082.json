@@ -1,0 +1,38 @@
+{
+ "application": "NDA018082",
+ "srlc_rows": [
+  {
+   "drug_name": "DEPAKENE",
+   "active_ingredient": "VALPROIC ACID",
+   "application_number": "018082",
+   "application_type": "NDA",
+   "supplement_date": "02/21/2019",
+   "supplement": "SUPPL-52",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/21/2019",
+     "suppl": "SUPPL-52",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/19/2020",
+   "database_updated": "05/29/2020",
+   "drug_name_id": "52"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-02-21",
+ "srlc_database_updated": "2020-05-29",
+ "lag_days_srlc_database": 463,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:14:42Z"
+}

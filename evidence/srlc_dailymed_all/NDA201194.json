@@ -1,0 +1,45 @@
+{
+ "application": "NDA201194",
+ "srlc_rows": [
+  {
+   "drug_name": "OXYCODONE HYDROCHLORIDE",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "201194",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "684"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 16,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6a4d8151-f28e-366b-e053-2991aa0a1359",
+   "title": "OXYCODONE HYDROCHLORIDE SOLUTION [REDPHARM DRUG, INC.]",
+   "published_date": "Jan 24, 2022",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-04-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-01-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:58:40Z"
+}

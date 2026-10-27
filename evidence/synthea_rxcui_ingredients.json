@@ -1,0 +1,3877 @@
+{
+ "205923": {
+  "name": "1 ML epoetin alfa 4000 UNT/ML Injection [Epogen]",
+  "tty": "SBD",
+  "prescriptions": 11561,
+  "ingredients": [
+   {
+    "rxcui": "105694",
+    "name": "epoetin alfa",
+    "tty": "IN"
+   }
+  ]
+ },
+ "314076": {
+  "name": "lisinopril 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 5252,
+  "ingredients": [
+   {
+    "rxcui": "29046",
+    "name": "lisinopril",
+    "tty": "IN"
+   }
+  ]
+ },
+ "106892": {
+  "name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+  "tty": "SBD",
+  "prescriptions": 4929,
+  "ingredients": [
+   {
+    "rxcui": "1605101",
+    "name": "insulin isophane",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "253182",
+    "name": "insulin, regular, human",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "1008501",
+    "name": "insulin isophane / insulin, regular, human",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "253181",
+    "name": "insulin isophane, human",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "310798": {
+  "name": "hydrochlorothiazide 25 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 4481,
+  "ingredients": [
+   {
+    "rxcui": "5487",
+    "name": "hydrochlorothiazide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "308136": {
+  "name": "amlodipine 2.5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 4367,
+  "ingredients": [
+   {
+    "rxcui": "17767",
+    "name": "amlodipine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "860975": {
+  "name": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 3225,
+  "ingredients": [
+   {
+    "rxcui": "6809",
+    "name": "metformin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "235743",
+    "name": "metformin hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1535362": {
+  "name": "sodium fluoride 0.0272 MG/MG Oral Gel",
+  "tty": "SCD",
+  "prescriptions": 3100,
+  "ingredients": [
+   {
+    "rxcui": "9873",
+    "name": "sodium fluoride",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1736854": {
+  "name": "cisplatin 50 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 2214,
+  "ingredients": [
+   {
+    "rxcui": "2555",
+    "name": "cisplatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "583214": {
+  "name": "paclitaxel 100 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 1909,
+  "ingredients": [
+   {
+    "rxcui": "56946",
+    "name": "paclitaxel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "206905": {
+  "name": "ibuprofen 400 MG Oral Tablet [Ibu]",
+  "tty": "SBD",
+  "prescriptions": 1507,
+  "ingredients": [
+   {
+    "rxcui": "5640",
+    "name": "ibuprofen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "904419": {
+  "name": "alendronic acid 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1276,
+  "ingredients": [
+   {
+    "rxcui": "46041",
+    "name": "alendronate",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "236083",
+    "name": "alendronic acid",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "314231": {
+  "name": "simvastatin 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1035,
+  "ingredients": [
+   {
+    "rxcui": "36567",
+    "name": "simvastatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "856987": {
+  "name": "acetaminophen 300 MG / hydrocodone bitartrate 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 827,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5489",
+    "name": "hydrocodone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214182",
+    "name": "acetaminophen / hydrocodone",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "142439",
+    "name": "hydrocodone bitartrate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "313521": {
+  "name": "tropicamide 5 MG/ML Ophthalmic Solution",
+  "tty": "SCD",
+  "prescriptions": 740,
+  "ingredients": [
+   {
+    "rxcui": "10869",
+    "name": "tropicamide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1049625": {
+  "name": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet [Percocet]",
+  "tty": "SBD",
+  "prescriptions": 718,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "7804",
+    "name": "oxycodone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214183",
+    "name": "acetaminophen / oxycodone",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "82063",
+    "name": "oxycodone hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "209387": {
+  "name": "acetaminophen 325 MG Oral Tablet [Tylenol]",
+  "tty": "SBD",
+  "prescriptions": 711,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1664463": {
+  "name": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+  "tty": "SBD",
+  "prescriptions": 628,
+  "ingredients": [
+   {
+    "rxcui": "42316",
+    "name": "tacrolimus",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1049504": {
+  "name": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+  "tty": "SBD",
+  "prescriptions": 611,
+  "ingredients": [
+   {
+    "rxcui": "7804",
+    "name": "oxycodone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "82063",
+    "name": "oxycodone hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "245314": {
+  "name": "albuterol 5 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "prescriptions": 585,
+  "ingredients": [
+   {
+    "rxcui": "435",
+    "name": "albuterol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "896209": {
+  "name": "60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+  "tty": "SCD",
+  "prescriptions": 585,
+  "ingredients": [
+   {
+    "rxcui": "36117",
+    "name": "salmeterol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "41126",
+    "name": "fluticasone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "284635",
+    "name": "fluticasone / salmeterol",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "50121",
+    "name": "fluticasone propionate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "993770": {
+  "name": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 572,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "2670",
+    "name": "codeine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "817579",
+    "name": "acetaminophen / codeine",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "2672",
+    "name": "codeine phosphate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "313782": {
+  "name": "acetaminophen 325 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 567,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1719286": {
+  "name": "10 ML furosemide 10 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 510,
+  "ingredients": [
+   {
+    "rxcui": "4603",
+    "name": "furosemide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "630208": {
+  "name": "albuterol 0.83 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "prescriptions": 355,
+  "ingredients": [
+   {
+    "rxcui": "435",
+    "name": "albuterol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "226719": {
+  "name": "etoposide 100 MG Injection [Etopophos]",
+  "tty": "SBD",
+  "prescriptions": 316,
+  "ingredients": [
+   {
+    "rxcui": "4179",
+    "name": "etoposide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "245134": {
+  "name": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+  "tty": "SCD",
+  "prescriptions": 306,
+  "ingredients": [
+   {
+    "rxcui": "4337",
+    "name": "fentanyl",
+    "tty": "IN"
+   }
+  ]
+ },
+ "855332": {
+  "name": "warfarin sodium 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 304,
+  "ingredients": [
+   {
+    "rxcui": "11289",
+    "name": "warfarin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "114194",
+    "name": "warfarin sodium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "108515": {
+  "name": "1 ML tacrolimus 5 MG/ML Injection [Prograf]",
+  "tty": "SBD",
+  "prescriptions": 293,
+  "ingredients": [
+   {
+    "rxcui": "42316",
+    "name": "tacrolimus",
+    "tty": "IN"
+   }
+  ]
+ },
+ "197604": {
+  "name": "digoxin 0.125 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 290,
+  "ingredients": [
+   {
+    "rxcui": "3407",
+    "name": "digoxin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "895996": {
+  "name": "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+  "tty": "SBD",
+  "prescriptions": 267,
+  "ingredients": [
+   {
+    "rxcui": "41126",
+    "name": "fluticasone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "50121",
+    "name": "fluticasone propionate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "562251": {
+  "name": "amoxicillin 250 MG / clavulanate 125 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 256,
+  "ingredients": [
+   {
+    "rxcui": "48203",
+    "name": "clavulanate",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "723",
+    "name": "amoxicillin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "19711",
+    "name": "amoxicillin / clavulanate",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "897685": {
+  "name": null,
+  "tty": null,
+  "prescriptions": 251,
+  "ingredients": []
+ },
+ "849574": {
+  "name": "naproxen sodium 220 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 250,
+  "ingredients": [
+   {
+    "rxcui": "7258",
+    "name": "naproxen",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "142442",
+    "name": "naproxen sodium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1860491": {
+  "name": "12 HR hydrocodone bitartrate 10 MG Extended Release Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 240,
+  "ingredients": [
+   {
+    "rxcui": "5489",
+    "name": "hydrocodone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "142439",
+    "name": "hydrocodone bitartrate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "351109": {
+  "name": "budesonide 0.25 MG/ML Inhalation Suspension",
+  "tty": "SCD",
+  "prescriptions": 201,
+  "ingredients": [
+   {
+    "rxcui": "19831",
+    "name": "budesonide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "896001": {
+  "name": "120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+  "tty": "SBD",
+  "prescriptions": 200,
+  "ingredients": [
+   {
+    "rxcui": "41126",
+    "name": "fluticasone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "50121",
+    "name": "fluticasone propionate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "705129": {
+  "name": "nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+  "tty": "SCD",
+  "prescriptions": 190,
+  "ingredients": [
+   {
+    "rxcui": "4917",
+    "name": "nitroglycerin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "835603": {
+  "name": "tramadol hydrochloride 50 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 189,
+  "ingredients": [
+   {
+    "rxcui": "10689",
+    "name": "tramadol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "82110",
+    "name": "tramadol hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "866412": {
+  "name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 186,
+  "ingredients": [
+   {
+    "rxcui": "6918",
+    "name": "metoprolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "221124",
+    "name": "metoprolol succinate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "312961": {
+  "name": "simvastatin 20 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 175,
+  "ingredients": [
+   {
+    "rxcui": "36567",
+    "name": "simvastatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "313988": {
+  "name": "furosemide 40 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 171,
+  "ingredients": [
+   {
+    "rxcui": "4603",
+    "name": "furosemide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "859088": {
+  "name": "NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",
+  "tty": "SBD",
+  "prescriptions": 169,
+  "ingredients": [
+   {
+    "rxcui": "435",
+    "name": "albuterol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "309362": {
+  "name": "clopidogrel 75 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 163,
+  "ingredients": [
+   {
+    "rxcui": "32968",
+    "name": "clopidogrel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "310965": {
+  "name": "ibuprofen 200 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 158,
+  "ingredients": [
+   {
+    "rxcui": "5640",
+    "name": "ibuprofen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "198440": {
+  "name": "acetaminophen 500 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 139,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "313820": {
+  "name": "acetaminophen 160 MG Chewable Tablet",
+  "tty": "SCD",
+  "prescriptions": 133,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "200033": {
+  "name": "carvedilol 25 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 126,
+  "ingredients": [
+   {
+    "rxcui": "20352",
+    "name": "carvedilol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1049221": {
+  "name": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 125,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "7804",
+    "name": "oxycodone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214183",
+    "name": "acetaminophen / oxycodone",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "82063",
+    "name": "oxycodone hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1043400": {
+  "name": "acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution",
+  "tty": "SCD",
+  "prescriptions": 122,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "3289",
+    "name": "dextromethorphan",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "3642",
+    "name": "doxylamine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "705258",
+    "name": "acetaminophen / dextromethorphan / doxylamine",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "102490",
+    "name": "dextromethorphan hydrobromide",
+    "tty": "PIN"
+   },
+   {
+    "rxcui": "23665",
+    "name": "doxylamine succinate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "745752": {
+  "name": "NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",
+  "tty": "SBD",
+  "prescriptions": 121,
+  "ingredients": [
+   {
+    "rxcui": "435",
+    "name": "albuterol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "979492": {
+  "name": "losartan potassium 50 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 116,
+  "ingredients": [
+   {
+    "rxcui": "52175",
+    "name": "losartan",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203160",
+    "name": "losartan potassium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1870230": {
+  "name": "NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector",
+  "tty": "SCD",
+  "prescriptions": 113,
+  "ingredients": [
+   {
+    "rxcui": "3992",
+    "name": "epinephrine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "476556": {
+  "name": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 108,
+  "ingredients": [
+   {
+    "rxcui": "276237",
+    "name": "emtricitabine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "300195",
+    "name": "tenofovir disoproxil",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "1008145",
+    "name": "emtricitabine / tenofovir disoproxil",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "322248",
+    "name": "tenofovir disoproxil fumarate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "314077": {
+  "name": "lisinopril 20 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 107,
+  "ingredients": [
+   {
+    "rxcui": "29046",
+    "name": "lisinopril",
+    "tty": "IN"
+   }
+  ]
+ },
+ "389221": {
+  "name": "etonogestrel 68 MG Drug Implant",
+  "tty": "SCD",
+  "prescriptions": 106,
+  "ingredients": [
+   {
+    "rxcui": "14584",
+    "name": "etonogestrel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "854235": {
+  "name": "0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe",
+  "tty": "SCD",
+  "prescriptions": 105,
+  "ingredients": [
+   {
+    "rxcui": "67108",
+    "name": "enoxaparin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "221095",
+    "name": "enoxaparin sodium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "2563431": {
+  "name": "aspirin 81 MG Oral Capsule [Vazalore]",
+  "tty": "SBD",
+  "prescriptions": 105,
+  "ingredients": [
+   {
+    "rxcui": "1191",
+    "name": "aspirin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "757594": {
+  "name": null,
+  "tty": null,
+  "prescriptions": 96,
+  "ingredients": []
+ },
+ "1000126": {
+  "name": "1 ML medroxyprogesterone acetate 150 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 96,
+  "ingredients": [
+   {
+    "rxcui": "6691",
+    "name": "medroxyprogesterone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "1000112",
+    "name": "medroxyprogesterone acetate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1431987": {
+  "name": "24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf]",
+  "tty": "SBD",
+  "prescriptions": 91,
+  "ingredients": [
+   {
+    "rxcui": "42316",
+    "name": "tacrolimus",
+    "tty": "IN"
+   }
+  ]
+ },
+ "748856": {
+  "name": "{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]",
+  "tty": "BPCK",
+  "prescriptions": 90,
+  "ingredients": [
+   {
+    "rxcui": "11636",
+    "name": "drospirenone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "4124",
+    "name": "ethinyl estradiol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "748794",
+    "name": "inert ingredients",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "840781",
+    "name": "drospirenone / ethinyl estradiol",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "831533": {
+  "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]",
+  "tty": "BPCK",
+  "prescriptions": 89,
+  "ingredients": [
+   {
+    "rxcui": "7514",
+    "name": "norethindrone",
+    "tty": "IN"
+   }
+  ]
+ },
+ "198405": {
+  "name": "ibuprofen 100 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 88,
+  "ingredients": [
+   {
+    "rxcui": "5640",
+    "name": "ibuprofen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "979485": {
+  "name": "losartan potassium 25 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 83,
+  "ingredients": [
+   {
+    "rxcui": "52175",
+    "name": "losartan",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203160",
+    "name": "losartan potassium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "749762": {
+  "name": null,
+  "tty": null,
+  "prescriptions": 81,
+  "ingredients": []
+ },
+ "748962": {
+  "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]",
+  "tty": "BPCK",
+  "prescriptions": 81,
+  "ingredients": [
+   {
+    "rxcui": "7514",
+    "name": "norethindrone",
+    "tty": "IN"
+   }
+  ]
+ },
+ "978950": {
+  "name": "{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]",
+  "tty": "BPCK",
+  "prescriptions": 80,
+  "ingredients": [
+   {
+    "rxcui": "22968",
+    "name": "dienogest",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "4083",
+    "name": "estradiol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "748794",
+    "name": "inert ingredients",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "994203",
+    "name": "dienogest / estradiol",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "24395",
+    "name": "estradiol valerate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "834102": {
+  "name": "penicillin V potassium 500 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 79,
+  "ingredients": [
+   {
+    "rxcui": "7984",
+    "name": "penicillin V",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203195",
+    "name": "penicillin V potassium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "834061": {
+  "name": "penicillin V potassium 250 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 78,
+  "ingredients": [
+   {
+    "rxcui": "7984",
+    "name": "penicillin V",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203195",
+    "name": "penicillin V potassium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "751905": {
+  "name": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]",
+  "tty": "BPCK",
+  "prescriptions": 78,
+  "ingredients": [
+   {
+    "rxcui": "31994",
+    "name": "norgestimate",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "4124",
+    "name": "ethinyl estradiol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "748794",
+    "name": "inert ingredients",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214559",
+    "name": "ethinyl estradiol / norgestimate",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "308192": {
+  "name": "amoxicillin 500 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 75,
+  "ingredients": [
+   {
+    "rxcui": "723",
+    "name": "amoxicillin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1860154": {
+  "name": "Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 73,
+  "ingredients": [
+   {
+    "rxcui": "7804",
+    "name": "oxycodone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "82063",
+    "name": "oxycodone hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "748879": {
+  "name": "{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]",
+  "tty": "BPCK",
+  "prescriptions": 68,
+  "ingredients": [
+   {
+    "rxcui": "4124",
+    "name": "ethinyl estradiol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "6373",
+    "name": "levonorgestrel",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "748794",
+    "name": "inert ingredients",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214558",
+    "name": "ethinyl estradiol / levonorgestrel",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "2001499": {
+  "name": "vitamin B12 5 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 63,
+  "ingredients": [
+   {
+    "rxcui": "11248",
+    "name": "vitamin B12",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1803932": {
+  "name": "leucovorin 100 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 60,
+  "ingredients": [
+   {
+    "rxcui": "6313",
+    "name": "leucovorin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1736776": {
+  "name": "10 ML oxaliplatin 5 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 60,
+  "ingredients": [
+   {
+    "rxcui": "32592",
+    "name": "oxaliplatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "317150": {
+  "name": "ritonavir 100 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 60,
+  "ingredients": [
+   {
+    "rxcui": "85762",
+    "name": "ritonavir",
+    "tty": "IN"
+   }
+  ]
+ },
+ "243670": {
+  "name": "aspirin 81 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 58,
+  "ingredients": [
+   {
+    "rxcui": "1191",
+    "name": "aspirin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "2123111": {
+  "name": "NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",
+  "tty": "SCD",
+  "prescriptions": 57,
+  "ingredients": [
+   {
+    "rxcui": "435",
+    "name": "albuterol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "744842": {
+  "name": "raltegravir 400 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 55,
+  "ingredients": [
+   {
+    "rxcui": "719872",
+    "name": "raltegravir",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1656356": {
+  "name": "sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto]",
+  "tty": "SBD",
+  "prescriptions": 54,
+  "ingredients": [
+   {
+    "rxcui": "1656328",
+    "name": "sacubitril",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "69749",
+    "name": "valsartan",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "1656339",
+    "name": "sacubitril / valsartan",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "351137": {
+  "name": "albuterol 0.21 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "prescriptions": 53,
+  "ingredients": [
+   {
+    "rxcui": "435",
+    "name": "albuterol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1367439": {
+  "name": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]",
+  "tty": "SBD",
+  "prescriptions": 51,
+  "ingredients": [
+   {
+    "rxcui": "14584",
+    "name": "etonogestrel",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "4124",
+    "name": "ethinyl estradiol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "352376",
+    "name": "ethinyl estradiol / etonogestrel",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "807283": {
+  "name": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",
+  "tty": "SBD",
+  "prescriptions": 50,
+  "ingredients": [
+   {
+    "rxcui": "6373",
+    "name": "levonorgestrel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "351136": {
+  "name": "albuterol 0.417 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "prescriptions": 50,
+  "ingredients": [
+   {
+    "rxcui": "435",
+    "name": "albuterol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "310325": {
+  "name": "ferrous sulfate 325 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 48,
+  "ingredients": [
+   {
+    "rxcui": "24947",
+    "name": "ferrous sulfate",
+    "tty": "IN"
+   }
+  ]
+ },
+ "205532": {
+  "name": "dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]",
+  "tty": "SBD",
+  "prescriptions": 47,
+  "ingredients": [
+   {
+    "rxcui": "337623",
+    "name": "dornase alfa",
+    "tty": "IN"
+   }
+  ]
+ },
+ "198767": {
+  "name": null,
+  "tty": null,
+  "prescriptions": 47,
+  "ingredients": []
+ },
+ "1740467": {
+  "name": "2 ML ondansetron 2 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 46,
+  "ingredients": [
+   {
+    "rxcui": "26225",
+    "name": "ondansetron",
+    "tty": "IN"
+   }
+  ]
+ },
+ "351266": {
+  "name": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+  "tty": "SCD",
+  "prescriptions": 43,
+  "ingredients": [
+   {
+    "rxcui": "1819",
+    "name": "buprenorphine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "7242",
+    "name": "naloxone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "352364",
+    "name": "buprenorphine / naloxone",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "1665060": {
+  "name": "cefazolin 2000 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 43,
+  "ingredients": [
+   {
+    "rxcui": "2180",
+    "name": "cefazolin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1808217": {
+  "name": "100 ML propofol 10 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 43,
+  "ingredients": [
+   {
+    "rxcui": "8782",
+    "name": "propofol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1234995": {
+  "name": "rocuronium bromide 10 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 43,
+  "ingredients": [
+   {
+    "rxcui": "68139",
+    "name": "rocuronium",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "32521",
+    "name": "rocuronium bromide",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "311700": {
+  "name": "midazolam 1 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 42,
+  "ingredients": [
+   {
+    "rxcui": "6960",
+    "name": "midazolam",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1648755": {
+  "name": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 41,
+  "ingredients": [
+   {
+    "rxcui": "7454",
+    "name": "nitrofurantoin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "466542",
+    "name": "nitrofurantoin, macrocrystals / nitrofurantoin, monohydrate",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "221129",
+    "name": "nitrofurantoin, monohydrate",
+    "tty": "PIN"
+   },
+   {
+    "rxcui": "235559",
+    "name": "nitrofurantoin, macrocrystals",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1605257": {
+  "name": "levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",
+  "tty": "SBD",
+  "prescriptions": 41,
+  "ingredients": [
+   {
+    "rxcui": "6373",
+    "name": "levonorgestrel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "855812": {
+  "name": "prasugrel 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 41,
+  "ingredients": [
+   {
+    "rxcui": "613391",
+    "name": "prasugrel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1359269": {
+  "name": "darunavir 800 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 41,
+  "ingredients": [
+   {
+    "rxcui": "460132",
+    "name": "darunavir",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1659263": {
+  "name": "1 ML heparin sodium, porcine 5000 UNT/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 40,
+  "ingredients": [
+   {
+    "rxcui": "5224",
+    "name": "heparin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "314659",
+    "name": "heparin sodium, porcine",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1796676": {
+  "name": "25 ML protamine sulfate (USP) 10 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 40,
+  "ingredients": [
+   {
+    "rxcui": "8825",
+    "name": "protamine sulfate (USP)",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1856546": {
+  "name": "levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",
+  "tty": "SBD",
+  "prescriptions": 37,
+  "ingredients": [
+   {
+    "rxcui": "6373",
+    "name": "levonorgestrel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "861467": {
+  "name": "meperidine hydrochloride 50 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 36,
+  "ingredients": [
+   {
+    "rxcui": "6754",
+    "name": "meperidine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "103755",
+    "name": "meperidine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "2003249": {
+  "name": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 35,
+  "ingredients": [
+   {
+    "rxcui": "300195",
+    "name": "tenofovir disoproxil",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "68244",
+    "name": "lamivudine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "1598388",
+    "name": "lamivudine / tenofovir disoproxil",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "322248",
+    "name": "tenofovir disoproxil fumarate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "665078": {
+  "name": "loratadine 5 MG Chewable Tablet",
+  "tty": "SCD",
+  "prescriptions": 34,
+  "ingredients": [
+   {
+    "rxcui": "28889",
+    "name": "loratadine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "308182": {
+  "name": "amoxicillin 250 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 34,
+  "ingredients": [
+   {
+    "rxcui": "723",
+    "name": "amoxicillin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "854252": {
+  "name": "1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe",
+  "tty": "SCD",
+  "prescriptions": 34,
+  "ingredients": [
+   {
+    "rxcui": "67108",
+    "name": "enoxaparin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "221095",
+    "name": "enoxaparin sodium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "997488": {
+  "name": "fexofenadine hydrochloride 30 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 33,
+  "ingredients": [
+   {
+    "rxcui": "87636",
+    "name": "fexofenadine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "236474",
+    "name": "fexofenadine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1534809": {
+  "name": "168 HR ethinyl estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System",
+  "tty": "SCD",
+  "prescriptions": 29,
+  "ingredients": [
+   {
+    "rxcui": "326374",
+    "name": "norelgestromin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "4124",
+    "name": "ethinyl estradiol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "352377",
+    "name": "ethinyl estradiol / norelgestromin",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "857005": {
+  "name": "acetaminophen 325 MG / hydrocodone bitartrate 7.5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 29,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5489",
+    "name": "hydrocodone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214182",
+    "name": "acetaminophen / hydrocodone",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "142439",
+    "name": "hydrocodone bitartrate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "477045": {
+  "name": "chlorpheniramine maleate 2 MG/ML Oral Solution",
+  "tty": "SCD",
+  "prescriptions": 28,
+  "ingredients": [
+   {
+    "rxcui": "2400",
+    "name": "chlorpheniramine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "142429",
+    "name": "chlorpheniramine maleate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1191013": {
+  "name": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution",
+  "tty": "SCD",
+  "prescriptions": 27,
+  "ingredients": [
+   {
+    "rxcui": "34905",
+    "name": "proparacaine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "227778",
+    "name": "proparacaine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "309097": {
+  "name": "cefuroxime 250 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 26,
+  "ingredients": [
+   {
+    "rxcui": "2194",
+    "name": "cefuroxime",
+    "tty": "IN"
+   }
+  ]
+ },
+ "542347": {
+  "name": "isoflurane 999 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "prescriptions": 26,
+  "ingredients": [
+   {
+    "rxcui": "6026",
+    "name": "isoflurane",
+    "tty": "IN"
+   }
+  ]
+ },
+ "197454": {
+  "name": "cephalexin 500 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 25,
+  "ingredients": [
+   {
+    "rxcui": "2231",
+    "name": "cephalexin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "106258": {
+  "name": "hydrocortisone 10 MG/ML Topical Cream",
+  "tty": "SCD",
+  "prescriptions": 25,
+  "ingredients": [
+   {
+    "rxcui": "5492",
+    "name": "hydrocortisone",
+    "tty": "IN"
+   }
+  ]
+ },
+ "204892": {
+  "name": "clonazepam 0.25 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 24,
+  "ingredients": [
+   {
+    "rxcui": "2598",
+    "name": "clonazepam",
+    "tty": "IN"
+   }
+  ]
+ },
+ "349094": {
+  "name": "budesonide 0.125 MG/ML Inhalation Suspension",
+  "tty": "SCD",
+  "prescriptions": 24,
+  "ingredients": [
+   {
+    "rxcui": "19831",
+    "name": "budesonide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "310436": {
+  "name": "galantamine 4 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 24,
+  "ingredients": [
+   {
+    "rxcui": "4637",
+    "name": "galantamine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "212033": {
+  "name": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 24,
+  "ingredients": [
+   {
+    "rxcui": "1191",
+    "name": "aspirin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "312617": {
+  "name": "prednisone 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 23,
+  "ingredients": [
+   {
+    "rxcui": "8640",
+    "name": "prednisone",
+    "tty": "IN"
+   }
+  ]
+ },
+ "616830": {
+  "name": "budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort]",
+  "tty": "SBD",
+  "prescriptions": 23,
+  "ingredients": [
+   {
+    "rxcui": "19831",
+    "name": "budesonide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "198335": {
+  "name": "sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 21,
+  "ingredients": [
+   {
+    "rxcui": "10180",
+    "name": "sulfamethoxazole",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "10829",
+    "name": "trimethoprim",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "10831",
+    "name": "sulfamethoxazole / trimethoprim",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "309309": {
+  "name": "ciprofloxacin 500 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 21,
+  "ingredients": [
+   {
+    "rxcui": "2551",
+    "name": "ciprofloxacin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "197591": {
+  "name": "diazepam 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 20,
+  "ingredients": [
+   {
+    "rxcui": "3322",
+    "name": "diazepam",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1729584": {
+  "name": "remifentanil 2 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 20,
+  "ingredients": [
+   {
+    "rxcui": "73032",
+    "name": "remifentanil",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1657066": {
+  "name": "4 ML bevacizumab 25 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 20,
+  "ingredients": [
+   {
+    "rxcui": "253337",
+    "name": "bevacizumab",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1049630": {
+  "name": "diphenhydramine hydrochloride 25 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 19,
+  "ingredients": [
+   {
+    "rxcui": "3498",
+    "name": "diphenhydramine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "1362",
+    "name": "diphenhydramine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1433873": {
+  "name": "dolutegravir 50 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 19,
+  "ingredients": [
+   {
+    "rxcui": "1433868",
+    "name": "dolutegravir",
+    "tty": "IN"
+   }
+  ]
+ },
+ "197511": {
+  "name": "ciprofloxacin 250 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 18,
+  "ingredients": [
+   {
+    "rxcui": "2551",
+    "name": "ciprofloxacin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "749882": {
+  "name": null,
+  "tty": null,
+  "prescriptions": 18,
+  "ingredients": []
+ },
+ "308971": {
+  "name": "carbamazepine 20 MG/ML Oral Suspension [Tegretol]",
+  "tty": "SBD",
+  "prescriptions": 18,
+  "ingredients": [
+   {
+    "rxcui": "2002",
+    "name": "carbamazepine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1361048": {
+  "name": "heparin sodium, porcine 100 UNT/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 18,
+  "ingredients": [
+   {
+    "rxcui": "5224",
+    "name": "heparin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "314659",
+    "name": "heparin sodium, porcine",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1014676": {
+  "name": "cetirizine hydrochloride 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 17,
+  "ingredients": [
+   {
+    "rxcui": "20610",
+    "name": "cetirizine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203150",
+    "name": "cetirizine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1659131": {
+  "name": "piperacillin 2000 MG / tazobactam 250 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 16,
+  "ingredients": [
+   {
+    "rxcui": "37617",
+    "name": "tazobactam",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "8339",
+    "name": "piperacillin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "74169",
+    "name": "piperacillin / tazobactam",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "1807510": {
+  "name": "150 ML vancomycin 5 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 16,
+  "ingredients": [
+   {
+    "rxcui": "11124",
+    "name": "vancomycin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "197378": {
+  "name": "astemizole 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 15,
+  "ingredients": [
+   {
+    "rxcui": "42328",
+    "name": "astemizole",
+    "tty": "IN"
+   }
+  ]
+ },
+ "198039": {
+  "name": "nitroglycerin 0.4 MG Sublingual Tablet",
+  "tty": "SCD",
+  "prescriptions": 15,
+  "ingredients": [
+   {
+    "rxcui": "4917",
+    "name": "nitroglycerin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1116635": {
+  "name": "ticagrelor 90 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 15,
+  "ingredients": [
+   {
+    "rxcui": "1116632",
+    "name": "ticagrelor",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1804799": {
+  "name": "alteplase 100 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 14,
+  "ingredients": [
+   {
+    "rxcui": "8410",
+    "name": "alteplase",
+    "tty": "IN"
+   }
+  ]
+ },
+ "235389": {
+  "name": "mestranol / norethynodrel",
+  "tty": "MIN",
+  "prescriptions": 13,
+  "ingredients": [
+   {
+    "rxcui": "6782",
+    "name": "mestranol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "7515",
+    "name": "norethynodrel",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "235389",
+    "name": "mestranol / norethynodrel",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "749785": {
+  "name": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]",
+  "tty": "BPCK",
+  "prescriptions": 13,
+  "ingredients": [
+   {
+    "rxcui": "31994",
+    "name": "norgestimate",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "4124",
+    "name": "ethinyl estradiol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "748794",
+    "name": "inert ingredients",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214559",
+    "name": "ethinyl estradiol / norgestimate",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "897122": {
+  "name": "3 ML liraglutide 6 MG/ML Pen Injector",
+  "tty": "SCD",
+  "prescriptions": 13,
+  "ingredients": [
+   {
+    "rxcui": "475968",
+    "name": "liraglutide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "200243": {
+  "name": "sevoflurane 1000 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "prescriptions": 12,
+  "ingredients": [
+   {
+    "rxcui": "36453",
+    "name": "sevoflurane",
+    "tty": "IN"
+   }
+  ]
+ },
+ "746815": {
+  "name": "60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
+  "tty": "SBD",
+  "prescriptions": 12,
+  "ingredients": [
+   {
+    "rxcui": "108118",
+    "name": "mometasone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "30145",
+    "name": "mometasone furoate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1860480": {
+  "name": "1 ML docetaxel 20 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 11,
+  "ingredients": [
+   {
+    "rxcui": "72962",
+    "name": "docetaxel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "752899": {
+  "name": "0.25 ML leuprolide acetate 30 MG/ML Prefilled Syringe",
+  "tty": "SCD",
+  "prescriptions": 11,
+  "ingredients": [
+   {
+    "rxcui": "42375",
+    "name": "leuprolide",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203217",
+    "name": "leuprolide acetate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "966524": {
+  "name": "120 ACTUAT budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]",
+  "tty": "SBD",
+  "prescriptions": 11,
+  "ingredients": [
+   {
+    "rxcui": "19831",
+    "name": "budesonide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "664741": {
+  "name": "atazanavir 300 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 11,
+  "ingredients": [
+   {
+    "rxcui": "343047",
+    "name": "atazanavir",
+    "tty": "IN"
+   }
+  ]
+ },
+ "198014": {
+  "name": "naproxen 500 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 10,
+  "ingredients": [
+   {
+    "rxcui": "7258",
+    "name": "naproxen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "617296": {
+  "name": "amoxicillin 500 MG / clavulanate 125 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 10,
+  "ingredients": [
+   {
+    "rxcui": "48203",
+    "name": "clavulanate",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "723",
+    "name": "amoxicillin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "19711",
+    "name": "amoxicillin / clavulanate",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "1809104": {
+  "name": "5 ML sufentanil 0.05 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 10,
+  "ingredients": [
+   {
+    "rxcui": "56795",
+    "name": "sufentanil",
+    "tty": "IN"
+   }
+  ]
+ },
+ "996740": {
+  "name": "memantine hydrochloride 2 MG/ML Oral Solution",
+  "tty": "SCD",
+  "prescriptions": 10,
+  "ingredients": [
+   {
+    "rxcui": "6719",
+    "name": "memantine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "236685",
+    "name": "memantine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1649987": {
+  "name": "doxycycline hyclate 100 MG",
+  "tty": "SCDC",
+  "prescriptions": 10,
+  "ingredients": [
+   {
+    "rxcui": "3640",
+    "name": "doxycycline",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "23663",
+    "name": "doxycycline hyclate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "313572": {
+  "name": "vancomycin 50 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 10,
+  "ingredients": [
+   {
+    "rxcui": "11124",
+    "name": "vancomycin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "252559": {
+  "name": "budesonide 0.5 MG/ML Inhalation Suspension",
+  "tty": "SCD",
+  "prescriptions": 10,
+  "ingredients": [
+   {
+    "rxcui": "19831",
+    "name": "budesonide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "808917": {
+  "name": "fosfomycin 3000 MG Granules for Oral Solution",
+  "tty": "SCD",
+  "prescriptions": 9,
+  "ingredients": [
+   {
+    "rxcui": "4550",
+    "name": "fosfomycin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "349477": {
+  "name": "efavirenz 600 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 9,
+  "ingredients": [
+   {
+    "rxcui": "195085",
+    "name": "efavirenz",
+    "tty": "IN"
+   }
+  ]
+ },
+ "198031": {
+  "name": "24 HR nicotine 0.292 MG/HR Transdermal System",
+  "tty": "SCD",
+  "prescriptions": 9,
+  "ingredients": [
+   {
+    "rxcui": "7407",
+    "name": "nicotine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "966222": {
+  "name": "levothyroxine sodium 0.075 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 9,
+  "ingredients": [
+   {
+    "rxcui": "10582",
+    "name": "levothyroxine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "40144",
+    "name": "levothyroxine sodium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "617311": {
+  "name": "atorvastatin 40 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 9,
+  "ingredients": [
+   {
+    "rxcui": "83367",
+    "name": "atorvastatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1599803": {
+  "name": "24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 8,
+  "ingredients": [
+   {
+    "rxcui": "135447",
+    "name": "donepezil",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "6719",
+    "name": "memantine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "1430990",
+    "name": "donepezil / memantine",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "236559",
+    "name": "donepezil hydrochloride",
+    "tty": "PIN"
+   },
+   {
+    "rxcui": "236685",
+    "name": "memantine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1723208": {
+  "name": null,
+  "tty": null,
+  "prescriptions": 8,
+  "ingredients": []
+ },
+ "242969": {
+  "name": "4 ML norepinephrine 1 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 8,
+  "ingredients": [
+   {
+    "rxcui": "7512",
+    "name": "norepinephrine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "402109": {
+  "name": "fosamprenavir 700 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 8,
+  "ingredients": [
+   {
+    "rxcui": "358262",
+    "name": "fosamprenavir",
+    "tty": "IN"
+   }
+  ]
+ },
+ "105078": {
+  "name": null,
+  "tty": null,
+  "prescriptions": 8,
+  "ingredients": []
+ },
+ "1790099": {
+  "name": "10 ML doxorubicin hydrochloride 2 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 8,
+  "ingredients": [
+   {
+    "rxcui": "3639",
+    "name": "doxorubicin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "142433",
+    "name": "doxorubicin hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1728805": {
+  "name": "2 ML morphine sulfate 1 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 8,
+  "ingredients": [
+   {
+    "rxcui": "7052",
+    "name": "morphine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "30236",
+    "name": "morphine sulfate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1732186": {
+  "name": "100 ML epirubicin hydrochloride 2 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 8,
+  "ingredients": [
+   {
+    "rxcui": "3995",
+    "name": "epirubicin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203213",
+    "name": "epirubicin hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1734919": {
+  "name": "cyclophosphamide 1000 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 8,
+  "ingredients": [
+   {
+    "rxcui": "3002",
+    "name": "cyclophosphamide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "197319": {
+  "name": "allopurinol 100 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 7,
+  "ingredients": [
+   {
+    "rxcui": "519",
+    "name": "allopurinol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "617310": {
+  "name": "atorvastatin 20 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 7,
+  "ingredients": [
+   {
+    "rxcui": "83367",
+    "name": "atorvastatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1091392": {
+  "name": "methylphenidate hydrochloride 20 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 6,
+  "ingredients": [
+   {
+    "rxcui": "6901",
+    "name": "methylphenidate",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203188",
+    "name": "methylphenidate hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "311034": {
+  "name": "insulin, regular, human 100 UNT/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 6,
+  "ingredients": [
+   {
+    "rxcui": "253182",
+    "name": "insulin, regular, human",
+    "tty": "IN"
+   }
+  ]
+ },
+ "259255": {
+  "name": "atorvastatin 80 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 6,
+  "ingredients": [
+   {
+    "rxcui": "83367",
+    "name": "atorvastatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1359133": {
+  "name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]",
+  "tty": "BPCK",
+  "prescriptions": 6,
+  "ingredients": [
+   {
+    "rxcui": "24941",
+    "name": "ferrous fumarate",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "4124",
+    "name": "ethinyl estradiol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "7514",
+    "name": "norethindrone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "384410",
+    "name": "ethinyl estradiol / norethindrone",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "31983",
+    "name": "norethindrone acetate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "866924": {
+  "name": "metoprolol tartrate 25 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 6,
+  "ingredients": [
+   {
+    "rxcui": "6918",
+    "name": "metoprolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203191",
+    "name": "metoprolol tartrate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "311372": {
+  "name": "loratadine 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 6,
+  "ingredients": [
+   {
+    "rxcui": "28889",
+    "name": "loratadine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1361226": {
+  "name": "heparin sodium, porcine 1000 UNT/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 6,
+  "ingredients": [
+   {
+    "rxcui": "5224",
+    "name": "heparin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "314659",
+    "name": "heparin sodium, porcine",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1735006": {
+  "name": "10 ML fentanyl 0.05 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 5,
+  "ingredients": [
+   {
+    "rxcui": "4337",
+    "name": "fentanyl",
+    "tty": "IN"
+   }
+  ]
+ },
+ "608139": {
+  "name": "atomoxetine 100 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 5,
+  "ingredients": [
+   {
+    "rxcui": "38400",
+    "name": "atomoxetine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1366343": {
+  "name": null,
+  "tty": null,
+  "prescriptions": 5,
+  "ingredients": []
+ },
+ "617312": {
+  "name": "atorvastatin 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 5,
+  "ingredients": [
+   {
+    "rxcui": "83367",
+    "name": "atorvastatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "562366": {
+  "name": "desflurane 1000 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "prescriptions": 5,
+  "ingredients": [
+   {
+    "rxcui": "27340",
+    "name": "desflurane",
+    "tty": "IN"
+   }
+  ]
+ },
+ "643066": {
+  "name": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 5,
+  "ingredients": [
+   {
+    "rxcui": "195085",
+    "name": "efavirenz",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "276237",
+    "name": "emtricitabine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "300195",
+    "name": "tenofovir disoproxil",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "1007761",
+    "name": "efavirenz / emtricitabine / tenofovir disoproxil",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "322248",
+    "name": "tenofovir disoproxil fumarate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1997015": {
+  "name": "50 ML bivalirudin 5 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 5,
+  "ingredients": [
+   {
+    "rxcui": "60819",
+    "name": "bivalirudin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "866511": {
+  "name": "metoprolol tartrate 100 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 5,
+  "ingredients": [
+   {
+    "rxcui": "6918",
+    "name": "metoprolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203191",
+    "name": "metoprolol tartrate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "749196": {
+  "name": "clopidogrel 300 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 5,
+  "ingredients": [
+   {
+    "rxcui": "32968",
+    "name": "clopidogrel",
+    "tty": "IN"
+   }
+  ]
+ },
+ "312938": {
+  "name": "sertraline 100 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 4,
+  "ingredients": [
+   {
+    "rxcui": "36437",
+    "name": "sertraline",
+    "tty": "IN"
+   }
+  ]
+ },
+ "197884": {
+  "name": "lisinopril 40 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 4,
+  "ingredients": [
+   {
+    "rxcui": "29046",
+    "name": "lisinopril",
+    "tty": "IN"
+   }
+  ]
+ },
+ "141918": {
+  "name": "terfenadine 60 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 4,
+  "ingredients": [
+   {
+    "rxcui": "42330",
+    "name": "terfenadine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "866436": {
+  "name": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 4,
+  "ingredients": [
+   {
+    "rxcui": "6918",
+    "name": "metoprolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "221124",
+    "name": "metoprolol succinate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "866427": {
+  "name": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 4,
+  "ingredients": [
+   {
+    "rxcui": "6918",
+    "name": "metoprolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "221124",
+    "name": "metoprolol succinate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1648756": {
+  "name": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG [Macrobid]",
+  "tty": "SBDC",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "7454",
+    "name": "nitrofurantoin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "466542",
+    "name": "nitrofurantoin, macrocrystals / nitrofurantoin, monohydrate",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "221129",
+    "name": "nitrofurantoin, monohydrate",
+    "tty": "PIN"
+   },
+   {
+    "rxcui": "235559",
+    "name": "nitrofurantoin, macrocrystals",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "313002": {
+  "name": "sodium chloride 9 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "9863",
+    "name": "sodium chloride",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1732136": {
+  "name": "1 ML morphine sulfate 5 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "7052",
+    "name": "morphine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "30236",
+    "name": "morphine sulfate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1659149": {
+  "name": "piperacillin 4000 MG / tazobactam 500 MG Injection",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "37617",
+    "name": "tazobactam",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "8339",
+    "name": "piperacillin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "74169",
+    "name": "piperacillin / tazobactam",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "212446": {
+  "name": "azithromycin 250 MG Oral Tablet [Zithromax]",
+  "tty": "SBD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "18631",
+    "name": "azithromycin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "979480": {
+  "name": "losartan potassium 100 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "52175",
+    "name": "losartan",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203160",
+    "name": "losartan potassium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "200349": {
+  "name": "100 ML eptifibatide 0.75 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "75635",
+    "name": "eptifibatide",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1363309": {
+  "name": "chlorpheniramine maleate 4 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "2400",
+    "name": "chlorpheniramine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "142429",
+    "name": "chlorpheniramine maleate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "198211": {
+  "name": "simvastatin 40 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "36567",
+    "name": "simvastatin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "904475": {
+  "name": "pravastatin sodium 40 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "42463",
+    "name": "pravastatin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203144",
+    "name": "pravastatin sodium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "859747": {
+  "name": "rosuvastatin calcium 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "301542",
+    "name": "rosuvastatin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "323828",
+    "name": "rosuvastatin calcium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "311354": {
+  "name": "lisinopril 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 3,
+  "ingredients": [
+   {
+    "rxcui": "29046",
+    "name": "lisinopril",
+    "tty": "IN"
+   }
+  ]
+ },
+ "241834": {
+  "name": "cyclosporine, modified 100 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "3008",
+    "name": "cyclosporine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "236077",
+    "name": "cyclosporine, modified",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "856980": {
+  "name": "acetaminophen 300 MG / hydrocodone bitartrate 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "161",
+    "name": "acetaminophen",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5489",
+    "name": "hydrocodone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214182",
+    "name": "acetaminophen / hydrocodone",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "142439",
+    "name": "hydrocodone bitartrate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "562508": {
+  "name": "amoxicillin 875 MG / clavulanate 125 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "48203",
+    "name": "clavulanate",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "723",
+    "name": "amoxicillin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "19711",
+    "name": "amoxicillin / clavulanate",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "200346": {
+  "name": "cefdinir 300 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "25037",
+    "name": "cefdinir",
+    "tty": "IN"
+   }
+  ]
+ },
+ "349201": {
+  "name": "valsartan 160 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "69749",
+    "name": "valsartan",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1014678": {
+  "name": "cetirizine hydrochloride 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "20610",
+    "name": "cetirizine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203150",
+    "name": "cetirizine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "858817": {
+  "name": "enalapril maleate 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "3827",
+    "name": "enalapril",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203123",
+    "name": "enalapril maleate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1737466": {
+  "name": "100 ML tirofiban 0.05 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "73137",
+    "name": "tirofiban",
+    "tty": "IN"
+   }
+  ]
+ },
+ "310385": {
+  "name": "fluoxetine 20 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "4493",
+    "name": "fluoxetine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "856519": {
+  "name": "propranolol hydrochloride 40 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "8787",
+    "name": "propranolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "82084",
+    "name": "propranolol hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "198240": {
+  "name": "tamoxifen 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "10324",
+    "name": "tamoxifen",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1652673": {
+  "name": "doxycycline monohydrate 50 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "3640",
+    "name": "doxycycline",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203122",
+    "name": "doxycycline monohydrate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "200095": {
+  "name": "irbesartan 150 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "83818",
+    "name": "irbesartan",
+    "tty": "IN"
+   }
+  ]
+ },
+ "197886": {
+  "name": "hydrochlorothiazide 12.5 MG / lisinopril 20 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "29046",
+    "name": "lisinopril",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5487",
+    "name": "hydrochlorothiazide",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214618",
+    "name": "hydrochlorothiazide / lisinopril",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "904467": {
+  "name": "pravastatin sodium 20 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "42463",
+    "name": "pravastatin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203144",
+    "name": "pravastatin sodium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "197380": {
+  "name": "atenolol 25 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "1202",
+    "name": "atenolol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1100184": {
+  "name": "donepezil hydrochloride 23 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "135447",
+    "name": "donepezil",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "236559",
+    "name": "donepezil hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "314203": {
+  "name": "quinapril 40 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 2,
+  "ingredients": [
+   {
+    "rxcui": "35208",
+    "name": "quinapril",
+    "tty": "IN"
+   }
+  ]
+ },
+ "313185": {
+  "name": "tacrine 10 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "10318",
+    "name": "tacrine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "997223": {
+  "name": "donepezil hydrochloride 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "135447",
+    "name": "donepezil",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "236559",
+    "name": "donepezil hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "859419": {
+  "name": "rosuvastatin calcium 40 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "301542",
+    "name": "rosuvastatin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "323828",
+    "name": "rosuvastatin calcium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "197887": {
+  "name": "hydrochlorothiazide 25 MG / lisinopril 20 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "29046",
+    "name": "lisinopril",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5487",
+    "name": "hydrochlorothiazide",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214618",
+    "name": "hydrochlorothiazide / lisinopril",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "197885": {
+  "name": "hydrochlorothiazide 12.5 MG / lisinopril 10 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "29046",
+    "name": "lisinopril",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5487",
+    "name": "hydrochlorothiazide",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214618",
+    "name": "hydrochlorothiazide / lisinopril",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "856556": {
+  "name": "propranolol hydrochloride 60 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "8787",
+    "name": "propranolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "82084",
+    "name": "propranolol hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "727762": {
+  "name": "5 ML fulvestrant 50 MG/ML Prefilled Syringe",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "282357",
+    "name": "fulvestrant",
+    "tty": "IN"
+   }
+  ]
+ },
+ "2119714": {
+  "name": "5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "224905",
+    "name": "trastuzumab",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5464",
+    "name": "hyaluronidase",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "2119713",
+    "name": "hyaluronidase / trastuzumab",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "2119708",
+    "name": "hyaluronidase-oysk",
+    "tty": "PIN"
+   },
+   {
+    "rxcui": "2375543",
+    "name": "trastuzumab-oysk",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1946840": {
+  "name": "abemaciclib 100 MG Oral Tablet [Verzenio]",
+  "tty": "SBD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "1946825",
+    "name": "abemaciclib",
+    "tty": "IN"
+   }
+  ]
+ },
+ "1601380": {
+  "name": "palbociclib 100 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "1601374",
+    "name": "palbociclib",
+    "tty": "IN"
+   }
+  ]
+ },
+ "238100": {
+  "name": "lorazepam 2 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "6470",
+    "name": "lorazepam",
+    "tty": "IN"
+   }
+  ]
+ },
+ "854905": {
+  "name": "bisoprolol fumarate 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "19484",
+    "name": "bisoprolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "142146",
+    "name": "bisoprolol fumarate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "197541": {
+  "name": "colchicine 0.6 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "2683",
+    "name": "colchicine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "284215": {
+  "name": "clindamycin 300 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "2582",
+    "name": "clindamycin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "141962": {
+  "name": "azithromycin 250 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "18631",
+    "name": "azithromycin",
+    "tty": "IN"
+   }
+  ]
+ },
+ "686924": {
+  "name": "carvedilol 3.125 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "20352",
+    "name": "carvedilol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "858813": {
+  "name": "enalapril maleate 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "3827",
+    "name": "enalapril",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203123",
+    "name": "enalapril maleate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "1483744": {
+  "name": "naltrexone hydrochloride 50 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "7243",
+    "name": "naltrexone",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "105069",
+    "name": "naltrexone hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "898356": {
+  "name": "amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "17767",
+    "name": "amlodipine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "18867",
+    "name": "benazepril",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214223",
+    "name": "amlodipine / benazepril",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "235758",
+    "name": "benazepril hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "997501": {
+  "name": "fexofenadine hydrochloride 60 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "87636",
+    "name": "fexofenadine",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "236474",
+    "name": "fexofenadine hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "349353": {
+  "name": "hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "5487",
+    "name": "hydrochlorothiazide",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "69749",
+    "name": "valsartan",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214626",
+    "name": "hydrochlorothiazide / valsartan",
+    "tty": "MIN"
+   }
+  ]
+ },
+ "197381": {
+  "name": "atenolol 50 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "1202",
+    "name": "atenolol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "859424": {
+  "name": "rosuvastatin calcium 5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "301542",
+    "name": "rosuvastatin",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "323828",
+    "name": "rosuvastatin calcium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "979471": {
+  "name": "hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "52175",
+    "name": "losartan",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5487",
+    "name": "hydrochlorothiazide",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214619",
+    "name": "hydrochlorothiazide / losartan",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "203160",
+    "name": "losartan potassium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "200031": {
+  "name": "carvedilol 6.25 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "20352",
+    "name": "carvedilol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "751616": {
+  "name": "nebivolol 10 MG Oral Tablet [Bystolic]",
+  "tty": "SBD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "31555",
+    "name": "nebivolol",
+    "tty": "IN"
+   }
+  ]
+ },
+ "105585": {
+  "name": "methotrexate 2.5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "6851",
+    "name": "methotrexate",
+    "tty": "IN"
+   }
+  ]
+ },
+ "833135": {
+  "name": "milnacipran hydrochloride 100 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "588250",
+    "name": "milnacipran",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "30003",
+    "name": "milnacipran hydrochloride",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "596926": {
+  "name": "duloxetine 20 MG Delayed Release Oral Capsule",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "72625",
+    "name": "duloxetine",
+    "tty": "IN"
+   }
+  ]
+ },
+ "866514": {
+  "name": "metoprolol tartrate 50 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "6918",
+    "name": "metoprolol",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "203191",
+    "name": "metoprolol tartrate",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "979464": {
+  "name": "hydrochlorothiazide 12.5 MG / losartan potassium 100 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "52175",
+    "name": "losartan",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "5487",
+    "name": "hydrochlorothiazide",
+    "tty": "IN"
+   },
+   {
+    "rxcui": "214619",
+    "name": "hydrochlorothiazide / losartan",
+    "tty": "MIN"
+   },
+   {
+    "rxcui": "203160",
+    "name": "losartan potassium",
+    "tty": "PIN"
+   }
+  ]
+ },
+ "200032": {
+  "name": "carvedilol 12.5 MG Oral Tablet",
+  "tty": "SCD",
+  "prescriptions": 1,
+  "ingredients": [
+   {
+    "rxcui": "20352",
+    "name": "carvedilol",
+    "tty": "IN"
+   }
+  ]
+ }
+}

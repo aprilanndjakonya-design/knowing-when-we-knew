@@ -1,0 +1,146 @@
+{
+ "application": "NDA207958",
+ "srlc_rows": [
+  {
+   "drug_name": "SPRITAM",
+   "active_ingredient": "LEVETIRACETAM",
+   "application_number": "207958",
+   "application_type": "NDA",
+   "supplement_date": "06/27/2025",
+   "database_updated": "06/30/2025",
+   "drug_name_id": "1099"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-27",
+ "srlc_database_updated": "2025-06-30",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "dd175fa3-1d7a-4542-affd-988ac5bba1db",
+   "title": "LEVETIRACETAM TABLET, FOR SUSPENSION [PRASCO LABORATORIES]",
+   "published_date": "Jan 28, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-01-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-01-28"
+   },
+   "lag_days_dailymed": 215,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "be651c31-383f-11e4-916c-0800200c9a66",
+   "title": "SPRITAM (LEVETIRACETAM) TABLET, FOR SUSPENSION [APRECIA PHARMACEUTICALS, LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2016-02-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-05-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-08-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-12-14"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-03-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-09-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-12-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-06-28"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-12-14"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-02-04"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-02-18"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2021-06-23"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2021-12-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-12-21"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-03-30"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-03-27"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-07-02"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-07-14"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 27,
+    "published_date": "2025-07-14"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 19
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:02:49Z"
+}

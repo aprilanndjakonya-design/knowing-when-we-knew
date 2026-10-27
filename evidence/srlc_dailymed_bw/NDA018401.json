@@ -1,0 +1,50 @@
+{
+ "application": "NDA018401",
+ "srlc_rows": [
+  {
+   "drug_name": "BUPRENEX",
+   "active_ingredient": "BUPRENORPHINE HYDROCHLORIDE",
+   "application_number": "018401",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-27",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-22",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-27",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/15/2023",
+   "database_updated": "12/19/2023",
+   "drug_name_id": "740"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2023-12-19",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:15:07Z"
+}

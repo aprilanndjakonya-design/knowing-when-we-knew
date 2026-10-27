@@ -1,0 +1,105 @@
+{
+ "application": "NDA017422",
+ "srlc_rows": [
+  {
+   "drug_name": "BICNU",
+   "active_ingredient": "CARMUSTINE",
+   "application_number": "017422",
+   "application_type": "NDA",
+   "supplement_date": "03/24/2017",
+   "supplement": "SUPPL-55",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/24/2017",
+     "suppl": "SUPPL-55",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/24/2017",
+   "database_updated": "03/28/2017",
+   "drug_name_id": "925"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-03-24",
+ "srlc_database_updated": "2017-03-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "b9b47082-32ee-4abb-a7b2-52292894d3f8",
+   "title": "CARMUSTINE (CARMUSTINE) KIT [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+   "published_date": "Apr 13, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-04-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-04-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-02-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-04-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-04-26"
+   },
+   "lag_days_dailymed": 1494,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "e15140cd-aae9-43d6-aa6a-4e819238be36",
+   "title": "CARMUSTINE (CARMUSTINE) KIT [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+   "published_date": "Jan 10, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-10-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-12-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-04-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-10-01"
+   },
+   "lag_days_dailymed": 921,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 921,
+ "fetched_utc": "2026-10-16T09:14:17Z"
+}

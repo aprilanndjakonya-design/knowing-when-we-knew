@@ -1,0 +1,94 @@
+{
+ "application": "BLA022505",
+ "srlc_rows": [
+  {
+   "drug_name": "EGRIFTA",
+   "active_ingredient": "TESAMORELIN ACETATE",
+   "application_number": "022505",
+   "application_type": "BLA",
+   "supplement_date": "03/25/2025",
+   "database_updated": "03/28/2025",
+   "drug_name_id": "1984"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-25",
+ "srlc_database_updated": "2025-03-28",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "839334d3-8c1d-4c26-9036-2ab524a6ea75",
+   "title": "EGRIFTA WR (TESAMORELIN) KIT [THERATECHNOLOGIES INC.]",
+   "published_date": "Aug 03, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-07-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-08-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-07-15"
+   },
+   "lag_days_dailymed": 112,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "3d783378-b02d-4f19-99dd-0fc91a042224",
+   "title": "EGRIFTA SV (TESAMORELIN) KIT [THERATECHNOLOGIES INC.]",
+   "published_date": "Jul 31, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-11-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-04-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-12-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-12-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-02-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-03-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-01-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-01-02"
+   },
+   "lag_days_dailymed": 283,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 112,
+ "fetched_utc": "2026-10-16T08:37:26Z"
+}

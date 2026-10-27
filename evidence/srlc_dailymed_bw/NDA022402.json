@@ -1,0 +1,141 @@
+{
+ "application": "NDA022402",
+ "srlc_rows": [
+  {
+   "drug_name": "CODEINE SULFATE",
+   "active_ingredient": "CODEINE SULFATE",
+   "application_number": "022402",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-15",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-8",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/29/2017",
+     "suppl": "SUPPL-9",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-11",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "690"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-06",
+ "lag_days_srlc_database": 753,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "010905f9-3bcb-4b50-9fe8-a3ad0010f14c",
+   "title": "CODEINE SULFATE TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Dec 31, 2025",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 16,
+     "published_date": "2017-09-05"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-02-12"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-05-09"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-11-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-08-13"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-05-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-12-08"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-12-20"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-12-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 24,
+    "published_date": "2023-12-20"
+   },
+   "lag_days_dailymed": 5,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "f317cd06-2851-4a52-86d3-6efde3a4c243",
+   "title": "CODEINE SULFATE TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Oct 23, 2009",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-10-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 5,
+ "fetched_utc": "2026-10-16T09:25:12Z"
+}

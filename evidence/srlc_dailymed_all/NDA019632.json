@@ -1,0 +1,167 @@
+{
+ "application": "NDA019632",
+ "srlc_rows": [
+  {
+   "drug_name": "LACTATED RINGER'S IN PLASTIC CONTAINER",
+   "active_ingredient": "CALCIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM CHLORIDE; SODIUM LACTATE",
+   "application_number": "019632",
+   "application_type": "NDA",
+   "supplement_date": "11/05/2025",
+   "database_updated": "11/18/2025",
+   "drug_name_id": "2552"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-05",
+ "srlc_database_updated": "2025-11-18",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "aad6e18f-04f8-4799-b366-873ec5a50317",
+   "title": "LACTATED RINGERS (SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, AND CALCIUM CHLORIDE) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "Oct 01, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-06-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-10-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-03-16"
+   },
+   "lag_days_dailymed": 131,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "f6d82772-638c-4584-b9d3-8833669f5963",
+   "title": "LACTATED RINGERS (SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, AND CALCIUM CHLORIDE) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "Dec 18, 2025",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2016-07-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-04-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-04-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-09-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-04-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-05-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-12-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2025-12-18"
+   },
+   "lag_days_dailymed": 43,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "d3d29c8f-c326-4097-814a-7f4e08c67068",
+   "title": "LACTATED RINGERS (SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, AND CALCIUM CHLORIDE) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "Dec 05, 2025",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-01-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-06-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-10-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-12-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-08-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-03-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-05-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-11-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-09-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-04-23"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-12-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2025-12-05"
+   },
+   "lag_days_dailymed": 30,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "f4ca52c6-9f90-7bb5-e053-2a95a90ae3ff",
+   "title": "LACTATED RINGERS (SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, AND CALCIUM CHLORIDE) INJECTION, SOLUTION [ASCLEMED USA, INC.]",
+   "published_date": "May 08, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-05-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 30,
+ "fetched_utc": "2026-10-16T08:45:30Z"
+}

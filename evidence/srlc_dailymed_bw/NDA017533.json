@@ -1,0 +1,116 @@
+{
+ "application": "NDA017533",
+ "srlc_rows": [
+  {
+   "drug_name": "KLONOPIN",
+   "active_ingredient": "CLONAZEPAM",
+   "application_number": "017533",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-61",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-58",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-61",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "93"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-18",
+ "lag_days_srlc_database": 712,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "cfa0d79a-843c-4b88-95a1-e9511d649ca1",
+   "title": "KLONOPIN (CLONAZEPAM) TABLET [H2-PHARMA, LLC]",
+   "published_date": "Dec 02, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-11-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-01-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-12-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-11-30"
+   },
+   "lag_days_dailymed": 298,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "bda569c3-106c-41c1-913c-6f6e8e60bfd4",
+   "title": "KLONOPIN (CLONAZEPAM) TABLET [STAT RX USA LLC]",
+   "published_date": "Mar 24, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-03-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "79a3305b-be80-416f-a346-5a907f7b669e",
+   "title": "KLONOPIN (CLONAZEPAM) TABLET [STAT RX USA LLC]",
+   "published_date": "Aug 02, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-08-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 298,
+ "fetched_utc": "2026-10-16T09:14:21Z"
+}

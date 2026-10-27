@@ -1,0 +1,68 @@
+{
+ "application": "NDA216675",
+ "srlc_rows": [
+  {
+   "drug_name": "MIEBO",
+   "active_ingredient": "PERFLUOROHEXYLOCTANE",
+   "application_number": "216675",
+   "application_type": "NDA",
+   "supplement_date": "10/21/2025",
+   "database_updated": "10/24/2025",
+   "drug_name_id": "3201"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-21",
+ "srlc_database_updated": "2025-10-24",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6b283c02-7df4-4c00-951b-555cddffe77c",
+   "title": "MIEBO (PERFLUOROHEXYLOCTANE) SOLUTION [BAUSCH & LOMB INCORPORATED]",
+   "published_date": "Mar 12, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2023-05-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-02-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-02-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-07-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-03-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T09:09:12Z"
+}

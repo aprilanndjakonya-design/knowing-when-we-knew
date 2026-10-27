@@ -1,0 +1,48 @@
+{
+ "application": "NDA216793",
+ "srlc_rows": [
+  {
+   "drug_name": "AKEEGA",
+   "active_ingredient": "ABIRATERONE ACETATE; NIRAPARIB TOSYLATE",
+   "application_number": "216793",
+   "application_type": "NDA",
+   "supplement_date": "12/12/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "3226"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-12",
+ "srlc_database_updated": "2025-12-22",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8245a990-3268-4613-b5c5-9537858a1eb9",
+   "title": "AKEEGA (NIRAPARIB TOSYLATE MONOHYDRATE AND ABIRATERONE ACETATE) TABLET, FILM COATED [JANSSEN BIOTECH, INC.]",
+   "published_date": "Dec 22, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-08-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-12-22"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:09:22Z"
+}

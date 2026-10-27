@@ -1,0 +1,54 @@
+{
+ "application": "NDA214231",
+ "srlc_rows": [
+  {
+   "drug_name": "ZEGALOGUE",
+   "active_ingredient": "DASIGLUCAGON HYDROCHLORIDE",
+   "application_number": "214231",
+   "application_type": "NDA",
+   "supplement_date": "06/18/2026",
+   "database_updated": "06/24/2026",
+   "drug_name_id": "3296"
+  },
+  {
+   "drug_name": "ZEGALOGUE (AUTOINJECTOR)",
+   "active_ingredient": "DASIGLUCAGON HYDROCHLORIDE",
+   "application_number": "214231",
+   "application_type": "NDA",
+   "supplement_date": "06/18/2026",
+   "database_updated": "06/24/2026",
+   "drug_name_id": "3297"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-18",
+ "srlc_database_updated": "2026-06-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "14704879-872c-4967-8779-04a3bbdfb4e6",
+   "title": "ZEGALOGUE (DASIGLUCAGON) INJECTION, SOLUTION [NOVO NORDISK]",
+   "published_date": "Jun 17, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-06-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-06-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:07:24Z"
+}

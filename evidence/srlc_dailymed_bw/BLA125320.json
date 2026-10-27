@@ -1,0 +1,322 @@
+{
+ "application": "BLA125320",
+ "srlc_rows": [
+  {
+   "drug_name": "PROLIA",
+   "active_ingredient": "DENOSUMAB",
+   "application_number": "125320",
+   "application_type": "BLA",
+   "supplement_date": "01/19/2024",
+   "supplement": "SUPPL-216",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/19/2024",
+     "suppl": "SUPPL-216",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/23/2026",
+   "database_updated": "06/29/2026",
+   "drug_name_id": "281"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-01-19",
+ "srlc_database_updated": "2026-06-29",
+ "lag_days_srlc_database": 892,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "628f0998-1206-4001-aeee-18133aa9f3bf",
+   "title": "XGEVA (DENOSUMAB) INJECTION [AMGEN, INC]",
+   "published_date": "Jul 10, 2026",
+   "spl_version": 177,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2010-12-03"
+    },
+    {
+     "spl_version": 105,
+     "published_date": "2012-05-17"
+    },
+    {
+     "spl_version": 107,
+     "published_date": "2012-06-07"
+    },
+    {
+     "spl_version": 109,
+     "published_date": "2012-06-12"
+    },
+    {
+     "spl_version": 111,
+     "published_date": "2012-09-24"
+    },
+    {
+     "spl_version": 122,
+     "published_date": "2013-01-22"
+    },
+    {
+     "spl_version": 125,
+     "published_date": "2013-02-28"
+    },
+    {
+     "spl_version": 129,
+     "published_date": "2013-06-28"
+    },
+    {
+     "spl_version": 131,
+     "published_date": "2013-09-09"
+    },
+    {
+     "spl_version": 141,
+     "published_date": "2014-06-17"
+    },
+    {
+     "spl_version": 145,
+     "published_date": "2014-12-16"
+    },
+    {
+     "spl_version": 147,
+     "published_date": "2015-06-22"
+    },
+    {
+     "spl_version": 150,
+     "published_date": "2016-03-18"
+    },
+    {
+     "spl_version": 153,
+     "published_date": "2017-06-09"
+    },
+    {
+     "spl_version": 154,
+     "published_date": "2017-06-22"
+    },
+    {
+     "spl_version": 158,
+     "published_date": "2018-01-26"
+    },
+    {
+     "spl_version": 159,
+     "published_date": "2018-02-13"
+    },
+    {
+     "spl_version": 160,
+     "published_date": "2018-08-02"
+    },
+    {
+     "spl_version": 163,
+     "published_date": "2019-05-23"
+    },
+    {
+     "spl_version": 166,
+     "published_date": "2020-02-25"
+    },
+    {
+     "spl_version": 167,
+     "published_date": "2020-07-17"
+    },
+    {
+     "spl_version": 168,
+     "published_date": "2021-02-01"
+    },
+    {
+     "spl_version": 169,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 170,
+     "published_date": "2022-06-24"
+    },
+    {
+     "spl_version": 171,
+     "published_date": "2023-08-10"
+    },
+    {
+     "spl_version": 172,
+     "published_date": "2024-03-21"
+    },
+    {
+     "spl_version": 173,
+     "published_date": "2025-04-24"
+    },
+    {
+     "spl_version": 174,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 175,
+     "published_date": "2025-06-13"
+    },
+    {
+     "spl_version": 176,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 177,
+     "published_date": "2026-07-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 172,
+    "published_date": "2024-03-21"
+   },
+   "lag_days_dailymed": 62,
+   "versions_before_supplement": 25
+  },
+  {
+   "setid": "49e5afe9-a0c7-40c4-af9f-f287a80c5c88",
+   "title": "PROLIA (DENOSUMAB) INJECTION [AMGEN, INC]",
+   "published_date": "Jul 07, 2026",
+   "spl_version": 186,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2010-06-14"
+    },
+    {
+     "spl_version": 108,
+     "published_date": "2011-10-11"
+    },
+    {
+     "spl_version": 120,
+     "published_date": "2012-05-25"
+    },
+    {
+     "spl_version": 126,
+     "published_date": "2012-10-09"
+    },
+    {
+     "spl_version": 130,
+     "published_date": "2013-07-18"
+    },
+    {
+     "spl_version": 136,
+     "published_date": "2014-07-11"
+    },
+    {
+     "spl_version": 145,
+     "published_date": "2015-03-09"
+    },
+    {
+     "spl_version": 146,
+     "published_date": "2015-03-10"
+    },
+    {
+     "spl_version": 147,
+     "published_date": "2015-03-11"
+    },
+    {
+     "spl_version": 149,
+     "published_date": "2016-05-03"
+    },
+    {
+     "spl_version": 152,
+     "published_date": "2016-08-19"
+    },
+    {
+     "spl_version": 153,
+     "published_date": "2017-02-15"
+    },
+    {
+     "spl_version": 154,
+     "published_date": "2017-06-09"
+    },
+    {
+     "spl_version": 155,
+     "published_date": "2017-06-22"
+    },
+    {
+     "spl_version": 158,
+     "published_date": "2018-05-31"
+    },
+    {
+     "spl_version": 159,
+     "published_date": "2018-06-14"
+    },
+    {
+     "spl_version": 160,
+     "published_date": "2018-08-01"
+    },
+    {
+     "spl_version": 165,
+     "published_date": "2019-05-14"
+    },
+    {
+     "spl_version": 166,
+     "published_date": "2019-06-11"
+    },
+    {
+     "spl_version": 168,
+     "published_date": "2019-08-15"
+    },
+    {
+     "spl_version": 169,
+     "published_date": "2019-10-16"
+    },
+    {
+     "spl_version": 171,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 172,
+     "published_date": "2021-05-27"
+    },
+    {
+     "spl_version": 173,
+     "published_date": "2022-06-06"
+    },
+    {
+     "spl_version": 174,
+     "published_date": "2023-01-16"
+    },
+    {
+     "spl_version": 175,
+     "published_date": "2023-06-15"
+    },
+    {
+     "spl_version": 177,
+     "published_date": "2024-02-05"
+    },
+    {
+     "spl_version": 178,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 180,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 181,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 182,
+     "published_date": "2025-09-19"
+    },
+    {
+     "spl_version": 185,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 186,
+     "published_date": "2026-07-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 177,
+    "published_date": "2024-02-05"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 26
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:12:35Z"
+}

@@ -1,0 +1,91 @@
+{
+ "application": "NDA050785",
+ "srlc_rows": [
+  {
+   "drug_name": "AUGMENTIN XR",
+   "active_ingredient": "AMOXICILLIN; CLAVULANATE POTASSIUM",
+   "application_number": "050785",
+   "application_type": "NDA",
+   "supplement_date": "07/17/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "2697"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-17",
+ "srlc_database_updated": "2026-07-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "45c60b69-1b65-01ed-e063-6294a90a57be",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, FILM COATED, EXTENDED RELEASE [USANTIBIOTICS, LLC]",
+   "published_date": "Jul 09, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-12-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-07-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "fc4bb4b0-9330-4701-a600-199c42fb3255",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM EXTENDED RELEASE (AMOXICILLIN AND CLAVULANATE POTASSIUM) TABLET, FILM COATED, EXTENDED RELEASE [DR. REDDY'S LABORATORIES INC]",
+   "published_date": "Oct 14, 2014",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-09-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-03-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-11-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-01-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-10-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "046da5ed-06d5-46fc-b734-de5c2978d261",
+   "title": "AUGMENTINXR (AMOXICILLIN AND CLAVULANATE POTASSIUM) TABLET, FILM COATED, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Nov 23, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:58:08Z"
+}

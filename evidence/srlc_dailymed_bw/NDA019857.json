@@ -1,0 +1,36 @@
+{
+ "application": "NDA019857",
+ "srlc_rows": [
+  {
+   "drug_name": "CIPRO IN DEXTROSE 5% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "019857",
+   "application_type": "NDA",
+   "supplement_date": "07/26/2016",
+   "supplement": "SUPPL-65",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/26/2016",
+     "suppl": "SUPPL-65",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/05/2020",
+   "database_updated": "03/10/2020",
+   "drug_name_id": "350"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-07-26",
+ "srlc_database_updated": "2020-03-10",
+ "lag_days_srlc_database": 1323,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:16:07Z"
+}

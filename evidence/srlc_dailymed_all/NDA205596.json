@@ -1,0 +1,184 @@
+{
+ "application": "NDA205596",
+ "srlc_rows": [
+  {
+   "drug_name": "NOXAFIL",
+   "active_ingredient": "POSACONAZOLE",
+   "application_number": "205596",
+   "application_type": "NDA",
+   "supplement_date": "01/27/2026",
+   "database_updated": "01/30/2026",
+   "drug_name_id": "405"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-27",
+ "srlc_database_updated": "2026-01-30",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b073b082-7b57-4423-8c06-4fd4263d6f84",
+   "title": "NOXAFIL (POSACONAZOLE) SUSPENSION NOXAFIL (POSACONAZOLE) TABLET, COATED NOXAFIL (POSACONAZOLE) SOLUTION NOXAFIL (POSACONAZOLE) POWDER, FOR SUSPENSION [MERCK SHARP & DOHME LLC]",
+   "published_date": "Mar 06, 2026",
+   "spl_version": 56,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-04-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-05-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-07-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-10-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2012-07-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2013-01-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2013-11-05"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-11-27"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2014-03-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2014-03-20"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2014-06-26"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2015-04-13"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2015-09-03"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2015-12-03"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2016-04-20"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2016-09-23"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2017-05-10"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2017-08-22"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2017-10-02"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2018-12-13"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2019-03-06"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2019-04-04"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2020-03-12"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2020-10-01"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2021-06-17"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2021-06-29"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2021-07-13"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2022-02-01"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2022-02-25"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2022-06-16"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2022-09-22"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2023-08-29"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2023-11-06"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2026-02-11"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2026-03-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 55,
+    "published_date": "2026-02-11"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 35
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:01:34Z"
+}

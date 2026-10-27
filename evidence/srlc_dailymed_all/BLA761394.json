@@ -1,0 +1,64 @@
+{
+ "application": "BLA761394",
+ "srlc_rows": [
+  {
+   "drug_name": "DATROWAY",
+   "active_ingredient": "DATOPOTAMAB DERUXTECAN-DLNK",
+   "application_number": "761394",
+   "application_type": "BLA",
+   "supplement_date": "05/22/2026",
+   "database_updated": "06/04/2026",
+   "drug_name_id": "3291"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-22",
+ "srlc_database_updated": "2026-06-04",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "2950227c-6230-4ca4-a135-46e44d9424a0",
+   "title": "DATROWAY (DATOPOTAMAB DERUXTECAN) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [DAIICHI SANKYO INC.]",
+   "published_date": "Jun 03, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2025-01-30"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-06-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-07-14"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-01-06"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-03-26"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-06-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2026-06-03"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:41:51Z"
+}

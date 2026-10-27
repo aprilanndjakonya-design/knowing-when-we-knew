@@ -1,0 +1,75 @@
+{
+ "application": "NDA005010",
+ "srlc_rows": [
+  {
+   "drug_name": "DEMEROL",
+   "active_ingredient": "MEPERIDINE HYDROCHLORIDE",
+   "application_number": "005010",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-60",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-54",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/16/2017",
+     "suppl": "SUPPL-55",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-57",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-60",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "680"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 754,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:13:22Z"
+}

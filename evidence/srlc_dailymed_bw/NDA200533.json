@@ -1,0 +1,142 @@
+{
+ "application": "NDA200533",
+ "srlc_rows": [
+  {
+   "drug_name": "NUCYNTA ER",
+   "active_ingredient": "TAPENTADOL HYDROCHLORIDE",
+   "application_number": "200533",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-27",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-19",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-27",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "698"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-05",
+ "lag_days_srlc_database": 752,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "38de863e-56ff-4c43-9ab8-9b3e1ba82858",
+   "title": "TAPENTADOL (TAPENTADOL HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Mar 04, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2026-03-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-03-04"
+   },
+   "lag_days_dailymed": 810,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c3d04d70-0155-4147-9ce4-a3b1fad4b373",
+   "title": "NUCYNTA ER (TAPENTADOL HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [COLLEGIUM PHARMACEUTICAL, INC.]",
+   "published_date": "Jan 06, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-04-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-10-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-03-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-06-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-01-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2023-12-25"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "40671852-846e-4bc1-8e15-1f71add24414",
+   "title": "NUCYNTA ER (TAPENTADOL HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [DEPO NF SUB, LLC]",
+   "published_date": "Feb 25, 2019",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2017-06-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-02-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:26:04Z"
+}

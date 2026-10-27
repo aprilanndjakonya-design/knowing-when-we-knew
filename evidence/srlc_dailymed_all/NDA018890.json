@@ -1,0 +1,21 @@
+{
+ "application": "NDA018890",
+ "srlc_rows": [
+  {
+   "drug_name": "METRONIDAZOLE IN PLASTIC CONTAINER",
+   "active_ingredient": "METRONIDAZOLE",
+   "application_number": "018890",
+   "application_type": "NDA",
+   "supplement_date": "03/14/2025",
+   "database_updated": "03/18/2025",
+   "drug_name_id": "1509"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-14",
+ "srlc_database_updated": "2025-03-18",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:44:40Z"
+}

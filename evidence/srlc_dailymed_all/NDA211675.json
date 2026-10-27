@@ -1,0 +1,136 @@
+{
+ "application": "NDA211675",
+ "srlc_rows": [
+  {
+   "drug_name": "RINVOQ",
+   "active_ingredient": "UPADACITINIB",
+   "application_number": "211675",
+   "application_type": "NDA",
+   "supplement_date": "06/30/2026",
+   "database_updated": "07/09/2026",
+   "drug_name_id": "2285"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-30",
+ "srlc_database_updated": "2026-07-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "2966aec7-2ef0-923c-d8ff-fe1a957bf095",
+   "title": "RINVOQ (UPADACITINIB) TABLET, EXTENDED RELEASE RINVOQ (UPADACITINIB) SOLUTION [ABBVIE INC.]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 101,
+   "versions": [
+    {
+     "spl_version": 48,
+     "published_date": "2019-08-20"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2020-04-02"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2020-07-15"
+    },
+    {
+     "spl_version": 63,
+     "published_date": "2021-12-13"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2021-12-20"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2021-12-29"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2022-01-24"
+    },
+    {
+     "spl_version": 68,
+     "published_date": "2022-03-24"
+    },
+    {
+     "spl_version": 70,
+     "published_date": "2022-05-09"
+    },
+    {
+     "spl_version": 73,
+     "published_date": "2022-08-24"
+    },
+    {
+     "spl_version": 74,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 75,
+     "published_date": "2023-03-16"
+    },
+    {
+     "spl_version": 77,
+     "published_date": "2023-04-20"
+    },
+    {
+     "spl_version": 80,
+     "published_date": "2023-05-25"
+    },
+    {
+     "spl_version": 81,
+     "published_date": "2023-06-05"
+    },
+    {
+     "spl_version": 83,
+     "published_date": "2023-06-29"
+    },
+    {
+     "spl_version": 84,
+     "published_date": "2023-11-21"
+    },
+    {
+     "spl_version": 85,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 87,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 90,
+     "published_date": "2025-03-12"
+    },
+    {
+     "spl_version": 91,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 92,
+     "published_date": "2025-05-01"
+    },
+    {
+     "spl_version": 95,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 100,
+     "published_date": "2026-04-30"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 101,
+    "published_date": "2026-07-15"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 24
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:05:44Z"
+}

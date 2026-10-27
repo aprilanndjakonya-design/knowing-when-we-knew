@@ -1,0 +1,40 @@
+{
+ "application": "NDA018029",
+ "srlc_rows": [
+  {
+   "drug_name": "RITALIN-SR",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "018029",
+   "application_type": "NDA",
+   "supplement_date": "01/10/2019",
+   "supplement": "SUPPL-41",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/10/2019",
+     "suppl": "SUPPL-41",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/19/2019",
+   "database_updated": "11/21/2019",
+   "drug_name_id": "702"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-01-10",
+ "srlc_database_updated": "2019-11-21",
+ "lag_days_srlc_database": 315,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:14:41Z"
+}

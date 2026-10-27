@@ -1,0 +1,49 @@
+{
+ "application": "NDA208562",
+ "srlc_rows": [
+  {
+   "drug_name": "VORICONAZOLE",
+   "active_ingredient": "VORICONAZOLE",
+   "application_number": "208562",
+   "application_type": "NDA",
+   "supplement_date": "04/18/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "1496"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-18",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 41,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9ec6eda2-2f15-423b-9ec6-819379a426e1",
+   "title": "VORICONAZOLE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [XELLIA PHARMACEUTICALS USA LLC]",
+   "published_date": "Apr 02, 2024",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-09-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-01-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-09-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-04-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:03:19Z"
+}

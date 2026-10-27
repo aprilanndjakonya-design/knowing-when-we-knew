@@ -1,0 +1,102 @@
+{
+ "application": "NDA021085",
+ "srlc_rows": [
+  {
+   "drug_name": "AVELOX",
+   "active_ingredient": "MOXIFLOXACIN HYDROCHLORIDE",
+   "application_number": "021085",
+   "application_type": "NDA",
+   "supplement_date": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "299"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-11",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "4fd26bda-2eba-1730-e054-00144ff88e88",
+   "title": "MOXIFLOXACIN HYDROCHLORIDE TABLET, FILM COATED [REDPHARM DRUG, INC.]",
+   "published_date": "Jan 22, 2020",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-05-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "222e661d-e956-441a-a02b-b70e0f05c328",
+   "title": "AVELOX (MOXIFLOXACIN HYDROCHLORIDE) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Dec 15, 2011",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2009-10-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-10-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-02-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-09-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-12-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "fe9226f8-64f4-4eff-8339-ed3fce0896f2",
+   "title": "AVELOX (MOXIFLOXACIN HYDROCHLORIDE) TABLET, FILM COATED [REDPHARM DRUG INC.]",
+   "published_date": "Aug 15, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-08-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "7d74dfa6-0468-43ad-ad7f-dd90d9ae7706",
+   "title": "AVELOX ABC PACK (MOXIFLOXACIN HYDROCHLORIDE) TABLET, FILM COATED [STAT RX USA]",
+   "published_date": "Feb 26, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:49:33Z"
+}

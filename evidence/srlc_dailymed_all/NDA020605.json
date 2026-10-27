@@ -1,0 +1,21 @@
+{
+ "application": "NDA020605",
+ "srlc_rows": [
+  {
+   "drug_name": "ZOFRAN",
+   "active_ingredient": "ONDANSETRON HYDROCHLORIDE",
+   "application_number": "020605",
+   "application_type": "NDA",
+   "supplement_date": "06/02/2025",
+   "database_updated": "06/05/2025",
+   "drug_name_id": "449"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-02",
+ "srlc_database_updated": "2025-06-05",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:48:02Z"
+}

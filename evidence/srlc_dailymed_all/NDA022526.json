@@ -1,0 +1,80 @@
+{
+ "application": "NDA022526",
+ "srlc_rows": [
+  {
+   "drug_name": "ADDYI",
+   "active_ingredient": "FLIBANSERIN",
+   "application_number": "022526",
+   "application_type": "NDA",
+   "supplement_date": "12/13/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "2085"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-13",
+ "srlc_database_updated": "2025-12-22",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "3819daf3-e935-2c53-c527-e1d57922f394",
+   "title": "ADDYI (FLIBANSERIN) TABLET, FILM COATED [SPROUT PHARMACEUTICALS, INC.]",
+   "published_date": "Dec 23, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2015-09-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-07-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-06-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-10-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-05-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-08-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-10-20"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-01-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-03-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-12-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2025-12-23"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:56:02Z"
+}

@@ -1,0 +1,82 @@
+{
+ "application": "NDA022549",
+ "srlc_rows": [
+  {
+   "drug_name": "ADASUVE",
+   "active_ingredient": "LOXAPINE",
+   "application_number": "022549",
+   "application_type": "NDA",
+   "supplement_date": "09/28/2016",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/28/2016",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/27/2021",
+   "database_updated": "11/01/2021",
+   "drug_name_id": "446"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-09-28",
+ "srlc_database_updated": "2021-11-01",
+ "lag_days_srlc_database": 1860,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "50e11732-7387-452d-b3e6-db3a431d5c4a",
+   "title": "ADASUVE (LOXAPINE) AEROSOL, POWDER [ALEXZA PHARMACEUTICALS, INC.]",
+   "published_date": "Oct 05, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-01-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-12-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-05-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-07-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-10-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2022-05-31"
+   },
+   "lag_days_dailymed": 2071,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 2071,
+ "fetched_utc": "2026-10-16T09:25:28Z"
+}

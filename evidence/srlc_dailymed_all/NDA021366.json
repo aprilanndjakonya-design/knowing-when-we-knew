@@ -1,0 +1,205 @@
+{
+ "application": "NDA021366",
+ "srlc_rows": [
+  {
+   "drug_name": "CRESTOR",
+   "active_ingredient": "ROSUVASTATIN CALCIUM",
+   "application_number": "021366",
+   "application_type": "NDA",
+   "supplement_date": "09/23/2026",
+   "database_updated": "09/30/2026",
+   "drug_name_id": "216"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-23",
+ "srlc_database_updated": "2026-09-30",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 8,
+ "labels": [
+  {
+   "setid": "325a5d0e-9a72-4015-9fcd-1655fb504cee",
+   "title": "CRESTOR (ROSUVASTATIN) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Sep 30, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-01-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-01-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-05-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-01-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-03-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-08-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-08-07"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-05-13"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-09-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2026-09-30"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "303f6c6c-c9ec-4a29-b2c9-2e81cc0e50f0",
+   "title": "CRESTOR (ROSUVASTATIN CALCIUM) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 22, 2020",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2017-11-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-01-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "598ecc9c-bfd4-4247-a2c3-bd0ce5aa20d0",
+   "title": "CRESTOR (ROSUVASTATIN CALCIUM) TABLET, FILM COATED [AVERA MCKENNAN HOSPITAL]",
+   "published_date": "Apr 11, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-04-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "c5b121bc-cb72-4411-856d-aa71b40bb660",
+   "title": "CRESTOR (ROSUVASTATIN CALCIUM) TABLET, FILM COATED [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 08, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "3ec57aa3-4399-46c9-9292-567d2a09df4f",
+   "title": "CRESTOR (ROSUVASTATIN CALCIUM) TABLET, FILM COATED [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Apr 11, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-04-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "ab9f816e-df48-4d90-b8ca-98477659531a",
+   "title": "CRESTOR (ROSUVASTATIN CALCIUM) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 02, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-10-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-02-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "4f2f91bb-f119-4e29-8499-f36f436707b3",
+   "title": "CRESTOR (ROSUVASTATIN CALCIUM) TABLET, FILM COATED [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Dec 01, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-12-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "3bf80420-7482-44c0-a117-30793ba89544",
+   "title": "CRESTOR (ROSUVASTATIN CALCIUM) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jun 22, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T08:51:26Z"
+}

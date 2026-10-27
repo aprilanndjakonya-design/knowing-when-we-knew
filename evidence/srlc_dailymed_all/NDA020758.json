@@ -1,0 +1,174 @@
+{
+ "application": "NDA020758",
+ "srlc_rows": [
+  {
+   "drug_name": "AVALIDE",
+   "active_ingredient": "HYDROCHLOROTHIAZIDE; IRBESARTAN",
+   "application_number": "020758",
+   "application_type": "NDA",
+   "supplement_date": "08/01/2025",
+   "database_updated": "08/11/2025",
+   "drug_name_id": "36"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-01",
+ "srlc_database_updated": "2025-08-11",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "0d91895e-c869-4b33-9b83-d55c1ad6317e",
+   "title": "AVALIDE (IRBESARTAN AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [SANOFI-AVENTIS U.S. LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-01-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-06-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-06-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-12-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-03-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-07-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-07-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-04-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-09-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-08-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-06-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-08-26"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-09-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-12-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-01-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-05-20"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-09-29"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-11-17"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-07-26"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-08-22"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-05-19"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-08-15"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 23,
+    "published_date": "2025-08-15"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 22
+  },
+  {
+   "setid": "89701339-861a-4e54-a3d6-cf84046e54f2",
+   "title": "IRBESARTAN AND HYDROCHLOROTHIAZIDE TABLET, FILM COATED [BRYANT RANCH PREPACK]",
+   "published_date": "May 22, 2024",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-02-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-05-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "c7750b68-b3d8-45fa-b134-bf75f6ac510e",
+   "title": "AVALIDE (IRBESARTAN AND HYDROCHLOROTHIAZIDE) TABLET AVALIDE (IRBESARTAN AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Aug 18, 2010",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-01-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-08-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:48:27Z"
+}

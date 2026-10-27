@@ -1,0 +1,2357 @@
+{
+ "generated_utc": "2026-10-16T09:33:07Z",
+ "synthea_codes_total": 254,
+ "synthea_codes_matched_to_bw_ingredients": 56,
+ "ingredients_matched": 39,
+ "counts": {
+  "prescriptions_other_drugs": 53134,
+  "prescriptions_bw_drugs": 9314,
+  "rx_available": 2962,
+  "rx_approved_window_doubtful": 703,
+  "rx_approved_carrier_unknown": 3771,
+  "rx_before_approval": 1784,
+  "rx_approved_not_yet_in_dailymed": 94
+ },
+ "ingredient_table": [
+  {
+   "ingredient": "METFORMIN",
+   "prescriptions": 3225,
+   "before_approval": 583,
+   "approved_carrier_unknown": 2586,
+   "approved_not_yet_in_dailymed": 17,
+   "available": 39,
+   "bw_supplements": 6,
+   "applications": 5,
+   "first_approval": "2017-04-05",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "IBUPROFEN",
+   "prescriptions": 1753,
+   "available": 1358,
+   "approved_window_doubtful": 320,
+   "before_approval": 75,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2016-05-09",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "TACROLIMUS",
+   "prescriptions": 1012,
+   "before_approval": 352,
+   "available": 650,
+   "approved_not_yet_in_dailymed": 10,
+   "bw_supplements": 2,
+   "applications": 2,
+   "first_approval": "2018-05-24",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "ACETAMINOPHEN + OXYCODONE",
+   "prescriptions": 843,
+   "before_approval": 88,
+   "approved_carrier_unknown": 755,
+   "bw_supplements": 2,
+   "applications": 1,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "OXYCODONE",
+   "prescriptions": 684,
+   "before_approval": 58,
+   "approved_carrier_unknown": 105,
+   "approved_window_doubtful": 69,
+   "available": 405,
+   "approved_not_yet_in_dailymed": 47,
+   "bw_supplements": 22,
+   "applications": 8,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "FENTANYL",
+   "prescriptions": 311,
+   "before_approval": 25,
+   "approved_carrier_unknown": 124,
+   "available": 152,
+   "approved_not_yet_in_dailymed": 10,
+   "bw_supplements": 32,
+   "applications": 11,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "NAPROXEN",
+   "prescriptions": 260,
+   "approved_window_doubtful": 174,
+   "before_approval": 68,
+   "available": 18,
+   "bw_supplements": 5,
+   "applications": 5,
+   "first_approval": "2016-05-09",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "HYDROCODONE",
+   "prescriptions": 240,
+   "before_approval": 16,
+   "approved_carrier_unknown": 43,
+   "approved_window_doubtful": 116,
+   "available": 65,
+   "bw_supplements": 5,
+   "applications": 2,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "METOPROLOL",
+   "prescriptions": 206,
+   "before_approval": 157,
+   "approved_window_doubtful": 14,
+   "available": 35,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2022-01-12",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "TRAMADOL",
+   "prescriptions": 189,
+   "before_approval": 17,
+   "approved_carrier_unknown": 119,
+   "available": 47,
+   "approved_not_yet_in_dailymed": 6,
+   "bw_supplements": 9,
+   "applications": 3,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "ETONOGESTREL",
+   "prescriptions": 106,
+   "before_approval": 99,
+   "available": 7,
+   "bw_supplements": 2,
+   "applications": 1,
+   "first_approval": "2026-01-16",
+   "newly_added_any": true
+  },
+  {
+   "ingredient": "MEDROXYPROGESTERONE",
+   "prescriptions": 96,
+   "before_approval": 32,
+   "available": 64,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2019-12-23",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "OXALIPLATIN",
+   "prescriptions": 60,
+   "before_approval": 51,
+   "approved_carrier_unknown": 9,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2024-10-31",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "MIDAZOLAM",
+   "prescriptions": 42,
+   "before_approval": 25,
+   "available": 17,
+   "bw_supplements": 2,
+   "applications": 2,
+   "first_approval": "2021-02-05",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "CIPROFLOXACIN",
+   "prescriptions": 39,
+   "available": 32,
+   "before_approval": 7,
+   "bw_supplements": 4,
+   "applications": 4,
+   "first_approval": "2016-07-26",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "MEPERIDINE",
+   "prescriptions": 36,
+   "approved_carrier_unknown": 20,
+   "available": 8,
+   "before_approval": 8,
+   "bw_supplements": 6,
+   "applications": 2,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "VANCOMYCIN",
+   "prescriptions": 26,
+   "approved_carrier_unknown": 8,
+   "before_approval": 16,
+   "approved_not_yet_in_dailymed": 1,
+   "available": 1,
+   "bw_supplements": 2,
+   "applications": 1,
+   "first_approval": "2021-05-28",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "CLONAZEPAM",
+   "prescriptions": 24,
+   "available": 4,
+   "before_approval": 20,
+   "bw_supplements": 3,
+   "applications": 2,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "DIAZEPAM",
+   "prescriptions": 20,
+   "approved_window_doubtful": 1,
+   "available": 4,
+   "before_approval": 15,
+   "bw_supplements": 8,
+   "applications": 4,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "REMIFENTANIL",
+   "prescriptions": 20,
+   "available": 12,
+   "approved_window_doubtful": 3,
+   "before_approval": 5,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "BEVACIZUMAB",
+   "prescriptions": 20,
+   "before_approval": 20,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2017-12-05",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "LIRAGLUTIDE",
+   "prescriptions": 13,
+   "before_approval": 1,
+   "available": 12,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2016-09-22",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "DOCETAXEL",
+   "prescriptions": 11,
+   "before_approval": 7,
+   "available": 4,
+   "bw_supplements": 4,
+   "applications": 4,
+   "first_approval": "2019-06-21",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "MORPHINE",
+   "prescriptions": 11,
+   "approved_not_yet_in_dailymed": 1,
+   "available": 6,
+   "approved_window_doubtful": 2,
+   "before_approval": 2,
+   "bw_supplements": 28,
+   "applications": 14,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "SUFENTANIL",
+   "prescriptions": 10,
+   "available": 5,
+   "before_approval": 5,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "LEVOTHYROXINE",
+   "prescriptions": 9,
+   "before_approval": 7,
+   "approved_window_doubtful": 2,
+   "bw_supplements": 3,
+   "applications": 3,
+   "first_approval": "2017-08-31",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "DOXORUBICIN",
+   "prescriptions": 8,
+   "available": 8,
+   "bw_supplements": 3,
+   "applications": 3,
+   "first_approval": "2019-08-12",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "EPIRUBICIN",
+   "prescriptions": 8,
+   "available": 8,
+   "bw_supplements": 2,
+   "applications": 1,
+   "first_approval": "2019-07-26",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "METHYLPHENIDATE",
+   "prescriptions": 6,
+   "before_approval": 3,
+   "approved_not_yet_in_dailymed": 2,
+   "approved_carrier_unknown": 1,
+   "bw_supplements": 17,
+   "applications": 14,
+   "first_approval": "2019-01-10",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "ATOMOXETINE",
+   "prescriptions": 5,
+   "before_approval": 5,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2026-06-29",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "EFAVIRENZ + EMTRICITABINE + TENOFOVIR DISOPROXIL",
+   "prescriptions": 5,
+   "before_approval": 5,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2018-07-25",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "SERTRALINE",
+   "prescriptions": 4,
+   "before_approval": 4,
+   "bw_supplements": 2,
+   "applications": 2,
+   "first_approval": "2016-12-23",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "PROPRANOLOL",
+   "prescriptions": 3,
+   "before_approval": 2,
+   "available": 1,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2021-08-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "CYCLOSPORINE",
+   "prescriptions": 2,
+   "before_approval": 2,
+   "bw_supplements": 3,
+   "applications": 3,
+   "first_approval": "2026-03-06",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "FLUOXETINE",
+   "prescriptions": 2,
+   "before_approval": 2,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2017-01-04",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "TAMOXIFEN",
+   "prescriptions": 2,
+   "approved_window_doubtful": 2,
+   "bw_supplements": 1,
+   "applications": 1,
+   "first_approval": "2018-09-25",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "LORAZEPAM",
+   "prescriptions": 1,
+   "approved_carrier_unknown": 1,
+   "bw_supplements": 3,
+   "applications": 2,
+   "first_approval": "2016-12-16",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "CLINDAMYCIN",
+   "prescriptions": 1,
+   "before_approval": 1,
+   "bw_supplements": 2,
+   "applications": 1,
+   "first_approval": "2024-07-29",
+   "newly_added_any": false
+  },
+  {
+   "ingredient": "METHOTREXATE",
+   "prescriptions": 1,
+   "before_approval": 1,
+   "bw_supplements": 6,
+   "applications": 4,
+   "first_approval": "2020-03-11",
+   "newly_added_any": false
+  }
+ ],
+ "hindsight_bias_cases": [
+  {
+   "patient": "47499e66",
+   "start": "2023-11-29",
+   "code": "1091392",
+   "drug": "methylphenidate hydrochloride 20 MG Oral Tablet",
+   "ingredient": "METHYLPHENIDATE",
+   "application": "NDA205489",
+   "srlc_drug": "COTEMPLA XR-ODT",
+   "suppl": "SUPPL-12",
+   "approval": "2023-10-13",
+   "dailymed_available": "2023-12-01",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 49,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "89d0a5a1",
+   "start": "2024-01-29",
+   "code": "835603",
+   "drug": "tramadol hydrochloride 50 MG Oral Tablet",
+   "ingredient": "TRAMADOL",
+   "application": "NDA022370",
+   "srlc_drug": "CONZIP",
+   "suppl": "SUPPL-25",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-03-28",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 104,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "84c5d034",
+   "start": "2021-03-25",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA022569",
+   "srlc_drug": "LAZANDA",
+   "suppl": "SUPPL-30",
+   "approval": "2021-03-04",
+   "dailymed_available": "2021-03-31",
+   "srlc_updated": "2021-03-10",
+   "newly_added": false,
+   "window_days": 27,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "84c5d034",
+   "start": "2024-04-11",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "67d62055",
+   "start": "2024-01-23",
+   "code": "835603",
+   "drug": "tramadol hydrochloride 50 MG Oral Tablet",
+   "ingredient": "TRAMADOL",
+   "application": "NDA022370",
+   "srlc_drug": "CONZIP",
+   "suppl": "SUPPL-25",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-03-28",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 104,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "5f97e302",
+   "start": "2025-07-30",
+   "code": "1807510",
+   "drug": "150 ML vancomycin 5 MG/ML Injection",
+   "ingredient": "VANCOMYCIN",
+   "application": "NDA211962",
+   "srlc_drug": "VANCOMYCIN HYDROCHLORIDE",
+   "suppl": "SUPPL-17",
+   "approval": "2025-06-27",
+   "dailymed_available": "2025-11-17",
+   "srlc_updated": "2025-06-30",
+   "newly_added": false,
+   "window_days": 143,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "88796781",
+   "start": "2018-10-06",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2018-11-10",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2018-11-17",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2018-12-08",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2018-12-15",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2019-01-05",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2019-01-12",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2019-02-09",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2019-02-16",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "386f2c1b",
+   "start": "2018-11-11",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "2d48cc24",
+   "start": "2018-10-09",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "f9cfdc41",
+   "start": "2024-02-16",
+   "code": "835603",
+   "drug": "tramadol hydrochloride 50 MG Oral Tablet",
+   "ingredient": "TRAMADOL",
+   "application": "NDA022370",
+   "srlc_drug": "CONZIP",
+   "suppl": "SUPPL-25",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-03-28",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 104,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "09c534cd",
+   "start": "2024-01-04",
+   "code": "1732136",
+   "drug": "1 ML morphine sulfate 5 MG/ML Injection",
+   "ingredient": "MORPHINE",
+   "application": "NDA204223",
+   "srlc_drug": "MORPHINE SULFATE",
+   "suppl": "SUPPL-25",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-01-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 26,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2023-12-16",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2023-12-30",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-01-13",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-01-20",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-02-10",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-02-17",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-03-09",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-03-16",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-03-23",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-03-30",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2024-04-27",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88b60b68",
+   "start": "2019-01-16",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88b60b68",
+   "start": "2024-02-14",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88b60b68",
+   "start": "2024-02-14",
+   "code": "835603",
+   "drug": "tramadol hydrochloride 50 MG Oral Tablet",
+   "ingredient": "TRAMADOL",
+   "application": "NDA022370",
+   "srlc_drug": "CONZIP",
+   "suppl": "SUPPL-25",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-03-28",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 104,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "88796781",
+   "start": "2026-08-15",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "approved_not_yet_in_srlc"
+  },
+  {
+   "patient": "19c4a2a2",
+   "start": "2023-12-19",
+   "code": "835603",
+   "drug": "tramadol hydrochloride 50 MG Oral Tablet",
+   "ingredient": "TRAMADOL",
+   "application": "NDA022370",
+   "srlc_drug": "CONZIP",
+   "suppl": "SUPPL-25",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-03-28",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 104,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "8ab482d0",
+   "start": "2021-03-24",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA022569",
+   "srlc_drug": "LAZANDA",
+   "suppl": "SUPPL-30",
+   "approval": "2021-03-04",
+   "dailymed_available": "2021-03-31",
+   "srlc_updated": "2021-03-10",
+   "newly_added": false,
+   "window_days": 27,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "334299cc",
+   "start": "2019-02-19",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "334299cc",
+   "start": "2024-03-19",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "c84e7f4d",
+   "start": "2026-08-15",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "approved_not_yet_in_srlc"
+  },
+  {
+   "patient": "c84e7f4d",
+   "start": "2026-08-22",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "1f6a1f9e",
+   "start": "2024-04-16",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "50fdec27",
+   "start": "2023-12-17",
+   "code": "1091392",
+   "drug": "methylphenidate hydrochloride 20 MG Oral Tablet",
+   "ingredient": "METHYLPHENIDATE",
+   "application": "NDA021284",
+   "srlc_drug": "RITALIN LA",
+   "suppl": "SUPPL-46",
+   "approval": "2023-10-13",
+   "dailymed_available": "2024-03-04",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 143,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "cf786f9a",
+   "start": "2021-03-29",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA022569",
+   "srlc_drug": "LAZANDA",
+   "suppl": "SUPPL-30",
+   "approval": "2021-03-04",
+   "dailymed_available": "2021-03-31",
+   "srlc_updated": "2021-03-10",
+   "newly_added": false,
+   "window_days": 27,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "c0965439",
+   "start": "2024-03-14",
+   "code": "835603",
+   "drug": "tramadol hydrochloride 50 MG Oral Tablet",
+   "ingredient": "TRAMADOL",
+   "application": "NDA022370",
+   "srlc_drug": "CONZIP",
+   "suppl": "SUPPL-25",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-03-28",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 104,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "1747e3f5",
+   "start": "2026-08-27",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "8e05eefa",
+   "start": "2026-08-26",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "8e05eefa",
+   "start": "2026-09-02",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "338ad72d",
+   "start": "2024-01-26",
+   "code": "1860154",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "20a5c603",
+   "start": "2018-07-31",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "5d96ee13",
+   "start": "2024-04-15",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "b597a7cc",
+   "start": "2024-04-14",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "11079779",
+   "start": "2018-05-25",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "11079779",
+   "start": "2018-06-08",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "11079779",
+   "start": "2018-07-06",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "11079779",
+   "start": "2018-08-03",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "71a56e39",
+   "start": "2021-05-05",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA202788",
+   "srlc_drug": "SUBSYS",
+   "suppl": "SUPPL-23",
+   "approval": "2021-03-04",
+   "dailymed_available": "2021-05-06",
+   "srlc_updated": "2021-03-10",
+   "newly_added": false,
+   "window_days": 63,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "d7b55ae1",
+   "start": "2026-08-17",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "approved_not_yet_in_srlc"
+  },
+  {
+   "patient": "21607cca",
+   "start": "2018-10-11",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "21607cca",
+   "start": "2018-12-06",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "21607cca",
+   "start": "2019-02-07",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "11079779",
+   "start": "2026-08-14",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "approved_not_yet_in_srlc"
+  },
+  {
+   "patient": "21607cca",
+   "start": "2021-03-25",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA022569",
+   "srlc_drug": "LAZANDA",
+   "suppl": "SUPPL-30",
+   "approval": "2021-03-04",
+   "dailymed_available": "2021-03-31",
+   "srlc_updated": "2021-03-10",
+   "newly_added": false,
+   "window_days": 27,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "21607cca",
+   "start": "2024-01-11",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "21607cca",
+   "start": "2024-01-11",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA019101",
+   "srlc_drug": "FENTANYL CITRATE",
+   "suppl": "SUPPL-63",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-01-18",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 34,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "21607cca",
+   "start": "2024-03-14",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "68c16fd0",
+   "start": "2018-10-16",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "b81c2c29",
+   "start": "2021-03-30",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA022569",
+   "srlc_drug": "LAZANDA",
+   "suppl": "SUPPL-30",
+   "approval": "2021-03-04",
+   "dailymed_available": "2021-03-31",
+   "srlc_updated": "2021-03-10",
+   "newly_added": false,
+   "window_days": 27,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "b81c2c29",
+   "start": "2024-04-16",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "0acd8b35",
+   "start": "2026-08-12",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "approved_not_yet_in_srlc"
+  },
+  {
+   "patient": "0acd8b35",
+   "start": "2026-08-19",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "e266bf46",
+   "start": "2018-05-31",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "e266bf46",
+   "start": "2018-07-05",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "e266bf46",
+   "start": "2018-07-19",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "e266bf46",
+   "start": "2018-08-09",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "a7f47049",
+   "start": "2026-08-30",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "6d8410eb",
+   "start": "2018-10-08",
+   "code": "1860154",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "e5a3407d",
+   "start": "2018-10-31",
+   "code": "1860154",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "e5a3407d",
+   "start": "2019-02-15",
+   "code": "1860154",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "cda0db07",
+   "start": "2021-03-30",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA022569",
+   "srlc_drug": "LAZANDA",
+   "suppl": "SUPPL-30",
+   "approval": "2021-03-04",
+   "dailymed_available": "2021-03-31",
+   "srlc_updated": "2021-03-10",
+   "newly_added": false,
+   "window_days": 27,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "22a8e59b",
+   "start": "2026-08-25",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "9e8a35ce",
+   "start": "2026-08-13",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "approved_not_yet_in_srlc"
+  },
+  {
+   "patient": "9e8a35ce",
+   "start": "2026-08-20",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "9e8a35ce",
+   "start": "2026-08-27",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "9e8a35ce",
+   "start": "2026-09-03",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "a07b04fe",
+   "start": "2024-04-13",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "25750399",
+   "start": "2019-02-18",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "25750399",
+   "start": "2024-01-08",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "25750399",
+   "start": "2024-01-08",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA019101",
+   "srlc_drug": "FENTANYL CITRATE",
+   "suppl": "SUPPL-63",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-01-18",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 34,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "25750399",
+   "start": "2024-01-15",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "25750399",
+   "start": "2024-01-15",
+   "code": "245134",
+   "drug": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredient": "FENTANYL",
+   "application": "NDA019101",
+   "srlc_drug": "FENTANYL CITRATE",
+   "suppl": "SUPPL-63",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-01-18",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 34,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "25750399",
+   "start": "2024-03-18",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA202080",
+   "srlc_drug": "OXAYDO",
+   "suppl": "SUPPL-13",
+   "approval": "2023-12-15",
+   "dailymed_available": "2024-04-29",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 136,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "21b839d8",
+   "start": "2026-09-03",
+   "code": "860975",
+   "drug": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredient": "METFORMIN",
+   "application": "NDA021748",
+   "srlc_drug": "GLUMETZA",
+   "suppl": "SUPPL-31",
+   "approval": "2026-08-11",
+   "dailymed_available": "2026-09-04",
+   "srlc_updated": "2026-08-18",
+   "newly_added": false,
+   "window_days": 24,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "available"
+  },
+  {
+   "patient": "5f9c77ac",
+   "start": "2018-10-12",
+   "code": "1049504",
+   "drug": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredient": "OXYCODONE",
+   "application": "NDA208090",
+   "srlc_drug": "XTAMPZA ER",
+   "suppl": "SUPPL-10",
+   "approval": "2018-09-18",
+   "dailymed_available": "2019-02-25",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 160,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  },
+  {
+   "patient": "7134be16",
+   "start": "2018-08-07",
+   "code": "1664463",
+   "drug": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredient": "TACROLIMUS",
+   "application": "NDA050708",
+   "srlc_drug": "PROGRAF",
+   "suppl": "SUPPL-47",
+   "approval": "2018-05-24",
+   "dailymed_available": "2018-08-10",
+   "srlc_updated": null,
+   "newly_added": false,
+   "window_days": 78,
+   "position_dailymed": "approved_not_yet_in_dailymed",
+   "position_srlc": "unknown"
+  }
+ ],
+ "matched_codes": {
+  "860975": {
+   "name": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+   "ingredients": [
+    "METFORMIN"
+   ]
+  },
+  "206905": {
+   "name": "ibuprofen 400 MG Oral Tablet [Ibu]",
+   "ingredients": [
+    "IBUPROFEN"
+   ]
+  },
+  "1049625": {
+   "name": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet [Percocet]",
+   "ingredients": [
+    "ACETAMINOPHEN + OXYCODONE"
+   ]
+  },
+  "1664463": {
+   "name": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+   "ingredients": [
+    "TACROLIMUS"
+   ]
+  },
+  "1049504": {
+   "name": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+   "ingredients": [
+    "OXYCODONE"
+   ]
+  },
+  "245134": {
+   "name": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+   "ingredients": [
+    "FENTANYL"
+   ]
+  },
+  "108515": {
+   "name": "1 ML tacrolimus 5 MG/ML Injection [Prograf]",
+   "ingredients": [
+    "TACROLIMUS"
+   ]
+  },
+  "849574": {
+   "name": "naproxen sodium 220 MG Oral Tablet",
+   "ingredients": [
+    "NAPROXEN"
+   ]
+  },
+  "1860491": {
+   "name": "12 HR hydrocodone bitartrate 10 MG Extended Release Oral Capsule",
+   "ingredients": [
+    "HYDROCODONE"
+   ]
+  },
+  "835603": {
+   "name": "tramadol hydrochloride 50 MG Oral Tablet",
+   "ingredients": [
+    "TRAMADOL"
+   ]
+  },
+  "866412": {
+   "name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+   "ingredients": [
+    "METOPROLOL"
+   ]
+  },
+  "310965": {
+   "name": "ibuprofen 200 MG Oral Tablet",
+   "ingredients": [
+    "IBUPROFEN"
+   ]
+  },
+  "1049221": {
+   "name": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+   "ingredients": [
+    "ACETAMINOPHEN + OXYCODONE"
+   ]
+  },
+  "389221": {
+   "name": "etonogestrel 68 MG Drug Implant",
+   "ingredients": [
+    "ETONOGESTREL"
+   ]
+  },
+  "1000126": {
+   "name": "1 ML medroxyprogesterone acetate 150 MG/ML Injection",
+   "ingredients": [
+    "MEDROXYPROGESTERONE"
+   ]
+  },
+  "1431987": {
+   "name": "24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf]",
+   "ingredients": [
+    "TACROLIMUS"
+   ]
+  },
+  "198405": {
+   "name": "ibuprofen 100 MG Oral Tablet",
+   "ingredients": [
+    "IBUPROFEN"
+   ]
+  },
+  "1860154": {
+   "name": "Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet",
+   "ingredients": [
+    "OXYCODONE"
+   ]
+  },
+  "1736776": {
+   "name": "10 ML oxaliplatin 5 MG/ML Injection",
+   "ingredients": [
+    "OXALIPLATIN"
+   ]
+  },
+  "311700": {
+   "name": "midazolam 1 MG/ML Injectable Solution",
+   "ingredients": [
+    "MIDAZOLAM"
+   ]
+  },
+  "861467": {
+   "name": "meperidine hydrochloride 50 MG Oral Tablet",
+   "ingredients": [
+    "MEPERIDINE"
+   ]
+  },
+  "204892": {
+   "name": "clonazepam 0.25 MG Oral Tablet",
+   "ingredients": [
+    "CLONAZEPAM"
+   ]
+  },
+  "309309": {
+   "name": "ciprofloxacin 500 MG Oral Tablet",
+   "ingredients": [
+    "CIPROFLOXACIN"
+   ]
+  },
+  "197591": {
+   "name": "diazepam 5 MG Oral Tablet",
+   "ingredients": [
+    "DIAZEPAM"
+   ]
+  },
+  "1729584": {
+   "name": "remifentanil 2 MG Injection",
+   "ingredients": [
+    "REMIFENTANIL"
+   ]
+  },
+  "1657066": {
+   "name": "4 ML bevacizumab 25 MG/ML Injection",
+   "ingredients": [
+    "BEVACIZUMAB"
+   ]
+  },
+  "197511": {
+   "name": "ciprofloxacin 250 MG Oral Tablet",
+   "ingredients": [
+    "CIPROFLOXACIN"
+   ]
+  },
+  "1807510": {
+   "name": "150 ML vancomycin 5 MG/ML Injection",
+   "ingredients": [
+    "VANCOMYCIN"
+   ]
+  },
+  "897122": {
+   "name": "3 ML liraglutide 6 MG/ML Pen Injector",
+   "ingredients": [
+    "LIRAGLUTIDE"
+   ]
+  },
+  "1860480": {
+   "name": "1 ML docetaxel 20 MG/ML Injection",
+   "ingredients": [
+    "DOCETAXEL"
+   ]
+  },
+  "198014": {
+   "name": "naproxen 500 MG Oral Tablet",
+   "ingredients": [
+    "NAPROXEN"
+   ]
+  },
+  "1809104": {
+   "name": "5 ML sufentanil 0.05 MG/ML Injection",
+   "ingredients": [
+    "SUFENTANIL"
+   ]
+  },
+  "313572": {
+   "name": "vancomycin 50 MG/ML Injectable Solution",
+   "ingredients": [
+    "VANCOMYCIN"
+   ]
+  },
+  "966222": {
+   "name": "levothyroxine sodium 0.075 MG Oral Tablet",
+   "ingredients": [
+    "LEVOTHYROXINE"
+   ]
+  },
+  "1790099": {
+   "name": "10 ML doxorubicin hydrochloride 2 MG/ML Injection",
+   "ingredients": [
+    "DOXORUBICIN"
+   ]
+  },
+  "1728805": {
+   "name": "2 ML morphine sulfate 1 MG/ML Injection",
+   "ingredients": [
+    "MORPHINE"
+   ]
+  },
+  "1732186": {
+   "name": "100 ML epirubicin hydrochloride 2 MG/ML Injection",
+   "ingredients": [
+    "EPIRUBICIN"
+   ]
+  },
+  "1091392": {
+   "name": "methylphenidate hydrochloride 20 MG Oral Tablet",
+   "ingredients": [
+    "METHYLPHENIDATE"
+   ]
+  },
+  "866924": {
+   "name": "metoprolol tartrate 25 MG Oral Tablet",
+   "ingredients": [
+    "METOPROLOL"
+   ]
+  },
+  "1735006": {
+   "name": "10 ML fentanyl 0.05 MG/ML Injection",
+   "ingredients": [
+    "FENTANYL"
+   ]
+  },
+  "608139": {
+   "name": "atomoxetine 100 MG Oral Capsule",
+   "ingredients": [
+    "ATOMOXETINE"
+   ]
+  },
+  "643066": {
+   "name": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+   "ingredients": [
+    "EFAVIRENZ + EMTRICITABINE + TENOFOVIR DISOPROXIL"
+   ]
+  },
+  "866511": {
+   "name": "metoprolol tartrate 100 MG Oral Tablet",
+   "ingredients": [
+    "METOPROLOL"
+   ]
+  },
+  "312938": {
+   "name": "sertraline 100 MG Oral Tablet",
+   "ingredients": [
+    "SERTRALINE"
+   ]
+  },
+  "866436": {
+   "name": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet",
+   "ingredients": [
+    "METOPROLOL"
+   ]
+  },
+  "866427": {
+   "name": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet",
+   "ingredients": [
+    "METOPROLOL"
+   ]
+  },
+  "1732136": {
+   "name": "1 ML morphine sulfate 5 MG/ML Injection",
+   "ingredients": [
+    "MORPHINE"
+   ]
+  },
+  "241834": {
+   "name": "cyclosporine, modified 100 MG Oral Capsule",
+   "ingredients": [
+    "CYCLOSPORINE"
+   ]
+  },
+  "310385": {
+   "name": "fluoxetine 20 MG Oral Capsule",
+   "ingredients": [
+    "FLUOXETINE"
+   ]
+  },
+  "856519": {
+   "name": "propranolol hydrochloride 40 MG Oral Tablet",
+   "ingredients": [
+    "PROPRANOLOL"
+   ]
+  },
+  "198240": {
+   "name": "tamoxifen 10 MG Oral Tablet",
+   "ingredients": [
+    "TAMOXIFEN"
+   ]
+  },
+  "856556": {
+   "name": "propranolol hydrochloride 60 MG Oral Tablet",
+   "ingredients": [
+    "PROPRANOLOL"
+   ]
+  },
+  "238100": {
+   "name": "lorazepam 2 MG/ML Injectable Solution",
+   "ingredients": [
+    "LORAZEPAM"
+   ]
+  },
+  "284215": {
+   "name": "clindamycin 300 MG Oral Capsule",
+   "ingredients": [
+    "CLINDAMYCIN"
+   ]
+  },
+  "105585": {
+   "name": "methotrexate 2.5 MG Oral Tablet",
+   "ingredients": [
+    "METHOTREXATE"
+   ]
+  },
+  "866514": {
+   "name": "metoprolol tartrate 50 MG Oral Tablet",
+   "ingredients": [
+    "METOPROLOL"
+   ]
+  }
+ },
+ "method_note": "Per prescription the ingredient-level classification is taken (worst case across the prescription's ingredients). A window is open when some BW supplement for the ingredient was approved on/before the prescription date but its carrier label version was published in DailyMed only later. Ingredient match by base name without salt words; brand/generic not distinguished."
+}

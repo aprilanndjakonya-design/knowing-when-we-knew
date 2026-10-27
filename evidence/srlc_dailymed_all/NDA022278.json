@@ -1,0 +1,72 @@
+{
+ "application": "NDA022278",
+ "srlc_rows": [
+  {
+   "drug_name": "MEMBRANEBLUE",
+   "active_ingredient": "TRYPAN BLUE",
+   "application_number": "022278",
+   "application_type": "NDA",
+   "supplement_date": "11/17/2025",
+   "database_updated": "11/24/2025",
+   "drug_name_id": "3213"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-17",
+ "srlc_database_updated": "2025-11-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0364aceb-dd3f-4bac-b468-25379a07ccfc",
+   "title": "MEMBRANEBLUE (TRYPAN BLUE) INJECTION, SOLUTION [DUTCH OPHTHALMIC RESEARCH CENTER (INTERNATIONAL) B.V.]",
+   "published_date": "Nov 25, 2025",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2010-03-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-12-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-12-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-12-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-11-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-12-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-10-09"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-11-16"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-11-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2025-11-25"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T08:54:50Z"
+}

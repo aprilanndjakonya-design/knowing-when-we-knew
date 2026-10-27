@@ -1,0 +1,69 @@
+{
+ "application": "NDA211321",
+ "srlc_rows": [
+  {
+   "drug_name": "NAYZILAM",
+   "active_ingredient": "MIDAZOLAM",
+   "application_number": "211321",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "2401"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-18",
+ "lag_days_srlc_database": 712,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "2b29422e-54d5-4a49-8522-e9cf752368c3",
+   "title": "NAYZILAM (MIDAZOLAM) SPRAY [UCB, INC.]",
+   "published_date": "Jan 31, 2023",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-05-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-01-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-02-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-01-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2021-02-16"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:29:09Z"
+}

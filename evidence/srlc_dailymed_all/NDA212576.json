@@ -1,0 +1,76 @@
+{
+ "application": "NDA212576",
+ "srlc_rows": [
+  {
+   "drug_name": "INQOVI",
+   "active_ingredient": "CEDAZURIDINE; DECITABINE",
+   "application_number": "212576",
+   "application_type": "NDA",
+   "supplement_date": "05/13/2026",
+   "database_updated": "05/19/2026",
+   "drug_name_id": "2603"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-13",
+ "srlc_database_updated": "2026-05-19",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "91a0f80b-f865-4d06-a40d-4d148d99ee71",
+   "title": "INQOVI (CEDAZURIDINE AND DECITABINE) TABLET, FILM COATED [TAIHO PHARMACEUTICAL CO., LTD.]",
+   "published_date": "May 28, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-07-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-03-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-04-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-04-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-05-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-10-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-12-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-05-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-05-28"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:06:28Z"
+}

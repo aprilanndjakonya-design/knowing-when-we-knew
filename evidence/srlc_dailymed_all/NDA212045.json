@@ -1,0 +1,56 @@
+{
+ "application": "NDA212045",
+ "srlc_rows": [
+  {
+   "drug_name": "KLOXXADO",
+   "active_ingredient": "NALOXONE HYDROCHLORIDE",
+   "application_number": "212045",
+   "application_type": "NDA",
+   "supplement_date": "08/25/2025",
+   "database_updated": "08/29/2025",
+   "drug_name_id": "3178"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-25",
+ "srlc_database_updated": "2025-08-29",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ebf0f833-c1c0-487c-8f29-01fa8c61b6cb",
+   "title": "KLOXXADO (NALOXONE HCL) SPRAY [HIKMA SPECIALTY USA INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-05-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-08-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-05-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 84,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 84,
+ "fetched_utc": "2026-10-16T09:06:07Z"
+}

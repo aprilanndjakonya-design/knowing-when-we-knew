@@ -1,0 +1,47 @@
+{
+ "application": "NDA016949",
+ "srlc_rows": [
+  {
+   "drug_name": "LIMBITROL",
+   "active_ingredient": "AMITRIPTYLINE HYDROCHLORIDE; CHLORDIAZEPOXIDE",
+   "application_number": "016949",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-41",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-40",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-41",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/24/2025",
+   "database_updated": "06/30/2025",
+   "drug_name_id": "166"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2025-06-30",
+ "lag_days_srlc_database": 1606,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:14:01Z"
+}

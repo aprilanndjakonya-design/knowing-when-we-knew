@@ -1,0 +1,57 @@
+{
+ "application": "NDA020258",
+ "srlc_rows": [
+  {
+   "drug_name": "IOPIDINE",
+   "active_ingredient": "APRACLONIDINE HYDROCHLORIDE",
+   "application_number": "020258",
+   "application_type": "NDA",
+   "supplement_date": "03/18/2026",
+   "database_updated": "03/26/2026",
+   "drug_name_id": "969"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-18",
+ "srlc_database_updated": "2026-03-26",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "04ad82af-e7ba-4f40-a120-be9d33cf0c7b",
+   "title": "APRACLONIDINE SOLUTION [SANDOZ INC]",
+   "published_date": "Oct 09, 2024",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-09-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-07-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-08-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-09-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-10-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-10-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:46:53Z"
+}

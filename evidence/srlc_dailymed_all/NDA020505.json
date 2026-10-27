@@ -1,0 +1,182 @@
+{
+ "application": "NDA020505",
+ "srlc_rows": [
+  {
+   "drug_name": "TOPAMAX",
+   "active_ingredient": "TOPIRAMATE",
+   "application_number": "020505",
+   "application_type": "NDA",
+   "supplement_date": "03/06/2026",
+   "database_updated": "03/12/2026",
+   "drug_name_id": "1063"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-06",
+ "srlc_database_updated": "2026-03-12",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "21628112-0c47-11df-95b3-498d55d89593",
+   "title": "TOPAMAX (TOPIRAMATE) TABLET, COATED TOPAMAX (TOPIRAMATE) CAPSULE, COATED PELLETS [JANSSEN PHARMACEUTICALS, INC.]",
+   "published_date": "Oct 06, 2026",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2010-02-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-10-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-03-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-08-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-01-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-11-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-02-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-04-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-04-22"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2014-05-01"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-10-29"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2014-12-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-05-26"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-07-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-06-28"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-10-16"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-01-07"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-05-08"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-06-15"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-09-28"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-07-13"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2022-01-27"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-11-02"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2023-05-15"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-03-26"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-02-19"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2026-03-16"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 26
+  },
+  {
+   "setid": "88c9d1ca-f3a8-4078-8de7-21fd9040dd20",
+   "title": "TOPAMAX (TOPIRAMATE) TABLET, COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 28, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-02-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "202b1a2a-11dc-4c3d-aa53-27512a98a042",
+   "title": "TOPAMAX (TOPIRAMATE) TABLET, COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jan 04, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:47:35Z"
+}

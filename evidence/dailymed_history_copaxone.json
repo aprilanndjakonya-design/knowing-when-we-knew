@@ -1,0 +1,134 @@
+{
+ "data": {
+  "spl": {
+   "title": "COPAXONE (GLATIRAMER ACETATE) INJECTION, SOLUTION [TEVA NEUROSCIENCE, INC.]",
+   "setid": "aa88f583-4f5f-433b-80b4-1f4c9fb28357"
+  },
+  "history": [
+   {
+    "spl_version": 36,
+    "published_date": "Jun 26, 2026"
+   },
+   {
+    "spl_version": 35,
+    "published_date": "Feb 21, 2025"
+   },
+   {
+    "spl_version": 34,
+    "published_date": "Jan 24, 2025"
+   },
+   {
+    "spl_version": 33,
+    "published_date": "Sep 27, 2024"
+   },
+   {
+    "spl_version": 32,
+    "published_date": "Nov 23, 2023"
+   },
+   {
+    "spl_version": 31,
+    "published_date": "Feb 03, 2023"
+   },
+   {
+    "spl_version": 30,
+    "published_date": "Jan 18, 2023"
+   },
+   {
+    "spl_version": 29,
+    "published_date": "Sep 02, 2022"
+   },
+   {
+    "spl_version": 28,
+    "published_date": "Apr 25, 2022"
+   },
+   {
+    "spl_version": 26,
+    "published_date": "Feb 03, 2022"
+   },
+   {
+    "spl_version": 25,
+    "published_date": "Jan 29, 2021"
+   },
+   {
+    "spl_version": 24,
+    "published_date": "Jul 24, 2020"
+   },
+   {
+    "spl_version": 23,
+    "published_date": "Jan 07, 2020"
+   },
+   {
+    "spl_version": 22,
+    "published_date": "Dec 13, 2019"
+   },
+   {
+    "spl_version": 21,
+    "published_date": "Jul 25, 2019"
+   },
+   {
+    "spl_version": 19,
+    "published_date": "Jun 05, 2019"
+   },
+   {
+    "spl_version": 17,
+    "published_date": "Apr 18, 2019"
+   },
+   {
+    "spl_version": 16,
+    "published_date": "Oct 11, 2018"
+   },
+   {
+    "spl_version": 15,
+    "published_date": "Sep 20, 2018"
+   },
+   {
+    "spl_version": 14,
+    "published_date": "Aug 28, 2018"
+   },
+   {
+    "spl_version": 12,
+    "published_date": "Jan 31, 2018"
+   },
+   {
+    "spl_version": 11,
+    "published_date": "Sep 07, 2016"
+   },
+   {
+    "spl_version": 10,
+    "published_date": "May 06, 2016"
+   },
+   {
+    "spl_version": 9,
+    "published_date": "Oct 14, 2014"
+   },
+   {
+    "spl_version": 8,
+    "published_date": "Jan 30, 2014"
+   },
+   {
+    "spl_version": 7,
+    "published_date": "Aug 15, 2012"
+   },
+   {
+    "spl_version": 5,
+    "published_date": "Sep 22, 2011"
+   },
+   {
+    "spl_version": 3,
+    "published_date": "Jul 28, 2009"
+   }
+  ]
+ },
+ "metadata": {
+  "db_published_date": "Oct 06, 2026 07:48:40PM EST",
+  "elements_per_page": 100,
+  "current_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/aa88f583-4f5f-433b-80b4-1f4c9fb28357/history.json?pagesize=100",
+  "next_page_url": "null",
+  "total_elements": 28,
+  "total_pages": 1,
+  "current_page": 1,
+  "previous_page": "null",
+  "previous_page_url": "null",
+  "next_page": "null"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "application": "NDA018321",
+ "srlc_rows": [
+  {
+   "drug_name": "TECHNESCAN",
+   "active_ingredient": "TECHNETIUM TC-99M OXIDRONATE KIT",
+   "application_number": "018321",
+   "application_type": "NDA",
+   "supplement_date": "11/24/2025",
+   "database_updated": "11/28/2025",
+   "drug_name_id": "935"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-24",
+ "srlc_database_updated": "2025-11-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6fc2e41e-a1bf-4e0f-924a-88be0372d4af",
+   "title": "TECHNESCAN HDP (TECHNETIUM TC 99M OXIDRONATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CURIUM US LLC]",
+   "published_date": "Dec 08, 2025",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-10-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-04-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-12-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-01-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-12-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-05-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-12-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-12-08"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:44:10Z"
+}

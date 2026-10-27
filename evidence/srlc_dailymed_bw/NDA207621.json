@@ -1,0 +1,40 @@
+{
+ "application": "NDA207621",
+ "srlc_rows": [
+  {
+   "drug_name": "TROXYCA ER",
+   "active_ingredient": "NALTREXONE HYDROCHLORIDE; OXYCODONE HYDROCHLORIDE",
+   "application_number": "207621",
+   "application_type": "NDA",
+   "supplement_date": "12/16/2016",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "01/10/2017",
+   "drug_name_id": "734"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-12-16",
+ "srlc_database_updated": "2017-01-10",
+ "lag_days_srlc_database": 25,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:28:05Z"
+}

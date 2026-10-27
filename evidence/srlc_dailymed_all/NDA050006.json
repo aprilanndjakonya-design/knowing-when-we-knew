@@ -1,0 +1,21 @@
+{
+ "application": "NDA050006",
+ "srlc_rows": [
+  {
+   "drug_name": "VIBRAMYCIN",
+   "active_ingredient": "DOXYCYCLINE",
+   "application_number": "050006",
+   "application_type": "NDA",
+   "supplement_date": "08/08/2025",
+   "database_updated": "08/15/2025",
+   "drug_name_id": "181"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-08",
+ "srlc_database_updated": "2025-08-15",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:56:15Z"
+}

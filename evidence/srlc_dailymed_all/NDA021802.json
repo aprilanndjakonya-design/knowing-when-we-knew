@@ -1,0 +1,257 @@
+{
+ "application": "NDA021802",
+ "srlc_rows": [
+  {
+   "drug_name": "FOCALIN XR",
+   "active_ingredient": "DEXMETHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021802",
+   "application_type": "NDA",
+   "supplement_date": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "704"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-23",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "71f56227-d87a-4bc0-a879-c1993c6ccba6",
+   "title": "DEXMETHYLPHENIDATE HYDROCHLORIDE EXTENDED-RELEASE (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [SANDOZ INC]",
+   "published_date": "Oct 01, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-10-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-10-01"
+   },
+   "lag_days_dailymed": 373,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "9cf76f62-48aa-4065-94fd-6fc910391ab5",
+   "title": "FOCALIN XR (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [SANDOZ INC]",
+   "published_date": "Nov 18, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-10-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-10-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-10-01"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "1a1da905-42a0-4748-9c39-67eca45deccc",
+   "title": "FOCALIN XR (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 36,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-11-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-03-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-05-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-03-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2009-11-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2010-05-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-08-20"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2010-12-10"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-05-12"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-05-27"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2012-05-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2012-06-19"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-07-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2013-11-06"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2013-12-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2015-04-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2015-06-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2016-01-05"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-01-25"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2018-12-24"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2019-01-24"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2019-03-04"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2019-03-18"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2019-12-04"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2020-06-29"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2021-04-22"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2021-07-12"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2022-10-27"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-06-30"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-10-30"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2025-08-20"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 36,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 55,
+   "versions_before_supplement": 31
+  },
+  {
+   "setid": "c72a641c-6846-4df9-8ff0-fa8036d6ac27",
+   "title": "DEXMETHYLPHENIDATE HYDROCHLORIDE EXTENDED-RELEASE (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [AVERA MCKENNAN HOSPITAL]",
+   "published_date": "Feb 05, 2016",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-02-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "bdb43b40-d34d-47f0-b522-a0ad2d2b1185",
+   "title": "FOCALIN (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [STAT RX USA LLC]",
+   "published_date": "Jun 15, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "00f1d83e-93cc-4bbe-9c3b-c488062271ab",
+   "title": "FOCALINXR (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Mar 14, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-03-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T08:53:09Z"
+}

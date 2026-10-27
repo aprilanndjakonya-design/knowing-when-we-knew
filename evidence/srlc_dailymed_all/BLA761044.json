@@ -1,0 +1,250 @@
+{
+ "application": "BLA761044",
+ "srlc_rows": [
+  {
+   "drug_name": "STELARA",
+   "active_ingredient": "USTEKINUMAB",
+   "application_number": "761044",
+   "application_type": "BLA",
+   "supplement_date": "08/28/2026",
+   "database_updated": "09/02/2026",
+   "drug_name_id": "2090"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-28",
+ "srlc_database_updated": "2026-09-02",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "23b486eb-f48d-47d4-815e-1313d4ebfbfa",
+   "title": "USTEKINUMAB INJECTION, SOLUTION USTEKINUMAB SOLUTION [JANSSEN BIOTECH, INC.]",
+   "published_date": "Sep 10, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-01-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-04-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-06-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-07-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-09-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-09-10"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "c77a9664-e3bb-4023-b400-127aa53bca2b",
+   "title": "STELARA (USTEKINUMAB) INJECTION, SOLUTION STELARA (USTEKINUMAB) SOLUTION [JANSSEN BIOTECH, INC.]",
+   "published_date": "Sep 10, 2026",
+   "spl_version": 49,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-10-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-01-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-11-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-08-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-04-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2012-06-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2012-06-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2013-02-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2013-04-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2013-05-09"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2013-06-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-09-26"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2014-03-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-09-27"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2016-11-21"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2017-03-03"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2017-04-04"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2017-05-16"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-07-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-08-23"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-10-25"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-02-28"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2018-06-19"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2019-03-11"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2019-04-16"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-10-30"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-11-15"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2020-01-24"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2020-03-30"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2020-08-05"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2020-09-09"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2020-12-18"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2022-08-11"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2024-03-29"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2024-11-27"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2025-03-19"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2025-07-11"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2026-01-30"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2026-04-27"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2026-07-23"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2026-09-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 49,
+    "published_date": "2026-09-10"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 43
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:38:41Z"
+}

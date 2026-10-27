@@ -1,0 +1,50 @@
+{
+ "application": "NDA021005",
+ "srlc_rows": [
+  {
+   "drug_name": "SOLARAZE",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "021005",
+   "application_type": "NDA",
+   "supplement_date": "04/05/2022",
+   "supplement": "SUPPL-23",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-16",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "04/05/2022",
+     "suppl": "SUPPL-23",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "205"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-04-05",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 965,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:18:59Z"
+}

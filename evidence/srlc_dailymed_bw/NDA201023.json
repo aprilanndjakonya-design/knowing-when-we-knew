@@ -1,0 +1,142 @@
+{
+ "application": "NDA201023",
+ "srlc_rows": [
+  {
+   "drug_name": "JEVTANA KIT",
+   "active_ingredient": "CABAZITAXEL",
+   "application_number": "201023",
+   "application_type": "NDA",
+   "supplement_date": "09/14/2017",
+   "supplement": "SUPPL-19",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/14/2017",
+     "suppl": "SUPPL-19",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/07/2023",
+   "database_updated": "07/12/2023",
+   "drug_name_id": "409"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-09-14",
+ "srlc_database_updated": "2023-07-12",
+ "lag_days_srlc_database": 2127,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa",
+   "title": "JEVTANA (CABAZITAXEL) KIT [SANOFI-AVENTIS U.S. LLC]",
+   "published_date": "Nov 27, 2025",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-10-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-05-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-06-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-03-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-03-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-12-03"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2015-06-29"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2015-07-07"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-09-27"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-10-20"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-05-31"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2017-09-25"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-01-22"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-03-18"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-12-28"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-01-14"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2021-03-01"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-07-20"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-08-22"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-05-30"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-11-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2017-09-25"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:26:12Z"
+}

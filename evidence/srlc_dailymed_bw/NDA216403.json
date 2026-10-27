@@ -1,0 +1,87 @@
+{
+ "application": "NDA216403",
+ "srlc_rows": [
+  {
+   "drug_name": "FILSPARI",
+   "active_ingredient": "SPARSENTAN",
+   "application_number": "216403",
+   "application_type": "NDA",
+   "supplement_date": "08/27/2025",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/05/2024",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/27/2025",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/13/2026",
+   "database_updated": "04/16/2026",
+   "drug_name_id": "3019"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-27",
+ "srlc_database_updated": "2026-04-16",
+ "lag_days_srlc_database": 232,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d7354af1-f304-f4d9-e053-2995a90ab219",
+   "title": "FILSPARI (SPARSENTAN) TABLET, FILM COATED [TRAVERE THERAPEUTICS, INC.]",
+   "published_date": "Apr 17, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-02-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-09-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-04-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-09-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-04-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-09-05"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:29:37Z"
+}

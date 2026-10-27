@@ -1,0 +1,21 @@
+{
+ "application": "NDA050649",
+ "srlc_rows": [
+  {
+   "drug_name": "MINOCIN",
+   "active_ingredient": "MINOCYCLINE HYDROCHLORIDE",
+   "application_number": "050649",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/08/2025",
+   "drug_name_id": "616"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-31",
+ "srlc_database_updated": "2025-04-08",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:57:17Z"
+}

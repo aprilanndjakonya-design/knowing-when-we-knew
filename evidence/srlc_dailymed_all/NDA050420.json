@@ -1,0 +1,21 @@
+{
+ "application": "NDA050420",
+ "srlc_rows": [
+  {
+   "drug_name": "RIFADIN",
+   "active_ingredient": "RIFAMPIN",
+   "application_number": "050420",
+   "application_type": "NDA",
+   "supplement_date": "12/05/2025",
+   "database_updated": "12/15/2025",
+   "drug_name_id": "1041"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-05",
+ "srlc_database_updated": "2025-12-15",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:56:31Z"
+}

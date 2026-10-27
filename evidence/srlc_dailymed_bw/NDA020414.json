@@ -1,0 +1,75 @@
+{
+ "application": "NDA020414",
+ "srlc_rows": [
+  {
+   "drug_name": "PYRIDOSTIGMINE BROMIDE",
+   "active_ingredient": "PYRIDOSTIGMINE BROMIDE",
+   "application_number": "020414",
+   "application_type": "NDA",
+   "supplement_date": "09/26/2025",
+   "supplement": "SUPPL-12",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/26/2025",
+     "suppl": "SUPPL-12",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/26/2025",
+   "database_updated": "09/29/2025",
+   "drug_name_id": "3194"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-26",
+ "srlc_database_updated": "2025-09-29",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0b296555-c32f-42db-b5f3-ea981a3dd2f8",
+   "title": "PYRIDOSTIGMINE BROMIDE TABLET [SURGEON GENERAL-DEPARTMENT OF THE ARMY (TSG-DA)]",
+   "published_date": "Jan 30, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-12-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-10-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-01-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-10-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-01-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-01-30"
+   },
+   "lag_days_dailymed": 126,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 126,
+ "fetched_utc": "2026-10-16T09:17:03Z"
+}

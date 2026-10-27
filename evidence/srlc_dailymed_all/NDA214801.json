@@ -1,0 +1,52 @@
+{
+ "application": "NDA214801",
+ "srlc_rows": [
+  {
+   "drug_name": "LYTGOBI",
+   "active_ingredient": "FUTIBATINIB",
+   "application_number": "214801",
+   "application_type": "NDA",
+   "supplement_date": "10/15/2025",
+   "database_updated": "10/20/2025",
+   "drug_name_id": "2943"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-15",
+ "srlc_database_updated": "2025-10-20",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0b1332a1-0581-4707-9bf6-1eccfa39bef4",
+   "title": "LYTGOBI (FUTIBATINIB) TABLET LYTGOBI KIT [TAIHO PHARMACEUTICAL CO., LTD.]",
+   "published_date": "Jun 02, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-02-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-08-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-06-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-06-02"
+   },
+   "lag_days_dailymed": 230,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 230,
+ "fetched_utc": "2026-10-16T09:07:48Z"
+}

@@ -1,0 +1,64 @@
+{
+ "application": "NDA217604",
+ "srlc_rows": [
+  {
+   "drug_name": "PYRIDOSTIGMINE BROMIDE",
+   "active_ingredient": "PYRIDOSTIGMINE BROMIDE",
+   "application_number": "217604",
+   "application_type": "NDA",
+   "supplement_date": "05/12/2026",
+   "database_updated": "05/18/2026",
+   "drug_name_id": "3284"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-12",
+ "srlc_database_updated": "2026-05-18",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "52d6f195-165a-400b-a13b-489e94bcf0b0",
+   "title": "PYRIDOSTIGMINE BROMIDE TABLET, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+   "published_date": "May 15, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-10-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-10-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-02-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-05-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-05-15"
+   },
+   "lag_days_dailymed": 3,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 3,
+ "fetched_utc": "2026-10-16T09:09:59Z"
+}

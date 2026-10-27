@@ -1,0 +1,254 @@
+{
+ "application": "NDA018140",
+ "srlc_rows": [
+  {
+   "drug_name": "ATIVAN",
+   "active_ingredient": "LORAZEPAM",
+   "application_number": "018140",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-46",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-46",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "248"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-19",
+ "lag_days_srlc_database": 713,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "5fc0e987-61c9-40c4-b0d5-fcea07c8733e",
+   "title": "ATIVAN (LORAZEPAM) INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Sep 18, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2012-04-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-05-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-05-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-06-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-12-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-02-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-03-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-01-20"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-04-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-09-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2021-02-22"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "4084fa74-9fd2-45ef-9d56-27bfa31d4e46",
+   "title": "LORAZEPAM INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Apr 11, 2024",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-04-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-05-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-05-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-06-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-12-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-04-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-04-12"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-04-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2021-04-28"
+   },
+   "lag_days_dailymed": 82,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "e9b54e42-04cf-4c62-90e1-36f7b31a4e81",
+   "title": "LORAZEPAM INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Apr 10, 2024",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2012-03-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-05-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-05-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-06-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-12-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-04-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-04-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-04-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2021-04-28"
+   },
+   "lag_days_dailymed": 82,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "b79b38ee-c29d-4099-964f-000031f47f5a",
+   "title": "LORAZEPAM INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Apr 27, 2022",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-08-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-12-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-28"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2021-04-28"
+   },
+   "lag_days_dailymed": 82,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "5140798d-8571-41fb-84a4-e182aac3f64c",
+   "title": "LORAZEPAM INJECTION [CIVICA, INC.]",
+   "published_date": "Apr 28, 2021",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-12-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2021-04-28"
+   },
+   "lag_days_dailymed": 82,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a3e2fbad-d850-4bac-9a45-dc1e75e37cab",
+   "title": "LORAZEPAM INJECTION [TYA PHARMACEUTICALS]",
+   "published_date": "Oct 01, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-10-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:14:47Z"
+}

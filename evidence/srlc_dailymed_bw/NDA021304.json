@@ -1,0 +1,81 @@
+{
+ "application": "NDA021304",
+ "srlc_rows": [
+  {
+   "drug_name": "VALCYTE",
+   "active_ingredient": "VALGANCICLOVIR HYDROCHLORIDE",
+   "application_number": "021304",
+   "application_type": "NDA",
+   "supplement_date": "08/02/2018",
+   "supplement": "SUPPL-14",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/22/2017",
+     "suppl": "SUPPL-12",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "08/02/2018",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/02/2018",
+   "database_updated": "08/06/2018",
+   "drug_name_id": "1119"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-08-02",
+ "srlc_database_updated": "2018-08-06",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4c517a39-2ded-4c5a-8d56-276853414b31",
+   "title": "VALCYTE (VALGANCICLOVIR) TABLET, FILM COATED VALCYTE (VALGANCICLOVIR HYDROCHLORIDE) POWDER, FOR SOLUTION [H2-PHARMA, LLC]",
+   "published_date": "Dec 10, 2025",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 21,
+     "published_date": "2023-04-24"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-01-13"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-12-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2023-04-24"
+   },
+   "lag_days_dailymed": 1726,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 1726,
+ "fetched_utc": "2026-10-16T09:21:17Z"
+}

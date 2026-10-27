@@ -1,0 +1,173 @@
+{
+ "application": "NDA022108",
+ "srlc_rows": [
+  {
+   "drug_name": "APLENZIN",
+   "active_ingredient": "BUPROPION HYDROBROMIDE",
+   "application_number": "022108",
+   "application_type": "NDA",
+   "supplement_date": "11/05/2025",
+   "database_updated": "11/06/2025",
+   "drug_name_id": "1047"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-05",
+ "srlc_database_updated": "2025-11-06",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "3ec04240-baef-44d7-8d73-a181171eec43",
+   "title": "BUPROPION HYDROBROMIDE TABLET, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+   "published_date": "Jul 13, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-06-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-07-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-06-30"
+   },
+   "lag_days_dailymed": 237,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "6494d2d9-0ce4-4126-b1c7-49684395942b",
+   "title": "APLENZIN (BUPROPION HYDROBROMIDE) TABLET, EXTENDED RELEASE [BAUSCH HEALTH US, LLC]",
+   "published_date": "Mar 05, 2026",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-10-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-01-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-03-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-03-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-08-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-04-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-05-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-07-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-10-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-03-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-05-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-05-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-08-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-07-22"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-09-27"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-03-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-06-01"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-05-20"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-05-30"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-08-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-12-15"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-02-18"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-03-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 23,
+    "published_date": "2025-11-21"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 20
+  },
+  {
+   "setid": "2315d6e5-144d-4163-9711-f855c759cf8e",
+   "title": "APLENZIN ER (BUPROPION HYDROBROMIDE ) TABLET, EXTENDED RELEASE [STAT RX USA LLC]",
+   "published_date": "Feb 11, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-02-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:54:03Z"
+}

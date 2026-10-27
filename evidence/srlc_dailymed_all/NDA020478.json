@@ -1,0 +1,186 @@
+{
+ "application": "NDA020478",
+ "srlc_rows": [
+  {
+   "drug_name": "ULTANE",
+   "active_ingredient": "SEVOFLURANE",
+   "application_number": "020478",
+   "application_type": "NDA",
+   "supplement_date": "02/03/2025",
+   "database_updated": "02/10/2025",
+   "drug_name_id": "1044"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-03",
+ "srlc_database_updated": "2025-02-10",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "c9aa6489-5a36-44ed-9512-b996833d82f7",
+   "title": "ULTANE (SEVOFLURANE) LIQUID [ABBVIE INC.]",
+   "published_date": "Feb 24, 2025",
+   "spl_version": 1458,
+   "versions": [
+    {
+     "spl_version": 1405,
+     "published_date": "2011-05-09"
+    },
+    {
+     "spl_version": 1411,
+     "published_date": "2012-09-07"
+    },
+    {
+     "spl_version": 1418,
+     "published_date": "2013-11-14"
+    },
+    {
+     "spl_version": 1430,
+     "published_date": "2014-03-27"
+    },
+    {
+     "spl_version": 1441,
+     "published_date": "2016-11-18"
+    },
+    {
+     "spl_version": 1445,
+     "published_date": "2017-05-25"
+    },
+    {
+     "spl_version": 1447,
+     "published_date": "2017-09-20"
+    },
+    {
+     "spl_version": 1448,
+     "published_date": "2018-11-30"
+    },
+    {
+     "spl_version": 1450,
+     "published_date": "2020-05-08"
+    },
+    {
+     "spl_version": 1452,
+     "published_date": "2022-03-21"
+    },
+    {
+     "spl_version": 1453,
+     "published_date": "2022-03-25"
+    },
+    {
+     "spl_version": 1454,
+     "published_date": "2022-05-10"
+    },
+    {
+     "spl_version": 1455,
+     "published_date": "2022-06-06"
+    },
+    {
+     "spl_version": 1456,
+     "published_date": "2022-09-12"
+    },
+    {
+     "spl_version": 1457,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 1458,
+     "published_date": "2025-02-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1458,
+    "published_date": "2025-02-24"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 15
+  },
+  {
+   "setid": "4c6e76bc-c964-4955-e0a3-511d3386a9cc",
+   "title": "ULTANE (SEVOFLURANE) LIQUID [ABBVIE INC.]",
+   "published_date": "Feb 14, 2025",
+   "spl_version": 1479,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-11-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-11-21"
+    },
+    {
+     "spl_version": 1409,
+     "published_date": "2011-05-05"
+    },
+    {
+     "spl_version": 1418,
+     "published_date": "2012-09-05"
+    },
+    {
+     "spl_version": 1424,
+     "published_date": "2013-07-05"
+    },
+    {
+     "spl_version": 1433,
+     "published_date": "2014-03-21"
+    },
+    {
+     "spl_version": 1455,
+     "published_date": "2017-05-04"
+    },
+    {
+     "spl_version": 1459,
+     "published_date": "2017-05-09"
+    },
+    {
+     "spl_version": 1466,
+     "published_date": "2017-09-18"
+    },
+    {
+     "spl_version": 1468,
+     "published_date": "2018-11-30"
+    },
+    {
+     "spl_version": 1469,
+     "published_date": "2019-10-24"
+    },
+    {
+     "spl_version": 1470,
+     "published_date": "2020-05-08"
+    },
+    {
+     "spl_version": 1472,
+     "published_date": "2022-03-09"
+    },
+    {
+     "spl_version": 1474,
+     "published_date": "2022-05-19"
+    },
+    {
+     "spl_version": 1476,
+     "published_date": "2022-08-31"
+    },
+    {
+     "spl_version": 1477,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 1478,
+     "published_date": "2025-01-29"
+    },
+    {
+     "spl_version": 1479,
+     "published_date": "2025-02-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1479,
+    "published_date": "2025-02-14"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 17
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T08:47:27Z"
+}

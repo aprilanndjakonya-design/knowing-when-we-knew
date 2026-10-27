@@ -1,0 +1,55 @@
+{
+ "application": "NDA020412",
+ "srlc_rows": [
+  {
+   "drug_name": "ZERIT",
+   "active_ingredient": "STAVUDINE",
+   "application_number": "020412",
+   "application_type": "NDA",
+   "supplement_date": "12/19/2017",
+   "supplement": "SUPPL-40",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/19/2017",
+     "suppl": "SUPPL-40",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/17/2018",
+   "database_updated": "12/18/2018",
+   "drug_name_id": "1413"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-12-19",
+ "srlc_database_updated": "2018-12-18",
+ "lag_days_srlc_database": 364,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8bb73c56-74cb-4602-b9a3-57bd1082b434",
+   "title": "ZERIT (STAVUDINE) CAPSULE, GELATIN COATED [STATE OF FLORIDA DOH CENTRAL PHARMACY]",
+   "published_date": "Aug 13, 2010",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2010-08-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:00Z"
+}

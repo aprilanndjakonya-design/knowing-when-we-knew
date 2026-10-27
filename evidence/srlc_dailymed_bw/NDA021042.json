@@ -1,0 +1,35 @@
+{
+ "application": "NDA021042",
+ "srlc_rows": [
+  {
+   "drug_name": "VIOXX",
+   "active_ingredient": "ROFECOXIB",
+   "application_number": "021042",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-33",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-33",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "209"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2016-08-08",
+ "lag_days_srlc_database": 91,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:19:02Z"
+}

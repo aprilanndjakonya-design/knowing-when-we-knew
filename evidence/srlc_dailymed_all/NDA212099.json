@@ -1,0 +1,116 @@
+{
+ "application": "NDA212099",
+ "srlc_rows": [
+  {
+   "drug_name": "NUBEQA",
+   "active_ingredient": "DAROLUTAMIDE",
+   "application_number": "212099",
+   "application_type": "NDA",
+   "supplement_date": "09/22/2026",
+   "database_updated": "09/30/2026",
+   "drug_name_id": "2384"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-22",
+ "srlc_database_updated": "2026-09-30",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1a7cb212-56e4-4b9d-a73d-bfee7fe4735e",
+   "title": "NUBEQA (DAROLUTAMIDE) TABLET, FILM COATED [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+   "published_date": "Oct 06, 2026",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-07-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-10-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-01-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-02-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-03-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-08-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-09-12"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-11-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-06-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-06-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-06-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-08-25"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-11-09"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-11-18"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-06-18"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-03-05"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-04-13"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 24,
+    "published_date": "2026-10-06"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 19
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:06:11Z"
+}

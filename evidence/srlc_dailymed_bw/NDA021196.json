@@ -1,0 +1,188 @@
+{
+ "application": "NDA021196",
+ "srlc_rows": [
+  {
+   "drug_name": "XYREM",
+   "active_ingredient": "SODIUM OXYBATE",
+   "application_number": "021196",
+   "application_type": "NDA",
+   "supplement_date": "10/26/2018",
+   "supplement": "SUPPL-30",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/26/2018",
+     "suppl": "SUPPL-30",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/11/2021",
+   "database_updated": "02/22/2021",
+   "drug_name_id": "810"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-10-26",
+ "srlc_database_updated": "2021-02-22",
+ "lag_days_srlc_database": 850,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "926eb076-a4a8-45e4-91ef-411f0aa4f3ca",
+   "title": "XYREM (SODIUM OXYBATE) SOLUTION [JAZZ PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 03, 2025",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-10-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-01-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-05-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-04-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-05-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-07-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-09-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-11-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-02-10"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-05-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-07-24"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-11-29"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-02-16"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-11-09"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-11-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-07-30"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-10-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-12-24"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-03-11"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2022-10-07"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-04-17"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-04-28"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-08-19"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-07-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2018-11-09"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 14
+  },
+  {
+   "setid": "bcef2c95-35e9-464d-9025-652acff769e7",
+   "title": "SODIUM OXYBATE SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Aug 19, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-01-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-01-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-04-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-04-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-08-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-01-03"
+   },
+   "lag_days_dailymed": 1530,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:19:58Z"
+}

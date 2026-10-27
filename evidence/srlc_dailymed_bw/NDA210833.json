@@ -1,0 +1,89 @@
+{
+ "application": "NDA210833",
+ "srlc_rows": [
+  {
+   "drug_name": "SYMPAZAN",
+   "active_ingredient": "CLOBAZAM",
+   "application_number": "210833",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-3",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/12/2024",
+   "database_updated": "03/14/2024",
+   "drug_name_id": "2402"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2024-03-14",
+ "lag_days_srlc_database": 1133,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5e3d8fcb-aa7d-4822-88fc-4f06264c3242",
+   "title": "SYMPAZAN (CLOBAZAM) FILM [AQUESTIVE THERAPEUTICS]",
+   "published_date": "Dec 03, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-11-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-12-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-01-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-10-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-12-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-02-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2021-10-14"
+   },
+   "lag_days_dailymed": 251,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 251,
+ "fetched_utc": "2026-10-16T09:29:02Z"
+}

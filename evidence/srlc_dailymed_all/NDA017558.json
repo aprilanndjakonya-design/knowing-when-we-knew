@@ -1,0 +1,64 @@
+{
+ "application": "NDA017558",
+ "srlc_rows": [
+  {
+   "drug_name": "ROBINUL",
+   "active_ingredient": "GLYCOPYRROLATE",
+   "application_number": "017558",
+   "application_type": "NDA",
+   "supplement_date": "02/24/2026",
+   "database_updated": "02/26/2026",
+   "drug_name_id": "3254"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-24",
+ "srlc_database_updated": "2026-02-26",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "960d2dd0-008d-4ec1-ba2e-9388b28b23e2",
+   "title": "GLYCOPYRROLATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "d82ca14f-2116-4ec1-b497-1c9d6db4d5e7",
+   "title": "GLYCOPYRROLATE INJECTION, SOLUTION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 11, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-05-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:43:44Z"
+}

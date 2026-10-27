@@ -1,0 +1,80 @@
+{
+ "application": "NDA214621",
+ "srlc_rows": [
+  {
+   "drug_name": "ORGOVYX",
+   "active_ingredient": "RELUGOLIX",
+   "application_number": "214621",
+   "application_type": "NDA",
+   "supplement_date": "10/08/2025",
+   "database_updated": "10/10/2025",
+   "drug_name_id": "2749"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-08",
+ "srlc_database_updated": "2025-10-10",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "077a92f6-9f1b-479a-87c7-c92b5db6aa9c",
+   "title": "ORGOVYX (RELUGOLIX) TABLET, FILM COATED [SUMITOMO PHARMA AMERICA, INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-10-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-10-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-12-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-04-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-01-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-10-31"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 40,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 40,
+ "fetched_utc": "2026-10-16T09:07:35Z"
+}

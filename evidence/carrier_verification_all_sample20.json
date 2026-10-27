@@ -1,0 +1,606 @@
+{
+ "checks": [
+  {
+   "application": "BLA019640",
+   "drug": "HUMATROPE",
+   "setid": "a774e1ae-3997-49ee-8b0e-99a2b315d409",
+   "supplement_date": "2025-11-25",
+   "carrier": {
+    "spl_version": 44,
+    "published_date": "2025-12-11"
+   },
+   "previous_version": 43,
+   "checked_utc": "2026-10-16T08:43:01Z",
+   "carrier_spl": {
+    "spl_version": 44,
+    "effectiveTime": "20251125",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 43,
+    "effectiveTime": "20250709",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 0
+  },
+  {
+   "application": "BLA019774",
+   "drug": "ZOMACTON",
+   "setid": "85ba081b-bee0-4a9a-aa0f-ae5b5e9a0886",
+   "supplement_date": "2025-07-09",
+   "carrier": {
+    "spl_version": 19,
+    "published_date": "2025-07-21"
+   },
+   "previous_version": 18,
+   "checked_utc": "2026-10-16T08:43:11Z",
+   "carrier_spl": {
+    "spl_version": 19,
+    "effectiveTime": "20250506",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 18,
+    "effectiveTime": "20240502",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": -64
+  },
+  {
+   "application": "BLA020280",
+   "drug": "GENOTROPIN",
+   "setid": "ffebf88b-d257-4542-9808-74d9b7167765",
+   "supplement_date": "2025-07-09",
+   "carrier": {
+    "spl_version": 35,
+    "published_date": "2025-07-21"
+   },
+   "previous_version": 34,
+   "checked_utc": "2026-10-16T08:43:15Z",
+   "carrier_spl": {
+    "spl_version": 35,
+    "effectiveTime": "20250716",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 34,
+    "effectiveTime": "20250214",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA020367",
+   "drug": "CEREZYME",
+   "setid": "df60f030-866b-4374-a31f-8ae3f6b45c38",
+   "supplement_date": "2026-01-12",
+   "carrier": {
+    "spl_version": 26,
+    "published_date": "2026-01-14"
+   },
+   "previous_version": 25,
+   "checked_utc": "2026-10-16T08:43:32Z",
+   "carrier_spl": {
+    "spl_version": 26,
+    "effectiveTime": "20251222",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "4b885b785939f94bac3bbdc3fd54c7cdabab8e3de617f4c0a802cb208cfff9a4",
+    "bw_text_chars": 1433
+   },
+   "previous_spl": {
+    "spl_version": 25,
+    "effectiveTime": "20250819",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "00b413f1d2231c7c6a74289539a418c06cfadc8b2dfb7900325c134f9d7d5781",
+    "bw_text_chars": 1439
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": -21
+  },
+  {
+   "application": "BLA020563",
+   "drug": "HUMALOG",
+   "setid": "2be14cbb-197a-4da8-82c8-2443594e7f6f",
+   "supplement_date": "2025-05-07",
+   "carrier": {
+    "spl_version": 10,
+    "published_date": "2026-09-21"
+   },
+   "previous_version": 7,
+   "checked_utc": "2026-10-16T08:43:36Z",
+   "carrier_spl": {
+    "spl_version": 10,
+    "effectiveTime": "20260918",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 7,
+    "effectiveTime": "20240531",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 499
+  },
+  {
+   "application": "BLA020604",
+   "drug": "SEROSTIM",
+   "setid": "62b01d29-90f0-45b2-a0c4-3a750ba36c8a",
+   "supplement_date": "2026-07-14",
+   "carrier": {
+    "spl_version": 14,
+    "published_date": "2026-07-31"
+   },
+   "previous_version": 13,
+   "checked_utc": "2026-10-16T08:43:40Z",
+   "carrier_spl": {
+    "spl_version": 14,
+    "effectiveTime": "20260728",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 13,
+    "effectiveTime": "20220202",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 14
+  },
+  {
+   "application": "BLA021148",
+   "drug": "NORDITROPIN",
+   "setid": "1058e17c-9261-459c-a3e6-fae38d196c14",
+   "supplement_date": "2025-07-09",
+   "carrier": {
+    "spl_version": 30,
+    "published_date": "2025-07-25"
+   },
+   "previous_version": 28,
+   "checked_utc": "2026-10-16T08:43:43Z",
+   "carrier_spl": {
+    "spl_version": 30,
+    "effectiveTime": "20250707",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 28,
+    "effectiveTime": "20200309",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": -2
+  },
+  {
+   "application": "BLA021211",
+   "drug": "FOLLISTIM AQ",
+   "setid": "48489027-e52b-4b10-ae74-4ba03839150c",
+   "supplement_date": "2026-02-24",
+   "carrier": {
+    "spl_version": 10,
+    "published_date": "2026-03-09"
+   },
+   "previous_version": 9,
+   "checked_utc": "2026-10-16T08:43:56Z",
+   "carrier_spl": {
+    "spl_version": 10,
+    "effectiveTime": "20260224",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 9,
+    "effectiveTime": "20250203",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 0
+  },
+  {
+   "application": "BLA021426",
+   "drug": "OMNITROPE",
+   "setid": "58d84ffa-4056-4e36-ad67-7bd4aef444a5",
+   "supplement_date": "2025-07-09",
+   "carrier": {
+    "spl_version": 35,
+    "published_date": "2025-07-16"
+   },
+   "previous_version": 34,
+   "checked_utc": "2026-10-16T08:44:03Z",
+   "carrier_spl": {
+    "spl_version": 35,
+    "effectiveTime": "20250710",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 34,
+    "effectiveTime": "20241114",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 1
+  },
+  {
+   "application": "BLA021839",
+   "drug": "INCRELEX",
+   "setid": "d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce",
+   "supplement_date": "2025-07-09",
+   "carrier": {
+    "spl_version": 3,
+    "published_date": "2025-07-25"
+   },
+   "previous_version": 2,
+   "checked_utc": "2026-10-16T08:44:13Z",
+   "carrier_spl": {
+    "spl_version": 3,
+    "effectiveTime": "20250723",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 2,
+    "effectiveTime": "20250507",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 14
+  },
+  {
+   "application": "BLA022458",
+   "drug": "ELELYSO",
+   "setid": "fa3cbd5d-677c-4b19-9032-d9182cb69a83",
+   "supplement_date": "2025-12-22",
+   "carrier": {
+    "spl_version": 31,
+    "published_date": "2025-12-31"
+   },
+   "previous_version": 30,
+   "checked_utc": "2026-10-16T08:44:17Z",
+   "carrier_spl": {
+    "spl_version": 31,
+    "effectiveTime": "20251229",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "fe03a03438327015c68b13a912e7e295f0d6c74ed7db6b8a5a7f854ba718ecca",
+    "bw_text_chars": 1436
+   },
+   "previous_spl": {
+    "spl_version": 30,
+    "effectiveTime": "20250124",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "fe03a03438327015c68b13a912e7e295f0d6c74ed7db6b8a5a7f854ba718ecca",
+    "bw_text_chars": 1436
+   },
+   "verdict": "unchanged",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA022472",
+   "drug": "AFREZZA",
+   "setid": "29f4637b-e204-425b-b89c-7238008d8c10",
+   "supplement_date": "2026-05-29",
+   "carrier": {
+    "spl_version": 17,
+    "published_date": "2026-06-26"
+   },
+   "previous_version": 16,
+   "checked_utc": "2026-10-16T08:44:20Z",
+   "carrier_spl": {
+    "spl_version": 17,
+    "effectiveTime": "20260530",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "b908a353cbeccd00c0c7c7e9c183213853ae35b5487c79cf5f448173e9374a27",
+    "bw_text_chars": 1128
+   },
+   "previous_spl": {
+    "spl_version": 16,
+    "effectiveTime": "20260203",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "a7998e16f74fc1e524c4aed21073d40fe93dbf676199556ac3fcdfe0c15a8db1",
+    "bw_text_chars": 1128
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 1
+  },
+  {
+   "application": "BLA022505",
+   "drug": "EGRIFTA",
+   "setid": "839334d3-8c1d-4c26-9036-2ab524a6ea75",
+   "supplement_date": "2025-03-25",
+   "carrier": {
+    "spl_version": 1,
+    "published_date": "2025-07-15"
+   },
+   "previous_version": null,
+   "checked_utc": "2026-10-16T08:44:31Z",
+   "carrier_spl": {
+    "spl_version": 1,
+    "effectiveTime": "20250331",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 6
+  },
+  {
+   "application": "BLA103353",
+   "drug": "NEUPOGEN",
+   "setid": "97cc73cc-b5b7-458a-a933-77b00523e193",
+   "supplement_date": "2026-07-16",
+   "carrier": {
+    "spl_version": 166,
+    "published_date": "2026-07-29"
+   },
+   "previous_version": 165,
+   "checked_utc": "2026-10-16T08:44:36Z",
+   "carrier_spl": {
+    "spl_version": 166,
+    "effectiveTime": "20260723",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 165,
+    "effectiveTime": "20260623",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA103772",
+   "drug": "REMICADE",
+   "setid": "b05c174f-832c-4321-b34f-2c4ad3742269",
+   "supplement_date": "2025-02-28",
+   "carrier": {
+    "spl_version": 3,
+    "published_date": "2025-03-13"
+   },
+   "previous_version": 1,
+   "checked_utc": "2026-10-16T08:44:45Z",
+   "carrier_spl": {
+    "spl_version": 3,
+    "effectiveTime": "20250311",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "27987f60640bfe772181deffee140abacd4b2b884b66e0896877fdaa964da3e1",
+    "bw_text_chars": 3842
+   },
+   "previous_spl": {
+    "spl_version": 1,
+    "effectiveTime": "20211015",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "d3315ea46bc385bb0eafbf227673f931782d5b1fac6394802f76caf8af7fccd2",
+    "bw_text_chars": 3837
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 11
+  },
+  {
+   "application": "BLA103795",
+   "drug": "ENBREL",
+   "setid": "a002b40c-097d-47a5-957f-7a7b1807af7f",
+   "supplement_date": "2026-01-30",
+   "carrier": {
+    "spl_version": 216,
+    "published_date": "2026-03-09"
+   },
+   "previous_version": 215,
+   "checked_utc": "2026-10-16T08:44:50Z",
+   "carrier_spl": {
+    "spl_version": 216,
+    "effectiveTime": "20260225",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "5ffb84537668bcc229406b8583a6a3607e23295a1a20c98430020b92c59c3f61",
+    "bw_text_chars": 2805
+   },
+   "previous_spl": {
+    "spl_version": 215,
+    "effectiveTime": "20251209",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "5ffb84537668bcc229406b8583a6a3607e23295a1a20c98430020b92c59c3f61",
+    "bw_text_chars": 2805
+   },
+   "verdict": "unchanged",
+   "carrier_effective_vs_supplement": 26
+  },
+  {
+   "application": "BLA103909",
+   "drug": "TNKASE",
+   "setid": "e647640d-c395-4b4b-a0be-1162f9c21d84",
+   "supplement_date": "2025-02-28",
+   "carrier": {
+    "spl_version": 3,
+    "published_date": "2025-04-14"
+   },
+   "previous_version": 2,
+   "checked_utc": "2026-10-16T08:45:06Z",
+   "carrier_spl": {
+    "spl_version": 3,
+    "effectiveTime": "20250311",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 2,
+    "effectiveTime": "20240110",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 11
+  },
+  {
+   "application": "BLA103950",
+   "drug": "KINERET",
+   "setid": "d9d74915-6606-4570-9c52-c4001d3177de",
+   "supplement_date": "2025-10-27",
+   "carrier": {
+    "spl_version": 23,
+    "published_date": "2025-11-17"
+   },
+   "previous_version": 22,
+   "checked_utc": "2026-10-16T08:45:09Z",
+   "carrier_spl": {
+    "spl_version": 23,
+    "effectiveTime": "20251105",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 22,
+    "effectiveTime": "20250730",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 9
+  },
+  {
+   "application": "BLA103976",
+   "drug": "XOLAIR",
+   "setid": "7f6a2191-adfb-48b9-9bfa-0d9920479f0d",
+   "supplement_date": "2026-08-06",
+   "carrier": {
+    "spl_version": 32,
+    "published_date": "2026-08-20"
+   },
+   "previous_version": 31,
+   "checked_utc": "2026-10-16T08:45:13Z",
+   "carrier_spl": {
+    "spl_version": 32,
+    "effectiveTime": "20260813",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "5e07a52832fcb5e0c83d1c120bf0c4df42b9774400094546ff6cd049821334e8",
+    "bw_text_chars": 1836
+   },
+   "previous_spl": {
+    "spl_version": 31,
+    "effectiveTime": "20251202",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "5e07a52832fcb5e0c83d1c120bf0c4df42b9774400094546ff6cd049821334e8",
+    "bw_text_chars": 1836
+   },
+   "verdict": "unchanged",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA125031",
+   "drug": "NEULASTA",
+   "setid": "fdfe5d72-6b80-435a-afa4-c5d74dd852ce",
+   "supplement_date": "2026-08-04",
+   "carrier": {
+    "spl_version": 160,
+    "published_date": "2026-08-17"
+   },
+   "previous_version": 159,
+   "checked_utc": "2026-10-16T08:45:22Z",
+   "carrier_spl": {
+    "spl_version": 160,
+    "effectiveTime": "20260810",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 159,
+    "effectiveTime": "20260310",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 6
+  }
+ ],
+ "summary": {
+  "checked": 20,
+  "verdicts": {
+   "no_bw_section": 14,
+   "confirmed": 3,
+   "unchanged": 3
+  },
+  "updated_utc": "2026-10-16T08:45:30Z",
+  "note": "Label text is not stored; only LOINC 34066-1 presence, a SHA-256 of the normalised section text, effectiveTime and version numbers."
+ }
+}

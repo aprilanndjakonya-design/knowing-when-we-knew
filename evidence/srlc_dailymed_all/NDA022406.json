@@ -1,0 +1,505 @@
+{
+ "application": "NDA022406",
+ "srlc_rows": [
+  {
+   "drug_name": "XARELTO",
+   "active_ingredient": "RIVAROXABAN",
+   "application_number": "022406",
+   "application_type": "NDA",
+   "supplement_date": "03/24/2026",
+   "database_updated": "03/27/2026",
+   "drug_name_id": "287"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-24",
+ "srlc_database_updated": "2026-03-27",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 7,
+ "labels": [
+  {
+   "setid": "10db92f9-2300-4a80-836b-673e1ae91610",
+   "title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED XARELTO (RIVAROXABAN) TABLET, FILM COATED XARELTO (RIVAROXABAN) KIT XARELTO (RIVAROXABAN) GRANULE, FOR SUSPENSION [JANSSEN PHARMACEUTICALS, INC.]",
+   "published_date": "Sep 11, 2026",
+   "spl_version": 65,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-11-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-12-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-11-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-03-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-08-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-01-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-01-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-02-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-03-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-09-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2014-09-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2014-12-12"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2015-01-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2015-09-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-02-04"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2016-05-23"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2016-09-09"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2016-10-03"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2017-04-07"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-07-26"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-11-07"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-11-22"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-07-09"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2018-07-31"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-08-28"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-10-12"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-10-17"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2018-11-05"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2018-11-14"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2018-12-07"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2019-01-23"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2019-04-01"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2019-07-18"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2019-07-26"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2019-08-16"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2019-09-03"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2019-10-18"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2019-10-24"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2019-11-21"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2020-03-19"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2020-04-16"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2021-02-04"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2021-07-15"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2021-09-03"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2021-12-24"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2022-02-01"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2022-04-25"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2022-11-04"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2023-02-16"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2023-11-22"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2024-10-31"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2025-03-31"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2025-04-09"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2025-06-26"
+    },
+    {
+     "spl_version": 61,
+     "published_date": "2025-08-25"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2025-11-26"
+    },
+    {
+     "spl_version": 63,
+     "published_date": "2026-01-19"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2026-04-06"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2026-09-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 64,
+    "published_date": "2026-04-06"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 58
+  },
+  {
+   "setid": "d0e105f6-28f3-45ee-83bd-7d458835242b",
+   "title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Aug 25, 2026",
+   "spl_version": 28,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-05-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-06-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-07-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-12-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-07-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-08-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-02-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-02-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-03-31"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-02-10"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-11-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-04-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-05-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-03-04"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-08-04"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-09-10"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-09-30"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-11-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2021-01-07"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-11-15"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2022-08-11"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-01-09"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-09-18"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-09-08"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-02-23"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-08-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 28,
+    "published_date": "2026-08-25"
+   },
+   "lag_days_dailymed": 154,
+   "versions_before_supplement": 26
+  },
+  {
+   "setid": "e76bf2cf-a8b8-4471-a8ce-57c918b11a48",
+   "title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Oct 10, 2024",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-08-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-10-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "3e95389b-0a93-4560-98c5-02637fb2600f",
+   "title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 12, 2024",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-11-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-07-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "65727928-9421-4df8-bff2-f72a9cc78069",
+   "title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 24, 2024",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-08-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-05-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "7e9ab975-db2f-423c-a089-bc5a73313609",
+   "title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 21, 2024",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2019-06-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-12-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-05-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "38b11f5d-f0fc-46dc-aef1-ea31872bb621",
+   "title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Feb 21, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-02-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:55:30Z"
+}

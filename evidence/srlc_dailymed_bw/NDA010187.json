@@ -1,0 +1,93 @@
+{
+ "application": "NDA010187",
+ "srlc_rows": [
+  {
+   "drug_name": "RITALIN",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "010187",
+   "application_type": "NDA",
+   "supplement_date": "10/13/2023",
+   "supplement": "SUPPL-96",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/10/2019",
+     "suppl": "SUPPL-71",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "10/13/2023",
+     "suppl": "SUPPL-96",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "700"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-13",
+ "srlc_database_updated": "2023-10-17",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "d6fb2750-cdab-4749-ba0d-7534840a5892",
+   "title": "RITALIN (METHYLPHENIDATE HYDROCHLORIDE) TABLET [SANDOZ INC]",
+   "published_date": "Feb 21, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-02-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2024-12-19"
+   },
+   "lag_days_dailymed": 433,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "cd83fc91-47a3-4be4-9727-caf9ec0371e8",
+   "title": "RITALIN (METHYLPHENIDATE HYDROCHLORIDE) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 30, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-01-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 433,
+ "fetched_utc": "2026-10-16T09:13:36Z"
+}

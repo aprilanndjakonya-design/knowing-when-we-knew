@@ -1,0 +1,120 @@
+{
+ "application": "NDA019414",
+ "srlc_rows": [
+  {
+   "drug_name": "CARDIOGEN-82",
+   "active_ingredient": "RUBIDIUM CHLORIDE RB-82",
+   "application_number": "019414",
+   "application_type": "NDA",
+   "supplement_date": "04/26/2019",
+   "supplement": "SUPPL-22",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/26/2019",
+     "suppl": "SUPPL-22",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/23/2024",
+   "database_updated": "12/27/2024",
+   "drug_name_id": "1928"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-04-26",
+ "srlc_database_updated": "2024-12-27",
+ "lag_days_srlc_database": 2072,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ee95aa18-9f2f-40eb-9b4c-583bea6f36bf",
+   "title": "CARDIOGEN-82 (RUBIDIUM CHLORIDE RB-82) INJECTION, SOLUTION [BRACCO DIAGNOSTICS INC]",
+   "published_date": "Jun 18, 2026",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-03-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-05-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-11-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-09-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-05-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-11-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-11-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-01-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-10-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-08-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-06-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-12-11"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-01-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-01-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-08-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-06-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2019-05-06"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:15:49Z"
+}

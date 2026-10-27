@@ -1,0 +1,463 @@
+{
+ "application": "NDA022195",
+ "srlc_rows": [
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "022195",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "674"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-08",
+ "lag_days_srlc_database": 17,
+ "dailymed_setids": 16,
+ "labels": [
+  {
+   "setid": "6654b91e-3b3f-4062-ac65-a2a70f942da4",
+   "title": "MORPHINE SULFATE SOLUTION [PRECISION DOSE, INC.]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-11-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-10-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-06-24"
+   },
+   "lag_days_dailymed": 184,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "67f0ee8d-696e-4c08-9007-3df0e3988bad",
+   "title": "MORPHINE SULFATE SOLUTION [PRECISION DOSE, INC.]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-11-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-07-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-06-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-06-10"
+   },
+   "lag_days_dailymed": 170,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "76966c05-df75-4072-ae99-97e42f91ab75",
+   "title": "MORPHINE SULFATE SOLUTION [PRECISION DOSE, INC.]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-06-23"
+   },
+   "lag_days_dailymed": 183,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "ae57637e-a86a-4ea5-9c68-47d98153d41a",
+   "title": "MORPHINE SULFATE SOLUTION [PRECISION DOSE, INC.]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-06-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-06-23"
+   },
+   "lag_days_dailymed": 183,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "bb6b3439-9f0c-45f5-bf6f-c7a971af0a8f",
+   "title": "MORPHINE SULFATE SOLUTION [PRECISION DOSE, INC.]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-09-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-06-24"
+   },
+   "lag_days_dailymed": 184,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "8d800d8e-8fe2-453b-a8ac-dcf7c47e55fc",
+   "title": "MORPHINE SULFATE SOLUTION [PRECISION DOSE INC.]",
+   "published_date": "May 29, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-03-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-10-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-06-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-11-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-05-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-09-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-07-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-05-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-05-29"
+   },
+   "lag_days_dailymed": 158,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "ca359246-4674-4b32-b8b2-673d32b7112f",
+   "title": "MORPHINE SULFATE SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Mar 30, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-04-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-03-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-12-31"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "9f1ba2a2-d8ac-4f59-a587-fe413e56dcdb",
+   "title": "MORPHINE SULFATE SOLUTION [AMERICAN HEALTH PACKAGING]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "6e32b869-31c7-48c1-98ae-b21bd28151d7",
+   "title": "MORPHINE SULFATE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+   "published_date": "Nov 21, 2024",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-10-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-10-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-01-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-03-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-08-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-11-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "12c17cfb-7bcf-4457-b1b9-531d7562493c",
+   "title": "MORPHINE SULFATE SOLUTION [ATLANTIC BIOLOGICALS CORP.]",
+   "published_date": "May 22, 2024",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2015-10-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-10-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-08-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-07-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-05-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "3c6a7216-e49b-411c-b53a-dd952ecfa039",
+   "title": "MORPHINE SULFATE SOLUTION [ATLANTIC BIOLOGICALS CORP.]",
+   "published_date": "May 22, 2024",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-05-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-11-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-12-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-09-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "6605ced6-68fe-4d7d-baa6-2526f7c9a64a",
+   "title": "MORPHINE SULFATE SOLUTION [ATLANTIC BIOLOGICALS CORP.]",
+   "published_date": "Dec 06, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "839923b4-4b4c-4745-baa5-4d27d4dbb5e7",
+   "title": "MORPHINE SULFATE SOLUTION [ATLANTIC BIOLOGICALS CORP.]",
+   "published_date": "Jun 16, 2023",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-01-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-03-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-06-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "14878fad-e4a3-48c2-b52e-038fa610724a",
+   "title": "MORPHINE SULFATE SOLUTION [ATLANTIC BIOLOGICALS CORP.]",
+   "published_date": "Sep 09, 2016",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-09-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "d4286d3c-7226-47a6-9fbc-e67e60e46286",
+   "title": "MORPHINE SULFATE TABLET [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Dec 30, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-12-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "9740d1b2-d140-4959-a94b-843d4bf139c2",
+   "title": "MORPHINE SULFATE SOLUTION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Apr 13, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:54:28Z"
+}

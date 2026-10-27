@@ -1,0 +1,114 @@
+{
+ "application": "NDA202667",
+ "srlc_rows": [
+  {
+   "drug_name": "COSOPT PF",
+   "active_ingredient": "DORZOLAMIDE HYDROCHLORIDE; TIMOLOL MALEATE",
+   "application_number": "202667",
+   "application_type": "NDA",
+   "supplement_date": "04/09/2026",
+   "database_updated": "04/15/2026",
+   "drug_name_id": "3274"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-04-09",
+ "srlc_database_updated": "2026-04-15",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "535fc801-8c3f-4974-a120-3eff1d5a5062",
+   "title": "COSOPT PF (DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE) SOLUTION/ DROPS [THEA PHARMA INC.]",
+   "published_date": "May 15, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-05-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-05-15"
+   },
+   "lag_days_dailymed": 36,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "4e90c721-21e8-46ea-ab49-19f535bf7202",
+   "title": "DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE SOLUTION/ DROPS [AKORN]",
+   "published_date": "Sep 12, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-04-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-10-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-07-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-05-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-09-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "a8d4e2b5-c7bb-48fc-9314-7095cd77617e",
+   "title": "COSOPT PF (DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE) SOLUTION/ DROPS [AKORN]",
+   "published_date": "May 03, 2022",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-05-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-05-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-10-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-07-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-05-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 36,
+ "fetched_utc": "2026-10-16T08:59:33Z"
+}

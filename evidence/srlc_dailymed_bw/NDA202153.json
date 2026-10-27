@@ -1,0 +1,80 @@
+{
+ "application": "NDA202153",
+ "srlc_rows": [
+  {
+   "drug_name": "RUBY-FILL",
+   "active_ingredient": "RUBIDIUM CHLORIDE RB-82",
+   "application_number": "202153",
+   "application_type": "NDA",
+   "supplement_date": "04/26/2019",
+   "supplement": "SUPPL-12",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/26/2019",
+     "suppl": "SUPPL-12",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/26/2019",
+   "database_updated": "04/30/2019",
+   "drug_name_id": "1929"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-04-26",
+ "srlc_database_updated": "2019-04-30",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b3c0cc0c-2f4b-4e08-8a84-3cb77473c2e8",
+   "title": "RUBY-FILL (RUBIDIUM RB 82) INJECTION, SOLUTION [JUBILANT DRAXIMAGE INC., DBA JUBILANT RADIOPHARMA]",
+   "published_date": "Dec 01, 2020",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-11-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-05-28"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-10-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-01-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-06-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-08-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-12-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2019-05-28"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 32,
+ "fetched_utc": "2026-10-16T09:26:31Z"
+}

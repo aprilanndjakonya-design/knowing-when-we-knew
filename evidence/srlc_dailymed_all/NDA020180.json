@@ -1,0 +1,68 @@
+{
+ "application": "NDA020180",
+ "srlc_rows": [
+  {
+   "drug_name": "PROSCAR",
+   "active_ingredient": "FINASTERIDE",
+   "application_number": "020180",
+   "application_type": "NDA",
+   "supplement_date": "03/18/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2444"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-18",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6f988153-fc74-4ca4-b29a-111f750c4a4b",
+   "title": "PROSCAR (FINASTERIDE) TABLET, FILM COATED [ORGANON LLC]",
+   "published_date": "Mar 31, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-07-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-06-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-10-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-12-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-03-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-03-31"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:46:31Z"
+}

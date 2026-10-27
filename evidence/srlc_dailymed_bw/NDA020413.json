@@ -1,0 +1,39 @@
+{
+ "application": "NDA020413",
+ "srlc_rows": [
+  {
+   "drug_name": "ZERIT",
+   "active_ingredient": "STAVUDINE",
+   "application_number": "020413",
+   "application_type": "NDA",
+   "supplement_date": "12/19/2017",
+   "supplement": "SUPPL-32",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/19/2017",
+     "suppl": "SUPPL-32",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/17/2018",
+   "database_updated": "12/18/2018",
+   "drug_name_id": "1414"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-12-19",
+ "srlc_database_updated": "2018-12-18",
+ "lag_days_srlc_database": 364,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:01Z"
+}

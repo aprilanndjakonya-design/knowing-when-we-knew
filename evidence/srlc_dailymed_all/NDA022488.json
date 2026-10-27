@@ -1,0 +1,336 @@
+{
+ "application": "NDA022488",
+ "srlc_rows": [
+  {
+   "drug_name": "LYRICA",
+   "active_ingredient": "PREGABALIN",
+   "application_number": "022488",
+   "application_type": "NDA",
+   "supplement_date": "04/25/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "638"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-25",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 34,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "ebe34db4-816d-4f0a-adbb-826693662754",
+   "title": "PREGABALIN SOLUTION [MYLAN PHARMACEUTICALS INC.]",
+   "published_date": "Dec 31, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-07-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-07-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-07-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-07-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-08-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-05-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-07-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-07-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-08-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-05-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2025-05-05"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "60185c88-ecfd-46f9-adb9-b97c6b00a553",
+   "title": "LYRICA (PREGABALIN) CAPSULE LYRICA (PREGABALIN) SOLUTION [PARKE-DAVIS DIV OF PFIZER INC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 59,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-09-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-05-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-11-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-02-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-03-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2010-03-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-10-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-04-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-06-03"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-07-29"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2012-11-20"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-06-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2013-09-11"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2014-03-18"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2014-06-03"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2014-08-25"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2016-03-07"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2016-08-24"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2016-09-08"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2017-03-27"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2017-04-18"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2017-07-20"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2017-09-01"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2018-01-11"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2018-02-14"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2018-05-15"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2019-06-03"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2019-06-28"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2019-08-29"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2020-04-20"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2020-06-17"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2023-09-06"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2024-10-24"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2024-11-14"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2024-11-21"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2025-06-20"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2025-07-16"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 54,
+    "published_date": "2025-05-12"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 37
+  },
+  {
+   "setid": "d4734e7d-5079-455e-8ff5-8f4539c998a9",
+   "title": "LYRICA (PREGABALIN) CAPSULE LYRICA (PREGABALIN) SOLUTION [VIATRIS SPECIALTY LLC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-02-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-11-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-06-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-06-20"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-07-16"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-09-22"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-05-12"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:55:55Z"
+}

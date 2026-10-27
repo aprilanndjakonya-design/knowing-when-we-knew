@@ -1,0 +1,166 @@
+{
+ "application": "NDA205834",
+ "srlc_rows": [
+  {
+   "drug_name": "HARVONI",
+   "active_ingredient": "LEDIPASVIR; SOFOSBUVIR",
+   "application_number": "205834",
+   "application_type": "NDA",
+   "supplement_date": "12/19/2024",
+   "supplement": "SUPPL-36",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/14/2017",
+     "suppl": "SUPPL-18",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "12/19/2024",
+     "suppl": "SUPPL-36",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/19/2024",
+   "database_updated": "12/23/2024",
+   "drug_name_id": "846"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-12-19",
+ "srlc_database_updated": "2024-12-23",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "46f4a73b-0cd6-4902-9092-3ac79e882c1a",
+   "title": "LEDIPASVIR AND SOFOSBUVIR TABLET, FILM COATED [ASEGUA THERAPEUTICS LLC]",
+   "published_date": "Jan 20, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-11-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-09-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-10-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-03-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-07-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-01-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2025-01-20"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "f4ec77e4-bae8-4db0-b3d5-bde09c5fa075",
+   "title": "HARVONI (LEDIPASVIR AND SOFOSBUVIR) TABLET, FILM COATED HARVONI (LEDIPASVIR AND SOFOSBUVIR) TABLET, FILM COATED HARVONI (LEDIPASVIR AND SOFOSBUVIR) PELLET [GILEAD SCIENCES, INC]",
+   "published_date": "Jan 13, 2025",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-10-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-04-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-11-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-02-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-05-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-06-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-02-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-04-24"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-10-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-11-29"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-12-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-04-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-07-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-01-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2025-01-13"
+   },
+   "lag_days_dailymed": 25,
+   "versions_before_supplement": 15
+  }
+ ],
+ "lag_days_dailymed_min": 25,
+ "fetched_utc": "2026-10-16T09:27:49Z"
+}

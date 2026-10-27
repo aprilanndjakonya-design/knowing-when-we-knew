@@ -1,0 +1,72 @@
+{
+ "application": "NDA022561",
+ "srlc_rows": [
+  {
+   "drug_name": "MAVENCLAD",
+   "active_ingredient": "CLADRIBINE",
+   "application_number": "022561",
+   "application_type": "NDA",
+   "supplement_date": "05/14/2026",
+   "database_updated": "05/20/2026",
+   "drug_name_id": "2675"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-14",
+ "srlc_database_updated": "2026-05-20",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9c75e30a-a410-40f1-b653-04d532bd9144",
+   "title": "MAVENCLAD (CLADRIBINE) TABLET [EMD SERONO, INC.]",
+   "published_date": "May 29, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-04-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-02-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-09-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-02-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-05-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-09-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-05-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-05-29"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:56:10Z"
+}

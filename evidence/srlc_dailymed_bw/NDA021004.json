@@ -1,0 +1,38 @@
+{
+ "application": "NDA021004",
+ "srlc_rows": [
+  {
+   "drug_name": "EPIVIR-HBV",
+   "active_ingredient": "LAMIVUDINE",
+   "application_number": "021004",
+   "application_type": "NDA",
+   "supplement_date": "09/27/2017",
+   "supplement": "SUPPL-17",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/27/2017",
+     "suppl": "SUPPL-17",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2021",
+   "database_updated": "12/28/2021",
+   "drug_name_id": "1054"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-09-27",
+ "srlc_database_updated": "2021-12-28",
+ "lag_days_srlc_database": 1553,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:18:58Z"
+}

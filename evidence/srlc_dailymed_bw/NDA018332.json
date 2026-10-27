@@ -1,0 +1,124 @@
+{
+ "application": "NDA018332",
+ "srlc_rows": [
+  {
+   "drug_name": "INDOCIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "018332",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-37",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-37",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "187"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "73878376-1d24-423b-9f37-3666e83c95da",
+   "title": "INDOCIN (INDOMETHACIN) SUSPENSION [ZYLA LIFE SCIENCES US LLC]",
+   "published_date": "Dec 19, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-04-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-03-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-05-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-04-11"
+   },
+   "lag_days_dailymed": 1067,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "06de3c9d-63bf-47c1-f78c-4fbdd482928a",
+   "title": "INDOCIN (INDOMETHACIN) SUSPENSION [IROKO PHARMACEUTICALS, LLC]",
+   "published_date": "May 21, 2018",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-10-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2006-11-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2007-03-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2008-12-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2009-06-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-02-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2012-12-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-05-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-05-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2016-05-24"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:15:07Z"
+}

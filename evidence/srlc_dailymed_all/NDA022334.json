@@ -1,0 +1,256 @@
+{
+ "application": "NDA022334",
+ "srlc_rows": [
+  {
+   "drug_name": "AFINITOR",
+   "active_ingredient": "EVEROLIMUS",
+   "application_number": "022334",
+   "application_type": "NDA",
+   "supplement_date": "06/01/2026",
+   "database_updated": "06/11/2026",
+   "drug_name_id": "112"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-01",
+ "srlc_database_updated": "2026-06-11",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "2150f73a-179b-4afc-b8ce-67c85cc72f04",
+   "title": "AFINITOR (EVEROLIMUS) TABLET AFINITOR DISPERZ (EVEROLIMUS) TABLET, FOR SUSPENSION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+   "published_date": "Jun 11, 2026",
+   "spl_version": 67,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-04-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2009-12-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-03-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2010-05-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-07-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-07-16"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2010-11-12"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2011-05-17"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2011-08-03"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2011-08-12"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2012-04-11"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2012-05-04"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2012-07-31"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2012-09-11"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2013-11-18"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2014-03-05"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2014-03-21"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2014-07-11"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2014-12-24"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2015-02-02"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2015-05-29"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2015-09-28"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2015-12-18"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2016-02-03"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2016-02-11"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2016-02-16"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2016-02-26"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2016-03-09"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2016-06-27"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2016-08-10"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2017-06-27"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2017-10-10"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2017-10-11"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2018-04-24"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2018-06-20"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2018-11-15"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2019-09-12"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2020-02-06"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2020-02-28"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2020-03-13"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2020-10-19"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2021-05-03"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2022-01-13"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2022-02-10"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2023-03-08"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2023-05-05"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2023-08-02"
+    },
+    {
+     "spl_version": 61,
+     "published_date": "2024-03-27"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2024-07-23"
+    },
+    {
+     "spl_version": 63,
+     "published_date": "2025-02-10"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2025-08-14"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2026-02-16"
+    },
+    {
+     "spl_version": 67,
+     "published_date": "2026-06-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 67,
+    "published_date": "2026-06-11"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 54
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:55:04Z"
+}

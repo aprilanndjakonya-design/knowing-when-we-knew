@@ -1,0 +1,64 @@
+{
+ "application": "NDA218784",
+ "srlc_rows": [
+  {
+   "drug_name": "VORANIGO",
+   "active_ingredient": "VORASIDENIB",
+   "application_number": "218784",
+   "application_type": "NDA",
+   "supplement_date": "06/10/2026",
+   "database_updated": "06/17/2026",
+   "drug_name_id": "3293"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-10",
+ "srlc_database_updated": "2026-06-17",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "31405fee-55b7-4857-987e-2724ee76be84",
+   "title": "VORANIGO (VORASIDENIB) TABLET, FILM COATED [SERVIER PHARMACEUTICALS LLC]",
+   "published_date": "Sep 17, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2024-08-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-08-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-06-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-08-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-09-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-09-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-06-22"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:10:41Z"
+}

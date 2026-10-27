@@ -1,0 +1,259 @@
+{
+ "application": "NDA021130",
+ "srlc_rows": [
+  {
+   "drug_name": "ZYVOX",
+   "active_ingredient": "LINEZOLID",
+   "application_number": "021130",
+   "application_type": "NDA",
+   "supplement_date": "06/09/2026",
+   "database_updated": "06/17/2026",
+   "drug_name_id": "1439"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-09",
+ "srlc_database_updated": "2026-06-17",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "6e70e63b-bfd5-478d-a8ee-8ba22c9efabd",
+   "title": "ZYVOX (LINEZOLID) INJECTION, SOLUTION ZYVOX (LINEZOLID) GRANULE, FOR SUSPENSION ZYVOX (LINEZOLID) TABLET, FILM COATED [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Jun 24, 2026",
+   "spl_version": 72,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2006-12-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2007-10-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2008-02-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2008-07-25"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2008-12-03"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2010-01-28"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2012-03-09"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2012-06-20"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2013-05-30"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2014-02-20"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2014-06-02"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2015-03-31"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2015-05-27"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2015-06-04"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2015-07-17"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2015-10-13"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2016-04-29"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2016-05-23"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2017-03-27"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2017-05-24"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2017-09-21"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2017-10-11"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2018-02-23"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2018-05-11"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2018-08-13"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2019-12-13"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2020-02-25"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2020-05-14"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2020-06-04"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2020-09-09"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2020-10-26"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2020-12-21"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2021-04-16"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2021-04-29"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2021-10-01"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2021-11-19"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2023-04-03"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2023-05-17"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2023-08-04"
+    },
+    {
+     "spl_version": 61,
+     "published_date": "2023-09-01"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2024-05-22"
+    },
+    {
+     "spl_version": 63,
+     "published_date": "2024-06-19"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2024-07-26"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2025-08-27"
+    },
+    {
+     "spl_version": 67,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 68,
+     "published_date": "2026-01-26"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 70,
+     "published_date": "2026-06-05"
+    },
+    {
+     "spl_version": 71,
+     "published_date": "2026-06-10"
+    },
+    {
+     "spl_version": 72,
+     "published_date": "2026-06-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 71,
+    "published_date": "2026-06-10"
+   },
+   "lag_days_dailymed": 1,
+   "versions_before_supplement": 50
+  },
+  {
+   "setid": "50630775-7f76-413e-9278-ba298dd7f187",
+   "title": "ZYVOX (LINEZOLID) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jan 27, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 1,
+ "fetched_utc": "2026-10-16T08:49:43Z"
+}

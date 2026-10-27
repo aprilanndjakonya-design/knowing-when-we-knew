@@ -1,0 +1,148 @@
+{
+ "application": "NDA020554",
+ "srlc_rows": [
+  {
+   "drug_name": "DOVONEX",
+   "active_ingredient": "CALCIPOTRIENE",
+   "application_number": "020554",
+   "application_type": "NDA",
+   "supplement_date": "10/03/2025",
+   "database_updated": "10/07/2025",
+   "drug_name_id": "3198"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-03",
+ "srlc_database_updated": "2025-10-07",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "377eafda-737c-4ba2-9ec5-61209b8814ed",
+   "title": "CALCIPOTRIENE CREAM [PRASCO LABORATORIES]",
+   "published_date": "Dec 13, 2022",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-04-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-08-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-03-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-09-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-10-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-03-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-08-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-12-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "a837f13e-fafc-0535-e053-2995a90a5070",
+   "title": "NUDERMRXPAK 60 (CALCIPOTRIENE, DIMETHICONE) KIT [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "May 11, 2021",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-06-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-05-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "a838204b-9564-9aa6-e053-2a95a90af02f",
+   "title": "NUDERMRXPAK 120 (CALCIPOTRIENE, DIMETHICONE) KIT [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "May 06, 2021",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-06-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-05-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "89f6689b-ef95-613b-e053-2a95a90ac161",
+   "title": "NUDERMRXPAK 120 (DIMETHICONE, CALCIPOTRIENE) KIT [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "May 29, 2019",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-05-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "89a98b7c-d36b-6016-e053-2a95a90aa31b",
+   "title": "NUDERMRXPAK 60 (DIMETHICONE, CALCIPOTRIENE) KIT [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "May 28, 2019",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-05-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "3fcca1d8-09b9-4484-8809-66778e181c06",
+   "title": "DOVONEX (CALCIPOTRIENE) CREAM [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 11, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-02-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:47:49Z"
+}

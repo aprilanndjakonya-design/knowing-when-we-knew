@@ -1,0 +1,168 @@
+{
+ "application": "NDA022527",
+ "srlc_rows": [
+  {
+   "drug_name": "GILENYA",
+   "active_ingredient": "FINGOLIMOD",
+   "application_number": "022527",
+   "application_type": "NDA",
+   "supplement_date": "08/22/2025",
+   "database_updated": "08/25/2025",
+   "drug_name_id": "33"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-22",
+ "srlc_database_updated": "2025-08-25",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "cc9e1c8c-0e2b-44e2-878b-27057f786be9",
+   "title": "GILENYA (FINGOLIMOD HCL) CAPSULE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 40,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2010-09-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-05-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2011-07-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2012-04-11"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2012-04-26"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2012-05-09"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2014-05-12"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2014-12-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2015-05-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2015-07-14"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2015-08-10"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2016-03-03"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2017-12-22"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2018-05-23"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2018-11-07"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-01-25"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2019-08-30"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2020-01-06"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2020-06-15"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2020-11-02"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2021-07-13"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2022-05-17"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2022-08-22"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2023-01-26"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2023-04-18"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-08-17"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-09-26"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2024-02-01"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-05-05"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2025-09-05"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 39,
+    "published_date": "2025-09-05"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 31
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:56:03Z"
+}

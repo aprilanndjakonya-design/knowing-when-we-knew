@@ -1,0 +1,66 @@
+{
+ "application": "NDA022321",
+ "srlc_rows": [
+  {
+   "drug_name": "EMBEDA",
+   "active_ingredient": "MORPHINE SULFATE; NALTREXONE HYDROCHLORIDE",
+   "application_number": "022321",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-29",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-22",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-29",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/10/2019",
+   "drug_name_id": "719"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2019-10-10",
+ "lag_days_srlc_database": 387,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "dfe97a3d-247d-4dda-a641-1a95196cd8d8",
+   "title": "EMBEDA (MORPHINE SUFATE) CAPSULE, EXTENDED RELEASE [STAT RX USA LLC]",
+   "published_date": "Mar 04, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:24:55Z"
+}

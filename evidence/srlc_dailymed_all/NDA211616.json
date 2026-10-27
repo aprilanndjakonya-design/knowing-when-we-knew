@@ -1,0 +1,104 @@
+{
+ "application": "NDA211616",
+ "srlc_rows": [
+  {
+   "drug_name": "NEXLETOL",
+   "active_ingredient": "BEMPEDOIC ACID",
+   "application_number": "211616",
+   "application_type": "NDA",
+   "supplement_date": "01/09/2026",
+   "database_updated": "01/13/2026",
+   "drug_name_id": "2852"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-09",
+ "srlc_database_updated": "2026-01-13",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "88d06d89-a3da-40b4-b273-8f4f7d56c4c9",
+   "title": "NEXLETOL (BEMPEDOIC ACID) TABLET, FILM COATED [ESPERION THERAPEUTICS, INC.]",
+   "published_date": "Jul 20, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-03-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-03-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-10-04"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-10-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-06-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-09-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-09-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-04-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-10-21"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-10-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-12-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-12-09"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-01-19"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-07-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2026-01-19"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 15
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:05:38Z"
+}

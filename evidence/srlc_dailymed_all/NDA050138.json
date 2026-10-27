@@ -1,0 +1,332 @@
+{
+ "application": "NDA050138",
+ "srlc_rows": [
+  {
+   "drug_name": "BICILLIN C-R",
+   "active_ingredient": "PENICILLIN G BENZATHINE; PENICILLIN G PROCAINE",
+   "application_number": "050138",
+   "application_type": "NDA",
+   "supplement_date": "06/25/2026",
+   "database_updated": "06/30/2026",
+   "drug_name_id": "1739"
+  },
+  {
+   "drug_name": "BICILLIN C-R 900/300",
+   "active_ingredient": "PENICILLIN G BENZATHINE; PENICILLIN G PROCAINE",
+   "application_number": "050138",
+   "application_type": "NDA",
+   "supplement_date": "06/25/2026",
+   "database_updated": "06/30/2026",
+   "drug_name_id": "1740"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-25",
+ "srlc_database_updated": "2026-06-30",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "b5640fc6-76d8-428d-80e6-760d769af8bb",
+   "title": "BICILLIN CR (PENICILLIN G BENZATHINE AND PENICILLIN G PROCAINE) INJECTION, SUSPENSION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-11-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-01-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-06-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-09-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-05-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-06-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-07-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-08-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-04-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-10-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-07-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-04-13"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-05-22"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-06-05"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-12-03"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-05-13"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-06-07"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-09-09"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-09-19"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-11-22"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-05-20"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2022-08-22"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2023-09-13"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-06-06"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-06-15"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2026-07-24"
+   },
+   "lag_days_dailymed": 29,
+   "versions_before_supplement": 27
+  },
+  {
+   "setid": "ba7b9199-4710-4189-a85d-77ed75befe4d",
+   "title": "BICILLIN C-R 900/300 (PENICILLIN G BENZATHINE AND PENICILLIN G PROCAINE) INJECTION, SUSPENSION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 33,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-07-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-11-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-01-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-06-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-09-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-05-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-06-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-07-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-08-29"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2015-04-20"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2015-10-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-05-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-07-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-04-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-05-22"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-06-05"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2018-12-03"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-05-13"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-06-07"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2019-09-09"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2019-09-19"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2019-11-22"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2021-05-20"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-08-22"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-09-14"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-06-06"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-06-15"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2026-07-24"
+   },
+   "lag_days_dailymed": 29,
+   "versions_before_supplement": 28
+  },
+  {
+   "setid": "34d52db0-b34d-4860-bed6-d57a87e4bf27",
+   "title": "BICILLIN CR (PENICILLIN G BENZATHINE AND PENICILLIN G PROCAINE) INJECTION, SUSPENSION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 16, 2018",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-01-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "4bd2cd7a-327d-48ed-9e8b-e6a03e3188d9",
+   "title": "BICILLIN CR (PENICILLIN G BENZATHINE AND PENICILLIN G PROCAINE) INJECTION, SUSPENSION [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Oct 30, 2013",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2013-10-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "337fde53-92a3-4a56-97c2-4bbb31bc9d0e",
+   "title": "BICILLIN CR (PENICILLIN G BENZATHINE AND PENICILLIN G PROCAINE) INJECTION, SUSPENSION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 25, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-05-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 29,
+ "fetched_utc": "2026-10-16T08:56:21Z"
+}

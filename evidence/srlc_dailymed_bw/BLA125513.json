@@ -1,0 +1,91 @@
+{
+ "application": "BLA125513",
+ "srlc_rows": [
+  {
+   "drug_name": "STRENSIQ",
+   "active_ingredient": "ASFOTASE ALFA",
+   "application_number": "125513",
+   "application_type": "BLA",
+   "supplement_date": "07/10/2024",
+   "supplement": "SUPPL-33",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "07/10/2024",
+     "suppl": "SUPPL-33",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/10/2024",
+   "database_updated": "07/15/2024",
+   "drug_name_id": "479"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-07-10",
+ "srlc_database_updated": "2024-07-15",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "3387574f-5eaa-4501-a71d-4cbfbd563031",
+   "title": "STRENSIQ (ASFOTASE ALFA) SOLUTION [ALEXION PHARMACEUTICALS, INC.]",
+   "published_date": "Dec 16, 2025",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 8,
+     "published_date": "2015-11-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-11-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-02-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-09-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-06-24"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-04-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-12-23"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-03-16"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-07-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-12-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2024-07-19"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:12:50Z"
+}

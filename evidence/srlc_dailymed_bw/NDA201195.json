@@ -1,0 +1,113 @@
+{
+ "application": "NDA201195",
+ "srlc_rows": [
+  {
+   "drug_name": "DOCETAXEL",
+   "active_ingredient": "DOCETAXEL",
+   "application_number": "201195",
+   "application_type": "NDA",
+   "supplement_date": "06/21/2019",
+   "supplement": "SUPPL-13",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/21/2019",
+     "suppl": "SUPPL-13",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/20/2023",
+   "database_updated": "09/25/2023",
+   "drug_name_id": "319"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-06-21",
+ "srlc_database_updated": "2023-09-25",
+ "lag_days_srlc_database": 1557,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f59f7811-70b7-4c44-99f7-4f4fdce3ed22",
+   "title": "DOCETAXEL INJECTION, SOLUTION, CONCENTRATE DOCETAXEL INJECTION, SOLUTION, CONCENTRATE [ACCORD HEALTHCARE INC.]",
+   "published_date": "Aug 16, 2024",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-05-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-05-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-07-24"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-09-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-02-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-08-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-01-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-03-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-06-20"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-07-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-07-30"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-11-07"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-09-22"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-08-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2019-07-01"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:26:15Z"
+}

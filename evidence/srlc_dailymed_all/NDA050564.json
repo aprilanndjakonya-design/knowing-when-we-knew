@@ -1,0 +1,116 @@
+{
+ "application": "NDA050564",
+ "srlc_rows": [
+  {
+   "drug_name": "AUGMENTIN '250'",
+   "active_ingredient": "AMOXICILLIN; CLAVULANATE POTASSIUM",
+   "application_number": "050564",
+   "application_type": "NDA",
+   "supplement_date": "07/17/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "2659"
+  },
+  {
+   "drug_name": "AUGMENTIN '500'",
+   "active_ingredient": "AMOXICILLIN; CLAVULANATE POTASSIUM",
+   "application_number": "050564",
+   "application_type": "NDA",
+   "supplement_date": "07/17/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "2660"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-17",
+ "srlc_database_updated": "2026-07-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "174cc098-fe49-4f1a-87e2-601c7573f0db",
+   "title": "AUGMENTIN (AMOXICILLIN AND CLAVULANATE POTASSIUM) TABLET, FILM COATED AUGMENTIN (AMOXICILLIN AND CLAVULANATE POTASSIUM) POWDER, FOR SUSPENSION [DR. REDDY'S LABORATORIES INC]",
+   "published_date": "Sep 13, 2016",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-10-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-03-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-03-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-09-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "58a20183-4eb6-438e-bd1e-a74f4645bb0d",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, FILM COATED AMOXICILLIN AND CLAVULANATE POTASSIUM POWDER, FOR SUSPENSION [DR. REDDY'S LABORATORIES INC]",
+   "published_date": "Sep 13, 2016",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-10-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-03-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-03-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-07-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-09-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "d567412a-e5ed-4c7f-90f0-ea3039786480",
+   "title": "AUGMENTIN (AMOXICILLIN AND CLAVULANTE POTASSIUM) TABLET, FILM COATED AUGMENTIN (AMOXICILLIN AND CLAVULANTE POTASSIUM) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jun 29, 2011",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-06-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:56:50Z"
+}

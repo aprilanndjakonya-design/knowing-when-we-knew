@@ -1,0 +1,30 @@
+{
+ "application": "NDA008306",
+ "srlc_rows": [
+  {
+   "drug_name": "PHENERGAN VC W/ CODEINE",
+   "active_ingredient": "CODEINE PHOSPHATE; PHENYLEPHRINE HYDROCHLORIDE; PROMETHAZINE HYDROCHLORIDE",
+   "application_number": "008306",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "783"
+  },
+  {
+   "drug_name": "PHENERGAN W/ CODEINE",
+   "active_ingredient": "CODEINE PHOSPHATE; PROMETHAZINE HYDROCHLORIDE",
+   "application_number": "008306",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "784"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-09",
+ "lag_days_srlc_database": 18,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:42:21Z"
+}

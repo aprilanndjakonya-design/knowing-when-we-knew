@@ -1,0 +1,72 @@
+{
+ "application": "NDA214998",
+ "srlc_rows": [
+  {
+   "drug_name": "CAMZYOS",
+   "active_ingredient": "MAVACAMTEN",
+   "application_number": "214998",
+   "application_type": "NDA",
+   "supplement_date": "09/30/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "2767"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-30",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "669c936b-3ee6-4e36-8a22-79dd11b1255b",
+   "title": "CAMZYOS (MAVACAMTEN) CAPSULE, GELATIN COATED [MYOKARDIA, INC.]",
+   "published_date": "Oct 12, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-05-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-08-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-10-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-11-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-07-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-05-01"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-10-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-10-12"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:07:58Z"
+}

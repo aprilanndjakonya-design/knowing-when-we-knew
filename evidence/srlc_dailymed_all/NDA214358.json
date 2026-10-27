@@ -1,0 +1,56 @@
+{
+ "application": "NDA214358",
+ "srlc_rows": [
+  {
+   "drug_name": "PRADAXA",
+   "active_ingredient": "DABIGATRAN ETEXILATE MESYLATE",
+   "application_number": "214358",
+   "application_type": "NDA",
+   "supplement_date": "06/17/2025",
+   "database_updated": "06/23/2025",
+   "drug_name_id": "2876"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-17",
+ "srlc_database_updated": "2025-06-23",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9ac0a64a-8666-45f7-9d4f-40fd894f7e6d",
+   "title": "PRADAXA (DABIGATRAN ETEXILATE) PELLET [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 02, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-02-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-03-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-04-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-11-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-07-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-07-02"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:07:28Z"
+}

@@ -1,0 +1,64 @@
+{
+ "application": "NDA012616",
+ "srlc_rows": [
+  {
+   "drug_name": "ALDACTAZIDE",
+   "active_ingredient": "HYDROCHLOROTHIAZIDE; SPIRONOLACTONE",
+   "application_number": "012616",
+   "application_type": "NDA",
+   "supplement_date": "11/14/2025",
+   "database_updated": "11/18/2025",
+   "drug_name_id": "1850"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-14",
+ "srlc_database_updated": "2025-11-18",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9d350fa2-d568-4970-a7a5-d128ff5d0a2f",
+   "title": "SPIRONOLACTONE AND HYDROCHLOROTHIAZIDE TABLET, FILM COATED [PRASCO LABORATORIES]",
+   "published_date": "Feb 19, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2021-12-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-12-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-01-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-09-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-01-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-02-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-02-19"
+   },
+   "lag_days_dailymed": 97,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 97,
+ "fetched_utc": "2026-10-16T08:43:01Z"
+}

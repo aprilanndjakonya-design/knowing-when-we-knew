@@ -1,0 +1,120 @@
+{
+ "application": "BLA761070",
+ "srlc_rows": [
+  {
+   "drug_name": "FASENRA",
+   "active_ingredient": "BENRALIZUMAB",
+   "application_number": "761070",
+   "application_type": "BLA",
+   "supplement_date": "05/13/2026",
+   "database_updated": "05/19/2026",
+   "drug_name_id": "2075"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-13",
+ "srlc_database_updated": "2026-05-19",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "da6aca1a-19ed-44a4-abb7-696c7d58b784",
+   "title": "FASENRA (BENRALIZUMAB) INJECTION, SOLUTION [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "May 28, 2026",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-11-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-11-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-11-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-02-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-04-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-02-19"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-02-26"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-10-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-02-25"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-12-21"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2023-02-23"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-04-04"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-10-02"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-04-17"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-05-13"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-10-18"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-05-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 27,
+    "published_date": "2026-05-28"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 20
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:39:05Z"
+}

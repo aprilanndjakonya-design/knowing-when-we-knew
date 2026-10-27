@@ -1,0 +1,64 @@
+{
+ "application": "NDA213586",
+ "srlc_rows": [
+  {
+   "drug_name": "UZEDY",
+   "active_ingredient": "RISPERIDONE",
+   "application_number": "213586",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/14/2025",
+   "drug_name_id": "3075"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-10",
+ "srlc_database_updated": "2025-10-14",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "734eb776-4be0-4808-834b-0d8b0f9e021e",
+   "title": "UZEDY (RISPERIDONE) INJECTION, SUSPENSION, EXTENDED RELEASE [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "Sep 14, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-05-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-09-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-01-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-09-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 38,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 38,
+ "fetched_utc": "2026-10-16T09:06:55Z"
+}

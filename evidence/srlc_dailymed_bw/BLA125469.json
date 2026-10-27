@@ -1,0 +1,365 @@
+{
+ "application": "BLA125469",
+ "srlc_rows": [
+  {
+   "drug_name": "TRULICITY",
+   "active_ingredient": "DULAGLUTIDE",
+   "application_number": "125469",
+   "application_type": "BLA",
+   "supplement_date": "01/27/2017",
+   "supplement": "SUPPL-8",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/27/2017",
+     "suppl": "SUPPL-7",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "01/27/2017",
+     "suppl": "SUPPL-8",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/12/2026",
+   "database_updated": "03/20/2026",
+   "drug_name_id": "816"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-01-27",
+ "srlc_database_updated": "2026-03-20",
+ "lag_days_srlc_database": 3339,
+ "dailymed_setids": 7,
+ "labels": [
+  {
+   "setid": "463050bd-2b1c-40f5-b3c3-0a04bb433309",
+   "title": "TRULICITY (DULAGLUTIDE) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+   "published_date": "Aug 10, 2026",
+   "spl_version": 62,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2014-10-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-10-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-01-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-01-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-03-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2015-06-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2015-11-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2016-11-25"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-12-21"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-02-06"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2017-06-28"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2017-08-16"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-09-01"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-10-23"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-07-13"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-11-07"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-01-24"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2020-01-02"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2020-03-06"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2020-09-15"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2021-01-25"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2021-04-16"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2021-10-12"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2021-10-18"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2021-12-09"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2022-02-15"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2022-06-20"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2023-05-01"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2023-10-18"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2024-07-26"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2024-11-14"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2025-12-22"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2026-03-25"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2026-08-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2017-02-06"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "af4e38a6-ad3f-480c-ae82-5ac6c7735b99",
+   "title": "TRULICITY (DULAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 07, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-07-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-07-07"
+   },
+   "lag_days_dailymed": 3083,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "58353438-3236-4596-9324-62fed9615cb7",
+   "title": "TRULICITY (DULAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Dec 13, 2023",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-06-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-02-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-03-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-06-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-12-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2018-06-19"
+   },
+   "lag_days_dailymed": 508,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "6088c732-afa1-4fee-9206-22e52baf4731",
+   "title": "TRULICITY (DULAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Dec 11, 2023",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-03-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-06-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-12-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-12-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-03-26"
+   },
+   "lag_days_dailymed": 1519,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "0a4716d0-9c9c-4bc3-a8f1-6784599aae89",
+   "title": "TRULICITY (DULAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Aug 07, 2023",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 11,
+     "published_date": "2023-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2023-08-07"
+   },
+   "lag_days_dailymed": 2383,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "80d1e766-fefc-44b4-bec9-c7b0198ec08f",
+   "title": "TRULICITY (DULAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 04, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-05-04"
+   },
+   "lag_days_dailymed": 2288,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a923e467-fea3-431c-b7e4-c9669af607b7",
+   "title": "TRULICITY (DULAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 04, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-05-04"
+   },
+   "lag_days_dailymed": 2288,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:12:49Z"
+}

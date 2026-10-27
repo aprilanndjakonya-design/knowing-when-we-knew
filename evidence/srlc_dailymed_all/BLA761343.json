@@ -1,0 +1,131 @@
+{
+ "application": "BLA761343",
+ "srlc_rows": [
+  {
+   "drug_name": "SELARSDI",
+   "active_ingredient": "USTEKINUMAB-AEKN",
+   "application_number": "761343",
+   "application_type": "BLA",
+   "supplement_date": "12/01/2025",
+   "database_updated": "12/08/2025",
+   "drug_name_id": "3034"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-01",
+ "srlc_database_updated": "2025-12-08",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "052a3fb2-21c3-4c4e-a01e-afdd1accd1cd",
+   "title": "USTEKINUMAB-AEKN INJECTION, SOLUTION [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "Aug 03, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-12-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-01-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-08-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-12-16"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "183a1dff-ef33-4ddb-ba38-f7861b0f77ad",
+   "title": "USTEKINUMAB-AEKN INJECTION, SOLUTION [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "Aug 03, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 7,
+     "published_date": "2025-06-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-12-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-08-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-12-04"
+   },
+   "lag_days_dailymed": 3,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "87f75b59-e48b-47c7-a4c0-5fe5965660e7",
+   "title": "SELARSDI (USTEKINUMAB-AEKN) INJECTION, SOLUTION [TEVA PHARMACEUTICALS USA, INC.]",
+   "published_date": "Jun 26, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-03-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-06-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-04"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-12-04"
+   },
+   "lag_days_dailymed": 3,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "b3b483f4-3426-4d6d-97ae-39848ec1bfae",
+   "title": "SELARSDI (USTEKINUMAB-AEKN) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 21, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-11-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 3,
+ "fetched_utc": "2026-10-16T08:41:16Z"
+}

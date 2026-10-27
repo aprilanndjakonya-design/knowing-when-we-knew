@@ -1,0 +1,87 @@
+{
+ "application": "NDA021764",
+ "srlc_rows": [
+  {
+   "drug_name": "QOLIANA",
+   "active_ingredient": "BRIMONIDINE TARTRATE",
+   "application_number": "021764",
+   "application_type": "NDA",
+   "supplement_date": "11/21/2025",
+   "database_updated": "11/26/2025",
+   "drug_name_id": "3217"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-21",
+ "srlc_database_updated": "2025-11-26",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "b1e7ebd4-d0d2-40a5-aa11-5f68bc5972bd",
+   "title": "BRIMONIDINE TARTRATE SOLUTION [SANDOZ INC]",
+   "published_date": "Dec 09, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-03-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-11-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2009-10-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-07-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-08-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-12-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-12-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-02-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-12-09"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "bc1785c5-1448-4791-9868-2fbbc8703b3b",
+   "title": "BRIMONIDINE TARTRATE SOLUTION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 26, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T08:53:00Z"
+}

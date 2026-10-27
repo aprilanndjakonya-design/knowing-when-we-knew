@@ -1,0 +1,108 @@
+{
+ "application": "NDA022497",
+ "srlc_rows": [
+  {
+   "drug_name": "FORFIVO XL",
+   "active_ingredient": "BUPROPION HYDROCHLORIDE",
+   "application_number": "022497",
+   "application_type": "NDA",
+   "supplement_date": "11/05/2025",
+   "database_updated": "11/06/2025",
+   "drug_name_id": "1050"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-05",
+ "srlc_database_updated": "2025-11-06",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "98d5977f-9b32-46db-bd36-a2c4d1b0710a",
+   "title": "BUPROPION HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+   "published_date": "Jul 23, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-12-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-06-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-07-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-07-23"
+   },
+   "lag_days_dailymed": 260,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "df959e1b-3f6d-42cf-8521-fe03b5a4ceb8",
+   "title": "BUPROPION HCL ER (XL) (BUPROPION HCL ER) TABLET, EXTENDED RELEASE [LIFESTAR PHARMA LLC]",
+   "published_date": "May 01, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-05-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-05-01"
+   },
+   "lag_days_dailymed": 177,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "80b01182-dc94-4990-8ebb-55c306d7e536",
+   "title": "FORFIVO XL (BUPROPION HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+   "published_date": "Dec 08, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-12-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-12-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:55:58Z"
+}

@@ -1,0 +1,178 @@
+{
+ "application": "NDA017116",
+ "srlc_rows": [
+  {
+   "drug_name": "METHADOSE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "017116",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "723"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-08",
+ "lag_days_srlc_database": 17,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "808a9d0b-720b-4034-a862-5122ff514608",
+   "title": "METHADOSE (METHADONE HYDROCHLORIDE) CONCENTRATE METHADOSE SUGAR-FREE (METHADONE HYDROCHLORIDE) CONCENTRATE [SPECGX LLC]",
+   "published_date": "May 01, 2026",
+   "spl_version": 41,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-02-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-06-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-07-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-06-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-04-20"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-01-11"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2017-02-15"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-12-15"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2018-04-04"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2018-11-21"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2019-10-23"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2020-02-20"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2021-06-07"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2021-09-28"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2022-08-08"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2023-12-13"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2024-10-07"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2025-12-31"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2026-05-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 40,
+    "published_date": "2025-12-31"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 19
+  },
+  {
+   "setid": "4c796a39-d87f-4358-9d4b-26e27464b642",
+   "title": "METHADOSE (METHADONE HYDROCHLORIDE) CONCENTRATE [ATLANTIC BIOLOGICALS CORP.]",
+   "published_date": "Jul 25, 2024",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-04-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-10-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-10-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-01-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-04-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-07-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "db600aee-4d27-4df4-82b5-3034c335c240",
+   "title": "METHADOSE (METHADONE HYDROCHLORIDE) CONCENTRATE [ATLANTIC BIOLOGICALS CORP.]",
+   "published_date": "May 27, 2024",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-05-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-01-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-05-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:43:35Z"
+}

@@ -1,0 +1,75 @@
+{
+ "application": "NDA204516",
+ "srlc_rows": [
+  {
+   "drug_name": "BRISDELLE",
+   "active_ingredient": "PAROXETINE MESYLATE",
+   "application_number": "204516",
+   "application_type": "NDA",
+   "supplement_date": "02/11/2025",
+   "database_updated": "02/18/2025",
+   "drug_name_id": "660"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-11",
+ "srlc_database_updated": "2025-02-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "502311b3-b617-4cbd-a3ab-a60f2c62880a",
+   "title": "BRISDELLE (PAROXETINE) CAPSULE [LEGACY PHARMA USA, INC.]",
+   "published_date": "May 05, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-02-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-05-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-02-26"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "1383d713-79b9-45bd-bd06-65707f28bc99",
+   "title": "PAROXETINE CAPSULE [PADAGIS US LLC]",
+   "published_date": "Sep 22, 2023",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-10-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-11-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-02-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-06-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-09-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:00:49Z"
+}

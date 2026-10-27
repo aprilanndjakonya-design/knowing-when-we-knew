@@ -1,0 +1,77 @@
+{
+ "application": "NDA207768",
+ "srlc_rows": [
+  {
+   "drug_name": "TUZISTRA XR",
+   "active_ingredient": "CHLORPHENIRAMINE POLISTIREX; CODEINE POLISTIREX",
+   "application_number": "207768",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "supplement": "SUPPL-14",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/13/2017",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/29/2017",
+     "suppl": "SUPPL-6",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "06/28/2018",
+     "suppl": "SUPPL-7",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "12/22/2025",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "792"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-09",
+ "lag_days_srlc_database": 18,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:28:06Z"
+}

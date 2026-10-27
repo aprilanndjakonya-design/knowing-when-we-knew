@@ -1,0 +1,218 @@
+{
+ "application": "NDA021318",
+ "srlc_rows": [
+  {
+   "drug_name": "FORTEO",
+   "active_ingredient": "TERIPARATIDE RECOMBINANT HUMAN",
+   "application_number": "021318",
+   "application_type": "NDA",
+   "supplement_date": "11/16/2020",
+   "supplement": "SUPPL-54",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "11/16/2020",
+     "suppl": "SUPPL-54",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/03/2026",
+   "database_updated": "08/12/2026",
+   "drug_name_id": "2076"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-11-16",
+ "srlc_database_updated": "2026-08-12",
+ "lag_days_srlc_database": 2095,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "aae667c5-381f-4f92-93df-2ed6158d07b0",
+   "title": "FORTEO (TERIPARATIDE) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+   "published_date": "Aug 19, 2026",
+   "spl_version": 44,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-12-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-12-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2008-04-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2008-09-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2009-08-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2009-11-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2009-11-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2010-04-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2010-04-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2010-08-13"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-04-06"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2011-10-25"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2012-03-28"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2012-10-05"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2013-09-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2013-10-28"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2015-02-11"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2016-10-27"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-03-02"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2017-03-31"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2017-09-06"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2019-10-17"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2020-04-06"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2020-04-09"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2020-11-24"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2021-06-07"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2023-12-14"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2024-08-23"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2024-12-13"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2025-08-01"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2026-08-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 34,
+    "published_date": "2020-11-24"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 25
+  },
+  {
+   "setid": "ab322675-4769-45b0-b146-14fbaa3135d0",
+   "title": "TERIPARATIDE INJECTION, SOLUTION [PRASCO LABORATORIES]",
+   "published_date": "Aug 01, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-11-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-12-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-08-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-08-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2023-11-20"
+   },
+   "lag_days_dailymed": 1099,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T09:21:21Z"
+}

@@ -1,0 +1,366 @@
+{
+ "application": "NDA020607",
+ "srlc_rows": [
+  {
+   "drug_name": "ARTHROTEC",
+   "active_ingredient": "DICLOFENAC SODIUM; MISOPROSTOL",
+   "application_number": "020607",
+   "application_type": "NDA",
+   "supplement_date": "08/26/2022",
+   "supplement": "SUPPL-40",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-31",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "07/28/2020",
+     "suppl": "SUPPL-33",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/26/2022",
+     "suppl": "SUPPL-40",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "150"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-08-26",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 822,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "a7701e8c-4e16-4165-8b83-de2c08d5ded3",
+   "title": "DICLOFENAC SODIUM AND MISOPROSTOL TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+   "published_date": "Sep 02, 2026",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-11-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-11-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-08-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-08-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-07-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-08-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-08-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-08-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-08-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-10-27"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-06-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-08-16"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-09-15"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-01-06"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-03-07"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2023-08-18"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-07-01"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-02-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-03-21"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-05-26"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-05-25"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-09-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2023-01-06"
+   },
+   "lag_days_dailymed": 133,
+   "versions_before_supplement": 13
+  },
+  {
+   "setid": "600fe842-45d9-4d68-9ef2-456dbbebaa11",
+   "title": "ARTHROTEC (DICLOFENAC SODIUM AND MISOPROSTOL) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Aug 15, 2025",
+   "spl_version": 38,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-06-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-10-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2008-12-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2009-11-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-12-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-08-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2012-04-26"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2012-08-21"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2013-01-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-03-29"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2013-08-23"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2014-08-13"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2014-09-16"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2015-08-13"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2016-05-23"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2016-08-02"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-08-08"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2020-08-07"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2020-10-07"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2020-12-15"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2021-05-10"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2021-08-16"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2022-09-12"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-01-05"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2023-05-22"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2023-08-21"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-08-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2022-09-12"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 23
+  },
+  {
+   "setid": "1213d3eb-9870-f144-e063-6394a90a6088",
+   "title": "DICLOFENAC SODIUM AND MISOPROSTOL DR (DICLOFENAC SODIUM AND MISOPROSTOL) TABLET, FILM COATED [ADVANCED RX PHARMACY OF TENNESSEE, LLC]",
+   "published_date": "Feb 27, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-02-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2024-02-27"
+   },
+   "lag_days_dailymed": 550,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "bdf17a90-9444-4dba-aff6-df27e07f23d5",
+   "title": "ARTHROTEC (DICLOFENAC SODIUM AND MISOPROSTOL) TABLET, FILM COATED [STAT RX USA LLC]",
+   "published_date": "Jun 14, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-06-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "4f0a7109-2915-4daa-a752-8f78cf040b37",
+   "title": "ARTHROTEC (DICLOFENAC SODIUM AND MISOPROSTOL) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 27, 2012",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2009-10-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-11-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-06-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-01-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "1cdede45-4e2b-490a-bd22-eca5315af316",
+   "title": "ARTHROTEC (DICLOFENAC SODIUM AND MISOPROSTOL) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP.]",
+   "published_date": "Nov 23, 2009",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-11-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:17:18Z"
+}

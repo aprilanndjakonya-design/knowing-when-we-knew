@@ -1,0 +1,315 @@
+{
+ "application": "NDA019710",
+ "srlc_rows": [
+  {
+   "drug_name": "OPTIRAY 160",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "supplement_date": "05/04/2022",
+   "supplement": "SUPPL-64",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/26/2017",
+     "suppl": "SUPPL-54",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "05/04/2022",
+     "suppl": "SUPPL-64",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "271"
+  },
+  {
+   "drug_name": "OPTIRAY 240",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "supplement_date": "05/04/2022",
+   "supplement": "SUPPL-64",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/26/2017",
+     "suppl": "SUPPL-54",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "05/04/2022",
+     "suppl": "SUPPL-64",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1005"
+  },
+  {
+   "drug_name": "OPTIRAY 300",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "supplement_date": "05/04/2022",
+   "supplement": "SUPPL-64",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/26/2017",
+     "suppl": "SUPPL-54",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "05/04/2022",
+     "suppl": "SUPPL-64",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1006"
+  },
+  {
+   "drug_name": "OPTIRAY 320",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "supplement_date": "05/04/2022",
+   "supplement": "SUPPL-64",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/26/2017",
+     "suppl": "SUPPL-54",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "05/04/2022",
+     "suppl": "SUPPL-64",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1007"
+  },
+  {
+   "drug_name": "OPTIRAY 350",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "supplement_date": "05/04/2022",
+   "supplement": "SUPPL-64",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/26/2017",
+     "suppl": "SUPPL-54",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "05/04/2022",
+     "suppl": "SUPPL-64",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1008"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-05-04",
+ "srlc_database_updated": "2023-04-28",
+ "lag_days_srlc_database": 359,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "549d38db-d4ed-4708-8f76-7cdaa157063f",
+   "title": "OPTIRAY 350 (IOVERSOL) INJECTION OPTIRAY 320 (IOVERSOL) INJECTION OPTIRAY 300 (IOVERSOL) INJECTION [LIEBEL-FLARSHEIM COMPANY LLC]",
+   "published_date": "Jun 06, 2023",
+   "spl_version": 50,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-04-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-07-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-01-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2009-05-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-02-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-02-03"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2011-10-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2012-03-16"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2014-09-30"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2015-08-17"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2015-11-03"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2016-03-07"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2016-06-24"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2016-08-16"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2016-08-24"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2017-02-17"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2017-05-03"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2018-09-18"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2019-01-31"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2019-11-01"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2020-01-30"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2021-01-11"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2021-09-22"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2021-12-15"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2022-05-19"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2022-06-14"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2023-06-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 48,
+    "published_date": "2022-05-19"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 24
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:15:58Z"
+}

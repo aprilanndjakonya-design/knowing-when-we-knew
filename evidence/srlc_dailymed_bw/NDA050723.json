@@ -1,0 +1,186 @@
+{
+ "application": "NDA050723",
+ "srlc_rows": [
+  {
+   "drug_name": "CELLCEPT",
+   "active_ingredient": "MYCOPHENOLATE MOFETIL",
+   "application_number": "050723",
+   "application_type": "NDA",
+   "supplement_date": "08/23/2018",
+   "supplement": "SUPPL-35",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/23/2018",
+     "suppl": "SUPPL-35",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/27/2025",
+   "database_updated": "07/03/2025",
+   "drug_name_id": "1661"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-08-23",
+ "srlc_database_updated": "2025-07-03",
+ "lag_days_srlc_database": 2506,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "37241e87-4af4-4dc3-a1aa-ea6f20d8dc40",
+   "title": "CELLCEPT (MYCOPHENOLATE MOFETIL) TABLET, FILM COATED CELLCEPT (MYCOPHENOLATE MOFETIL) CAPSULE CELLCEPT (MYCOPHENOLATE MOFETIL HYDROCHLORIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION CELLCEPT (MYCOPHENOLATE MOFETIL) POWDER, FOR SUSPENSION [GENENTECH, INC.]",
+   "published_date": "Aug 10, 2026",
+   "spl_version": 51,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-11-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-10-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2008-01-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2008-07-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2008-11-21"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2009-01-05"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2009-09-02"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2009-10-21"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2010-03-18"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2010-08-24"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2013-01-15"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2015-07-24"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2017-12-08"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-01-04"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-09-06"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-12-17"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-03-19"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2020-12-10"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2021-09-03"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2021-11-08"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2021-12-22"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2022-06-27"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2022-08-26"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2022-12-06"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2023-03-14"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2024-11-27"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2025-05-22"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2025-12-02"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2026-08-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2018-09-06"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:25:54Z"
+}

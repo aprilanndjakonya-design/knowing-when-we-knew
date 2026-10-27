@@ -1,0 +1,175 @@
+{
+ "application": "NDA208573",
+ "srlc_rows": [
+  {
+   "drug_name": "VENCLEXTA",
+   "active_ingredient": "VENETOCLAX",
+   "application_number": "208573",
+   "application_type": "NDA",
+   "supplement_date": "10/16/2020",
+   "supplement": "SUPPL-21",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/29/2020",
+     "suppl": "SUPPL-18",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    },
+    {
+     "date": "10/16/2020",
+     "suppl": "SUPPL-20",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "10/16/2020",
+     "suppl": "SUPPL-21",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/20/2026",
+   "database_updated": "05/21/2026",
+   "drug_name_id": "1415"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-10-16",
+ "srlc_database_updated": "2026-05-21",
+ "lag_days_srlc_database": 2043,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b118a40d-6b56-cee3-10f6-ded821a97018",
+   "title": "VENCLEXTA (VENETOCLAX) KIT VENCLEXTA (VENETOCLAX) TABLET, FILM COATED [ABBVIE INC.]",
+   "published_date": "Jun 03, 2026",
+   "spl_version": 283,
+   "versions": [
+    {
+     "spl_version": 85,
+     "published_date": "2016-04-13"
+    },
+    {
+     "spl_version": 95,
+     "published_date": "2017-09-20"
+    },
+    {
+     "spl_version": 110,
+     "published_date": "2017-12-28"
+    },
+    {
+     "spl_version": 116,
+     "published_date": "2018-03-12"
+    },
+    {
+     "spl_version": 130,
+     "published_date": "2018-06-15"
+    },
+    {
+     "spl_version": 139,
+     "published_date": "2018-09-11"
+    },
+    {
+     "spl_version": 162,
+     "published_date": "2018-11-27"
+    },
+    {
+     "spl_version": 167,
+     "published_date": "2018-11-30"
+    },
+    {
+     "spl_version": 199,
+     "published_date": "2019-05-16"
+    },
+    {
+     "spl_version": 230,
+     "published_date": "2019-08-02"
+    },
+    {
+     "spl_version": 233,
+     "published_date": "2019-11-14"
+    },
+    {
+     "spl_version": 246,
+     "published_date": "2020-06-09"
+    },
+    {
+     "spl_version": 252,
+     "published_date": "2020-07-01"
+    },
+    {
+     "spl_version": 262,
+     "published_date": "2020-10-23"
+    },
+    {
+     "spl_version": 266,
+     "published_date": "2020-11-24"
+    },
+    {
+     "spl_version": 268,
+     "published_date": "2021-10-12"
+    },
+    {
+     "spl_version": 269,
+     "published_date": "2021-10-29"
+    },
+    {
+     "spl_version": 271,
+     "published_date": "2022-01-11"
+    },
+    {
+     "spl_version": 272,
+     "published_date": "2022-06-24"
+    },
+    {
+     "spl_version": 274,
+     "published_date": "2022-06-30"
+    },
+    {
+     "spl_version": 275,
+     "published_date": "2023-03-20"
+    },
+    {
+     "spl_version": 276,
+     "published_date": "2024-07-18"
+    },
+    {
+     "spl_version": 279,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 282,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 283,
+     "published_date": "2026-06-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 262,
+    "published_date": "2020-10-23"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:28:33Z"
+}

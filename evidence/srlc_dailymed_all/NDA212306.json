@@ -1,0 +1,92 @@
+{
+ "application": "NDA212306",
+ "srlc_rows": [
+  {
+   "drug_name": "XPOVIO",
+   "active_ingredient": "SELINEXOR",
+   "application_number": "212306",
+   "application_type": "NDA",
+   "supplement_date": "09/26/2025",
+   "database_updated": "09/30/2025",
+   "drug_name_id": "2372"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-26",
+ "srlc_database_updated": "2025-09-30",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f6dd2682-75a6-4863-90a8-a3197f6f78a8",
+   "title": "XPOVIO (SELINEXOR) TABLET, FILM COATED [KARYOPHARM THERAPEUTICS INC.]",
+   "published_date": "May 13, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-07-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-08-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-07-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-09-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-12-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-05-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-09-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-04-07"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-07-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-01-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-05-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-10-03"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:06:19Z"
+}

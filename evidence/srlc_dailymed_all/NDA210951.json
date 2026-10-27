@@ -1,0 +1,148 @@
+{
+ "application": "NDA210951",
+ "srlc_rows": [
+  {
+   "drug_name": "ERLEADA",
+   "active_ingredient": "APALUTAMIDE",
+   "application_number": "210951",
+   "application_type": "NDA",
+   "supplement_date": "06/29/2026",
+   "database_updated": "07/09/2026",
+   "drug_name_id": "2063"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-29",
+ "srlc_database_updated": "2026-07-09",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d1cda4f7-cb33-46ea-b9ac-431f6452b1a5",
+   "title": "ERLEADA (APALUTAMIDE) TABLET, FILM COATED [JANSSEN PRODUCTS, LP]",
+   "published_date": "Jul 06, 2026",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-02-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-08-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-03-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-09-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-06-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-07-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-09-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-10-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-10-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-10-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-11-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-07-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-09-16"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-05-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-10-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-11-16"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-02-23"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-04-17"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-12-28"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-01-08"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-01-18"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-07-17"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-08-12"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-09-11"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-07-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2026-07-06"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 27
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:05:26Z"
+}

@@ -1,0 +1,104 @@
+{
+ "application": "NDA203952",
+ "srlc_rows": [
+  {
+   "drug_name": "DUOPA",
+   "active_ingredient": "CARBIDOPA; LEVODOPA",
+   "application_number": "203952",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/26/2026",
+   "drug_name_id": "428"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-19",
+ "srlc_database_updated": "2026-03-26",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7066d371-dc6a-0d6f-7bed-e5dd4ee912da",
+   "title": "DUOPA (CARBIDOPA AND LEVODOPA) SUSPENSION [ABBVIE INC.]",
+   "published_date": "Apr 01, 2026",
+   "spl_version": 171,
+   "versions": [
+    {
+     "spl_version": 111,
+     "published_date": "2015-01-22"
+    },
+    {
+     "spl_version": 114,
+     "published_date": "2015-05-13"
+    },
+    {
+     "spl_version": 119,
+     "published_date": "2015-06-05"
+    },
+    {
+     "spl_version": 129,
+     "published_date": "2016-03-04"
+    },
+    {
+     "spl_version": 135,
+     "published_date": "2016-09-22"
+    },
+    {
+     "spl_version": 137,
+     "published_date": "2017-12-14"
+    },
+    {
+     "spl_version": 138,
+     "published_date": "2018-08-30"
+    },
+    {
+     "spl_version": 140,
+     "published_date": "2018-11-29"
+    },
+    {
+     "spl_version": 148,
+     "published_date": "2019-03-28"
+    },
+    {
+     "spl_version": 157,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 160,
+     "published_date": "2020-02-07"
+    },
+    {
+     "spl_version": 163,
+     "published_date": "2020-06-05"
+    },
+    {
+     "spl_version": 167,
+     "published_date": "2022-03-14"
+    },
+    {
+     "spl_version": 168,
+     "published_date": "2023-03-29"
+    },
+    {
+     "spl_version": 169,
+     "published_date": "2024-07-12"
+    },
+    {
+     "spl_version": 170,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 171,
+     "published_date": "2026-04-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 171,
+    "published_date": "2026-04-01"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:00:23Z"
+}

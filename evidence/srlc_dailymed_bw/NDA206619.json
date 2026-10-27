@@ -1,0 +1,36 @@
+{
+ "application": "NDA206619",
+ "srlc_rows": [
+  {
+   "drug_name": "VIEKIRA PAK (COPACKAGED)",
+   "active_ingredient": "DASABUVIR SODIUM ; OMBITASVIR; PARITAPREVIR; RITONAVIR",
+   "application_number": "206619",
+   "application_type": "NDA",
+   "supplement_date": "02/14/2017",
+   "supplement": "SUPPL-14",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/14/2017",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/06/2019",
+   "database_updated": "12/09/2019",
+   "drug_name_id": "23"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-02-14",
+ "srlc_database_updated": "2019-12-09",
+ "lag_days_srlc_database": 1028,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:27:59Z"
+}

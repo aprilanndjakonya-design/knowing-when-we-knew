@@ -1,0 +1,2810 @@
+{
+ "generated_utc": "2026-10-19T09:07:00Z",
+ "applications_checked": 129,
+ "by_class": {
+  "marketed_no_spl_mapping": 14,
+  "discontinued": 115
+ },
+ "by_year": {
+  "2016": {
+   "discontinued": 34,
+   "marketed_no_spl_mapping": 4
+  },
+  "2017": {
+   "marketed_no_spl_mapping": 2,
+   "discontinued": 12
+  },
+  "2018": {
+   "discontinued": 19
+  },
+  "2019": {
+   "discontinued": 7
+  },
+  "2020": {
+   "discontinued": 3,
+   "marketed_no_spl_mapping": 1
+  },
+  "2021": {
+   "discontinued": 7,
+   "marketed_no_spl_mapping": 1
+  },
+  "2022": {
+   "discontinued": 2,
+   "marketed_no_spl_mapping": 1
+  },
+  "2023": {
+   "marketed_no_spl_mapping": 4,
+   "discontinued": 13
+  },
+  "2024": {
+   "discontinued": 6
+  },
+  "2025": {
+   "discontinued": 8
+  },
+  "2026": {
+   "discontinued": 4,
+   "marketed_no_spl_mapping": 1
+  }
+ },
+ "applications": {
+  "BLA761029": {
+   "drug_srlc": "ZINBRYTA",
+   "bw_supplement": "2017-08-28",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "BIOGEN",
+   "products": [
+    {
+     "brand": "ZINBRYTA",
+     "status": "Prescription",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 0,
+    "spls": []
+   }
+  },
+  "BLA761178": {
+   "drug_srlc": "ADUHELM",
+   "bw_supplement": "2023-08-30",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "BIOGEN INC",
+   "products": [
+    {
+     "brand": "ADUHELM",
+     "status": "Prescription",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "ADUHELM",
+     "status": "Prescription",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 0,
+    "spls": []
+   }
+  },
+  "NDA005010": {
+   "drug_srlc": "DEMEROL",
+   "bw_supplement": "2023-12-15",
+   "class": "discontinued",
+   "sponsor": "QUAGEN",
+   "products": [
+    {
+     "brand": "DEMEROL",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "DEMEROL",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "DEMEROL",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "DEMEROL",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "DEMEROL",
+     "status": "Discontinued",
+     "form": "SYRUP"
+    },
+    {
+     "brand": "DEMEROL",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA005378": {
+   "drug_srlc": "DESOXYN",
+   "bw_supplement": "2023-10-13",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "AJENAT PHARMS",
+   "products": [
+    {
+     "brand": "DESOXYN",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "DESOXYN",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "DESOXYN",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "DESOXYN",
+     "status": "Prescription",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 0,
+    "spls": []
+   }
+  },
+  "NDA006383": {
+   "drug_srlc": "METHADONE HYDROCHLORIDE",
+   "bw_supplement": "2018-02-01",
+   "class": "discontinued",
+   "sponsor": "MALLINCKRODT INC",
+   "products": [
+    {
+     "brand": "METHADONE HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "POWDER"
+    },
+    {
+     "brand": "METHADONE HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "POWDER"
+    },
+    {
+     "brand": "METHADONE HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "POWDER"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA008085": {
+   "drug_srlc": "METHOTREXATE SODIUM",
+   "bw_supplement": "2026-05-27",
+   "class": "discontinued",
+   "sponsor": "STRIDES PHARMA INTL",
+   "products": [
+    {
+     "brand": "METHOTREXATE SODIUM",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA008306": {
+   "drug_srlc": "PHENERGAN VC W/ CODEINE",
+   "bw_supplement": "2025-12-22",
+   "class": "discontinued",
+   "sponsor": "ANI PHARMS",
+   "products": [
+    {
+     "brand": "PHENERGAN W/ CODEINE",
+     "status": "Discontinued",
+     "form": "SYRUP"
+    },
+    {
+     "brand": "PHENERGAN VC W/ CODEINE",
+     "status": "Discontinued",
+     "form": "SYRUP"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA011483": {
+   "drug_srlc": "SYNALGOS-DC",
+   "bw_supplement": "2023-12-15",
+   "class": "discontinued",
+   "sponsor": "SUN PHARM INDUSTRIES",
+   "products": [
+    {
+     "brand": "SYNALGOS-DC",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA011522": {
+   "drug_srlc": "ADDERALL 10",
+   "bw_supplement": "2023-10-13",
+   "class": "discontinued",
+   "sponsor": "TEVA WOMENS",
+   "products": [
+    {
+     "brand": "ADDERALL 5",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ADDERALL 10",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ADDERALL 15",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ADDERALL 7.5",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ADDERALL 20",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ADDERALL 12.5",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA011707": {
+   "drug_srlc": "OPANA",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "ENDO PHARMS",
+   "products": [
+    {
+     "brand": "OPANA",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "OPANA",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA011730": {
+   "drug_srlc": "MEPERGAN",
+   "bw_supplement": "2023-12-15",
+   "class": "discontinued",
+   "sponsor": "HIKMA",
+   "products": [
+    {
+     "brand": "MEPERGAN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA012223": {
+   "drug_srlc": "AQUAMEPHYTON",
+   "bw_supplement": "2018-03-07",
+   "class": "discontinued",
+   "sponsor": "PAI HOLDINGS PHARM",
+   "products": [
+    {
+     "brand": "AQUAMEPHYTON",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "AQUAMEPHYTON",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA012249": {
+   "drug_srlc": "LIBRIUM",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "VALEANT PHARM INTL",
+   "products": [
+    {
+     "brand": "LIBRIUM",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "LIBRIUM",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "LIBRIUM",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA015034": {
+   "drug_srlc": "PONSTEL",
+   "bw_supplement": "2016-05-09",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "AVION PHARMS",
+   "products": [
+    {
+     "brand": "PONSTEL",
+     "status": "Prescription",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 0,
+    "spls": []
+   }
+  },
+  "NDA016059": {
+   "drug_srlc": "INDOCIN",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "ZYLA LIFE SCIENCES",
+   "products": [
+    {
+     "brand": "INDOCIN",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "INDOCIN",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA016194": {
+   "drug_srlc": "TALWIN",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "HOSPIRA",
+   "products": [
+    {
+     "brand": "TALWIN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA016798": {
+   "drug_srlc": "SINEQUAN",
+   "bw_supplement": "2025-07-03",
+   "class": "discontinued",
+   "sponsor": "PFIZER",
+   "products": [
+    {
+     "brand": "SINEQUAN",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "SINEQUAN",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "SINEQUAN",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "SINEQUAN",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "SINEQUAN",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "SINEQUAN",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA016949": {
+   "drug_srlc": "LIMBITROL",
+   "bw_supplement": "2021-02-05",
+   "class": "discontinued",
+   "sponsor": "CHARTWELL RX",
+   "products": [
+    {
+     "brand": "LIMBITROL",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "LIMBITROL DS",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA017105": {
+   "drug_srlc": "TRANXENE",
+   "bw_supplement": "2021-02-05",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "AJENAT PHARMS",
+   "products": [
+    {
+     "brand": "TRANXENE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "TRANXENE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "TRANXENE SD",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "TRANXENE",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "TRANXENE",
+     "status": "Prescription",
+     "form": "TABLET"
+    },
+    {
+     "brand": "TRANXENE SD",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 0,
+    "spls": []
+   }
+  },
+  "NDA017516": {
+   "drug_srlc": "SINEQUAN",
+   "bw_supplement": "2025-07-03",
+   "class": "discontinued",
+   "sponsor": "PFIZER",
+   "products": [
+    {
+     "brand": "SINEQUAN",
+     "status": "Discontinued",
+     "form": "CONCENTRATE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA017581": {
+   "drug_srlc": "NAPROSYN",
+   "bw_supplement": "2016-05-09",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "ATNAHS PHARMA US",
+   "products": [
+    {
+     "brand": "NAPROSYN",
+     "status": "Prescription",
+     "form": "TABLET"
+    },
+    {
+     "brand": "NAPROSYN",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "NAPROSYN",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 0,
+    "spls": []
+   }
+  },
+  "NDA017690": {
+   "drug_srlc": "IMODIUM",
+   "bw_supplement": "2016-11-03",
+   "class": "discontinued",
+   "sponsor": "J AND J CONSUMER INC",
+   "products": [
+    {
+     "brand": "IMODIUM",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA017694": {
+   "drug_srlc": "IMODIUM",
+   "bw_supplement": "2016-11-03",
+   "class": "discontinued",
+   "sponsor": "J AND J CONSUMER INC",
+   "products": [
+    {
+     "brand": "IMODIUM",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA017814": {
+   "drug_srlc": "INDOCIN",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "COSETTE",
+   "products": [
+    {
+     "brand": "INDOCIN",
+     "status": "Discontinued",
+     "form": "SUPPOSITORY"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA017862": {
+   "drug_srlc": "REGLAN",
+   "bw_supplement": "2026-02-09",
+   "class": "discontinued",
+   "sponsor": "HIKMA",
+   "products": [
+    {
+     "brand": "REGLAN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "REGLAN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018024": {
+   "drug_srlc": "NUBAIN",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "PH HEALTH",
+   "products": [
+    {
+     "brand": "NUBAIN",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    },
+    {
+     "brand": "NUBAIN",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    },
+    {
+     "brand": "NUBAIN",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    },
+    {
+     "brand": "NUBAIN",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    },
+    {
+     "brand": "NUBAIN",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018029": {
+   "drug_srlc": "RITALIN-SR",
+   "bw_supplement": "2019-01-10",
+   "class": "discontinued",
+   "sponsor": "NOVARTIS",
+   "products": [
+    {
+     "brand": "RITALIN-SR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018053": {
+   "drug_srlc": "BUPIVACAINE HYDROCHLORIDE",
+   "bw_supplement": "2021-03-09",
+   "class": "discontinued",
+   "sponsor": "HOSPIRA",
+   "products": [
+    {
+     "brand": "BUPIVACAINE HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "BUPIVACAINE HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "BUPIVACAINE HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018082": {
+   "drug_srlc": "DEPAKENE",
+   "bw_supplement": "2019-02-21",
+   "class": "discontinued",
+   "sponsor": "ABBVIE",
+   "products": [
+    {
+     "brand": "DEPAKENE",
+     "status": "Discontinued",
+     "form": "SYRUP"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018147": {
+   "drug_srlc": "FELDENE",
+   "bw_supplement": "2016-05-09",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "PFIZER",
+   "products": [
+    {
+     "brand": "FELDENE",
+     "status": "Prescription",
+     "form": "CAPSULE"
+    },
+    {
+     "brand": "FELDENE",
+     "status": "Prescription",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 1,
+    "spls": [
+     {
+      "setid": "9d3e528b-a748-4bc5-b604-e7e9c5ab9183",
+      "title": "FELDENE (PIROXICAM) CAPSULE [KELTMAN PHARMACEUTICALS INC.]",
+      "published": "Feb 12, 2010"
+     }
+    ]
+   }
+  },
+  "NDA018164": {
+   "drug_srlc": "ANAPROX",
+   "bw_supplement": "2016-05-09",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "ATNAHS PHARMA US",
+   "products": [
+    {
+     "brand": "ANAPROX DS",
+     "status": "Prescription",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ANAPROX",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 1,
+    "spls": [
+     {
+      "setid": "3784e189-f431-54d2-e054-00144ff8d46c",
+      "title": "ANAPROX (NAPROXEN SODIUM) TABLET [DIRECT RX]",
+      "published": "Jan 28, 2020"
+     }
+    ]
+   }
+  },
+  "NDA018185": {
+   "drug_srlc": "INDOCIN SR",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "ZYLA",
+   "products": [
+    {
+     "brand": "INDOCIN SR",
+     "status": "Discontinued",
+     "form": "CAPSULE, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018206": {
+   "drug_srlc": "LO/OVRAL FE",
+   "bw_supplement": "2017-10-18",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "CADENCE HEALTH",
+   "products": [
+    {
+     "brand": "LO/OVRAL FE",
+     "status": "Prescription",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 0,
+    "spls": []
+   }
+  },
+  "NDA018401": {
+   "drug_srlc": "BUPRENEX",
+   "bw_supplement": "2023-12-15",
+   "class": "discontinued",
+   "sponsor": "INDIVIOR",
+   "products": [
+    {
+     "brand": "BUPRENEX",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018766": {
+   "drug_srlc": "ANSAID",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "PHARMACIA AND UPJOHN",
+   "products": [
+    {
+     "brand": "ANSAID",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ANSAID",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018841": {
+   "drug_srlc": "DAYPRO",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "PFIZER",
+   "products": [
+    {
+     "brand": "DAYPRO",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA018972": {
+   "drug_srlc": "CORDARONE",
+   "bw_supplement": "2018-10-17",
+   "class": "discontinued",
+   "sponsor": "WYETH PHARMS",
+   "products": [
+    {
+     "brand": "CORDARONE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019201": {
+   "drug_srlc": "VOLTAREN",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "NOVARTIS",
+   "products": [
+    {
+     "brand": "VOLTAREN",
+     "status": "Discontinued",
+     "form": "TABLET, DELAYED RELEASE"
+    },
+    {
+     "brand": "VOLTAREN",
+     "status": "Discontinued",
+     "form": "TABLET, DELAYED RELEASE"
+    },
+    {
+     "brand": "VOLTAREN",
+     "status": "Discontinued",
+     "form": "TABLET, DELAYED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019353": {
+   "drug_srlc": "ALFENTA",
+   "bw_supplement": "2023-12-15",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "RISING",
+   "products": [
+    {
+     "brand": "ALFENTA",
+     "status": "Prescription",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 1,
+    "spls": [
+     {
+      "setid": "bb56df52-5abf-47dc-ab8d-902cfe19ccb2",
+      "title": "ALFENTA (ALFENTANIL HYDROCHLORIDE) INJECTION [TAYLOR PHARMACEUTICALS]",
+      "published": "Mar 19, 2008"
+     }
+    ]
+   }
+  },
+  "NDA019384": {
+   "drug_srlc": "NOROXIN",
+   "bw_supplement": "2016-07-26",
+   "class": "discontinued",
+   "sponsor": "MERCK",
+   "products": [
+    {
+     "brand": "NOROXIN",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019429": {
+   "drug_srlc": "FIORINAL W/CODEINE",
+   "bw_supplement": "2018-09-18",
+   "class": "discontinued",
+   "sponsor": "ALLERGAN",
+   "products": [
+    {
+     "brand": "FIORINAL W/CODEINE",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019661": {
+   "drug_srlc": "CYTOVENE",
+   "bw_supplement": "2018-08-06",
+   "class": "discontinued",
+   "sponsor": "CHEPLAPHARM",
+   "products": [
+    {
+     "brand": "CYTOVENE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019847": {
+   "drug_srlc": "CIPRO",
+   "bw_supplement": "2016-07-26",
+   "class": "discontinued",
+   "sponsor": "BAYER HLTHCARE",
+   "products": [
+    {
+     "brand": "CIPRO",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "CIPRO",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "CIPRO",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019857": {
+   "drug_srlc": "CIPRO IN DEXTROSE 5% IN PLASTIC CONTAINER",
+   "bw_supplement": "2016-07-26",
+   "class": "discontinued",
+   "sponsor": "BAYER HLTHCARE",
+   "products": [
+    {
+     "brand": "CIPRO IN DEXTROSE 5% IN PLASTIC CONTAINER",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "CIPRO IN DEXTROSE 5% IN PLASTIC CONTAINER",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019916": {
+   "drug_srlc": "MORPHINE SULFATE",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "ICU MEDICAL INC",
+   "products": [
+    {
+     "brand": "MORPHINE SULFATE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "MORPHINE SULFATE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019917": {
+   "drug_srlc": "MORPHINE SULFATE",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "ICU MEDICAL INC",
+   "products": [
+    {
+     "brand": "MORPHINE SULFATE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA019999": {
+   "drug_srlc": "MORPHINE SULFATE",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "MERIDIAN MEDCL TECHN",
+   "products": [
+    {
+     "brand": "MORPHINE SULFATE (AUTOINJECTOR)",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020071": {
+   "drug_srlc": "DESOGEN",
+   "bw_supplement": "2018-06-15",
+   "class": "discontinued",
+   "sponsor": "ORGANON USA INC",
+   "products": [
+    {
+     "brand": "DESOGEN",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "DESOGEN",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020130": {
+   "drug_srlc": "ESTROSTEP FE",
+   "bw_supplement": "2021-07-14",
+   "class": "discontinued",
+   "sponsor": "APIL",
+   "products": [
+    {
+     "brand": "ESTROSTEP 21",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ESTROSTEP FE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020142": {
+   "drug_srlc": "CATAFLAM",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "NOVARTIS",
+   "products": [
+    {
+     "brand": "CATAFLAM",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "CATAFLAM",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020156": {
+   "drug_srlc": "VIDEX",
+   "bw_supplement": "2018-01-25",
+   "class": "discontinued",
+   "sponsor": "BRISTOL",
+   "products": [
+    {
+     "brand": "VIDEX",
+     "status": "Discontinued",
+     "form": "FOR SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020281": {
+   "drug_srlc": "ULTRAM",
+   "bw_supplement": "2018-09-18",
+   "class": "discontinued",
+   "sponsor": "JANSSEN PHARMS",
+   "products": [
+    {
+     "brand": "ULTRAM",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ULTRAM",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020357": {
+   "drug_srlc": "GLUCOPHAGE",
+   "bw_supplement": "2018-05-30",
+   "class": "discontinued",
+   "sponsor": "EMD SERONO INC",
+   "products": [
+    {
+     "brand": "GLUCOPHAGE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "GLUCOPHAGE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "GLUCOPHAGE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "GLUCOPHAGE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "GLUCOPHAGE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020413": {
+   "drug_srlc": "ZERIT",
+   "bw_supplement": "2017-12-19",
+   "class": "discontinued",
+   "sponsor": "BRISTOL",
+   "products": [
+    {
+     "brand": "ZERIT",
+     "status": "Discontinued",
+     "form": "FOR SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020438": {
+   "drug_srlc": "VESANOID",
+   "bw_supplement": "2023-02-21",
+   "class": "discontinued",
+   "sponsor": "CHEPLAPHARM",
+   "products": [
+    {
+     "brand": "VESANOID",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020593": {
+   "drug_srlc": "DEPACON",
+   "bw_supplement": "2019-02-21",
+   "class": "discontinued",
+   "sponsor": "ABBVIE",
+   "products": [
+    {
+     "brand": "DEPACON",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020631": {
+   "drug_srlc": "MORPHINE SULFATE",
+   "bw_supplement": "2023-12-15",
+   "class": "discontinued",
+   "sponsor": "SPECGX LLC",
+   "products": [
+    {
+     "brand": "MORPHINE SULFATE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "MORPHINE SULFATE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020635": {
+   "drug_srlc": "LEVAQUIN",
+   "bw_supplement": "2016-07-26",
+   "class": "discontinued",
+   "sponsor": "JANSSEN PHARMS",
+   "products": [
+    {
+     "brand": "LEVAQUIN IN DEXTROSE 5% IN PLASTIC CONTAINER",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "LEVAQUIN IN DEXTROSE 5% IN PLASTIC CONTAINER",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "LEVAQUIN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "LEVAQUIN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "LEVAQUIN IN DEXTROSE 5% IN PLASTIC CONTAINER",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020657": {
+   "drug_srlc": "SPORANOX",
+   "bw_supplement": "2024-03-18",
+   "class": "discontinued",
+   "sponsor": "JANSSEN PHARMS",
+   "products": [
+    {
+     "brand": "SPORANOX",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020683": {
+   "drug_srlc": "ALESSE",
+   "bw_supplement": "2024-07-16",
+   "class": "discontinued",
+   "sponsor": "CADENCE HEALTH",
+   "products": [
+    {
+     "brand": "ALESSE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "ALESSE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020710": {
+   "drug_srlc": "PAXIL",
+   "bw_supplement": "2021-02-06",
+   "class": "discontinued",
+   "sponsor": "APOTEX",
+   "products": [
+    {
+     "brand": "PAXIL",
+     "status": "Discontinued",
+     "form": "SUSPENSION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020776": {
+   "drug_srlc": "DAYPRO ALTA",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "PFIZER",
+   "products": [
+    {
+     "brand": "DAYPRO ALTA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020813": {
+   "drug_srlc": "KLONOPIN RAPIDLY DISINTEGRATING",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "ROCHE",
+   "products": [
+    {
+     "brand": "KLONOPIN RAPIDLY DISINTEGRATING",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "KLONOPIN RAPIDLY DISINTEGRATING",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "KLONOPIN RAPIDLY DISINTEGRATING",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "KLONOPIN RAPIDLY DISINTEGRATING",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "KLONOPIN RAPIDLY DISINTEGRATING",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020933": {
+   "drug_srlc": "VIRAMUNE",
+   "bw_supplement": "2017-03-27",
+   "class": "discontinued",
+   "sponsor": "BOEHRINGER INGELHEIM",
+   "products": [
+    {
+     "brand": "VIRAMUNE",
+     "status": "Discontinued",
+     "form": "SUSPENSION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA020938": {
+   "drug_srlc": "MOBIC",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "BOEHRINGER INGELHEIM",
+   "products": [
+    {
+     "brand": "MOBIC",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "MOBIC",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021004": {
+   "drug_srlc": "EPIVIR-HBV",
+   "bw_supplement": "2017-09-27",
+   "class": "discontinued",
+   "sponsor": "GLAXOSMITHKLINE",
+   "products": [
+    {
+     "brand": "EPIVIR-HBV",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021005": {
+   "drug_srlc": "SOLARAZE",
+   "bw_supplement": "2022-04-05",
+   "class": "discontinued",
+   "sponsor": "FOUGERA",
+   "products": [
+    {
+     "brand": "SOLARAZE",
+     "status": "Discontinued",
+     "form": "GEL"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021042": {
+   "drug_srlc": "VIOXX",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "MERCK",
+   "products": [
+    {
+     "brand": "VIOXX",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "VIOXX",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "VIOXX",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021052": {
+   "drug_srlc": "VIOXX",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "MERCK",
+   "products": [
+    {
+     "brand": "VIOXX",
+     "status": "Discontinued",
+     "form": "SUSPENSION"
+    },
+    {
+     "brand": "VIOXX",
+     "status": "Discontinued",
+     "form": "SUSPENSION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021183": {
+   "drug_srlc": "VIDEX EC",
+   "bw_supplement": "2018-01-25",
+   "class": "discontinued",
+   "sponsor": "BRISTOL MYERS SQUIBB",
+   "products": [
+    {
+     "brand": "VIDEX EC",
+     "status": "Discontinued",
+     "form": "CAPSULE, DELAYED REL PELLETS"
+    },
+    {
+     "brand": "VIDEX EC",
+     "status": "Discontinued",
+     "form": "CAPSULE, DELAYED REL PELLETS"
+    },
+    {
+     "brand": "VIDEX EC",
+     "status": "Discontinued",
+     "form": "CAPSULE, DELAYED REL PELLETS"
+    },
+    {
+     "brand": "VIDEX EC",
+     "status": "Discontinued",
+     "form": "CAPSULE, DELAYED REL PELLETS"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021202": {
+   "drug_srlc": "GLUCOPHAGE XR",
+   "bw_supplement": "2018-05-30",
+   "class": "discontinued",
+   "sponsor": "EMD SERONO INC",
+   "products": [
+    {
+     "brand": "GLUCOPHAGE XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "GLUCOPHAGE XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021277": {
+   "drug_srlc": "AVELOX IN SODIUM CHLORIDE 0.8% IN PLASTIC CONTAINER",
+   "bw_supplement": "2016-07-26",
+   "class": "discontinued",
+   "sponsor": "BAYER HLTHCARE",
+   "products": [
+    {
+     "brand": "AVELOX IN SODIUM CHLORIDE 0.8% IN PLASTIC CONTAINER",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021299": {
+   "drug_srlc": "PEXEVA",
+   "bw_supplement": "2020-12-31",
+   "class": "discontinued",
+   "sponsor": "SEBELA IRELAND LTD",
+   "products": [
+    {
+     "brand": "PEXEVA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "PEXEVA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "PEXEVA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "PEXEVA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021338": {
+   "drug_srlc": "IONSYS",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "THE MEDICINES CO",
+   "products": [
+    {
+     "brand": "IONSYS",
+     "status": "Discontinued",
+     "form": "SYSTEM"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021371": {
+   "drug_srlc": "ESTRASORB",
+   "bw_supplement": "2024-09-10",
+   "class": "discontinued",
+   "sponsor": "EXELTIS USA INC",
+   "products": [
+    {
+     "brand": "ESTRASORB",
+     "status": "Discontinued",
+     "form": "EMULSION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021473": {
+   "drug_srlc": "CIPRO XR",
+   "bw_supplement": "2016-07-26",
+   "class": "discontinued",
+   "sponsor": "BAYER HLTHCARE",
+   "products": [
+    {
+     "brand": "CIPRO XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "CIPRO XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021475": {
+   "drug_srlc": "METHYLIN",
+   "bw_supplement": "2023-10-13",
+   "class": "discontinued",
+   "sponsor": "SPECGX LLC",
+   "products": [
+    {
+     "brand": "METHYLIN",
+     "status": "Discontinued",
+     "form": "TABLET, CHEWABLE"
+    },
+    {
+     "brand": "METHYLIN",
+     "status": "Discontinued",
+     "form": "TABLET, CHEWABLE"
+    },
+    {
+     "brand": "METHYLIN",
+     "status": "Discontinued",
+     "form": "TABLET, CHEWABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021590": {
+   "drug_srlc": "FAZACLO ODT",
+   "bw_supplement": "2017-02-23",
+   "class": "discontinued",
+   "sponsor": "JAZZ",
+   "products": [
+    {
+     "brand": "FAZACLO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "FAZACLO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "FAZACLO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "FAZACLO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "FAZACLO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "FAZACLO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021721": {
+   "drug_srlc": "LEVAQUIN",
+   "bw_supplement": "2016-07-26",
+   "class": "discontinued",
+   "sponsor": "JANSSEN PHARMS",
+   "products": [
+    {
+     "brand": "LEVAQUIN",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021775": {
+   "drug_srlc": "ENTEREG",
+   "bw_supplement": "2020-11-17",
+   "class": "discontinued",
+   "sponsor": "CUBIST PHARMS",
+   "products": [
+    {
+     "brand": "ENTEREG",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021947": {
+   "drug_srlc": "FENTORA",
+   "bw_supplement": "2021-03-04",
+   "class": "discontinued",
+   "sponsor": "CEPHALON",
+   "products": [
+    {
+     "brand": "FENTORA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "FENTORA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "FENTORA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "FENTORA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "FENTORA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "FENTORA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA021956": {
+   "drug_srlc": "DUTOPROL",
+   "bw_supplement": "2022-01-14",
+   "class": "discontinued",
+   "sponsor": "CONCORDIA",
+   "products": [
+    {
+     "brand": "DUTOPROL",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "DUTOPROL",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "DUTOPROL",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022066": {
+   "drug_srlc": "OMNISCAN",
+   "bw_supplement": "2024-01-26",
+   "class": "discontinued",
+   "sponsor": "GE HEALTHCARE",
+   "products": [
+    {
+     "brand": "OMNISCAN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "OMNISCAN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022160": {
+   "drug_srlc": "OXALIPLATIN",
+   "bw_supplement": "2024-10-31",
+   "class": "discontinued",
+   "sponsor": "TEVA PHARMS",
+   "products": [
+    {
+     "brand": "OXALIPLATIN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "OXALIPLATIN",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022196": {
+   "drug_srlc": "ZOLPIMIST",
+   "bw_supplement": "2019-08-18",
+   "class": "discontinued",
+   "sponsor": "AYTU",
+   "products": [
+    {
+     "brand": "ZOLPIMIST",
+     "status": "Discontinued",
+     "form": "SPRAY, METERED"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022205": {
+   "drug_srlc": "GIAZO",
+   "bw_supplement": "2020-10-01",
+   "class": "discontinued",
+   "sponsor": "VALEANT PHARMS INTL",
+   "products": [
+    {
+     "brand": "GIAZO",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022266": {
+   "drug_srlc": "ONSOLIS",
+   "bw_supplement": "2021-03-04",
+   "class": "discontinued",
+   "sponsor": "ADALVO",
+   "products": [
+    {
+     "brand": "ONSOLIS",
+     "status": "Discontinued",
+     "form": "FILM"
+    },
+    {
+     "brand": "ONSOLIS",
+     "status": "Discontinued",
+     "form": "FILM"
+    },
+    {
+     "brand": "ONSOLIS",
+     "status": "Discontinued",
+     "form": "FILM"
+    },
+    {
+     "brand": "ONSOLIS",
+     "status": "Discontinued",
+     "form": "FILM"
+    },
+    {
+     "brand": "ONSOLIS",
+     "status": "Discontinued",
+     "form": "FILM"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022279": {
+   "drug_srlc": "HYCOFENIX",
+   "bw_supplement": "2025-12-22",
+   "class": "discontinued",
+   "sponsor": "CHARTWELL RX",
+   "products": [
+    {
+     "brand": "HYCOFENIX",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022328": {
+   "drug_srlc": "INTERMEZZO",
+   "bw_supplement": "2019-08-18",
+   "class": "discontinued",
+   "sponsor": "PURDUE PHARMA",
+   "products": [
+    {
+     "brand": "INTERMEZZO",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "INTERMEZZO",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022345": {
+   "drug_srlc": "POTIGA",
+   "bw_supplement": "2016-05-20",
+   "class": "discontinued",
+   "sponsor": "GLAXOSMITHKLINE",
+   "products": [
+    {
+     "brand": "POTIGA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "POTIGA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "POTIGA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "POTIGA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022386": {
+   "drug_srlc": "PRANDIMET",
+   "bw_supplement": "2017-04-05",
+   "class": "discontinued",
+   "sponsor": "NOVO NORDISK INC",
+   "products": [
+    {
+     "brand": "PRANDIMET",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "PRANDIMET",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022396": {
+   "drug_srlc": "DYLOJECT",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "JAVELIN PHARMS INC",
+   "products": [
+    {
+     "brand": "DYLOJECT",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022424": {
+   "drug_srlc": "FLOWTUSS",
+   "bw_supplement": "2025-12-22",
+   "class": "discontinued",
+   "sponsor": "CHARTWELL RX",
+   "products": [
+    {
+     "brand": "FLOWTUSS",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022439": {
+   "drug_srlc": "ZUTRIPRO",
+   "bw_supplement": "2018-06-28",
+   "class": "discontinued",
+   "sponsor": "PERSION",
+   "products": [
+    {
+     "brand": "ZUTRIPRO",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022442": {
+   "drug_srlc": "REZIRA",
+   "bw_supplement": "2018-06-28",
+   "class": "discontinued",
+   "sponsor": "PERSION",
+   "products": [
+    {
+     "brand": "REZIRA",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022453": {
+   "drug_srlc": "TOPOTECAN HYDROCHLORIDE",
+   "bw_supplement": "2016-01-29",
+   "class": "discontinued",
+   "sponsor": "MEITHEAL",
+   "products": [
+    {
+     "brand": "TOPOTECAN HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA022519": {
+   "drug_srlc": "DUEXIS",
+   "bw_supplement": "2016-05-09",
+   "class": "discontinued",
+   "sponsor": "HORIZON",
+   "products": [
+    {
+     "brand": "DUEXIS",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA050095": {
+   "drug_srlc": "CAPASTAT SULFATE",
+   "bw_supplement": "2023-01-17",
+   "class": "discontinued",
+   "sponsor": "EPIC PHARMA LLC",
+   "products": [
+    {
+     "brand": "CAPASTAT SULFATE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA050467": {
+   "drug_srlc": "DOXORUBICIN HYDROCHLORIDE",
+   "bw_supplement": "2019-12-20",
+   "class": "discontinued",
+   "sponsor": "PFIZER",
+   "products": [
+    {
+     "brand": "DOXORUBICIN HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "DOXORUBICIN HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "DOXORUBICIN HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "DOXORUBICIN HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA050574": {
+   "drug_srlc": "SANDIMMUNE",
+   "bw_supplement": "2026-03-06",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "NOVARTIS",
+   "products": [
+    {
+     "brand": "SANDIMMUNE",
+     "status": "Prescription",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 1,
+    "spls": [
+     {
+      "setid": "5e5926a7-1de0-4b54-a5c0-286b6200ff82",
+      "title": "SANDIMMUNE (CYCLOSPORINE) CAPSULE, LIQUID FILLED SANDIMMUNE (CYCLOSPORINE) INJEC",
+      "published": "Jul 13, 2026"
+     }
+    ]
+   }
+  },
+  "NDA200534": {
+   "drug_srlc": "OXYCODONE HYDROCHLORIDE",
+   "bw_supplement": "2023-12-15",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "GENUS LIFESCIENCES",
+   "products": [
+    {
+     "brand": "OXYCODONE HYDROCHLORIDE",
+     "status": "Prescription",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 133,
+    "spls": [
+     {
+      "setid": "4dd36cf5-8f73-404a-8b1d-3bd53bd90c25",
+      "title": "PERCOCET (OXYCODONE HYDROCHLORIDE AND ACETAMINOPHEN) TABLET [SPECGX LLC]",
+      "published": "Oct 08, 2026"
+     },
+     {
+      "setid": "5451bcaa-0aca-4581-bcea-2f9c2a33b260",
+      "title": "OXYCODONE HYDROCHLORIDE SOLUTION [SPECGX LLC]",
+      "published": "Sep 18, 2026"
+     },
+     {
+      "setid": "338b5391-e5f7-40a2-8b15-57f47cbc4813",
+      "title": "OXYCODONE HYDROCHLORIDE CAPSULE [KVK-TECH, INC.]",
+      "published": "Sep 10, 2026"
+     },
+     {
+      "setid": "40a68a27-4422-5ba0-e063-6294a90ac550",
+      "title": "OXYCODONE HYDROCHLORIDE AND ACETAMINOPHEN TABLET [ST. MARY'S MEDICAL PARK PHARMA",
+      "published": "Aug 17, 2026"
+     },
+     {
+      "setid": "928227bf-89c5-4c64-9823-0e84cc669388",
+      "title": "OXYCODONE HYDROCHLORIDE TABLET [SPECGX LLC]",
+      "published": "Aug 10, 2026"
+     }
+    ]
+   }
+  },
+  "NDA200678": {
+   "drug_srlc": "KOMBIGLYZE XR",
+   "bw_supplement": "2026-08-11",
+   "class": "discontinued",
+   "sponsor": "ASTRAZENECA AB",
+   "products": [
+    {
+     "brand": "KOMBIGLYZE XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "KOMBIGLYZE XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "KOMBIGLYZE XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA201152": {
+   "drug_srlc": "VIRAMUNE XR",
+   "bw_supplement": "2017-03-27",
+   "class": "discontinued",
+   "sponsor": "BOEHRINGER INGELHEIM",
+   "products": [
+    {
+     "brand": "VIRAMUNE XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "VIRAMUNE XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA201655": {
+   "drug_srlc": "OPANA ER",
+   "bw_supplement": "2018-09-18",
+   "class": "discontinued",
+   "sponsor": "ENDO PHARMS",
+   "products": [
+    {
+     "brand": "OPANA ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "OPANA ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "OPANA ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "OPANA ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "OPANA ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "OPANA ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA202133": {
+   "drug_srlc": "FLUOXETINE HYDROCHLORIDE",
+   "bw_supplement": "2017-01-04",
+   "class": "discontinued",
+   "sponsor": "TWI PHARMS",
+   "products": [
+    {
+     "brand": "FLUOXETINE HYDROCHLORIDE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA202245": {
+   "drug_srlc": "CODEINE SULFATE",
+   "bw_supplement": "2023-12-15",
+   "class": "discontinued",
+   "sponsor": "HIKMA",
+   "products": [
+    {
+     "brand": "CODEINE SULFATE",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA203794": {
+   "drug_srlc": "NUCYNTA",
+   "bw_supplement": "2023-12-15",
+   "class": "discontinued",
+   "sponsor": "COLLEGIUM PHARM INC",
+   "products": [
+    {
+     "brand": "NUCYNTA",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA204031": {
+   "drug_srlc": "XARTEMIS XR",
+   "bw_supplement": "2018-09-18",
+   "class": "discontinued",
+   "sponsor": "MALLINCKRODT INC",
+   "products": [
+    {
+     "brand": "XARTEMIS XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA204307": {
+   "drug_srlc": "VITUZ",
+   "bw_supplement": "2018-06-28",
+   "class": "discontinued",
+   "sponsor": "PERSION",
+   "products": [
+    {
+     "brand": "VITUZ",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA205123": {
+   "drug_srlc": "OLYSIO",
+   "bw_supplement": "2017-02-14",
+   "class": "discontinued",
+   "sponsor": "JANSSEN PRODS",
+   "products": [
+    {
+     "brand": "OLYSIO",
+     "status": "Discontinued",
+     "form": "CAPSULE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA205474": {
+   "drug_srlc": "OBREDON",
+   "bw_supplement": "2025-12-22",
+   "class": "discontinued",
+   "sponsor": "SOVEREIGN PHARMS",
+   "products": [
+    {
+     "brand": "OBREDON",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA205777": {
+   "drug_srlc": "TARGINIQ",
+   "bw_supplement": "2018-09-18",
+   "class": "discontinued",
+   "sponsor": "PURDUE PHARMA LP",
+   "products": [
+    {
+     "brand": "TARGINIQ",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "TARGINIQ",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "TARGINIQ",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA205934": {
+   "drug_srlc": "DOCETAXEL",
+   "bw_supplement": "2020-02-19",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "SHILPA",
+   "products": [
+    {
+     "brand": "DOCETAXEL",
+     "status": "Prescription",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "DOCETAXEL",
+     "status": "Prescription",
+     "form": "INJECTABLE"
+    },
+    {
+     "brand": "DOCETAXEL",
+     "status": "Prescription",
+     "form": "INJECTABLE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 33,
+    "spls": [
+     {
+      "setid": "2fb017fd-e55e-43ef-9024-07f2d412b37b",
+      "title": "DOCETAXEL (DOCETAXEL ANHYDROUS) INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "published": "Oct 05, 2026"
+     },
+     {
+      "setid": "a6417655-9448-4886-ba03-f57f36bcbd14",
+      "title": "DOCETAXEL INJECTION, SOLUTION, CONCENTRATE [MYLAN INSTITUTIONAL LLC]",
+      "published": "Sep 24, 2026"
+     },
+     {
+      "setid": "2992d633-08fa-44f3-b14d-41700f24686b",
+      "title": "DOCETAXEL (DOCETAXEL ANHYDROUS) INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "published": "Jul 23, 2026"
+     },
+     {
+      "setid": "81686d37-a13f-46e2-b439-a84eb1433634",
+      "title": "DOCETAXEL INJECTION [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS IN",
+      "published": "May 13, 2026"
+     },
+     {
+      "setid": "8fb7d980-d6c7-468b-a9f0-adff16101a4b",
+      "title": "BEIZRAY ( DOCETAXEL ) KIT BEIZRAY ( DOCETAXEL ) KIT BEIZRAY (DOCETAXEL) INJECTIO",
+      "published": "Dec 25, 2025"
+     }
+    ]
+   }
+  },
+  "NDA206544": {
+   "drug_srlc": "MORPHABOND",
+   "bw_supplement": "2018-09-18",
+   "class": "discontinued",
+   "sponsor": "OHEMO LIFE",
+   "products": [
+    {
+     "brand": "MORPHABOND ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "MORPHABOND ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "MORPHABOND ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "MORPHABOND ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA206619": {
+   "drug_srlc": "VIEKIRA PAK (COPACKAGED)",
+   "bw_supplement": "2017-02-14",
+   "class": "discontinued",
+   "sponsor": "ABBVIE",
+   "products": [
+    {
+     "brand": "VIEKIRA PAK (COPACKAGED)",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA206843": {
+   "drug_srlc": "DAKLINZA",
+   "bw_supplement": "2017-02-14",
+   "class": "discontinued",
+   "sponsor": "BRISTOL-MYERS SQUIBB",
+   "products": [
+    {
+     "brand": "DAKLINZA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "DAKLINZA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "DAKLINZA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA207621": {
+   "drug_srlc": "TROXYCA ER",
+   "bw_supplement": "2016-12-16",
+   "class": "discontinued",
+   "sponsor": "PFIZER",
+   "products": [
+    {
+     "brand": "TROXYCA ER",
+     "status": "Discontinued",
+     "form": "CAPSULE, EXTENDED RELEASE"
+    },
+    {
+     "brand": "TROXYCA ER",
+     "status": "Discontinued",
+     "form": "CAPSULE, EXTENDED RELEASE"
+    },
+    {
+     "brand": "TROXYCA ER",
+     "status": "Discontinued",
+     "form": "CAPSULE, EXTENDED RELEASE"
+    },
+    {
+     "brand": "TROXYCA ER",
+     "status": "Discontinued",
+     "form": "CAPSULE, EXTENDED RELEASE"
+    },
+    {
+     "brand": "TROXYCA ER",
+     "status": "Discontinued",
+     "form": "CAPSULE, EXTENDED RELEASE"
+    },
+    {
+     "brand": "TROXYCA ER",
+     "status": "Discontinued",
+     "form": "CAPSULE, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA207768": {
+   "drug_srlc": "TUZISTRA XR",
+   "bw_supplement": "2025-12-22",
+   "class": "discontinued",
+   "sponsor": "TRIS PHARMA INC",
+   "products": [
+    {
+     "brand": "TUZISTRA XR",
+     "status": "Discontinued",
+     "form": "SUSPENSION, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA207931": {
+   "drug_srlc": "TECHNIVIE",
+   "bw_supplement": "2017-02-14",
+   "class": "discontinued",
+   "sponsor": "ABBVIE",
+   "products": [
+    {
+     "brand": "TECHNIVIE",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA207949": {
+   "drug_srlc": "CABAZITAXEL",
+   "bw_supplement": "2024-10-10",
+   "class": "discontinued",
+   "sponsor": "ACCORD HLTHCARE",
+   "products": [
+    {
+     "brand": "CABAZITAXEL",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA207999": {
+   "drug_srlc": "OCALIVA",
+   "bw_supplement": "2018-02-01",
+   "class": "discontinued",
+   "sponsor": "INTERCEPT",
+   "products": [
+    {
+     "brand": "OCALIVA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    },
+    {
+     "brand": "OCALIVA",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA208085": {
+   "drug_srlc": "XTRELUS",
+   "bw_supplement": "2025-12-22",
+   "class": "discontinued",
+   "sponsor": "ECI PHARMS LLC",
+   "products": [
+    {
+     "brand": "XTRELUS",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA208603": {
+   "drug_srlc": "ARYMO ER",
+   "bw_supplement": "2019-10-07",
+   "class": "discontinued",
+   "sponsor": "ZYLA",
+   "products": [
+    {
+     "brand": "ARYMO ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "ARYMO ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    },
+    {
+     "brand": "ARYMO ER",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA208624": {
+   "drug_srlc": "VIEKIRA XR",
+   "bw_supplement": "2017-02-14",
+   "class": "discontinued",
+   "sponsor": "ABBVIE",
+   "products": [
+    {
+     "brand": "VIEKIRA XR",
+     "status": "Discontinued",
+     "form": "TABLET, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA209566": {
+   "drug_srlc": "SEIZALAM",
+   "bw_supplement": "2021-02-05",
+   "class": "discontinued",
+   "sponsor": "MMT",
+   "products": [
+    {
+     "brand": "SEIZALAM",
+     "status": "Discontinued",
+     "form": "SOLUTION"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA209905": {
+   "drug_srlc": "EVEKEO ODT",
+   "bw_supplement": "2023-10-13",
+   "class": "discontinued",
+   "sponsor": "AZURITY",
+   "products": [
+    {
+     "brand": "EVEKEO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "EVEKEO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "EVEKEO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "EVEKEO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    },
+    {
+     "brand": "EVEKEO ODT",
+     "status": "Discontinued",
+     "form": "TABLET, ORALLY DISINTEGRATING"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA212595": {
+   "drug_srlc": "RIOMET ER",
+   "bw_supplement": "2026-08-11",
+   "class": "discontinued",
+   "sponsor": "SUN PHARM",
+   "products": [
+    {
+     "brand": "RIOMET ER",
+     "status": "Discontinued",
+     "form": "FOR SUSPENSION, EXTENDED RELEASE"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA213426": {
+   "drug_srlc": "SEGLENTIS",
+   "bw_supplement": "2023-12-15",
+   "class": "discontinued",
+   "sponsor": "KOWA PHARMS",
+   "products": [
+    {
+     "brand": "SEGLENTIS",
+     "status": "Discontinued",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": []
+  },
+  "NDA214900": {
+   "drug_srlc": "BREXAFEMME",
+   "bw_supplement": "2022-11-30",
+   "class": "marketed_no_spl_mapping",
+   "sponsor": "GLAXOSMITHKLINE",
+   "products": [
+    {
+     "brand": "BREXAFEMME",
+     "status": "Prescription",
+     "form": "TABLET"
+    }
+   ],
+   "openfda_spl_set_ids": [],
+   "openfda_brand_names": [],
+   "dailymed_by_name": {
+    "total": 0,
+    "spls": []
+   }
+  }
+ },
+ "method_note": "Drugs@FDA via openFDA by application number; 'marketed_spl_exists' means openFDA maps the application to an SPL set id although the DailyMed v2 query by application_number returned nothing (lookup gap on our side)."
+}

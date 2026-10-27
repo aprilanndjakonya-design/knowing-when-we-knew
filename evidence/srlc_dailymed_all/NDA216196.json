@@ -1,0 +1,111 @@
+{
+ "application": "NDA216196",
+ "srlc_rows": [
+  {
+   "drug_name": "AQVESME",
+   "active_ingredient": "MITAPIVAT SULFATE",
+   "application_number": "216196",
+   "application_type": "NDA",
+   "supplement_date": "12/23/2025",
+   "database_updated": "01/23/2026",
+   "drug_name_id": "3242"
+  },
+  {
+   "drug_name": "PYRUKYND",
+   "active_ingredient": "MITAPIVAT SULFATE",
+   "application_number": "216196",
+   "application_type": "NDA",
+   "supplement_date": "01/03/2025",
+   "database_updated": "01/07/2025",
+   "drug_name_id": "3070"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-23",
+ "srlc_database_updated": "2026-01-23",
+ "lag_days_srlc_database": 31,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "1d4e2654-1636-0d01-e063-6394a90af303",
+   "title": "AQVESME (MITAPIVAT) TABLET, FILM COATED [AGIOS PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2026-01-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-04-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-06-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-01-08"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "4ccee896-e313-4c6c-9674-b4746ada0a90",
+   "title": "PYRUKYND (MITAPIVAT) TABLET, FILM COATED PYRUKYND (MITAPIVAT) KIT [AGIOS PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 06, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-02-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-06-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-05-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-01-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-04-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-07-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-01-08"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T09:08:58Z"
+}

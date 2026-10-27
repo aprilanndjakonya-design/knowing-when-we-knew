@@ -1,0 +1,239 @@
+{
+ "application": "NDA017892",
+ "srlc_rows": [
+  {
+   "drug_name": "HALCION",
+   "active_ingredient": "TRIAZOLAM",
+   "application_number": "017892",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-55",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-49",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-55",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/27/2021",
+   "database_updated": "11/01/2021",
+   "drug_name_id": "603"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2021-11-01",
+ "lag_days_srlc_database": 269,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "5add318e-11b9-42f8-b052-0d8cebb32fcf",
+   "title": "TRIAZOLAM TABLET [MYLAN PHARMACEUTICALS INC.]",
+   "published_date": "Jul 13, 2026",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-01-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-05-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-02-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-07-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-07-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-09-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-10-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-09-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-08-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-08-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-03-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-04-03"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-12-04"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-03-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-09-03"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2021-11-26"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-02-20"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-06-13"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-09-05"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-01-14"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-05-30"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-01-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-07-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2021-03-15"
+   },
+   "lag_days_dailymed": 38,
+   "versions_before_supplement": 13
+  },
+  {
+   "setid": "7c67cf7d-2185-45d1-901b-e67d138d07a9",
+   "title": "TRIAZOLAM TABLET [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Apr 16, 2021",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 8,
+     "published_date": "2017-11-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-06-13"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-01-25"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-04-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2021-04-16"
+   },
+   "lag_days_dailymed": 70,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "97164a9c-4bc7-4f15-829e-5f9e653c7fa5",
+   "title": "TRIAZOLAM TABLET [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Nov 17, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-11-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "ce6ddb53-89ca-4edf-a519-553d34ce7938",
+   "title": "TRIAZOLAM TABLET [UNIT DOSE SERVICES]",
+   "published_date": "Nov 09, 2017",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-06-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-11-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "db1311ad-9732-4fdb-80dc-95b09077e3d0",
+   "title": "TRIAZOLAM TABLET [STAT RX USA LLC]",
+   "published_date": "Jun 11, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 38,
+ "fetched_utc": "2026-10-16T09:14:40Z"
+}

@@ -1,0 +1,40 @@
+{
+ "application": "BLA761274",
+ "srlc_rows": [
+  {
+   "drug_name": "YESAFILI",
+   "active_ingredient": "AFLIBERCEPT-JBVF",
+   "application_number": "761274",
+   "application_type": "BLA",
+   "supplement_date": "01/13/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "3239"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-13",
+ "srlc_database_updated": "2026-01-22",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7d69a7b0-9511-c030-3b85-13b23f9d2980",
+   "title": "YESAFILI (AFLIBERCEPT-JBVF) INJECTION, SOLUTION [BIOCON BIOLOGICS INC.]",
+   "published_date": "Aug 07, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 16,
+     "published_date": "2026-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2026-08-07"
+   },
+   "lag_days_dailymed": 206,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 206,
+ "fetched_utc": "2026-10-16T08:40:40Z"
+}

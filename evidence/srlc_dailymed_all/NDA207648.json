@@ -1,0 +1,76 @@
+{
+ "application": "NDA207648",
+ "srlc_rows": [
+  {
+   "drug_name": "SMOFLIPID 20%",
+   "active_ingredient": "",
+   "application_number": "207648",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2602"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-24",
+ "srlc_database_updated": "2025-07-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e0e9d917-ff6f-488e-a6a8-0ad59dd17d80",
+   "title": "SMOFLIPID INJECTION, EMULSION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Sep 17, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-07-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-08-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-04-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-05-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-09-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-01-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-05-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-07-31"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-09-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-09-17"
+   },
+   "lag_days_dailymed": 55,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 55,
+ "fetched_utc": "2026-10-16T09:02:33Z"
+}

@@ -1,0 +1,21 @@
+{
+ "application": "NDA021572",
+ "srlc_rows": [
+  {
+   "drug_name": "CUBICIN",
+   "active_ingredient": "DAPTOMYCIN",
+   "application_number": "021572",
+   "application_type": "NDA",
+   "supplement_date": "05/12/2025",
+   "database_updated": "06/03/2025",
+   "drug_name_id": "340"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-12",
+ "srlc_database_updated": "2025-06-03",
+ "lag_days_srlc_database": 22,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:52:25Z"
+}

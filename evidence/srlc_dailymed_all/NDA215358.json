@@ -1,0 +1,88 @@
+{
+ "application": "NDA215358",
+ "srlc_rows": [
+  {
+   "drug_name": "SCEMBLIX",
+   "active_ingredient": "ASCIMINIB HYDROCHLORIDE",
+   "application_number": "215358",
+   "application_type": "NDA",
+   "supplement_date": "09/22/2026",
+   "database_updated": "09/30/2026",
+   "drug_name_id": "2684"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-22",
+ "srlc_database_updated": "2026-09-30",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e33001e7-3650-42b1-ae56-cddb5c43aa2b",
+   "title": "SCEMBLIX (ASCIMINIB) TABLET, FILM COATED [NOVARTIS PHARMACEUTICALS CORPORATION]",
+   "published_date": "Sep 29, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-11-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-10-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-10-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-08-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-11-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-06-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-12-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-09-29"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:08:17Z"
+}

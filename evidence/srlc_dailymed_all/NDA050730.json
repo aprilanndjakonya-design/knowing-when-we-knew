@@ -1,0 +1,21 @@
+{
+ "application": "NDA050730",
+ "srlc_rows": [
+  {
+   "drug_name": "ZITHROMAX",
+   "active_ingredient": "AZITHROMYCIN",
+   "application_number": "050730",
+   "application_type": "NDA",
+   "supplement_date": "07/13/2026",
+   "database_updated": "07/20/2026",
+   "drug_name_id": "243"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-13",
+ "srlc_database_updated": "2026-07-20",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:57:51Z"
+}

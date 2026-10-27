@@ -1,0 +1,56 @@
+{
+ "application": "BLA761100",
+ "srlc_rows": [
+  {
+   "drug_name": "ONTRUZANT",
+   "active_ingredient": "TRASTUZUMAB-DTTB",
+   "application_number": "761100",
+   "application_type": "BLA",
+   "supplement_date": "02/28/2025",
+   "database_updated": "03/03/2025",
+   "drug_name_id": "3086"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-28",
+ "srlc_database_updated": "2025-03-03",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ce2a2492-85e3-4b0a-872a-047f44e4203d",
+   "title": "ONTRUZANT (TRASTUZUMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION ONTRUZANT KIT [ORGANON LLC]",
+   "published_date": "Apr 24, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-01-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-07-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-04-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-03-17"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:39:25Z"
+}

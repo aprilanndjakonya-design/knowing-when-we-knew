@@ -1,0 +1,383 @@
+{
+ "application": "NDA202293",
+ "srlc_rows": [
+  {
+   "drug_name": "FARXIGA",
+   "active_ingredient": "DAPAGLIFLOZIN PROPANEDIOL",
+   "application_number": "202293",
+   "application_type": "NDA",
+   "supplement_date": "06/03/2026",
+   "database_updated": "06/11/2026",
+   "drug_name_id": "105"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-03",
+ "srlc_database_updated": "2026-06-11",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 7,
+ "labels": [
+  {
+   "setid": "ef9e9c8c-5460-4193-952a-0c249dd071bd",
+   "title": "FARXIGA (DAPAGLIFLOZIN) TABLET, FILM COATED [REMEDYREPACK INC.]",
+   "published_date": "Sep 21, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-09-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-09-21"
+   },
+   "lag_days_dailymed": 110,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "72ad22ae-efe6-4cd6-a302-98aaee423d69",
+   "title": "FARXIGA (DAPAGLIFLOZIN) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Sep 11, 2026",
+   "spl_version": 49,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-01-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-03-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-12-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-03-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-06-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-08-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-08-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-03-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-10-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-10-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-10-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-01-28"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-03-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-10-28"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-02-07"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-05-07"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-09-02"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-12-04"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-03-18"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-05-11"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-07-22"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-10-19"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2022-12-28"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2023-02-01"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-05-18"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2023-09-18"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2024-01-15"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2024-06-19"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2024-06-27"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2024-10-31"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2026-04-30"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2026-06-10"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2026-08-26"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2026-09-07"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2026-09-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 46,
+    "published_date": "2026-06-10"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 35
+  },
+  {
+   "setid": "3aba33aa-f8c6-4b10-85c8-dfa14578d07c",
+   "title": "DAPAGLIFLOZIN TABLET, FILM COATED [PRASCO LABORATORIES]",
+   "published_date": "Aug 10, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-01-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-07-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-08-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-08-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-10-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-06-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-04-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-06-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-08-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-06-11"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "01f90c94-71cb-4a1f-81ff-8004b850529b",
+   "title": "FARXIGA (DAPAGLIFLOZIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 13, 2026",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-06-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-05-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-06-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-12-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-07-07"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-07-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2026-07-07"
+   },
+   "lag_days_dailymed": 34,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "979205ee-b0b8-4483-ae61-f283f750bb7f",
+   "title": "DAPAGLIFLOZIN TABLET, FILM COATED [BRYANT RANCH PREPACK]",
+   "published_date": "Aug 20, 2024",
+   "spl_version": 101,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2024-02-07"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2024-08-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "82cdd5ad-df2b-4bdd-a3a6-a059040100b4",
+   "title": "DAPAGLIFLOZIN TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 01, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-01-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-03-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "87521963-0d2a-4a2a-89c6-d50e8582419e",
+   "title": "DAPAGLIFLOZIN TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 01, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-01-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-03-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T08:59:22Z"
+}

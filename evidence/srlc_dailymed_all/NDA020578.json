@@ -1,0 +1,65 @@
+{
+ "application": "NDA020578",
+ "srlc_rows": [
+  {
+   "drug_name": "ZOLADEX",
+   "active_ingredient": "GOSERELIN ACETATE",
+   "application_number": "020578",
+   "application_type": "NDA",
+   "supplement_date": "05/06/2026",
+   "database_updated": "05/13/2026",
+   "drug_name_id": "3195"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-06",
+ "srlc_database_updated": "2026-05-13",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e4cb3c20-2738-400a-b522-3f36f71fe6c5",
+   "title": "ZOLADEX (GOSERELIN) IMPLANT [TERSERA THERAPEUTICS LLC]",
+   "published_date": "Mar 26, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-01-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-08-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-07-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-07-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-10-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:47:53Z"
+}

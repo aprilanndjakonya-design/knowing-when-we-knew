@@ -1,0 +1,131 @@
+{
+ "application": "NDA021259",
+ "srlc_rows": [
+  {
+   "drug_name": "METADATE CD",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021259",
+   "application_type": "NDA",
+   "supplement_date": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "699"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-23",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "29f06562-6b6a-4ca6-b62e-d08a45fb3dd4",
+   "title": "METADATE CD (METHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [LANNETT COMPANY, LLC]",
+   "published_date": "Aug 17, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2026-08-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-08-17"
+   },
+   "lag_days_dailymed": 328,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "e45c75dc-d381-475b-b649-a871c8a36e60",
+   "title": "METHYLPHENIDATE HYDROCHLORIDE CD (METHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [LANNETT COMPANY, LLC]",
+   "published_date": "Aug 17, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-09-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-03-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-05-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-06-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-07-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-08-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 55,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "be59f8b4-7842-42cc-9559-bfa747f0baa5",
+   "title": "METADATE CD (METHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [AYTU BIOPHARMA, INC.]",
+   "published_date": "Nov 19, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-01-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-11-19"
+   },
+   "lag_days_dailymed": 57,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "be6f8d00-9281-4f67-b8fc-3de58a4d14f4",
+   "title": "METADATE CD (METHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Mar 10, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-03-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 55,
+ "fetched_utc": "2026-10-16T08:50:09Z"
+}

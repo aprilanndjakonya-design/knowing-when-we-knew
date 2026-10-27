@@ -1,0 +1,338 @@
+{
+ "application": "NDA020083",
+ "srlc_rows": [
+  {
+   "drug_name": "SPORANOX",
+   "active_ingredient": "ITRACONAZOLE",
+   "application_number": "020083",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2024",
+   "supplement": "SUPPL-68",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/17/2017",
+     "suppl": "SUPPL-60",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Drug Interactions",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "10/07/2017",
+     "suppl": "SUPPL-61",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Drug Interactions",
+      "Warnings and Precautions",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "12/05/2022",
+     "suppl": "SUPPL-65",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "10/19/2023",
+     "suppl": "SUPPL-67",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "02/05/2024",
+     "suppl": "SUPPL-68",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/07/2026",
+   "database_updated": "07/16/2026",
+   "drug_name_id": "914"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-02-05",
+ "srlc_database_updated": "2026-07-16",
+ "lag_days_srlc_database": 892,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "a4d555fa-787c-40fb-bb7d-b0d4f7318fd0",
+   "title": "SPORANOX (ITRACONAZOLE) CAPSULE [JANSSEN PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-12-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-02-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-02-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-07-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-05-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-07-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-06-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-04-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-09-13"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-09-30"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-11-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-03-29"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-08-09"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-10-19"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-05-18"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-03-21"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-04-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-12-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-10-24"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-08-21"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-11-02"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-02-16"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-01-01"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-02-23"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2024-02-16"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 22
+  },
+  {
+   "setid": "6242b7ad-eaa0-a524-b6e0-ec33e63407db",
+   "title": "ITRACONAZOLE CAPSULE [PATRIOT PHARMACEUTICALS]",
+   "published_date": "Jan 30, 2025",
+   "spl_version": 28,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2010-05-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-07-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-05-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-06-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-08-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-05-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-09-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-10-11"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-11-28"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-04-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-04-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-11-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-06-07"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-08-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-03-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-04-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-12-16"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-10-07"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2022-12-23"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-11-17"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-03-27"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-01-24"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-01-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2024-03-27"
+   },
+   "lag_days_dailymed": 51,
+   "versions_before_supplement": 20
+  },
+  {
+   "setid": "31735974-a7ac-42b5-8ce1-4d8dc2808c3a",
+   "title": "ITRACONAZOLE CAPSULE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 05, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-08-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:16:37Z"
+}

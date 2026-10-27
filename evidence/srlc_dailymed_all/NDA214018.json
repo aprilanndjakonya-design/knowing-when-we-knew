@@ -1,0 +1,44 @@
+{
+ "application": "NDA214018",
+ "srlc_rows": [
+  {
+   "drug_name": "NULIBRY",
+   "active_ingredient": "FOSDENOPTERIN HYDROBROMIDE",
+   "application_number": "214018",
+   "application_type": "NDA",
+   "supplement_date": "05/26/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "3289"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-26",
+ "srlc_database_updated": "2026-06-01",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "736aeea3-f206-454d-95d0-fd30964e8aab",
+   "title": "NULIBRY (FOSDENOPTERIN HYDROBROMIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [SENTYNL THERAPEUTICS, INC. ]",
+   "published_date": "Jun 10, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2023-04-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-06-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-06-10"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:07:15Z"
+}

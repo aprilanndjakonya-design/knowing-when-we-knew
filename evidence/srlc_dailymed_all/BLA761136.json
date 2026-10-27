@@ -1,0 +1,92 @@
+{
+ "application": "BLA761136",
+ "srlc_rows": [
+  {
+   "drug_name": "REBLOZYL",
+   "active_ingredient": "LUSPATERCEPT-AAMT",
+   "application_number": "761136",
+   "application_type": "BLA",
+   "supplement_date": "02/27/2026",
+   "database_updated": "03/06/2026",
+   "drug_name_id": "2643"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-27",
+ "srlc_database_updated": "2026-03-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "82f4d266-3f52-41eb-86ba-0abf3cf468e8",
+   "title": "REBLOZYL (LUSPATERCEPT) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CELGENE CORPORATION]",
+   "published_date": "Mar 12, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-11-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-11-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-01-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-04-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-11-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-09-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-09-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-11-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-06-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-08-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2023-09-07"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-05-30"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-03-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2026-03-12"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:39:45Z"
+}

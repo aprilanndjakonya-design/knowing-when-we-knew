@@ -1,0 +1,52 @@
+{
+ "application": "NDA203050",
+ "srlc_rows": [
+  {
+   "drug_name": "POSFREA",
+   "active_ingredient": "PALONOSETRON HYDROCHLORIDE",
+   "application_number": "203050",
+   "application_type": "NDA",
+   "supplement_date": "04/16/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "3112"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-16",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 43,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7",
+   "title": "POSFREA (PALONOSETRON) INJECTION, SOLUTION [AVYXA PHARMA, LLC]",
+   "published_date": "Apr 30, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-07-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-08-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-10-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-04-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-04-30"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:59:45Z"
+}

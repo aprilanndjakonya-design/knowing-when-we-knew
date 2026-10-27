@@ -1,0 +1,297 @@
+{
+ "application": "NDA050710",
+ "srlc_rows": [
+  {
+   "drug_name": "ZITHROMAX",
+   "active_ingredient": "AZITHROMYCIN",
+   "application_number": "050710",
+   "application_type": "NDA",
+   "supplement_date": "07/13/2026",
+   "database_updated": "07/20/2026",
+   "drug_name_id": "244"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-13",
+ "srlc_database_updated": "2026-07-20",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 8,
+ "labels": [
+  {
+   "setid": "db52b91e-79f7-4cc1-9564-f2eee8e31c45",
+   "title": "ZITHROMAX (AZITHROMYCIN DIHYDRATE) TABLET, FILM COATED ZITHROMAX (AZITHROMYCIN DIHYDRATE) POWDER, FOR SUSPENSION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jul 29, 2026",
+   "spl_version": 49,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-06-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2011-03-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2013-04-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-04-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2014-12-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2015-03-13"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2015-12-01"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-01-20"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2016-04-06"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2016-06-15"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-03-28"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-04-17"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2018-02-13"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-09-17"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2018-09-25"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2019-03-28"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-05-30"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2020-01-15"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2020-01-16"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2020-07-06"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2020-11-05"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2021-03-22"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2021-04-08"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2021-12-07"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2022-03-03"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2022-11-14"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2023-09-28"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2023-11-09"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2024-05-22"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2025-02-05"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2026-01-08"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2026-07-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 49,
+    "published_date": "2026-07-29"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 33
+  },
+  {
+   "setid": "cb6a684f-7f12-89df-e053-2a95a90acdee",
+   "title": "AZITHROMYCIN POWDER, FOR SUSPENSION [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "Jul 17, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-09-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-07-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "f7707074-02d4-66a6-e053-6394a90a646a",
+   "title": "AZITHROMYCIN POWDER, FOR SUSPENSION [NUCARE PHARMACEUTICALS,INC,]",
+   "published_date": "Mar 29, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-03-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "e297fd4b-e0f7-4257-9827-729f936e2ba9",
+   "title": "AZITHROMYCIN POWDER, FOR SUSPENSION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 18, 2022",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2018-02-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-08-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-05-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "6eeade68-7194-45b0-86c3-4c2010c9783e",
+   "title": "AZITHROMYCIN POWDER, FOR SUSPENSION [CENTRAL TEXAS COMMUNITY HEALTH CENTERS]",
+   "published_date": "Nov 21, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-11-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "cccd0bf7-bb87-4586-85b4-4bd622daeba7",
+   "title": "AZITHROMYCIN POWDER, FOR SUSPENSION [CENTRAL TEXAS COMMUNITY HEALTH CENTERS]",
+   "published_date": "Aug 30, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-08-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "84a179f2-08a3-47a4-81cb-aea0abef5547",
+   "title": "AZITHROMYCIN POWDER, FOR SUSPENSION [CENTRAL TEXAS COMMUNITY HEALTH CENTERS]",
+   "published_date": "Aug 22, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-08-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2dc92556-ca5a-608c-e054-00144ff88e88",
+   "title": "AZITHROMYCIN TABLET, FILM COATED AZITHROMYCIN POWDER, FOR SUSPENSION [DEPARTMENT OF STATE HEALTH SERVICES, PHARMACY BRANCH]",
+   "published_date": "Mar 14, 2016",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-03-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-03-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:57:27Z"
+}

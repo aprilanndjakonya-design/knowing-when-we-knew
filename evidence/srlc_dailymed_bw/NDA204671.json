@@ -1,0 +1,114 @@
+{
+ "application": "NDA204671",
+ "srlc_rows": [
+  {
+   "drug_name": "SOVALDI",
+   "active_ingredient": "SOFOSBUVIR",
+   "application_number": "204671",
+   "application_type": "NDA",
+   "supplement_date": "02/14/2017",
+   "supplement": "SUPPL-7",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/14/2017",
+     "suppl": "SUPPL-7",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/23/2024",
+   "database_updated": "12/27/2024",
+   "drug_name_id": "845"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-02-14",
+ "srlc_database_updated": "2024-12-27",
+ "lag_days_srlc_database": 2873,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "80beab2c-396e-4a37-a4dc-40fdb62859cf",
+   "title": "SOVALDI (SOFOSBUVIR) TABLET, FILM COATED SOVALDI (SOFOSBUVIR) PELLET [GILEAD SCIENCES, INC.]",
+   "published_date": "Jan 13, 2025",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-12-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-11-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-04-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-07-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-09-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-02-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-04-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-10-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-11-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-10-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-03-20"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-12-22"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-04-20"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-01-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2017-02-27"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:27:30Z"
+}

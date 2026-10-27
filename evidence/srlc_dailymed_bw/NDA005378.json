@@ -1,0 +1,36 @@
+{
+ "application": "NDA005378",
+ "srlc_rows": [
+  {
+   "drug_name": "DESOXYN",
+   "active_ingredient": "METHAMPHETAMINE HYDROCHLORIDE",
+   "application_number": "005378",
+   "application_type": "NDA",
+   "supplement_date": "10/13/2023",
+   "supplement": "SUPPL-38",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/13/2023",
+     "suppl": "SUPPL-38",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/24/2024",
+   "database_updated": "09/30/2024",
+   "drug_name_id": "663"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-13",
+ "srlc_database_updated": "2024-09-30",
+ "lag_days_srlc_database": 353,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:13:25Z"
+}

@@ -1,0 +1,109 @@
+{
+ "application": "NDA216117",
+ "srlc_rows": [
+  {
+   "drug_name": "RELEXXII",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "216117",
+   "application_type": "NDA",
+   "supplement_date": "10/13/2023",
+   "supplement": "SUPPL-1",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/13/2023",
+     "suppl": "SUPPL-1",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2865"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-13",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 714,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "22d5fa47-b5b9-4fd9-980c-4eb88e95ae5d",
+   "title": "RELEXXII (METHYLPHENIDATE HYDROCHLORIDE) TABLET, EXTENDED RELEASE [VERTICAL PHARMACEUTICALS, LLC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-07-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-10-31"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-01-26"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-01-30"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-03-07"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-08-09"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2023-10-31"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "dd8d7b6e-c23d-4e16-bb53-959e9127ebc6",
+   "title": "METHYLPHENIDATE HYDROCHLORIDE TABLET, EXTENDED RELEASE [TRIGEN LABORATORIES, LLC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 48,
+   "versions": [
+    {
+     "spl_version": 45,
+     "published_date": "2022-07-14"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2023-11-21"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2025-09-22"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 46,
+    "published_date": "2023-11-21"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T09:29:35Z"
+}

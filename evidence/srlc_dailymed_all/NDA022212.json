@@ -1,0 +1,101 @@
+{
+ "application": "NDA022212",
+ "srlc_rows": [
+  {
+   "drug_name": "DUREZOL",
+   "active_ingredient": "DIFLUPREDNATE",
+   "application_number": "022212",
+   "application_type": "NDA",
+   "supplement_date": "07/15/2025",
+   "database_updated": "07/21/2025",
+   "drug_name_id": "320"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-15",
+ "srlc_database_updated": "2025-07-21",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "0f60b857-7898-4a9e-935c-a9ddf0eb9194",
+   "title": "DIFLUPREDNATE OPHTHALMIC EMULSION [SANDOZ INC]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-09-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-12-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-08-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-08-07"
+   },
+   "lag_days_dailymed": 23,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "ea520a27-f569-4b31-8bad-a25ad54b2caa",
+   "title": "DUREZOL (DIFLUPREDNATE) EMULSION [SANDOZ INC]",
+   "published_date": "Aug 21, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-08-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-08-06"
+   },
+   "lag_days_dailymed": 22,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "40ac0711-e2c3-4753-ac58-cb99f558f293",
+   "title": "DUREZOL EMULSION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Sep 08, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 22,
+ "fetched_utc": "2026-10-16T08:54:37Z"
+}

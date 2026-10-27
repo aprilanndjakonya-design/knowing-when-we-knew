@@ -1,0 +1,76 @@
+{
+ "application": "NDA217677",
+ "srlc_rows": [
+  {
+   "drug_name": "OGSIVEO",
+   "active_ingredient": "NIROGACESTAT HYDROBROMIDE",
+   "application_number": "217677",
+   "application_type": "NDA",
+   "supplement_date": "08/20/2026",
+   "database_updated": "08/27/2026",
+   "drug_name_id": "3260"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-20",
+ "srlc_database_updated": "2026-08-27",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f172e6ff-3190-41b0-b95a-58a7ef9e9e1e",
+   "title": "OGSIVEO (NIROGACESTAT) TABLET, FILM COATED [SPRINGWORKS THERAPEUTICS, INC.]",
+   "published_date": "Sep 02, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2023-12-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-12-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-11-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-03-26"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-08-10"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-09-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2026-09-02"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:10:03Z"
+}

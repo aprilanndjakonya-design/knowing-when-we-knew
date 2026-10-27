@@ -1,0 +1,40 @@
+{
+ "application": "NDA207999",
+ "srlc_rows": [
+  {
+   "drug_name": "OCALIVA",
+   "active_ingredient": "OBETICHOLIC ACID",
+   "application_number": "207999",
+   "application_type": "NDA",
+   "supplement_date": "02/01/2018",
+   "supplement": "SUPPL-3",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/01/2018",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/26/2021",
+   "database_updated": "06/03/2021",
+   "drug_name_id": "1438"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-02-01",
+ "srlc_database_updated": "2021-06-03",
+ "lag_days_srlc_database": 1218,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:28:15Z"
+}

@@ -1,0 +1,91 @@
+{
+ "application": "NDA212614",
+ "srlc_rows": [
+  {
+   "drug_name": "TRIJARDY XR",
+   "active_ingredient": "EMPAGLIFLOZIN; LINAGLIPTIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "212614",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "supplement": "SUPPL-32",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/11/2026",
+     "suppl": "SUPPL-32",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "2352"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "71873567-9594-452a-bb92-34a129adecac",
+   "title": "TRIJARDY XR (EMPAGLIFLOZIN, LINAGLIPTIN, METFORMIN HYDROCHLORIDE) TABLET, EXTENDED RELEASE [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 25, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-04-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-11-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-06-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-10-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-11-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-06-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-12-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-08-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-08-25"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:29:23Z"
+}

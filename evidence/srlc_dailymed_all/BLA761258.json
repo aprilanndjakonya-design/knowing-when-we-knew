@@ -1,0 +1,44 @@
+{
+ "application": "BLA761258",
+ "srlc_rows": [
+  {
+   "drug_name": "PENPULIMAB-KCQX",
+   "active_ingredient": "PENPULIMAB-KCQX",
+   "application_number": "761258",
+   "application_type": "BLA",
+   "supplement_date": "08/31/2026",
+   "database_updated": "09/09/2026",
+   "drug_name_id": "3323"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-31",
+ "srlc_database_updated": "2026-09-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "830004e8-31af-4cc6-ab16-e870cab1c5ca",
+   "title": "PENPULIMAB KCQX (PENPULIMAB) INJECTION [AKESO BIOPHARMA, CO., LTD]",
+   "published_date": "Sep 10, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-04-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-09-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-09-10"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:40:33Z"
+}

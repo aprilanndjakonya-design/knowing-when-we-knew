@@ -1,0 +1,163 @@
+{
+ "application": "BLA125545",
+ "srlc_rows": [
+  {
+   "drug_name": "RETACRIT",
+   "active_ingredient": "EPOETIN ALFA-EPBX",
+   "application_number": "125545",
+   "application_type": "BLA",
+   "supplement_date": "06/04/2024",
+   "supplement": "SUPPL-32",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/04/2024",
+     "suppl": "SUPPL-32",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/04/2024",
+   "database_updated": "06/06/2024",
+   "drug_name_id": "1849"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-06-04",
+ "srlc_database_updated": "2024-06-06",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "3af26b0d-8ad0-44e1-a538-8bdb5ab39374",
+   "title": "RETACRIT (EPOETIN ALFA-EPBX) INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jun 26, 2025",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2018-06-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-01-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-02-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-06-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-07-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-11-13"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-06-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-07-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-05-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-06-16"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-06-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-06-21"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2024-06-17"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "e6e4dd0c-25ca-40b2-ba6b-6138a68621fe",
+   "title": "RETACRIT (EPOETIN ALFA-EPBX) INJECTION, SOLUTION [VIFOR (INTERNATIONAL) INC.]",
+   "published_date": "Jun 26, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-06-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-01-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-06-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-06-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-07-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-11-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-12-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-06-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-05-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-06-27"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2024-06-27"
+   },
+   "lag_days_dailymed": 23,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:12:54Z"
+}

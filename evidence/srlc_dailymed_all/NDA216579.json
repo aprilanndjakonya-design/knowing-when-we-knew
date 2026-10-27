@@ -1,0 +1,21 @@
+{
+ "application": "NDA216579",
+ "srlc_rows": [
+  {
+   "drug_name": "SYMBICORT AEROSPHERE",
+   "active_ingredient": "BUDESONIDE; FORMOTEROL FUMARATE",
+   "application_number": "216579",
+   "application_type": "NDA",
+   "supplement_date": "04/27/2026",
+   "database_updated": "05/04/2026",
+   "drug_name_id": "3281"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-04-27",
+ "srlc_database_updated": "2026-05-04",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:09:11Z"
+}

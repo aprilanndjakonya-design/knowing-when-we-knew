@@ -1,0 +1,49 @@
+{
+ "application": "NDA218772",
+ "srlc_rows": [
+  {
+   "drug_name": "ARBLI",
+   "active_ingredient": "LOSARTAN POTASSIUM",
+   "application_number": "218772",
+   "application_type": "NDA",
+   "supplement_date": "02/18/2026",
+   "database_updated": "02/24/2026",
+   "drug_name_id": "3253"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-18",
+ "srlc_database_updated": "2026-02-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "afd2d1ba-e7af-4e4e-8b7e-a9f72612fc97",
+   "title": "ARBLI (LOSARTAN POTASSIUM) SUSPENSION [SCIENTURE LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:10:40Z"
+}

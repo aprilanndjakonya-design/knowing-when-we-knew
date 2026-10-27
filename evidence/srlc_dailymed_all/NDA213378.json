@@ -1,0 +1,68 @@
+{
+ "application": "NDA213378",
+ "srlc_rows": [
+  {
+   "drug_name": "LYBALVI",
+   "active_ingredient": "OLANZAPINE; SAMIDORPHAN L-MALATE",
+   "application_number": "213378",
+   "application_type": "NDA",
+   "supplement_date": "01/30/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "2853"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-30",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "32ffddd1-4e2b-45d9-9b36-bb730167ec80",
+   "title": "LYBALVI (OLANZAPINE AND SAMIDORPHAN L-MALATE) TABLET, FILM COATED [ALKERMES, INC.]",
+   "published_date": "Feb 16, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-09-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-03-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-10-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-02-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-02-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2026-02-16"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:06:52Z"
+}

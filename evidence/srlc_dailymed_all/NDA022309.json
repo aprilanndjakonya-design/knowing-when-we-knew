@@ -1,0 +1,82 @@
+{
+ "application": "NDA022309",
+ "srlc_rows": [
+  {
+   "drug_name": "ANDROGEL",
+   "active_ingredient": "TESTOSTERONE",
+   "application_number": "022309",
+   "application_type": "NDA",
+   "supplement_date": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "486"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-11",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "0d84e5a6-11e9-4940-8991-21c611c4c32f",
+   "title": "TESTOSTERONE GEL [PRASCO LABORATORIES]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-06-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 129,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f4e8d29b-8707-4d47-e053-2a95a90aecee",
+   "title": "ANDROGEL (TESTOSTERONE) GEL [ASCEND THERAPEUTICS U.S., LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 130,
+   "versions": [
+    {
+     "spl_version": 125,
+     "published_date": "2023-02-20"
+    },
+    {
+     "spl_version": 126,
+     "published_date": "2023-03-08"
+    },
+    {
+     "spl_version": 127,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 128,
+     "published_date": "2024-09-20"
+    },
+    {
+     "spl_version": 129,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 130,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 129,
+    "published_date": "2025-08-11"
+   },
+   "lag_days_dailymed": 31,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 31,
+ "fetched_utc": "2026-10-16T08:55:01Z"
+}

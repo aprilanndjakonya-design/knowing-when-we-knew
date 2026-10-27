@@ -1,0 +1,40 @@
+{
+ "application": "NDA215841",
+ "srlc_rows": [
+  {
+   "drug_name": "LOCAMETZ",
+   "active_ingredient": "GALLIUM GA-68 GOZETOTIDE",
+   "application_number": "215841",
+   "application_type": "NDA",
+   "supplement_date": "03/28/2025",
+   "database_updated": "04/03/2025",
+   "drug_name_id": "3098"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-28",
+ "srlc_database_updated": "2025-04-03",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8683b06e-4901-4526-89ad-23a8fe2d1331",
+   "title": "LOCAMETZ (KIT FOR THE PREPARATION OF GALLIUM GA 68 GOZETOTIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+   "published_date": "Jan 16, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-01-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-01-16"
+   },
+   "lag_days_dailymed": 294,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 294,
+ "fetched_utc": "2026-10-16T09:08:37Z"
+}

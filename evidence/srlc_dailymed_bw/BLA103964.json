@@ -1,0 +1,86 @@
+{
+ "application": "BLA103964",
+ "srlc_rows": [
+  {
+   "drug_name": "PEGASYS",
+   "active_ingredient": "PEGINTERFERON ALFA-2A",
+   "application_number": "103964",
+   "application_type": "BLA",
+   "supplement_date": "12/11/2023",
+   "supplement": "SUPPL-5276",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/11/2023",
+     "suppl": "SUPPL-5276",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/11/2023",
+   "database_updated": "12/13/2023",
+   "drug_name_id": "1303"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-11",
+ "srlc_database_updated": "2023-12-13",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d9290e5b-6d40-2318-e053-2995a90a9916",
+   "title": "PEGASYS (PEGINTERFERON ALFA-2A) INJECTION, SOLUTION [PHARMAAND GMBH]",
+   "published_date": "Sep 04, 2026",
+   "spl_version": 46,
+   "versions": [
+    {
+     "spl_version": 38,
+     "published_date": "2022-03-02"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2024-01-05"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2024-02-28"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2024-03-01"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2024-12-25"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2025-08-20"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2026-07-08"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2026-09-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 39,
+    "published_date": "2024-01-05"
+   },
+   "lag_days_dailymed": 25,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 25,
+ "fetched_utc": "2026-10-16T09:12:18Z"
+}

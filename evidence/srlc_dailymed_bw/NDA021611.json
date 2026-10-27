@@ -1,0 +1,65 @@
+{
+ "application": "NDA021611",
+ "srlc_rows": [
+  {
+   "drug_name": "OPANA",
+   "active_ingredient": "OXYMORPHONE HYDROCHLORIDE",
+   "application_number": "021611",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-15",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-10",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/25/2019",
+   "database_updated": "10/31/2019",
+   "drug_name_id": "671"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2019-10-31",
+ "lag_days_srlc_database": 408,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "285e60f8-2404-47d0-a171-a4f075d6f418",
+   "title": "OPANA (OXYMORPHONE HYDROCHLORIDE) TABLET [STAT RX USA LLC]",
+   "published_date": "Jan 18, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-01-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:22:49Z"
+}

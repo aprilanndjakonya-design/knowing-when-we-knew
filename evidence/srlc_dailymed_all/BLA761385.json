@@ -1,0 +1,21 @@
+{
+ "application": "BLA761385",
+ "srlc_rows": [
+  {
+   "drug_name": "PONLIMSI",
+   "active_ingredient": "DENOSUMAB-ADET",
+   "application_number": "761385",
+   "application_type": "BLA",
+   "supplement_date": "09/29/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "3351"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-29",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:41:48Z"
+}

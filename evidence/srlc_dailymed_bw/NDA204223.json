@@ -1,0 +1,134 @@
+{
+ "application": "NDA204223",
+ "srlc_rows": [
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "204223",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-25",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-6",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-25",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "729"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 754,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "1f53de80-efc8-4930-b3e3-fba0d026af05",
+   "title": "MORPHINE SULFATE INJECTION, SOLUTION [FRESENIUS KABI, USA LLC]",
+   "published_date": "Sep 10, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-03-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-02-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-04-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-09-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2024-01-10"
+   },
+   "lag_days_dailymed": 26,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "582f42e5-444e-4246-af8c-e7e28097c69a",
+   "title": "MORPHINE SULFATE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Sep 02, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-04-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-05-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-06-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-02-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-10-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-03-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-09-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2024-10-21"
+   },
+   "lag_days_dailymed": 311,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 26,
+ "fetched_utc": "2026-10-16T09:27:11Z"
+}

@@ -1,0 +1,222 @@
+{
+ "application": "NDA021882",
+ "srlc_rows": [
+  {
+   "drug_name": "EXJADE",
+   "active_ingredient": "DEFERASIROX",
+   "application_number": "021882",
+   "application_type": "NDA",
+   "supplement_date": "05/11/2018",
+   "supplement": "SUPPL-25",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/11/2018",
+     "suppl": "SUPPL-25",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/23/2020",
+   "database_updated": "07/28/2020",
+   "drug_name_id": "267"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-05-11",
+ "srlc_database_updated": "2020-07-28",
+ "lag_days_srlc_database": 809,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "3495a70c-870c-4968-940e-8baea152cf85",
+   "title": "EXJADE (DEFERASIROX) TABLET, FOR SUSPENSION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+   "published_date": "Jan 30, 2026",
+   "spl_version": 49,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-12-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-12-21"
+    },
+    {
+     "spl_version": 1,
+     "published_date": "2008-12-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-06-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2009-12-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2010-04-28"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-04-25"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-08-26"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-09-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2011-12-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2012-01-18"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2012-06-27"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2012-09-28"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2013-01-31"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2013-06-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2013-06-11"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2013-10-30"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2015-07-31"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2015-12-21"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2016-08-19"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2018-01-02"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-05-23"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-12-03"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2018-12-21"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2019-06-05"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2019-08-08"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2019-11-19"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2020-06-15"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2020-08-07"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2020-12-14"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2021-07-13"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2021-08-12"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2022-07-11"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2023-01-26"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2023-08-09"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2024-07-04"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2025-06-18"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2025-08-14"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2026-01-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2018-05-23"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 22
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:23:17Z"
+}

@@ -1,0 +1,96 @@
+{
+ "application": "NDA217388",
+ "srlc_rows": [
+  {
+   "drug_name": "WAINUA (AUTOINJECTOR)",
+   "active_ingredient": "EPLONTERSEN SODIUM",
+   "application_number": "217388",
+   "application_type": "NDA",
+   "supplement_date": "04/15/2026",
+   "database_updated": "04/20/2026",
+   "drug_name_id": "3278"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-04-15",
+ "srlc_database_updated": "2026-04-20",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d7dcb847-71dd-4fff-82d0-d43a465fc096",
+   "title": "WAINUA (EPLONTERSEN) INJECTION, SOLUTION [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Apr 30, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-01-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-04-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-10-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-04-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-06-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-06-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-03-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-03-30"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-04-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2026-04-30"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 14
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:09:47Z"
+}

@@ -1,0 +1,171 @@
+{
+ "application": "NDA017854",
+ "srlc_rows": [
+  {
+   "drug_name": "REGLAN",
+   "active_ingredient": "METOCLOPRAMIDE HYDROCHLORIDE",
+   "application_number": "017854",
+   "application_type": "NDA",
+   "supplement_date": "02/09/2026",
+   "supplement": "SUPPL-71",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/29/2017",
+     "suppl": "SUPPL-62",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "02/09/2026",
+     "suppl": "SUPPL-71",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/09/2026",
+   "database_updated": "02/11/2026",
+   "drug_name_id": "1246"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-09",
+ "srlc_database_updated": "2026-02-11",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "c4828095-94e0-4f71-901c-93837974c658",
+   "title": "METOCLOPRAMIDE TABLET [REMEDYREPACK INC.]",
+   "published_date": "Sep 18, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-12-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-09-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-09-18"
+   },
+   "lag_days_dailymed": 221,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "797aad80-0597-42f8-99d5-39de180c3b5a",
+   "title": "METOCLOPRAMIDE TABLET [ANI PHARMACEUTICALS, INC.]",
+   "published_date": "May 25, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-12-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-05-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-05-25"
+   },
+   "lag_days_dailymed": 105,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "de55c133-eb08-4a35-91a2-5dc093027397",
+   "title": "REGLAN (METOCLOPRAMIDE HYDROCHLORIDE) TABLET [ANI PHARMACEUTICALS, INC.]",
+   "published_date": "Feb 16, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-09-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-12-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-09-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-12-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-05-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-06-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-02-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-02-16"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "49eb807b-fa34-3d84-e063-6394a90acfcf",
+   "title": "METOCLOPRAMIDE TABLET [REDPHARM DRUG]",
+   "published_date": "Feb 05, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-02-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "55f1ee88-a455-44ba-b51a-2fcefe8eda65",
+   "title": "REGLAN (METOCLOPRAMIDE HYDROCHLORIDE) TABLET [STAT RX USA LLC]",
+   "published_date": "Oct 28, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-10-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:14:35Z"
+}

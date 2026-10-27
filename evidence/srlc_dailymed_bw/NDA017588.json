@@ -1,0 +1,141 @@
+{
+ "application": "NDA017588",
+ "srlc_rows": [
+  {
+   "drug_name": "GLEOSTINE",
+   "active_ingredient": "LOMUSTINE",
+   "application_number": "017588",
+   "application_type": "NDA",
+   "supplement_date": "01/06/2016",
+   "supplement": "SUPPL-42",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/06/2016",
+     "suppl": "SUPPL-42",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/06/2016",
+   "database_updated": "07/11/2016",
+   "drug_name_id": "5"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-01-06",
+ "srlc_database_updated": "2016-07-11",
+ "lag_days_srlc_database": 187,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "3c3637fc-4499-4331-a3c4-6969fc86704e",
+   "title": "LOMUSTINE CAPSULE, GELATIN COATED [WILSHIRE PHARMACEUTICALS, INC.]",
+   "published_date": "Apr 15, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-02-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-04-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-02-12"
+   },
+   "lag_days_dailymed": 3690,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "3529fe2f-3c23-4862-bb20-b48026957082",
+   "title": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [AZURITY PHARMACEUTICALS, INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 3603,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "7f77526b-4c40-409c-82ea-d0f934d89cc2",
+   "title": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [NEXTSOURCE BIOTECHNOLOGY, LLC]",
+   "published_date": "Mar 05, 2024",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-08-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-06-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-10-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-11-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-04-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-08-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-08-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-06-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-09-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-11-12"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-03-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2016-04-28"
+   },
+   "lag_days_dailymed": 113,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 113,
+ "fetched_utc": "2026-10-16T09:14:24Z"
+}

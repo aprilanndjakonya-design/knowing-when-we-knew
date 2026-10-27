@@ -1,0 +1,185 @@
+{
+ "application": "NDA050573",
+ "srlc_rows": [
+  {
+   "drug_name": "SANDIMMUNE",
+   "active_ingredient": "CYCLOSPORINE",
+   "application_number": "050573",
+   "application_type": "NDA",
+   "supplement_date": "03/06/2026",
+   "supplement": "SUPPL-48",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/06/2026",
+     "suppl": "SUPPL-48",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/06/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "2856"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-06",
+ "srlc_database_updated": "2026-03-31",
+ "lag_days_srlc_database": 25,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5e5926a7-1de0-4b54-a5c0-286b6200ff82",
+   "title": "SANDIMMUNE (CYCLOSPORINE) CAPSULE, LIQUID FILLED SANDIMMUNE (CYCLOSPORINE) INJECTION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+   "published_date": "Jul 13, 2026",
+   "spl_version": 37,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-09-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2007-03-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2007-03-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2009-10-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2009-11-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2010-03-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2011-03-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-08-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2012-08-13"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2012-09-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2013-05-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2015-04-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-12-23"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-12-29"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-08-16"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2018-11-15"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-09-20"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-03-02"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2020-07-27"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-06-14"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2023-06-21"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2023-07-11"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-10-09"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-01-22"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-06-13"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2025-08-14"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2026-03-19"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2026-07-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 36,
+    "published_date": "2026-03-19"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 31
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:25:37Z"
+}

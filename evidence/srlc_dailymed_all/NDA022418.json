@@ -1,0 +1,176 @@
+{
+ "application": "NDA022418",
+ "srlc_rows": [
+  {
+   "drug_name": "FIBRICOR",
+   "active_ingredient": "FENOFIBRIC ACID",
+   "application_number": "022418",
+   "application_type": "NDA",
+   "supplement_date": "06/06/2025",
+   "database_updated": "06/11/2025",
+   "drug_name_id": "1571"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-06",
+ "srlc_database_updated": "2025-06-11",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "09310de5-1eaa-44ba-8d9b-2abc1ad1cc33",
+   "title": "FENOFIBRIC ACID TABLET [SARRAS HEALTH, LLC]",
+   "published_date": "Jan 03, 2022",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-08-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-09-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-10-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-12-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-01-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "bb559b34-79b1-45a6-a148-38639115cd49",
+   "title": "FENOFIBRIC ACID TABLET [PALMETTO PHARMACEUTICALS, INC]",
+   "published_date": "Jan 28, 2021",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "31c80f84-0169-4659-b9cf-8f897ed319eb",
+   "title": "FIBRICOR (FENOFIBRIC ACID) TABLET [ARALEZ PHARMACEUTICALS US INC.]",
+   "published_date": "Oct 12, 2018",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-08-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-06-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-10-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "be471aad-d936-48be-8c79-351b56ae9cc7",
+   "title": "FENOFIBRIC ACID TABLET [HALTON LABORATORIES]",
+   "published_date": "Oct 12, 2018",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-07-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-10-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-06-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-10-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "777b0c6b-cd25-454d-a35b-d2df9b44497f",
+   "title": "FIBRICOR (FENOFIBRIC ACID) TABLET [TRIBUTE PHARMACEUTICALS US, INC.]",
+   "published_date": "Jan 11, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-07-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-01-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "86c49aff-0a4a-46b5-ac6e-26789bf17c9b",
+   "title": "FIBRICOR (FENOFIBRIC ACID) TABLET [AR SCIENTIFIC, INC.]",
+   "published_date": "Mar 21, 2013",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2009-08-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-09-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-05-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-01-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2012-03-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2012-12-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2013-03-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:55:39Z"
+}

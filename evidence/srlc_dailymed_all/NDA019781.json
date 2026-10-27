@@ -1,0 +1,90 @@
+{
+ "application": "NDA019781",
+ "srlc_rows": [
+  {
+   "drug_name": "PROMETRIUM",
+   "active_ingredient": "PROGESTERONE",
+   "application_number": "019781",
+   "application_type": "NDA",
+   "supplement_date": "02/12/2026",
+   "database_updated": "02/12/2026",
+   "drug_name_id": "2916"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-12",
+ "srlc_database_updated": "2026-02-12",
+ "lag_days_srlc_database": 0,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "1cf237ff-c4f8-4faa-a7aa-77599c856889",
+   "title": "PROMETRIUM (PROGESTERONE) CAPSULE [ACERTIS PHARMACEUTICALS, LLC]",
+   "published_date": "Jul 27, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-11-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-03-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-02-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-07-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-02-26"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "49f70b80-74b4-40f5-af86-5651441176a6",
+   "title": "PROGESTERONE CAPSULE [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Apr 19, 2021",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-06-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-08-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-04-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "cf73c385-5173-4b54-af23-069581c5d560",
+   "title": "PROMETRIUM (PROGESTERONE) CAPSULE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Sep 01, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-09-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:45:50Z"
+}

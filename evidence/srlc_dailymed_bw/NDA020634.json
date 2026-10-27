@@ -1,0 +1,120 @@
+{
+ "application": "NDA020634",
+ "srlc_rows": [
+  {
+   "drug_name": "LEVAQUIN",
+   "active_ingredient": "LEVOFLOXACIN",
+   "application_number": "020634",
+   "application_type": "NDA",
+   "supplement_date": "07/26/2016",
+   "supplement": "SUPPL-67",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/26/2016",
+     "suppl": "SUPPL-67",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/22/2020",
+   "database_updated": "07/06/2020",
+   "drug_name_id": "345"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-07-26",
+ "srlc_database_updated": "2020-07-06",
+ "lag_days_srlc_database": 1441,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "5dd1f9bb-acbf-4deb-9b02-992d52239a6b",
+   "title": "LEVAQUIN (LEVOFLOXACIN) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Sep 13, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "15a80e60-5d8b-4085-ba4c-7616af1ac96b",
+   "title": "LEVAQUIN (LEVOFLOXACIN) TABLET, FILM COATED [REDPHARM DRUG INC.]",
+   "published_date": "Aug 03, 2011",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2011-07-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-08-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-08-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "139f86a4-75c5-4304-894c-8f8b8a396c78",
+   "title": "LEVAQUIN (LEVOFLOXACIN) TABLET, FILM COATED [REDPHARM DRUG INC.]",
+   "published_date": "Aug 01, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-08-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "40a96527-f89e-4177-9224-5c79167f3e60",
+   "title": "LEVAQUIN (LEVOFLOXACIN) TABLET, FILM COATED [REDPHARM DRUG INC.]",
+   "published_date": "Jul 29, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-07-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a23a1cca-bc3e-48c5-abd9-82eddb52e91b",
+   "title": "LEVAQUIN (LEVOFLOXACIN) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jun 22, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:29Z"
+}

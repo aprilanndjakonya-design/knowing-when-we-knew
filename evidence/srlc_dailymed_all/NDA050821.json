@@ -1,0 +1,72 @@
+{
+ "application": "NDA050821",
+ "srlc_rows": [
+  {
+   "drug_name": "CEFEPIME AND DEXTROSE IN DUPLEX CONTAINER",
+   "active_ingredient": "CEFEPIME HYDROCHLORIDE",
+   "application_number": "050821",
+   "application_type": "NDA",
+   "supplement_date": "04/07/2026",
+   "database_updated": "04/15/2026",
+   "drug_name_id": "2601"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-04-07",
+ "srlc_database_updated": "2026-04-15",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "57517a0e-ec1b-4605-a7cc-7e3801158ec9",
+   "title": "CEFEPIME HYDROCHLORIDE AND DEXTROSE (CEFEPIME HYDROCHLORIDE) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "Apr 22, 2026",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2010-05-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-02-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-06-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2012-09-24"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2014-07-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2015-11-18"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-12-10"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2022-04-04"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-04-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2026-04-22"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:58:25Z"
+}

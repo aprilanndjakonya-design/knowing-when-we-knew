@@ -1,0 +1,216 @@
+{
+ "application": "NDA022207",
+ "srlc_rows": [
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "022207",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-8",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-6",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-8",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "675"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 2668,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "3c847554-3b4b-4d24-a145-2ef7e9b83699",
+   "title": "MORPHINE SULFATE TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Mar 30, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-03-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-01-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-09-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-11-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-01-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-04-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-10-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-07-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-12-31"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-03-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2019-10-08"
+   },
+   "lag_days_dailymed": 385,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "5178907d-3695-3666-e054-00144ff88e88",
+   "title": "MORPHINE SULFATE TABLET [REDPHARM DRUG, INC.]",
+   "published_date": "Aug 02, 2024",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-06-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-03-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-11-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-01-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-08-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2018-11-07"
+   },
+   "lag_days_dailymed": 50,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "67b3273e-af71-4dac-8e49-8bc134d4c591",
+   "title": "MORPHINE SULFATE TABLET [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Apr 09, 2013",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-04-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "ca2e2b04-c12c-4957-a93e-f8bbe554a8be",
+   "title": "MORPHINE SULFATE TABLET [STAT RX USA LLC]",
+   "published_date": "Apr 24, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-03-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-04-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "680a996c-08a5-4cdb-b7bd-0ada5d8c7adf",
+   "title": "MORPHINE SULFATE TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 12, 2012",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-09-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-12-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-03-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-01-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 50,
+ "fetched_utc": "2026-10-16T09:24:33Z"
+}

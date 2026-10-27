@@ -1,0 +1,84 @@
+{
+ "application": "NDA217188",
+ "srlc_rows": [
+  {
+   "drug_name": "PAXLOVID (COPACKAGED)",
+   "active_ingredient": "NIRMATRELVIR; RITONAVIR",
+   "application_number": "217188",
+   "application_type": "NDA",
+   "supplement_date": "02/11/2026",
+   "database_updated": "02/19/2026",
+   "drug_name_id": "3049"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-11",
+ "srlc_database_updated": "2026-02-19",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8a99d6d6-fd9e-45bb-b1bf-48c7f761232a",
+   "title": "PAXLOVID (NIRMATRELVIR AND RITONAVIR) KIT [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Feb 23, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-06-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-10-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-02-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-02-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-04-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-06-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-07-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-01-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-02-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2026-02-23"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:09:40Z"
+}

@@ -1,0 +1,48 @@
+{
+ "application": "NDA210063",
+ "srlc_rows": [
+  {
+   "drug_name": "FULVESTRANT",
+   "active_ingredient": "FULVESTRANT",
+   "application_number": "210063",
+   "application_type": "NDA",
+   "supplement_date": "11/21/2025",
+   "database_updated": "12/09/2025",
+   "drug_name_id": "2441"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-21",
+ "srlc_database_updated": "2025-12-09",
+ "lag_days_srlc_database": 18,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e20d8ca3-8837-4003-8b01-1ebec342062a",
+   "title": "CLIGAVYX (FULVESTRANT) INJECTION [AVYXA PHARMA, LLC]",
+   "published_date": "Jul 01, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2026-01-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-06-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-07-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-01-28"
+   },
+   "lag_days_dailymed": 68,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 68,
+ "fetched_utc": "2026-10-16T09:04:42Z"
+}

@@ -1,0 +1,56 @@
+{
+ "application": "BLA761315",
+ "srlc_rows": [
+  {
+   "drug_name": "ALHEMO",
+   "active_ingredient": "CONCIZUMAB-MTCI",
+   "application_number": "761315",
+   "application_type": "BLA",
+   "supplement_date": "07/31/2025",
+   "database_updated": "08/04/2025",
+   "drug_name_id": "3115"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-31",
+ "srlc_database_updated": "2025-08-04",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "156f6404-1f6f-417f-bcf8-f07a27a82cc1",
+   "title": "ALHEMO (CONCIZUMAB) INJECTION, SOLUTION [NOVO NORDISK]",
+   "published_date": "Aug 15, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-04-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-04-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-05-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-08-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-08-15"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:41:01Z"
+}

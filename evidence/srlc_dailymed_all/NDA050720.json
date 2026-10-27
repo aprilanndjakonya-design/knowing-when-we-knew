@@ -1,0 +1,243 @@
+{
+ "application": "NDA050720",
+ "srlc_rows": [
+  {
+   "drug_name": "AUGMENTIN '875'",
+   "active_ingredient": "AMOXICILLIN; CLAVULANATE POTASSIUM",
+   "application_number": "050720",
+   "application_type": "NDA",
+   "supplement_date": "07/17/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "2662"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-17",
+ "srlc_database_updated": "2026-07-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 9,
+ "labels": [
+  {
+   "setid": "2c857fb6-9c7d-4192-9f28-38d8dd57508b",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, COATED [REMEDYREPACK INC.]",
+   "published_date": "Sep 24, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-09-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-09-24"
+   },
+   "lag_days_dailymed": 69,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c4a6deb5-0bcd-4fa3-b19b-a82fa1dd14f3",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, COATED AMOXICILLIN AND CLAVULANATE POTASSIUM FOR SUSPENSION [USANTIBIOTICS, LLC]",
+   "published_date": "Sep 24, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-11-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-12-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-04-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-07-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-07-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-09-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-09-24"
+   },
+   "lag_days_dailymed": 69,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "1b8a6312-ae47-45fb-ba5e-eedbc176afa0",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, COATED [PREFERRED PHARMACEUTICALS INC.]",
+   "published_date": "Mar 05, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-12-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-01-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-02-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-03-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "00cf4429-e37c-4490-b22d-3cd796124296",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 01, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-01-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "0d40bc70-8f47-48c2-a7c6-ba7db9cace74",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, COATED [PROFICIENT RX LP]",
+   "published_date": "Feb 16, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-02-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "3ed5838f-2175-4a1a-ab5a-a222a6da4e89",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, COATED [RPK PHARMACEUTICALS, INC.]",
+   "published_date": "Sep 12, 2023",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2023-09-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "174cc098-fe49-4f1a-87e2-601c7573f0db",
+   "title": "AUGMENTIN (AMOXICILLIN AND CLAVULANATE POTASSIUM) TABLET, FILM COATED AUGMENTIN (AMOXICILLIN AND CLAVULANATE POTASSIUM) POWDER, FOR SUSPENSION [DR. REDDY'S LABORATORIES INC]",
+   "published_date": "Sep 13, 2016",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-10-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-03-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-03-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-09-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "58a20183-4eb6-438e-bd1e-a74f4645bb0d",
+   "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, FILM COATED AMOXICILLIN AND CLAVULANATE POTASSIUM POWDER, FOR SUSPENSION [DR. REDDY'S LABORATORIES INC]",
+   "published_date": "Sep 13, 2016",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-04-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-10-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-03-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-03-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-07-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-09-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "d567412a-e5ed-4c7f-90f0-ea3039786480",
+   "title": "AUGMENTIN (AMOXICILLIN AND CLAVULANTE POTASSIUM) TABLET, FILM COATED AUGMENTIN (AMOXICILLIN AND CLAVULANTE POTASSIUM) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jun 29, 2011",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-06-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 69,
+ "fetched_utc": "2026-10-16T08:57:43Z"
+}

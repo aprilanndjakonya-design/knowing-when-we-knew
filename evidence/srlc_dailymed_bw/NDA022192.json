@@ -1,0 +1,142 @@
+{
+ "application": "NDA022192",
+ "srlc_rows": [
+  {
+   "drug_name": "FANAPT",
+   "active_ingredient": "ILOPERIDONE",
+   "application_number": "022192",
+   "application_type": "NDA",
+   "supplement_date": "05/26/2016",
+   "supplement": "SUPPL-15",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/26/2016",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "9"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-26",
+ "srlc_database_updated": "2025-02-05",
+ "lag_days_srlc_database": 3177,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "33f60b40-3fca-11de-8f56-0002a5d5c51b",
+   "title": "FANAPT (ILOPERIDONE) TABLET FANAPT (ILOPERIDONE) KIT [VANDA PHARMACEUTICALS INC.]",
+   "published_date": "May 13, 2026",
+   "spl_version": 35,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2009-10-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2010-01-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-09-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2010-12-07"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2011-03-23"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2016-10-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2018-11-07"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-09-16"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-04-18"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-06-17"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-02-05"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-05-14"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2026-05-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2016-10-17"
+   },
+   "lag_days_dailymed": 144,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "b414d51b-9e4d-4045-bf29-108be5327e00",
+   "title": "FANAPT (ILOPERIDONE) TABLET [AVERA MCKENNAN HOSPITAL]",
+   "published_date": "Apr 12, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-04-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2017-04-12"
+   },
+   "lag_days_dailymed": 321,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "69d63a08-1920-427a-a967-2ffea04fd974",
+   "title": "FANAPT (ILOPERIDONE) TABLET [AVERA MCKENNAN HOSPITAL]",
+   "published_date": "Apr 10, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-04-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2017-04-10"
+   },
+   "lag_days_dailymed": 319,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 144,
+ "fetched_utc": "2026-10-16T09:24:12Z"
+}

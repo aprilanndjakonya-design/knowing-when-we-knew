@@ -1,0 +1,104 @@
+{
+ "application": "NDA208658",
+ "srlc_rows": [
+  {
+   "drug_name": "SYNJARDY XR",
+   "active_ingredient": "EMPAGLIFLOZIN;METFORMIN HYDROCHLORIDE",
+   "application_number": "208658",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "646"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8006ba29-ee3a-f852-a9bb-c8ec9b41cf66",
+   "title": "SYNJARDY XR (EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE) TABLET, EXTENDED RELEASE [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 21, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-12-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-01-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-01-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-12-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-11-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-02-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-06-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-03-24"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-10-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-02-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-10-26"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-08-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2026-08-21"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:03:24Z"
+}

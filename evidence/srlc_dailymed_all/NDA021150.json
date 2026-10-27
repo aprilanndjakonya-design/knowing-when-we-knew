@@ -1,0 +1,123 @@
+{
+ "application": "NDA021150",
+ "srlc_rows": [
+  {
+   "drug_name": "ZYRTEC-D 12 HOUR",
+   "active_ingredient": "CETIRIZINE HYDROCHLORIDE; PSEUDOEPHEDRINE HYDROCHLORIDE",
+   "application_number": "021150",
+   "application_type": "NDA",
+   "supplement_date": "07/02/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "3303"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-02",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "f1ecf9ba-1c03-7fb7-e053-2a95a90a875a",
+   "title": "ZYRTEC-D (CETIRIZINE HYDROCHLORIDE AND PSEUDOEPHEDRINE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [KENVUE BRANDS LLC]",
+   "published_date": "Apr 15, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-02-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-06-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-04-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "1e8eb279-3522-40e4-8062-06b5354f0d29",
+   "title": "ZYRTEC-D ALLERGY PLUS CONGESTION (CETIRIZINE HYDROCHLORIDE AND PSEUDOEPHEDRINE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [KENVUE BRANDS LLC]",
+   "published_date": "Jun 18, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-10-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-11-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-12-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-11-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-10-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-10-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-04-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-06-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "3c9d819d-0f3f-4c76-9770-cf004b10299a",
+   "title": "ZYRTEC D ALLERGY AND CONGESTION (CETIRIZINE HYDROCHLORIDE AND PSEUDOEPHEDRINE HYDROCHLORIDE) TABLET, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 25, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-05-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:49:55Z"
+}

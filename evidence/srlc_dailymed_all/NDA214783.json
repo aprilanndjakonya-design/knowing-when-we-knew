@@ -1,0 +1,80 @@
+{
+ "application": "NDA214783",
+ "srlc_rows": [
+  {
+   "drug_name": "REZUROCK",
+   "active_ingredient": "BELUMOSUDIL MESYLATE",
+   "application_number": "214783",
+   "application_type": "NDA",
+   "supplement_date": "01/15/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "2877"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-15",
+ "srlc_database_updated": "2026-01-22",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "102e4ef4-7f84-4e34-8df1-479c24d1575d",
+   "title": "REZUROCK (BELUMOSUDIL) TABLET [KADMON PHARMACEUTICALS, LLC]",
+   "published_date": "Apr 09, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-07-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-08-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-04-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-04-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-04-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-01-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-04-30"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-02-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-04-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-02-20"
+   },
+   "lag_days_dailymed": 36,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 36,
+ "fetched_utc": "2026-10-16T09:07:47Z"
+}

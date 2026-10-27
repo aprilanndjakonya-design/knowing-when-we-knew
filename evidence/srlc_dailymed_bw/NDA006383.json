@@ -1,0 +1,49 @@
+{
+ "application": "NDA006383",
+ "srlc_rows": [
+  {
+   "drug_name": "METHADONE HYDROCHLORIDE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "006383",
+   "application_type": "NDA",
+   "supplement_date": "02/01/2018",
+   "supplement": "SUPPL-18",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-17",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    },
+    {
+     "date": "02/01/2018",
+     "suppl": "SUPPL-18",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/01/2018",
+   "database_updated": "02/02/2018",
+   "drug_name_id": "767"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-02-01",
+ "srlc_database_updated": "2018-02-02",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:13:31Z"
+}

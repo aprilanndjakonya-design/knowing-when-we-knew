@@ -1,0 +1,99 @@
+{
+ "application": "NDA017078",
+ "srlc_rows": [
+  {
+   "drug_name": "DEXEDRINE SPANSULE",
+   "active_ingredient": "DEXTROAMPHETAMINE SULFATE",
+   "application_number": "017078",
+   "application_type": "NDA",
+   "supplement_date": "09/23/2025",
+   "database_updated": "09/25/2025",
+   "drug_name_id": "3190"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-23",
+ "srlc_database_updated": "2025-09-25",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "cc717b9b-22ea-4c60-a1d4-ee38a40bce78",
+   "title": "DEXEDRINE SPANSULE (DEXTROAMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-10-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-01-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-06-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-12-30"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-03-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-10-26"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2025-09-29"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "2ec5c30f-4eb8-48a5-83c4-236450413464",
+   "title": "DEXTROAMPHETAMINE SULFATE EXTENDED-RELEASE (DEXTROAMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+   "published_date": "Jan 01, 2024",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-10-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-01-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-06-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-12-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-12-26"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-01-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T08:43:31Z"
+}

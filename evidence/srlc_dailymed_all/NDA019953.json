@@ -1,0 +1,102 @@
+{
+ "application": "NDA019953",
+ "srlc_rows": [
+  {
+   "drug_name": "HEPARIN SODIUM 1,000 UNITS IN SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "019953",
+   "application_type": "NDA",
+   "supplement_date": "03/25/2025",
+   "database_updated": "03/28/2025",
+   "drug_name_id": "2900"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-25",
+ "srlc_database_updated": "2025-03-28",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "a3041c04-0ea8-4d36-81ce-c5091c906316",
+   "title": "HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "Aug 08, 2025",
+   "spl_version": 28,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-12-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-07-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-01-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-01-30"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-05-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2013-07-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2013-09-13"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2016-05-27"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2017-07-25"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-08-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 28,
+    "published_date": "2025-08-08"
+   },
+   "lag_days_dailymed": 136,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "8b030692-fc66-4c53-85aa-6f865e635618",
+   "title": "HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "Aug 04, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-08-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-06-02"
+   },
+   "lag_days_dailymed": 69,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 69,
+ "fetched_utc": "2026-10-16T08:46:07Z"
+}

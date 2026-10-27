@@ -1,0 +1,528 @@
+{
+ "application": "NDA021234",
+ "srlc_rows": [
+  {
+   "drug_name": "FLECTOR",
+   "active_ingredient": "DICLOFENAC EPOLAMINE",
+   "application_number": "021234",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-13",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-13",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "183"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 22,
+ "labels": [
+  {
+   "setid": "a4146abc-814d-4d55-b51d-a3cb57603325",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [SPORTPHARM LLC]",
+   "published_date": "Aug 26, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-08-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-08-26"
+   },
+   "lag_days_dailymed": 3761,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "861907f7-a338-41c4-899e-48bd9a7e4749",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [HAWAII REPACK, INC.]",
+   "published_date": "Jul 08, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-07-08"
+   },
+   "lag_days_dailymed": 3712,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "1a5c4d2d-a819-4749-b4d4-7f2c099175a4",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [PREFERRED PHARMACEUTICALS INC.]",
+   "published_date": "Jun 10, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-06-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-06-10"
+   },
+   "lag_days_dailymed": 3684,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "526cfe9e-0e22-60c5-e063-6294a90a697f",
+   "title": "DICLOX PATCH 30CT (DICLOFENAC EPOLAMINE 1.3% PATCH) SYSTEM [INJECTA MEDCIAL LLC]",
+   "published_date": "May 25, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-05-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-05-25"
+   },
+   "lag_days_dailymed": 3668,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "d7bfe17d-e88e-4792-bfba-cea56ed96c3b",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [TEVA PHARMACEUTICALS USA INC.]",
+   "published_date": "Jan 06, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-12-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-04-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-06-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-11-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-09-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-01-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2019-12-31"
+   },
+   "lag_days_dailymed": 1331,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "1f19a016-c4fc-43c5-9990-e5f2e2776a82",
+   "title": "FLECTOR (DICLOFENAC EPOLAMINE) SYSTEM [IBSA PHARMA INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-11-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-06-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-11-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-09-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-10-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-12-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2020-11-02"
+   },
+   "lag_days_dailymed": 1638,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "2d9bfacc-1b0c-4fab-b949-cd0c914089f9",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [YARAL PHARMA INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-12-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2022-11-18"
+   },
+   "lag_days_dailymed": 2384,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "3fa49554-d85f-a1d5-e063-6294a90a8baf",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [PHOENIX RX LLC]",
+   "published_date": "Oct 01, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-10-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-10-01"
+   },
+   "lag_days_dailymed": 3432,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "f4471245-83d0-49f5-9cd5-3f7e76c799c4",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [ASCLEMED USA INC.]",
+   "published_date": "Jun 30, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-06-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-06-30"
+   },
+   "lag_days_dailymed": 3339,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "08b8737f-b6d2-77da-e063-6294a90a1a3e",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [ADVANCED RX OF TENNESSEE, LLC]",
+   "published_date": "Jan 01, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-11-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-11-28"
+   },
+   "lag_days_dailymed": 2759,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "73182d59-97ad-44d4-ad9e-680dc575ab86",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [QUALITY CARE PRODUCTS, LLC]",
+   "published_date": "Dec 23, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-02-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-12-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-08-17"
+   },
+   "lag_days_dailymed": 2656,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "1b563e42-3b06-5320-e063-6294a90a30e5",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [ADVANCED RX PHARMACY OF TENNESSEE, LLC]",
+   "published_date": "Jun 24, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-06-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2024-06-24"
+   },
+   "lag_days_dailymed": 2968,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "45e191b6-c6c9-45f9-96d5-cf30f8aa910c",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [ASCLEMED USA, INC.]",
+   "published_date": "Feb 28, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-02-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2024-02-28"
+   },
+   "lag_days_dailymed": 2851,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "18593350-32df-4562-8bfe-e38de53e2b93",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [UNIT DOSE SERVICES]",
+   "published_date": "Jul 27, 2022",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-07-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2022-07-27"
+   },
+   "lag_days_dailymed": 2270,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "fb512554-c37e-4fd2-b06d-eadf7ab62442",
+   "title": "DICLOFENAC EPOLAMINE SYSTEM [UNIT DOSE SERVICES]",
+   "published_date": "May 24, 2022",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-05-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2022-05-24"
+   },
+   "lag_days_dailymed": 2206,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "e9729cbd-fe89-4b88-b059-b93ccaaf4da4",
+   "title": "FLECTOR (DICLOFENAC EPOLAMINE) PATCH [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 28, 2017",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2017-11-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2017-11-28"
+   },
+   "lag_days_dailymed": 568,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "f8b489ee-b48f-41b6-a759-c910e531576f",
+   "title": "FLECTOR (DICLOFENAC EPOLAMINE) PATCH [UNIT DOSE SERVICES]",
+   "published_date": "Jul 03, 2017",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2012-03-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-02-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-07-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2017-02-28"
+   },
+   "lag_days_dailymed": 295,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "0f11e37c-1aa4-455a-98b8-6aae72294a25",
+   "title": "FLECTOR PATCH [DIRECT RX]",
+   "published_date": "Dec 20, 2016",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-02-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-12-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2016-12-20"
+   },
+   "lag_days_dailymed": 225,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2b810942-e143-4e4f-8820-00af4f2e0c1e",
+   "title": "FLECTOR (DICLOFENAC EPOLAMINE) PATCH [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Feb 21, 2013",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-02-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2cc5e92b-044b-46a4-85eb-bcfe04c9d4be",
+   "title": "FLECTOR (DICLOFENAC EPOLAMINE) PATCH [STAT RX USA LLC]",
+   "published_date": "Feb 22, 2012",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2010-02-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-03-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-02-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "4bca1472-9a43-4510-a2de-5a2d80edbfbc",
+   "title": "FLECTOR (DICLOFENAC EPOLAMINE) PATCH [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Jan 20, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2012-01-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "e58641de-b6fd-484c-8902-b9262d7ce251",
+   "title": "FLECTOR (DICLOFENAC EPOLAMINE) PATCH [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Feb 24, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-02-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 225,
+ "fetched_utc": "2026-10-16T09:20:59Z"
+}

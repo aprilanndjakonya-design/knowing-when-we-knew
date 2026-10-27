@@ -1,0 +1,123 @@
+{
+ "application": "NDA022165",
+ "srlc_rows": [
+  {
+   "drug_name": "CAMBIA",
+   "active_ingredient": "DICLOFENAC POTASSIUM",
+   "application_number": "022165",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-11",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-11",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "152"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "d249ced1-4ca0-4f57-adcb-23440f58f659",
+   "title": "CAMBIA (DICLOFENAC POTASSIUM) POWDER, FOR SOLUTION [ASSERTIO THERAPEUTICS, INC.]",
+   "published_date": "Dec 16, 2024",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-03-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-05-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-12-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-09-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-05-06"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-05-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-12-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2016-05-27"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "9dd418b2-4b0e-498c-b453-f580c69ddc6d",
+   "title": "DICLOFENAC POTASSIUM POWDER, FOR SOLUTION [LEADING PHARMA, LLC]",
+   "published_date": "Jan 04, 2024",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-12-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-01-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2022-12-20"
+   },
+   "lag_days_dailymed": 2416,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "d7335594-50c9-4ae2-a3e3-b9a375187b62",
+   "title": "CAMBIA (DICLOFENAC POTASSIUM) POWDER, FOR SOLUTION [NAUTILUS NEUROSCIENCES, INC.]",
+   "published_date": "Apr 02, 2012",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-04-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-04-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-04-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T09:24:07Z"
+}

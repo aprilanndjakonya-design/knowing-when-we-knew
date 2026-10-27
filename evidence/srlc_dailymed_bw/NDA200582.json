@@ -1,0 +1,89 @@
+{
+ "application": "NDA200582",
+ "srlc_rows": [
+  {
+   "drug_name": "TOPOTECAN HYDROCHLORIDE",
+   "active_ingredient": "TOPOTECAN HYDROCHLORIDE",
+   "application_number": "200582",
+   "application_type": "NDA",
+   "supplement_date": "01/29/2016",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/29/2016",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/16/2019",
+   "database_updated": "12/20/2019",
+   "drug_name_id": "373"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-01-29",
+ "srlc_database_updated": "2019-12-20",
+ "lag_days_srlc_database": 1421,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1d4e1cce-c57e-4a8b-be96-f95a2778e221",
+   "title": "TOPOTECAN INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+   "published_date": "Feb 03, 2021",
+   "spl_version": 23,
+   "versions": [
+    {
+     "spl_version": 14,
+     "published_date": "2011-02-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2014-03-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2014-07-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-02-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-01-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-08-27"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-01-31"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-02-06"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-02-18"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-02-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2016-02-19"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T09:26:08Z"
+}

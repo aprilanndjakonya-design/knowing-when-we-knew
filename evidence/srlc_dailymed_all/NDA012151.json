@@ -1,0 +1,120 @@
+{
+ "application": "NDA012151",
+ "srlc_rows": [
+  {
+   "drug_name": "ALDACTONE",
+   "active_ingredient": "SPIRONOLACTONE",
+   "application_number": "012151",
+   "application_type": "NDA",
+   "supplement_date": "11/14/2025",
+   "database_updated": "11/18/2025",
+   "drug_name_id": "1470"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-14",
+ "srlc_database_updated": "2025-11-18",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0fed2822-3a03-4b64-9857-c682fcd462bc",
+   "title": "ALDACTONE (SPIRONOLACTONE) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Dec 01, 2025",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-11-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-03-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-03-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-10-12"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-11-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-11-05"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-10-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-11-01"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-03-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-04-10"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-11-30"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-06-29"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-11-27"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2021-02-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2021-11-17"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-01-06"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-09-19"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-12-12"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-12-25"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-12-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2025-12-01"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 20
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:43:00Z"
+}

@@ -1,0 +1,289 @@
+{
+ "application": "NDA022370",
+ "srlc_rows": [
+  {
+   "drug_name": "CONZIP",
+   "active_ingredient": "TRAMADOL HYDROCHLORIDE",
+   "application_number": "022370",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "755"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 16,
+ "dailymed_setids": 11,
+ "labels": [
+  {
+   "setid": "c0bc7218-3fd0-4646-96f4-25355fc84aa9",
+   "title": "TRAMADOL HYDROCHLORIDE EXTENDED-RELEASE (TRAMADOL HYDROCHLORIDE) CAPSULE [TRIGEN LABORATORIES, LLC]",
+   "published_date": "Feb 02, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-06-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-06-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-04-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-09-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-04-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-06-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-02-24"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-12-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-02-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2026-02-02"
+   },
+   "lag_days_dailymed": 42,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "a65b4d05-3a1c-4aa1-848a-d20ac9aaf62f",
+   "title": "CONZIP (TRAMADOL HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [VERTICAL PHARMACEUTICALS, LLC]",
+   "published_date": "Dec 31, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-09-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-10-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-12-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-09-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-12-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-10-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-03-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-09-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-02-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-12-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-01-03"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-12-31"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "1bbd525e-be01-310d-e054-00144ff88e88",
+   "title": "TRAMADOL HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [MEDSOURCE PHARMACEUTICALS]",
+   "published_date": "Dec 30, 2019",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-07-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "23466565-6c73-2047-6f6f-64204d616e23",
+   "title": "TRAMADOL HYDROCHLORIDE EXTENDED RELEASE (TRAMADOL HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [GALEPHAR PHARMACEUTICAL RESEARCH INC.]",
+   "published_date": "Jun 18, 2018",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-06-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "5b3602f4-54f0-9461-e053-2a91aa0a99b9",
+   "title": "TRAMADOL HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [MAS MANAGEMENT GROUP, INC.]",
+   "published_date": "Nov 08, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-11-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "4a135ba1-56b4-487a-bff1-74a850148cc8",
+   "title": "TRAMADOL HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [AIDAREX PHARMACEUTICALS LLC]",
+   "published_date": "Mar 02, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-03-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "fba82d4a-f015-4f1f-bca8-049096154c09",
+   "title": "TRAMADOL HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [AIDAREX PHARMACEUTICALS LLC]",
+   "published_date": "Mar 02, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-03-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "1e2e4814-b916-46d5-99a3-3a0a3127e74e",
+   "title": "TRAMADOL HYDROCHLORIDE CAPSULE [DIRECT RX]",
+   "published_date": "Sep 21, 2015",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-09-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "476ec70a-0737-42ed-a374-c3b9dc0ce5ca",
+   "title": "TRAMADOL HYDROCHLORIDE CAPSULE, COATED, EXTENDED RELEASE [DIRECT RX]",
+   "published_date": "May 14, 2015",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-07-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-05-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "60a28e2c-d346-4b36-a21d-d07ff603ba2b",
+   "title": "TRAMADOL HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [AIDAREX PHARMACEUTICALS LLC]",
+   "published_date": "Oct 24, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-10-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "e3476daa-2b3c-455e-b5c4-3c011e03315b",
+   "title": "TRAMADOL HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Oct 31, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-10-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:55:16Z"
+}

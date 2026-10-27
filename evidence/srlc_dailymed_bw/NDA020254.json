@@ -1,0 +1,51 @@
+{
+ "application": "NDA020254",
+ "srlc_rows": [
+  {
+   "drug_name": "VOLTAREN-XR",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "020254",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-28",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-28",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/05/2021",
+   "drug_name_id": "213"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2021-05-05",
+ "lag_days_srlc_database": 1822,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "01e92b73-8271-4028-8a74-c236e3b55db8",
+   "title": "DICLOFENAC SODIUM TABLET, FILM COATED, EXTENDED RELEASE [RXCHANGE CO.]",
+   "published_date": "Dec 02, 2014",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-12-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:16:49Z"
+}

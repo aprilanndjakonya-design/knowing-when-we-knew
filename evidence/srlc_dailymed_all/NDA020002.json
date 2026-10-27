@@ -1,0 +1,68 @@
+{
+ "application": "NDA020002",
+ "srlc_rows": [
+  {
+   "drug_name": "RINGER'S IN PLASTIC CONTAINER",
+   "active_ingredient": "CALCIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM CHLORIDE",
+   "application_number": "020002",
+   "application_type": "NDA",
+   "supplement_date": "11/05/2025",
+   "database_updated": "11/18/2025",
+   "drug_name_id": "2553"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-05",
+ "srlc_database_updated": "2025-11-18",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "01721071-af03-4894-95c1-10b8bc64b888",
+   "title": "RINGERS (SODIUM CHLORIDE, CALCIUM CHLORIDE, AND POTASSIUM CHLORIDE) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+   "published_date": "Dec 02, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-01-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-02-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-06-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-03-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-04-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-05-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-11-18"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-12-02"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T08:46:08Z"
+}

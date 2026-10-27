@@ -1,0 +1,67 @@
+{
+ "application": "NDA217159",
+ "srlc_rows": [
+  {
+   "drug_name": "APHEXDA",
+   "active_ingredient": "MOTIXAFORTIDE ACETATE",
+   "application_number": "217159",
+   "application_type": "NDA",
+   "supplement_date": "03/11/2026",
+   "database_updated": "03/13/2026",
+   "drug_name_id": "3261"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-11",
+ "srlc_database_updated": "2026-03-13",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "e704b2db-f119-40ba-9346-9229e3281c9e",
+   "title": "APHEXDA (MOTIXAFORTIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GAMIDA CELL INC.]",
+   "published_date": "Jun 10, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-06-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-02-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-06-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-06-10"
+   },
+   "lag_days_dailymed": 91,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "f7cdc584-ebf0-a68e-e053-6294a90a9ea9",
+   "title": "APHEXDA (MOTIXAFORTIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [BIOLINERX USA INC]",
+   "published_date": "Oct 11, 2024",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-09-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-10-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 91,
+ "fetched_utc": "2026-10-16T09:09:35Z"
+}

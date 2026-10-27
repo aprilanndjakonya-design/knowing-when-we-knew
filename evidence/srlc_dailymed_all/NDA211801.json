@@ -1,0 +1,64 @@
+{
+ "application": "NDA211801",
+ "srlc_rows": [
+  {
+   "drug_name": "IBSRELA",
+   "active_ingredient": "TENAPANOR HYDROCHLORIDE",
+   "application_number": "211801",
+   "application_type": "NDA",
+   "supplement_date": "05/20/2025",
+   "database_updated": "06/02/2025",
+   "drug_name_id": "2606"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-20",
+ "srlc_database_updated": "2025-06-02",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "2102da5f-a1a0-4ac7-a1f6-38698cf7273a",
+   "title": "IBSRELA (TENAPANOR HYDROCHLORIDE) TABLET [ARDELYX, INC.]",
+   "published_date": "Jun 05, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-10-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-04-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-09-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-06-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-04-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-06-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-06-05"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T09:05:52Z"
+}

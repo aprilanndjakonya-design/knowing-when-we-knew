@@ -1,0 +1,115 @@
+{
+ "application": "NDA022221",
+ "srlc_rows": [
+  {
+   "drug_name": "AKTEN",
+   "active_ingredient": "LIDOCAINE HYDROCHLORIDE",
+   "application_number": "022221",
+   "application_type": "NDA",
+   "supplement_date": "11/21/2025",
+   "database_updated": "11/25/2025",
+   "drug_name_id": "2592"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-21",
+ "srlc_database_updated": "2025-11-25",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "70ff9fb7-d323-4fe6-b1b1-6033e05f0749",
+   "title": "AKTEN (LIDOCAINE HYDROCHLORIDE ANHYDROUS) GEL [THEA PHARMA INC.]",
+   "published_date": "May 06, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-09-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-04-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-12-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-12-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-05-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-12-04"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "c1f638dc-c386-45e8-9adc-d0f295794679",
+   "title": "AKTEN (LIDOCAINE HYDROCHLORIDE) GEL [AKORN]",
+   "published_date": "May 03, 2022",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-11-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-12-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-12-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-05-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-12-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-12-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-12-12"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-08-29"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-10-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-01-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-05-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:54:41Z"
+}

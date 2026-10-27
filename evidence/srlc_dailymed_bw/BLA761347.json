@@ -1,0 +1,77 @@
+{
+ "application": "BLA761347",
+ "srlc_rows": [
+  {
+   "drug_name": "TECENTRIQ HYBREZA",
+   "active_ingredient": "ATEZOLIZUMAB AND HYALURONIDASE-TQJS",
+   "application_number": "761347",
+   "application_type": "BLA",
+   "supplement_date": "08/18/2025",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/18/2025",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/12/2026",
+   "database_updated": "05/18/2026",
+   "drug_name_id": "3174"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-18",
+ "srlc_database_updated": "2026-05-18",
+ "lag_days_srlc_database": 273,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a617b089-ce66-464b-987b-b45d029b4d6f",
+   "title": "TECENTRIQ HYBREZA (ATEZOLIZUMAB AND HYALURONIDASE-TQJS) INJECTION [GENENTECH, INC.]",
+   "published_date": "Sep 28, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-28"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-09-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-08-28"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:13:19Z"
+}

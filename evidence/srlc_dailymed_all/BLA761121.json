@@ -1,0 +1,88 @@
+{
+ "application": "BLA761121",
+ "srlc_rows": [
+  {
+   "drug_name": "POLIVY",
+   "active_ingredient": "POLATUZUMAB VEDOTIN-PIIQ",
+   "application_number": "761121",
+   "application_type": "BLA",
+   "supplement_date": "03/18/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "2752"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-18",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "20a16ab2-f338-4abb-9dcd-254bd949a2bc",
+   "title": "POLIVY (POLATUZUMAB VEDOTIN) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GENENTECH, INC.]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-06-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-08-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-10-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-03-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-05-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-01-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-04-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-09-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-16"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-03-30"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2026-03-30"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:39:40Z"
+}

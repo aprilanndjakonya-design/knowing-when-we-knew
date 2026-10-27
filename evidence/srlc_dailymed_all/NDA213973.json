@@ -1,0 +1,68 @@
+{
+ "application": "NDA213973",
+ "srlc_rows": [
+  {
+   "drug_name": "QINLOCK",
+   "active_ingredient": "RIPRETINIB",
+   "application_number": "213973",
+   "application_type": "NDA",
+   "supplement_date": "05/06/2025",
+   "database_updated": "05/30/2025",
+   "drug_name_id": "2496"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-06",
+ "srlc_database_updated": "2025-05-30",
+ "lag_days_srlc_database": 24,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9f18e462-03dd-4296-a02a-a0577e3ee78d",
+   "title": "QINLOCK (RIPRETINIB) TABLET [DECIPHERA PHARMACEUTICALS, LLC\n]",
+   "published_date": "May 14, 2025",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-05-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-10-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-06-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-09-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-01-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-11-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-11-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-05-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-05-14"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T09:07:11Z"
+}

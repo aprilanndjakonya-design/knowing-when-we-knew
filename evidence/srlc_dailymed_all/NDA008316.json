@@ -1,0 +1,108 @@
+{
+ "application": "NDA008316",
+ "srlc_rows": [
+  {
+   "drug_name": "PRIMAQUINE",
+   "active_ingredient": "PRIMAQUINE PHOSPHATE",
+   "application_number": "008316",
+   "application_type": "NDA",
+   "supplement_date": "02/02/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "1114"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-02",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1bfbf4ae-81b8-4160-a00d-6322aadd4b59",
+   "title": "PRIMAQUINE PHOSPHATE TABLET, FILM COATED [SANOFI-AVENTIS U.S. LLC]",
+   "published_date": "Feb 23, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-06-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-02-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2008-06-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2008-11-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-04-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-02-26"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-05-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-08-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-06-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-07-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-12-18"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-08-23"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-11-04"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-05-10"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-04-30"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-02-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2026-02-23"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 17
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T08:42:23Z"
+}

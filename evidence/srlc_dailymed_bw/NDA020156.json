@@ -1,0 +1,40 @@
+{
+ "application": "NDA020156",
+ "srlc_rows": [
+  {
+   "drug_name": "VIDEX",
+   "active_ingredient": "DIDANOSINE",
+   "application_number": "020156",
+   "application_type": "NDA",
+   "supplement_date": "01/25/2018",
+   "supplement": "SUPPL-53",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/25/2018",
+     "suppl": "SUPPL-53",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/17/2018",
+   "database_updated": "12/18/2018",
+   "drug_name_id": "1433"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-01-25",
+ "srlc_database_updated": "2018-12-18",
+ "lag_days_srlc_database": 327,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:16:44Z"
+}

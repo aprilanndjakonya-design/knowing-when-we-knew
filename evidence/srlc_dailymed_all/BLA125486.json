@@ -1,0 +1,116 @@
+{
+ "application": "BLA125486",
+ "srlc_rows": [
+  {
+   "drug_name": "GAZYVA",
+   "active_ingredient": "OBINUTUZUMAB",
+   "application_number": "125486",
+   "application_type": "BLA",
+   "supplement_date": "09/25/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "1366"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-25",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "df12ceb2-5b4b-4ab5-a317-2a36bf2a3cda",
+   "title": "GAZYVA (OBINUTUZUMAB) INJECTION, SOLUTION, CONCENTRATE [GENENTECH, INC.]",
+   "published_date": "Oct 06, 2026",
+   "spl_version": 23,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2013-11-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-11-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-07-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-08-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-01-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-10-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-03-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-11-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-12-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-12-14"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-11-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-04-10"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-01-28"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-12-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-02-24"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-07-26"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-08-25"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 23,
+    "published_date": "2026-10-06"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 19
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T08:38:17Z"
+}

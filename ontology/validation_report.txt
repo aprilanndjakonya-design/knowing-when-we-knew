@@ -1,0 +1,198 @@
+VALIDATION REPORT -- Bitemporal Biomedical Knowledge Ontology (NIH It's About Time, Phase 1, stage N1)
+generated: 2026-10-11T09:54:21Z
+ontology:  /Users/denis/MyAgentsProjects/UniverseIdeas/solutions/grant-packages/NIH_ITS_ABOUT_TIME/ontology/its-about-time-bitemporal.ttl
+tools:     Python 3.13.2, rdflib 7.6.0, owlready2 0.51 (HermiT bundled), Java: java version "23.0.2" 2025-01-21 (/usr/bin/java)
+RESULT:    79/79 checks passed
+
+Query instants: T1 = 2024-06-14T15:00Z (first prescription), T3 = 2025-01-23T15:00Z (FDA communication published, new label not yet in DailyMed), T2 = 2025-03-14T15:00Z (second prescription).
+
+AS-OF SUMMARY (is the anaphylaxis boxed warning visible to a safety check?)
+  instant         view                         current label      boxed warning  leaked records
+  T1 2024-06-14   static                       label_v36          VISIBLE        3 (dsc_2025-01-22_glatiramer, label_v36, srlc_suppl119)
+  T1 2024-06-14   valid-time only              label_v33          no             1 (label_v33)
+  T1 2024-06-14   bitemporal (all sources)     label_v32          no             0
+  T1 2024-06-14   bitemporal (DailyMed only)   label_v32          no             0
+  T3 2025-01-23   static                       label_v36          VISIBLE        2 (label_v36, srlc_suppl119)
+  T3 2025-01-23   valid-time only              label_v34          VISIBLE        2 (label_v34, srlc_suppl119)
+  T3 2025-01-23   bitemporal (all sources)     label_v33          VISIBLE        0
+  T3 2025-01-23   bitemporal (DailyMed only)   label_v33          no             0
+  T2 2025-03-14   static                       label_v36          VISIBLE        2 (label_v36, srlc_suppl119)
+  T2 2025-03-14   valid-time only              label_v35          VISIBLE        1 (srlc_suppl119)
+  T2 2025-03-14   bitemporal (all sources)     label_v35          VISIBLE        0
+  T2 2025-03-14   bitemporal (DailyMed only)   label_v35          VISIBLE        0
+
+== 1. File
+  [PASS] file size 57484 bytes <= 3 MB
+  [PASS] Turtle parses (rdflib 7.6.0): 1151 triples
+  [PASS] ontology header present (owl:Ontology with versionIRI)
+== 2. Structural OWL 2 DL audit (partial)
+  [PASS] every non-builtin predicate is declared (object/datatype/annotation property)
+         []
+  [PASS] no IRI is declared as two kinds of property
+         []
+  [PASS] every class used in axioms or class assertions is declared owl:Class
+         []
+  [PASS] every individual is declared owl:NamedIndividual
+         []
+  [PASS] no punning between classes and individuals
+         []
+  [PASS] global restrictions: functional/inverse-functional/asymmetric/irreflexive/cardinality only on simple properties
+         non-simple: ['iat:laterVersionOf', 'obo:BFO_0000062', 'obo:BFO_0000063']; violations: []
+  [PASS] datatypes in logical axioms belong to the OWL 2 datatype map (xsd:date only in annotations)
+         []
+  [PASS] no owl:imports (self-contained for offline reasoning)
+== 3. Reasoner (HermiT via owlready2)
+  [PASS] ontology is consistent (no logical contradictions)
+  [PASS] unsatisfiable named classes: 0
+         []
+  [PASS] inferred members of iat:KnownAsOf_20240614T150000Z = ['iatd:dx_SYN001_rrms', 'iatd:label_v32', 'iatd:rxrec_SYN001_2024-06', 'iatd:srlc_suppl116']
+         got ['iatd:dx_SYN001_rrms', 'iatd:label_v32', 'iatd:rxrec_SYN001_2024-06', 'iatd:srlc_suppl116']
+  [PASS] inferred members of iat:KnownAsOf_20250123T150000Z = ['iatd:assoc_glatiramer_anaphylaxis', 'iatd:dsc_2025-01-22_glatiramer', 'iatd:dx_SYN001_rrms', 'iatd:label_v32', 'iatd:label_v33', 'iatd:rxrec_SYN001_2024-06', 'iatd:srlc_suppl116']
+         got ['iatd:assoc_glatiramer_anaphylaxis', 'iatd:dsc_2025-01-22_glatiramer', 'iatd:dx_SYN001_rrms', 'iatd:label_v32', 'iatd:label_v33', 'iatd:rxrec_SYN001_2024-06', 'iatd:srlc_suppl116']
+  [PASS] inferred members of iat:KnownAsOf_20250314T150000Z = ['iatd:assoc_glatiramer_anaphylaxis', 'iatd:dsc_2025-01-22_glatiramer', 'iatd:dx_SYN001_rrms', 'iatd:label_v32', 'iatd:label_v33', 'iatd:label_v34', 'iatd:label_v35', 'iatd:rxrec_SYN001_2024-06', 'iatd:rxrec_SYN001_2025-03', 'iatd:srlc_suppl116']
+         got ['iatd:assoc_glatiramer_anaphylaxis', 'iatd:dsc_2025-01-22_glatiramer', 'iatd:dx_SYN001_rrms', 'iatd:label_v32', 'iatd:label_v33', 'iatd:label_v34', 'iatd:label_v35', 'iatd:rxrec_SYN001_2024-06', 'iatd:rxrec_SYN001_2025-03', 'iatd:srlc_suppl116']
+  [PASS] inferred members of iat:CheckRaisingBoxedWarning = ['iatd:check_SYN001_2025-03']
+         got ['iatd:check_SYN001_2025-03']
+  [PASS] inferred members of iat:GlatiramerAcetateProduct = ['iatd:rxcui_1111642', 'iatd:rxcui_1487363']
+         got ['iatd:rxcui_1111642', 'iatd:rxcui_1487363']
+  [PASS] transitivity of RO 'preceded by': SUPPL-121 approval preceded by SUPPL-116 (inferred)
+         got ['iatd:approval_suppl116', 'iatd:approval_suppl119']
+  [PASS] domain/range reasoning: synthetic patient inferred to be a BFO continuant (range of RO 'has participant')
+== 4. Temporal-leakage counter-examples (HermiT)
+  [PASS] A. Static graph: June-2024 check uses the current label v36 (published 2026-06-26), with as-of contract
+         expected INCONSISTENT; got INCONSISTENT
+  [PASS] B. Valid-time-only model: June-2024 check uses label v33 (valid from 2023-11-30, published 2024-09-27), with contract
+         expected INCONSISTENT; got INCONSISTENT
+  [PASS] C. Static graph WITHOUT contract: June-2024 check using v36 is classified as raising the boxed warning (false alert, hindsight)
+         expected CONSISTENT + inferred CheckRaisingBoxedWarning; got CONSISTENT + inferred CheckRaisingBoxedWarning
+  [PASS] D. Data-quality axiom: claim that label v33 (no LOINC 34066-1 section) includes the boxed warning
+         expected INCONSISTENT; got INCONSISTENT
+  [PASS] E. Negative control for the unsatisfiable-class detector: class under two disjoint classes
+         expected CONSISTENT + unsat ['iat:BadClass']; got CONSISTENT + unsat ['iat:BadClass']
+  [PASS] F. March-2025 check uses SrLC SUPPL-119, whose availability is proven only from 2025-08-10 (first archive snapshot listing it)
+         expected INCONSISTENT; got INCONSISTENT
+  [PASS] G. Known limitation (open world): March-2025 check uses SrLC SUPPL-121 whose availability time is UNKNOWN
+         expected CONSISTENT (DL cannot detect; closed-world rule R7 and fail-closed SPARQL exclude it); got CONSISTENT (DL cannot detect; closed-world rule R7 and fail-closed SPARQL exclude it)
+== 5. As-of queries (SPARQL via rdflib)
+  [PASS] T1 2024-06-14 | static: label ['iatd:label_v36'], boxed warning VISIBLE, leaked records 3
+         BW records ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v36', 'iatd:srlc_suppl119']; leaked ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v36', 'iatd:srlc_suppl119']
+  [PASS] T1 2024-06-14 | valid-time only: label ['iatd:label_v33'], boxed warning not visible, leaked records 1
+         BW records []; leaked ['iatd:label_v33']
+  [PASS] T1 2024-06-14 | bitemporal (all sources): label ['iatd:label_v32'], boxed warning not visible, leaked records 0
+         BW records []; leaked []
+  [PASS] T1 2024-06-14 | bitemporal (DailyMed only): label ['iatd:label_v32'], boxed warning not visible, leaked records 0
+         BW records []; leaked []
+  [PASS] T3 2025-01-23 | static: label ['iatd:label_v36'], boxed warning VISIBLE, leaked records 2
+         BW records ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v36', 'iatd:srlc_suppl119']; leaked ['iatd:label_v36', 'iatd:srlc_suppl119']
+  [PASS] T3 2025-01-23 | valid-time only: label ['iatd:label_v34'], boxed warning VISIBLE, leaked records 2
+         BW records ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v34', 'iatd:srlc_suppl119']; leaked ['iatd:label_v34', 'iatd:srlc_suppl119']
+  [PASS] T3 2025-01-23 | bitemporal (all sources): label ['iatd:label_v33'], boxed warning VISIBLE, leaked records 0
+         BW records ['iatd:dsc_2025-01-22_glatiramer']; leaked []
+  [PASS] T3 2025-01-23 | bitemporal (DailyMed only): label ['iatd:label_v33'], boxed warning not visible, leaked records 0
+         BW records []; leaked []
+  [PASS] T2 2025-03-14 | static: label ['iatd:label_v36'], boxed warning VISIBLE, leaked records 2
+         BW records ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v36', 'iatd:srlc_suppl119']; leaked ['iatd:label_v36', 'iatd:srlc_suppl119']
+  [PASS] T2 2025-03-14 | valid-time only: label ['iatd:label_v35'], boxed warning VISIBLE, leaked records 1
+         BW records ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v35', 'iatd:srlc_suppl119']; leaked ['iatd:srlc_suppl119']
+  [PASS] T2 2025-03-14 | bitemporal (all sources): label ['iatd:label_v35'], boxed warning VISIBLE, leaked records 0
+         BW records ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v35']; leaked []
+  [PASS] T2 2025-03-14 | bitemporal (DailyMed only): label ['iatd:label_v35'], boxed warning VISIBLE, leaked records 0
+         BW records ['iatd:label_v35']; leaked []
+== 6. Closed-world integrity rules
+  [PASS] R1a every record has exactly one valid-time interval
+  [PASS] R1b every valid-time interval has exactly one beginning
+  [PASS] R2 the only record with unknown availability is SrLC SUPPL-121 (no archive snapshot lists it; fail-closed)
+         ['iatd:srlc_suppl121']
+  [PASS] R3 succession is monotone (version number, valid start, availability)
+         4 supersedes links; violations: []
+  [PASS] R4 time:intervalMeets agrees with timestamps (end(i) = begin(j))
+         5 links; violations: []
+  [PASS] R5 every interval end is attested by a record whose validity begins at that end
+         violations: []; ends without attester: []
+  [PASS] R6 a derived record is never available before its sources
+         violations: []; sources w/o availability: []
+  [PASS] R7 every record used by an as-of check was available at the check instant (closed world)
+         8 usages; violations: []
+  [PASS] R7b recorded checks use exactly the label and warning records selected by the bitemporal query
+         iatd:check_SYN001_2024-06: label ['iatd:label_v32'] vs query ['iatd:label_v32']; BW records [] vs query [] | iatd:check_SYN001_2025-03: label ['iatd:label_v35'] vs query ['iatd:label_v35']; BW records ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v35'] vs query ['iatd:dsc_2025-01-22_glatiramer', 'iatd:label_v35']
+  [PASS] R8 every safety warning is attested by at least one record
+         []
+  [PASS] R9 every closed interval has beginning < end
+         []
+  [PASS] R10 day-precision availability dates use leakage-safe rounding (D T23:59:59-12:00)
+         6 records; violations: []
+  [PASS] R11 ontology text is English only (no Cyrillic characters)
+         0 Cyrillic chars
+== 7. Cross-check against primary-source evidence
+  [PASS] E1 label v32 vs DailyMed history + SPL XML (eff 20231120, published Nov 23, 2023)
+         doc id, set id, valid start, availability, BW flag, NDA match
+  [PASS] E1 label v33 vs DailyMed history + SPL XML (eff 20231130, published Sep 27, 2024)
+         doc id, set id, valid start, availability, BW flag, NDA match
+  [PASS] E1 label v34 vs DailyMed history + SPL XML (eff 20250122, published Jan 24, 2025)
+         doc id, set id, valid start, availability, BW flag, NDA match
+  [PASS] E1 label v35 vs DailyMed history + SPL XML (eff 20250131, published Feb 21, 2025)
+         doc id, set id, valid start, availability, BW flag, NDA match
+  [PASS] E1 label v36 vs DailyMed history + SPL XML (eff 20260623, published Jun 26, 2026)
+         doc id, set id, valid start, availability, BW flag, NDA match
+  [PASS] E2 SrLC SUPPL-116 approved 11/16/2023 (sections: Warnings and Precautions)
+         date, number
+  [PASS] E2 SrLC SUPPL-119 approved 01/22/2025 (sections: Boxed Warning, Contraindications, Warnings and Precautions, Adverse Reactions, Medication Guide)
+         date, number, BW newly added, warning valid from approval
+  [PASS] E2 SrLC SUPPL-121 approved 06/22/2026 (sections: Use in Specific Populations)
+         date, number
+  [PASS] E2c SrLC SUPPL-116 availability = first Internet Archive snapshot that lists the entry
+         knownFrom 2024-06-13T22:39:40Z = first archive snapshot listing it 2024-06-13T22:39:40Z (upper bound)
+  [PASS] E2c SrLC SUPPL-119 availability = first Internet Archive snapshot that lists the entry
+         knownFrom 2025-08-10T17:25:41Z = first archive snapshot listing it 2025-08-10T17:25:41Z (upper bound)
+  [PASS] E2c SrLC SUPPL-121 availability = first Internet Archive snapshot that lists the entry
+         no archive snapshot lists it -> availability left unknown (fail-closed)
+  [PASS] E2b SrLC application number = label set application number
+         {'drug': 'COPAXONE', 'application': 'NDA-020622'}
+  [PASS] E3 FDA DSC dated 01-22-2025 = availability of DSC record
+         FDA adds Boxed Warning about a rare but serious allergic reaction called anaphylaxis with the multiple sclerosis medicine glatiramer acetate (Copaxone, Glatopa)
+  [PASS] E4 RxNorm 1111642: name, TTY, Active, SPL_SET_ID, NDC
+         1 ML glatiramer acetate 20 MG/ML Prefilled Syringe [Copaxone] (SBD), NDC11 ['68546031730']
+  [PASS] E4 RxNorm 1487363: name, TTY, Active, SPL_SET_ID, NDC
+         1 ML glatiramer acetate 40 MG/ML Prefilled Syringe [Copaxone] (SBD), NDC11 ['68546032512']
+  [PASS] E4b RxNorm ingredient/brand ids (84375 PIN, 214582 IN, 135779 BN)
+         {'214582': 'glatiramer', '84375': 'glatiramer acetate', '135779': 'Copaxone', '1111642': '1 ML glatiramer acetate 20 MG/ML Prefilled Syringe [Copaxone]', '1487363': '1 ML glatiramer acetate 40 MG/ML Prefilled Syringe [Copaxone]'}
+  [PASS] E5 ChEBI 749565 name and release status (ChEBI API)
+         {'chebi_accession': 'CHEBI:749565', 'name': 'glatiramer acetate', 'stars': 2, 'is_released': True}
+  [PASS] E5b every MeSH id used is a live MeSH descriptor (NLM MeSH RDF)
+         used ['D000068717', 'D000707', 'D009103', 'D020529']; labels {'D000068717': 'Glatiramer Acetate', 'D000707': 'Anaphylaxis', 'D009103': 'Multiple Sclerosis', 'D020529': 'Multiple Sclerosis, Relapsing-Remitting'}
+  [PASS] E5c UNII 5M691HL4BO is the active ingredient in all modelled SPL versions
+         5M691HL4BO = GLATIRAMER ACETATE (classCode ACTIB) in every version; all UNII in SPL: ['3OWL53L36A', '5M691HL4BO'] (3OWL53L36A = MANNITOL, inactive)
+  [PASS] E6 12 OBO terms: exist in OLS, not obsolete, labels match
+         problems: []
+  [PASS] E6b replicated OBO axioms (BFO/IAO/RO/MONDO) and MeSH xrefs agree with the source ontologies
+         problems: []; versions: {'bfo': 'http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl', 'chebi': 'http://purl.obolibrary.org/obo/chebi/256/chebi.owl', 'iao': 'http://purl.obolibrary.org/obo/iao/2026-03-30/iao.owl', 'mondo': 'http://purl.obolibrary.org/obo/mondo/releases/2026-10-06/mondo-international.owl', 'ro': 'http://purl.obolibrary.org/obo/ro/releases/2026-09-04/ro.owl'}
+  [PASS] E7 27 Biolink IRIs exist in Biolink v4.4.5 schema and resolve via w3id (negative control 404)
+         problems: []
+  [PASS] E7b 13 replicated Biolink is_a links equal the schema
+         problems: []
+  [PASS] E7c infores ids used exist in the Biolink Information Resource Registry
+         ['infores:dailymed']; registry check {'infores:dailymed': True, 'infores:rxnorm': True, 'infores:chebi': True, 'infores:mesh': True, 'infores:mondo': True, 'fda_srlc_or_dsc_like_ids_found': []}
+  [PASS] E8 10 OWL-Time terms exist and replicated axioms are a subset of W3C OWL-Time
+         problems: []; OWL-Time licence ['https://creativecommons.org/licenses/by/4.0/']
+  [PASS] E9 PROV-O terms used in mappings exist
+         {'http://www.w3.org/ns/prov#generatedAtTime': True, 'http://www.w3.org/ns/prov#wasDerivedFrom': True, 'http://www.w3.org/ns/prov#wasRevisionOf': True}
+  [PASS] E10 evidence collected without errors (fetch_evidence.py access log)
+         126 requests, first 2026-10-07T16:13:05Z, errors: []
+
+== 8. Metrics
+  triples: 1151; file size: 57484 bytes (limit 3145728)
+  named classes: 52 (own iat: 24, reused: 28 [biolink 15, OBO 9, OWL-Time 4])
+  object properties: 33 (own 25); datatype properties: 11 (own 10); annotation properties: 22
+  named individuals: 51; class assertions: 57; object property assertions: 107; data property assertions: 48
+  TBox: subClassOf 71, equivalentClass 5, disjointWith 3, AllDisjointClasses 3 (15 members), domain 41, range 38, subPropertyOf 8, inverseOf 4
+  restrictions: 41 {'exactly': 20, 'max': 1, 'only': 3, 'some': 16, 'value': 1}; datatype facet restrictions: 3; property characteristics: {'functional': 21, 'inverse functional': 2, 'transitive': 3, 'asymmetric': 1, 'irreflexive': 1}
+  own classes with >=1 instance: asserted 14/24, after reasoning 24/24; without instances: []
+  own properties used in assertions: 30/35; used only inside class restrictions: ['iat:assertsCondition', 'iat:attests', 'iat:hasActiveIngredient', 'iat:warnsAbout']; populated only through sub-properties: ['iat:laterVersionOf']; unused: []
+
+Notes:
+  * Section 2 is a partial structural audit written for this file, not a full OWL 2 DL profile checker (OWL API profile validation / ROBOT were not installed).
+  * The W3C OWL-Time release is not imported: it uses xsd:duration, which is outside the OWL 2 datatype map and is rejected by HermiT (UnsupportedDatatypeException, checked on 2026-10-07). Axioms of the reused OWL-Time terms are replicated and checked against the W3C file (E8).
+  * Pellet (bundled with owlready2) could not be run: its Apache Jena jars are compiled for class-file version 69 (Java 25); Java 23 supports up to 67 (UnsupportedClassVersionError, checked 2026-10-07).
+  * Views: 'static' = snapshot as of today (only the latest version of each label, as openFDA serves it; all other records regardless of time); 'valid-time only' = records whose valid time contains T, availability ignored; 'bitemporal' = records available at T whose valid time contains T as known at T (an interval end counts only if the record revealing it is available at T); unknown availability = not available (fail-closed). 'DailyMed only' admits regulatory knowledge only via DailyMed.
+  * rdflib does not compare xsd:dateTimeStamp literals natively (silently empty result); all SPARQL comparisons cast with xsd:dateTime(STR(?x)).
+  * Patient data are hand-authored synthetic records (no PHI). Regulatory dates/ids come from public primary sources (see evidence/ and access_log.json).

@@ -1,0 +1,94 @@
+{
+ "application": "NDA020630",
+ "srlc_rows": [
+  {
+   "drug_name": "ULTIVA",
+   "active_ingredient": "REMIFENTANIL HYDROCHLORIDE",
+   "application_number": "020630",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "653"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-06",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "4dbcb8f9-1987-4b66-bd2f-d251fda0be10",
+   "title": "ULTIVA (REMIFENTANIL HYDROCHLORIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MYLAN INSTITUTIONAL LLC]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-06-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-10-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-06-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-08-20"
+   },
+   "lag_days_dailymed": 241,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "8b4c8696-e23e-4c51-a4d2-babab5bd945a",
+   "title": "ULTIVA (REMIFENTANIL HYDROCHLORIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MYLAN INSTITUTIONAL LLC]",
+   "published_date": "Aug 17, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-06-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-09-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-12-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-01-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-08-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-01-01"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:48:08Z"
+}

@@ -1,0 +1,173 @@
+{
+ "application": "NDA050718",
+ "srlc_rows": [
+  {
+   "drug_name": "DOXIL (LIPOSOMAL)",
+   "active_ingredient": "DOXORUBICIN HYDROCHLORIDE",
+   "application_number": "050718",
+   "application_type": "NDA",
+   "supplement_date": "03/10/2026",
+   "database_updated": "03/13/2026",
+   "drug_name_id": "2019"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-10",
+ "srlc_database_updated": "2026-03-13",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "1c153e9e-4cf2-4ac7-9cf9-16f9b48d7dce",
+   "title": "DOXIL (DOXORUBICIN HYDROCHLORIDE) INJECTION, SUSPENSION, LIPOSOMAL [BAXTER HEALTHCARE COMPANY]",
+   "published_date": "Jun 03, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-08-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-08-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-09-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-09-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-02-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-12-30"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-12-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-06-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-01-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-08-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-04-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-06-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-06-03"
+   },
+   "lag_days_dailymed": 85,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "917eddf9-1d3f-4abe-8c81-d33b066e5bae",
+   "title": "DOXIL (DOXORUBICIN HYDROCHLORIDE) INJECTION, SUSPENSION, LIPOSOMAL [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Mar 18, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-09-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-02-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-03-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-03-18"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "cf25a018-e795-49e4-8533-a581f8366dd9",
+   "title": "DOXORUBICIN HYDROCHLORIDE LIPOSOME INJECTION, SUSPENSION, LIPOSOMAL [BAXTER HEALTHCARE COMPANY]",
+   "published_date": "Nov 19, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-08-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-09-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-12-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-06-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-01-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-08-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-04-30"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T08:57:36Z"
+}

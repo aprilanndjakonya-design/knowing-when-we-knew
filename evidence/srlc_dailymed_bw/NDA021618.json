@@ -1,0 +1,130 @@
+{
+ "application": "NDA021618",
+ "srlc_rows": [
+  {
+   "drug_name": "TINDAMAX",
+   "active_ingredient": "TINIDAZOLE",
+   "application_number": "021618",
+   "application_type": "NDA",
+   "supplement_date": "06/07/2019",
+   "supplement": "SUPPL-6",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/07/2019",
+     "suppl": "SUPPL-6",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/15/2021",
+   "database_updated": "12/17/2021",
+   "drug_name_id": "1969"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-06-07",
+ "srlc_database_updated": "2021-12-17",
+ "lag_days_srlc_database": 924,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "f55bcc41-2e8d-4ee5-9993-05c7d86f2d2c",
+   "title": "TINIDAZOLE TABLET, FILM COATED [BIOCOMP PHARMA, INC.]",
+   "published_date": "Dec 04, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-07-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-06-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-03-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-06-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-12-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2020-06-03"
+   },
+   "lag_days_dailymed": 362,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a0d01539-8413-4703-94cc-d221918630a1",
+   "title": "TINDAMAX (TINIDAZOLE) TABLET, FILM COATED [MISSION PHARMACAL COMPANY]",
+   "published_date": "Dec 28, 2021",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-08-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-07-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-10-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-12-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-10-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-12-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-12-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2020-10-16"
+   },
+   "lag_days_dailymed": 497,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "bc5aaeb2-a7c3-4ff5-a2be-4eaf162453fb",
+   "title": "TINDAMAX (TINIDAZOLE) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Oct 01, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-10-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 362,
+ "fetched_utc": "2026-10-16T09:22:51Z"
+}

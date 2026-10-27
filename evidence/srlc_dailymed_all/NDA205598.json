@@ -1,0 +1,72 @@
+{
+ "application": "NDA205598",
+ "srlc_rows": [
+  {
+   "drug_name": "MACRILEN",
+   "active_ingredient": "MACIMORELIN ACETATE",
+   "application_number": "205598",
+   "application_type": "NDA",
+   "supplement_date": "07/23/2026",
+   "database_updated": "07/30/2026",
+   "drug_name_id": "3310"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-23",
+ "srlc_database_updated": "2026-07-30",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "aeb30f1a-4815-47ae-a2cb-b6b4e26372e1",
+   "title": "MACRILEN (MACIMORELIN ACETATE) GRANULE, FOR SOLUTION [AETERNA ZENTARIS GMBH]",
+   "published_date": "Feb 19, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2026-02-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "6034c9b8-5a36-4961-a5dd-11ebf7bdab78",
+   "title": "MACRILEN (MACIMORELIN ACETATE) GRANULE, FOR SOLUTION [NOVO NORDISK]",
+   "published_date": "Dec 29, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-11-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-01-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-12-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-12-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-12-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:01:36Z"
+}

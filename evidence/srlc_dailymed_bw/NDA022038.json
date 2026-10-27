@@ -1,0 +1,139 @@
+{
+ "application": "NDA022038",
+ "srlc_rows": [
+  {
+   "drug_name": "DIVIGEL",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "022038",
+   "application_type": "NDA",
+   "supplement_date": "12/12/2019",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/12/2019",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/12/2026",
+   "database_updated": "02/13/2026",
+   "drug_name_id": "1335"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-12-12",
+ "srlc_database_updated": "2026-02-13",
+ "lag_days_srlc_database": 2255,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "e84ad638-6768-41aa-b2b8-e2514ef63881",
+   "title": "ESTRADIOL GEL [TRIGEN LABORATORIES, LLC]",
+   "published_date": "Aug 24, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2022-10-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-05-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-07-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-08-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2022-10-11"
+   },
+   "lag_days_dailymed": 1034,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "59e610dc-883e-4f07-9ec6-a5841b0bf9fb",
+   "title": "DIVIGEL (ESTRADIOL) GEL [VERTICAL PHARMACEUTICALS, LLC]",
+   "published_date": "Mar 05, 2026",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-10-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-11-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-11-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-09-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-01-18"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-12-18"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-08-28"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2020-10-14"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2020-10-22"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-11-18"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-06-02"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-07-25"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-03-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2019-12-18"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T09:23:43Z"
+}

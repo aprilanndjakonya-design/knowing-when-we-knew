@@ -1,0 +1,21 @@
+{
+ "application": "NDA018374",
+ "srlc_rows": [
+  {
+   "drug_name": "BACTRIM",
+   "active_ingredient": "SULFAMETHOXAZOLE; TRIMETHOPRIM",
+   "application_number": "018374",
+   "application_type": "NDA",
+   "supplement_date": "02/21/2025",
+   "database_updated": "02/24/2025",
+   "drug_name_id": "883"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-21",
+ "srlc_database_updated": "2025-02-24",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:44:12Z"
+}

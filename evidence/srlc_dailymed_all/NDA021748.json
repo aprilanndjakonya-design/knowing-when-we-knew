@@ -1,0 +1,203 @@
+{
+ "application": "NDA021748",
+ "srlc_rows": [
+  {
+   "drug_name": "GLUMETZA",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE",
+   "application_number": "021748",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "953"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "fb832474-88d9-4e29-95cd-fbc446944cc4",
+   "title": "GLUMETZA (METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [SANTARUS, INC.]",
+   "published_date": "Sep 21, 2026",
+   "spl_version": 32,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2011-12-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-04-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-02-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-06-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-02-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-05-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-04-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-05-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-05-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-05-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-07-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-07-25"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-03-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-03-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-03-28"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-04-13"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-04-16"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-11-15"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-02-26"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-03-06"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-07-22"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2019-10-03"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2019-10-15"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-09-04"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-09-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 31,
+    "published_date": "2026-09-04"
+   },
+   "lag_days_dailymed": 24,
+   "versions_before_supplement": 28
+  },
+  {
+   "setid": "74d32a8a-c4c2-4dbb-b376-eea3f8fa64d7",
+   "title": "METFORMIN HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+   "published_date": "Nov 18, 2024",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-01-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-05-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-07-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-03-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-03-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-07-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-11-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 24,
+ "fetched_utc": "2026-10-16T08:52:55Z"
+}

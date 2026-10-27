@@ -1,0 +1,21 @@
+{
+ "application": "NDA200534",
+ "srlc_rows": [
+  {
+   "drug_name": "OXYCODONE HYDROCHLORIDE",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "200534",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "681"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-06",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:58:33Z"
+}

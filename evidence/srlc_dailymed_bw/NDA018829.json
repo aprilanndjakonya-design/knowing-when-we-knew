@@ -1,0 +1,66 @@
+{
+ "application": "NDA018829",
+ "srlc_rows": [
+  {
+   "drug_name": "INDOMETHACIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "018829",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-22",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-22",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "188"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9607920c-4d25-40b9-957e-87e9ca5574e8",
+   "title": "INDOMETHACIN CAPSULE [CHARTWELL RX, LLC]",
+   "published_date": "Mar 28, 2025",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-09-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-10-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-10-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-03-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2022-09-30"
+   },
+   "lag_days_dailymed": 2335,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 2335,
+ "fetched_utc": "2026-10-16T09:15:14Z"
+}

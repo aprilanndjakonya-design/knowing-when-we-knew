@@ -1,0 +1,39 @@
+{
+ "application": "NDA022328",
+ "srlc_rows": [
+  {
+   "drug_name": "INTERMEZZO",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "022328",
+   "application_type": "NDA",
+   "supplement_date": "08/18/2019",
+   "supplement": "SUPPL-8",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/18/2019",
+     "suppl": "SUPPL-8",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1866"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-08-18",
+ "srlc_database_updated": "2019-08-26",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:24:56Z"
+}

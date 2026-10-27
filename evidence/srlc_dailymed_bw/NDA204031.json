@@ -1,0 +1,50 @@
+{
+ "application": "NDA204031",
+ "srlc_rows": [
+  {
+   "drug_name": "XARTEMIS XR",
+   "active_ingredient": "ACETAMINOPHEN; OXYCODONE HYDROCHLORIDE",
+   "application_number": "204031",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/18/2018",
+   "database_updated": "09/28/2018",
+   "drug_name_id": "725"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2018-09-28",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:27:03Z"
+}

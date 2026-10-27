@@ -1,0 +1,122 @@
+{
+ "application": "NDA213645",
+ "srlc_rows": [
+  {
+   "drug_name": "DAPZURA RT",
+   "active_ingredient": "DAPTOMYCIN",
+   "application_number": "213645",
+   "application_type": "NDA",
+   "supplement_date": "04/30/2025",
+   "database_updated": "05/30/2025",
+   "drug_name_id": "3114"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-30",
+ "srlc_database_updated": "2025-05-30",
+ "lag_days_srlc_database": 30,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "7ed4d986-2aa9-43cd-9a8a-fbd11cb5ecef",
+   "title": "DAPTOMYCIN IN SODIUM CHLORIDE INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Oct 05, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-03-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-07-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-07-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-02-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-02-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-02-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-04-24"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-05-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-02-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-10-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-05-08"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "cb1283e1-35b8-425c-b338-d9ac0c7161f8",
+   "title": "DAPZURA RT (DAPTOMYCIN) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "May 21, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-02-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-05-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-07-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-04-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-03-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-05-21"
+   },
+   "lag_days_dailymed": 386,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T09:06:57Z"
+}

@@ -1,0 +1,131 @@
+{
+ "application": "NDA020592",
+ "srlc_rows": [
+  {
+   "drug_name": "ZYPREXA",
+   "active_ingredient": "OLANZAPINE",
+   "application_number": "020592",
+   "application_type": "NDA",
+   "supplement_date": "01/30/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "462"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-30",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "b418946a-1ab4-4d89-a012-d94fc361a3c4",
+   "title": "ZYPREXA (OLANZAPINE) TABLET ZYPREXA ZYDIS (OLANZAPINE) TABLET, ORALLY DISINTEGRATING ZYPREXA INTRAMUSCULAR (OLANZAPINE) INJECTION, POWDER, FOR SOLUTION [H2-PHARMA LLC]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 69,
+   "versions": [
+    {
+     "spl_version": 64,
+     "published_date": "2023-10-16"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2025-02-07"
+    },
+    {
+     "spl_version": 68,
+     "published_date": "2026-02-16"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 68,
+    "published_date": "2026-02-16"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "0e986037-41c9-431e-b007-0e7764523fdd",
+   "title": "ZYPREXA (OLANZAPINE) TABLET [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Dec 05, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-12-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "71c6577c-ffea-4934-bc10-2d35942f8a16",
+   "title": "ZYPREXA (OLANZAPINE) TABLET [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Oct 07, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-10-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a3c9ea17-3793-494a-8b32-44e48f9f4503",
+   "title": "ZYPREXA (OLANZAPINE) TABLET [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Dec 10, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "30a963ab-b2ee-4949-8c3c-00d0f308dd61",
+   "title": "ZYPREXA (OLANZAPINE) TABLET [STAT RX USA LLC]",
+   "published_date": "Aug 09, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-08-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "66ef201f-85eb-44f0-9ef0-1b618c6e0bff",
+   "title": "ZYPREXA (OLANZAPINE) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jun 18, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:48:00Z"
+}

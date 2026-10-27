@@ -1,0 +1,111 @@
+{
+ "application": "NDA022569",
+ "srlc_rows": [
+  {
+   "drug_name": "LAZANDA",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "022569",
+   "application_type": "NDA",
+   "supplement_date": "03/04/2021",
+   "supplement": "SUPPL-30",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-23",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "03/04/2021",
+     "suppl": "SUPPL-30",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/10/2021",
+   "drug_name_id": "756"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-03-04",
+ "srlc_database_updated": "2021-03-10",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "73f38bde-2132-2b5a-e053-2a91aa0a6efb",
+   "title": "LAZANDA (FENTANYL) SPRAY [WEST THERAPEUTIC DEVELOPMENT LLC]",
+   "published_date": "Mar 31, 2021",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-08-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-10-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-03-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-03-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2021-03-31"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "39531d0c-db12-4627-81c9-6563076b637b",
+   "title": "LAZANDA (FENTANYL CITRATE) SPRAY [ARCHIMEDES PHARMA US INC.]",
+   "published_date": "Aug 01, 2012",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-12-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-02-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-06-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-08-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T09:25:30Z"
+}

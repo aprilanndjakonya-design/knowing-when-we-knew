@@ -1,0 +1,56 @@
+{
+ "application": "BLA761342",
+ "srlc_rows": [
+  {
+   "drug_name": "TALVEY",
+   "active_ingredient": "TALQUETAMAB-TGVS",
+   "application_number": "761342",
+   "application_type": "BLA",
+   "supplement_date": "10/02/2025",
+   "database_updated": "10/06/2025",
+   "drug_name_id": "3196"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-02",
+ "srlc_database_updated": "2025-10-06",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9001355e-003d-4d4e-b4ce-337e0fd14952",
+   "title": "TALVEY (TALQUETAMAB) INJECTION [JANSSEN BIOTECH, INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-08-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-08-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 46,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 46,
+ "fetched_utc": "2026-10-16T08:41:12Z"
+}

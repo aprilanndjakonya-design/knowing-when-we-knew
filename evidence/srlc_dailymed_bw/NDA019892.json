@@ -1,0 +1,378 @@
+{
+ "application": "NDA019892",
+ "srlc_rows": [
+  {
+   "drug_name": "DILAUDID",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "019892",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-41",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-29",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-34",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-41",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "676"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 754,
+ "dailymed_setids": 7,
+ "labels": [
+  {
+   "setid": "2427814c-f32b-8ac5-99b8-5e886fd2d001",
+   "title": "HYDROMORPHONE HYDROCHLORIDE TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Jun 30, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-10-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-06-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-05-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-08-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-09-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-01-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-04-08"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-05-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-11-14"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-11-27"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-04-14"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-06-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2024-05-17"
+   },
+   "lag_days_dailymed": 154,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "53ddcacc-99e4-8b21-e063-6394a90a3e79",
+   "title": "HYDROMORPHONE HYDROCHLORIDE TABLET [ST. MARY'S MEDICAL PARK PHARMACY]",
+   "published_date": "Jun 11, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-06-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-06-11"
+   },
+   "lag_days_dailymed": 909,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "37565441-0d95-4743-a695-d7b3326f58a1",
+   "title": "HYDROMORPHONE HYDROCHLORIDE TABLET HYDROMORPHONE HYDROCHLORIDE SOLUTION [RHODES PHARMACEUTICALS LLC]",
+   "published_date": "May 20, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-11-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-11-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-11-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-12-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-10-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-11-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-01-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-08-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-04-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-12-12"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-10-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-05-27"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-03-16"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-06-21"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-01-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-01-30"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-03-26"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-05-18"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-05-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2024-01-19"
+   },
+   "lag_days_dailymed": 35,
+   "versions_before_supplement": 14
+  },
+  {
+   "setid": "d6b40e39-a57e-402c-b4f6-7041e832f837",
+   "title": "DILAUDID (HYDROMORPHONE HYDROCHLORIDE) TABLET DILAUDID (HYDROMORPHONE HYDROCHLORIDE) SOLUTION [RHODES PHARMACEUTICALS LLC]",
+   "published_date": "May 20, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-05-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-10-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-10-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-03-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-05-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-06-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-01-03"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-01-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-03-26"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-05-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-05-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2024-01-03"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "c48e2e9a-cb5b-46b8-b6be-3dd76e80d0ca",
+   "title": "HYDROMORPHONE HYDROCHLORIDE TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Apr 13, 2026",
+   "spl_version": 104,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2023-05-25"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 103,
+     "published_date": "2025-03-03"
+    },
+    {
+     "spl_version": 104,
+     "published_date": "2026-04-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 101,
+    "published_date": "2024-04-10"
+   },
+   "lag_days_dailymed": 117,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "18f6f54e-1537-4181-9d07-54ddf881a9ee",
+   "title": "HYDROMORPHONE HYDROCHLORIDE TABLET [ASCLEMED USA INC.]",
+   "published_date": "Dec 08, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-12-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-12-08"
+   },
+   "lag_days_dailymed": 724,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "86638efd-9eb9-440e-b48b-b1bd52ccbc61",
+   "title": "HYDROMORPHONE HYDROCHLORIDE TABLET [STAT RX USA LLC]",
+   "published_date": "Aug 24, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-08-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T09:16:15Z"
+}

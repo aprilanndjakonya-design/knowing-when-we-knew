@@ -1,0 +1,265 @@
+{
+ "application": "NDA019101",
+ "srlc_rows": [
+  {
+   "drug_name": "FENTANYL CITRATE",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "019101",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-63",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-45",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-63",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "2908"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-06",
+ "lag_days_srlc_database": 753,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "aacf276b-e133-4199-ad3f-67b894744c04",
+   "title": "FENTANYL CITRATE INJECTION [CIVICA, INC.]",
+   "published_date": "Mar 30, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-10-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-10-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-10-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-12-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-01-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-04-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-03-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2024-01-18"
+   },
+   "lag_days_dailymed": 34,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "58dcd3f7-e3d8-4929-a186-8f680a51ff11",
+   "title": "FENTANYL CITRATE INJECTION [PHLOW CORP.]",
+   "published_date": "Mar 25, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-01-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-01-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-01-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-06-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-03-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2024-06-14"
+   },
+   "lag_days_dailymed": 182,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "ce5db1c2-feb1-4ad2-847a-d02e865bd47e",
+   "title": "FENTANYL CITRATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Mar 20, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-06-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-01-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-11-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-12-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-10-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-03-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-09-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-01-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-02-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-03-07"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-04-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-04-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-02-20"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-03-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2023-12-18"
+   },
+   "lag_days_dailymed": 3,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "c5fcdcbd-1dd1-4ebf-aa0d-edfe845414b7",
+   "title": "FENTANYL CITRATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Feb 23, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-02-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-09-01"
+   },
+   "lag_days_dailymed": 626,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 3,
+ "fetched_utc": "2026-10-16T09:15:32Z"
+}

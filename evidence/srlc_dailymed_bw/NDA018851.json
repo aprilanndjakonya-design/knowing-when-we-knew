@@ -1,0 +1,139 @@
+{
+ "application": "NDA018851",
+ "srlc_rows": [
+  {
+   "drug_name": "INDOMETHACIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "018851",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-25",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-25",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "189"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "492419ef-c663-3880-e054-00144ff8d46c",
+   "title": "INDOMETHACIN CAPSULE [DIRECT RX]",
+   "published_date": "Jan 21, 2020",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-02-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2017-02-22"
+   },
+   "lag_days_dailymed": 289,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "4e183e42-57b6-562e-e054-00144ff88e88",
+   "title": "INDOMETHACIN CAPSULE [REDPHARM DRUG, INC.]",
+   "published_date": "Jan 21, 2020",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-04-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2017-04-27"
+   },
+   "lag_days_dailymed": 353,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "4e8f0587-58dd-6d6e-e054-00144ff88e88",
+   "title": "INDOMETHACIN CAPSULE [REDPHARM DRUG, INC.]",
+   "published_date": "Jan 21, 2020",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-05-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2017-05-02"
+   },
+   "lag_days_dailymed": 358,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "755ee12c-db76-46a6-b957-c85a2507ab24",
+   "title": "INDOMETHACIN CAPSULE [CARILION MATERIALS MANAGEMENT]",
+   "published_date": "Aug 05, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-03-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2016-08-05"
+   },
+   "lag_days_dailymed": 88,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "74099022-892a-46d8-a64e-4a9d7d3256cd",
+   "title": "INDOMETHACIN CAPSULE [DIRECTRX]",
+   "published_date": "Oct 22, 2015",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-10-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 88,
+ "fetched_utc": "2026-10-16T09:15:19Z"
+}

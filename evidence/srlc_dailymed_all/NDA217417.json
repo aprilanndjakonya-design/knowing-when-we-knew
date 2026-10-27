@@ -1,0 +1,56 @@
+{
+ "application": "NDA217417",
+ "srlc_rows": [
+  {
+   "drug_name": "REZZAYO",
+   "active_ingredient": "REZAFUNGIN ACETATE",
+   "application_number": "217417",
+   "application_type": "NDA",
+   "supplement_date": "07/16/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "3225"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-16",
+ "srlc_database_updated": "2026-07-24",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "90073508-6dca-4d27-aa5a-ed837737c35b",
+   "title": "REZZAYO (REZAFUNGIN) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MELINTA THERAPEUTICS, LLC]",
+   "published_date": "Aug 03, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-06-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-10-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-08-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-08-03"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T09:09:51Z"
+}

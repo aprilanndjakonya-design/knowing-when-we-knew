@@ -1,0 +1,302 @@
+{
+ "application": "NDA021168",
+ "srlc_rows": [
+  {
+   "drug_name": "DEPAKOTE ER",
+   "active_ingredient": "DIVALPROEX SODIUM",
+   "application_number": "021168",
+   "application_type": "NDA",
+   "supplement_date": "02/21/2019",
+   "supplement": "SUPPL-39",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/21/2019",
+     "suppl": "SUPPL-39",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Adverse Reactions",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/31/2026",
+   "database_updated": "04/03/2026",
+   "drug_name_id": "55"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-02-21",
+ "srlc_database_updated": "2026-04-03",
+ "lag_days_srlc_database": 2598,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "0dc024ce-efc8-4690-7cb5-639c728fccac",
+   "title": "DEPAKOTE ER (DIVALPROEX SODIUM) TABLET, EXTENDED RELEASE [ABBVIE INC.]",
+   "published_date": "Apr 13, 2026",
+   "spl_version": 1658,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-10-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-04-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-05-07"
+    },
+    {
+     "spl_version": 1015,
+     "published_date": "2010-06-14"
+    },
+    {
+     "spl_version": 1406,
+     "published_date": "2011-08-25"
+    },
+    {
+     "spl_version": 1415,
+     "published_date": "2012-08-15"
+    },
+    {
+     "spl_version": 1416,
+     "published_date": "2012-11-01"
+    },
+    {
+     "spl_version": 1434,
+     "published_date": "2013-03-19"
+    },
+    {
+     "spl_version": 1452,
+     "published_date": "2013-05-17"
+    },
+    {
+     "spl_version": 1459,
+     "published_date": "2013-06-06"
+    },
+    {
+     "spl_version": 1467,
+     "published_date": "2013-09-17"
+    },
+    {
+     "spl_version": 1486,
+     "published_date": "2014-04-21"
+    },
+    {
+     "spl_version": 1503,
+     "published_date": "2014-07-10"
+    },
+    {
+     "spl_version": 1513,
+     "published_date": "2014-08-29"
+    },
+    {
+     "spl_version": 1529,
+     "published_date": "2014-12-12"
+    },
+    {
+     "spl_version": 1550,
+     "published_date": "2015-01-21"
+    },
+    {
+     "spl_version": 1561,
+     "published_date": "2015-03-26"
+    },
+    {
+     "spl_version": 1571,
+     "published_date": "2015-10-06"
+    },
+    {
+     "spl_version": 1580,
+     "published_date": "2016-02-26"
+    },
+    {
+     "spl_version": 1590,
+     "published_date": "2016-10-13"
+    },
+    {
+     "spl_version": 1596,
+     "published_date": "2016-11-14"
+    },
+    {
+     "spl_version": 1599,
+     "published_date": "2017-03-16"
+    },
+    {
+     "spl_version": 1607,
+     "published_date": "2017-05-11"
+    },
+    {
+     "spl_version": 1611,
+     "published_date": "2017-10-20"
+    },
+    {
+     "spl_version": 1619,
+     "published_date": "2018-11-27"
+    },
+    {
+     "spl_version": 1623,
+     "published_date": "2019-03-05"
+    },
+    {
+     "spl_version": 1633,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 1635,
+     "published_date": "2019-12-17"
+    },
+    {
+     "spl_version": 1636,
+     "published_date": "2020-05-28"
+    },
+    {
+     "spl_version": 1638,
+     "published_date": "2021-02-23"
+    },
+    {
+     "spl_version": 1640,
+     "published_date": "2021-06-11"
+    },
+    {
+     "spl_version": 1641,
+     "published_date": "2021-09-09"
+    },
+    {
+     "spl_version": 1642,
+     "published_date": "2021-12-08"
+    },
+    {
+     "spl_version": 1643,
+     "published_date": "2022-04-11"
+    },
+    {
+     "spl_version": 1644,
+     "published_date": "2022-04-15"
+    },
+    {
+     "spl_version": 1646,
+     "published_date": "2022-09-01"
+    },
+    {
+     "spl_version": 1647,
+     "published_date": "2023-03-03"
+    },
+    {
+     "spl_version": 1649,
+     "published_date": "2024-04-02"
+    },
+    {
+     "spl_version": 1652,
+     "published_date": "2025-02-05"
+    },
+    {
+     "spl_version": 1654,
+     "published_date": "2025-05-14"
+    },
+    {
+     "spl_version": 1655,
+     "published_date": "2025-05-16"
+    },
+    {
+     "spl_version": 1657,
+     "published_date": "2026-03-04"
+    },
+    {
+     "spl_version": 1658,
+     "published_date": "2026-04-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1623,
+    "published_date": "2019-03-05"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 25
+  },
+  {
+   "setid": "01c035ee-6bed-431d-9324-e0e0bc507eae",
+   "title": "DIVALPROEX SODIUM EXTENDED-RELEASE (DIVALPROEX SODIUM) TABLET, EXTENDED RELEASE [STATE OF FLORIDA DOH CENTRAL PHARMACY]",
+   "published_date": "Jan 07, 2015",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-01-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "49a585a8-327a-44b2-b45b-7a0959724dc6",
+   "title": "DIVALPROEX SODIUM EXTENDED-RELEASE (DIVALPROEX SODIUM) TABLET, EXTENDED RELEASE [TYA PHARMACEUTICALS]",
+   "published_date": "Sep 22, 2014",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2014-09-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "7bc942e3-b976-4b5c-8874-2a1c7dd3d2f1",
+   "title": "DEPAKOTE ER (DIVALPROEX SODIUM) TABLET, EXTENDED RELEASE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Apr 11, 2014",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-04-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "bfbc2cfb-8e96-4cf2-81c7-d63a1b7365c4",
+   "title": "DEPAKOTE (DIVALPROEX SODIUM) TABLET, EXTENDED RELEASE [REBEL DISTRIBUTORS CORP]",
+   "published_date": "May 25, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-05-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "ded64147-7a43-4055-accc-2c011828079d",
+   "title": "DEPAKOTE (DIVALPROEX SODIUM) TABLET, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 11, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:19:51Z"
+}

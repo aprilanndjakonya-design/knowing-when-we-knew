@@ -1,0 +1,48 @@
+{
+ "application": "NDA214958",
+ "srlc_rows": [
+  {
+   "drug_name": "SOTYKTU",
+   "active_ingredient": "DEUCRAVACITINIB",
+   "application_number": "214958",
+   "application_type": "NDA",
+   "supplement_date": "06/30/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "3259"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-30",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ff4d7258-5068-4cdf-9692-8cae04c3198e",
+   "title": "SOTYKTU (DEUCRAVACITINIB) TABLET, FILM COATED [E.R. SQUIBB & SONS, L.L.C.]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-09-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-07-15"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:07:55Z"
+}

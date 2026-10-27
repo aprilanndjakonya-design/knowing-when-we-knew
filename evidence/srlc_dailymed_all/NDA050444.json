@@ -1,0 +1,76 @@
+{
+ "application": "NDA050444",
+ "srlc_rows": [
+  {
+   "drug_name": "MINOCIN",
+   "active_ingredient": "MINOCYCLINE HYDROCHLORIDE",
+   "application_number": "050444",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/09/2025",
+   "drug_name_id": "3100"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-31",
+ "srlc_database_updated": "2025-04-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e415c323-8219-464b-9e3e-72c5a796cdaa",
+   "title": "MINOCIN (MINOCYCLINE HYDROCHLORIDE) INJECTION [MELINTA THERAPEUTICS, LLC]",
+   "published_date": "Sep 18, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-06-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-05-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-06-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-11-25"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-03-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-08-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-01-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-04-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-09-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2025-04-09"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T08:56:39Z"
+}

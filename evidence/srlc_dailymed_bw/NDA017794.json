@@ -1,0 +1,177 @@
+{
+ "application": "NDA017794",
+ "srlc_rows": [
+  {
+   "drug_name": "ATIVAN",
+   "active_ingredient": "LORAZEPAM",
+   "application_number": "017794",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-48",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-44",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-48",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "608"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-19",
+ "lag_days_srlc_database": 713,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "89057c93-8155-4040-acec-64e877bd2b4c",
+   "title": "ATIVAN (LORAZEPAM) TABLET [BAUSCH HEALTH US LLC]",
+   "published_date": "Nov 26, 2025",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-05-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-06-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-07-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-10-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-12-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-01-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-10-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-11-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-11-05"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-11-13"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-05-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-06-25"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-07-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-12-24"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-01-11"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-02-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-05-05"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-01-27"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-02-06"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-07-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-11-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2021-02-19"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 16
+  },
+  {
+   "setid": "ba6ce50e-c5a9-47ca-9803-a1ed82172b0e",
+   "title": "ATIVAN (LORAZEPAM) TABLET [STAT RX USA LLC]",
+   "published_date": "Feb 14, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-02-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:14:30Z"
+}

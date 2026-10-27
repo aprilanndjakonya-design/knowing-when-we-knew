@@ -1,0 +1,52 @@
+{
+ "application": "NDA217785",
+ "srlc_rows": [
+  {
+   "drug_name": "REZDIFFRA",
+   "active_ingredient": "RESMETIROM",
+   "application_number": "217785",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2026",
+   "database_updated": "07/31/2026",
+   "drug_name_id": "3229"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-24",
+ "srlc_database_updated": "2026-07-31",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e67ea09f-a840-439c-86c8-f98585f978b2",
+   "title": "REZDIFFRA (RESMETIROM) TABLET, COATED REZDIFFRA (RESMETIROM) TABLET, COATED REZDIFFRA (RESMETIROM) TABLET, COATED [MADRIGAL PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 05, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-08-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-08-05"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:10:11Z"
+}

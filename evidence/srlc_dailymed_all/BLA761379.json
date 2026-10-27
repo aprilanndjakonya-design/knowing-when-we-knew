@@ -1,0 +1,78 @@
+{
+ "application": "BLA761379",
+ "srlc_rows": [
+  {
+   "drug_name": "OTULFI",
+   "active_ingredient": "USTEKINUMAB-AAUZ",
+   "application_number": "761379",
+   "application_type": "BLA",
+   "supplement_date": "01/15/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "3084"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-15",
+ "srlc_database_updated": "2026-01-22",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "a6d75316-c9a7-49cf-83be-b7b6c6cecf7a",
+   "title": "USTEKINUMAB-AAUZ INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Oct 14, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-10-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-03-18"
+   },
+   "lag_days_dailymed": 62,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "853130e5-7406-4fd6-8138-ff2179195927",
+   "title": "OTULFI (USTEKINUMAB-AAUZ) INJECTION, SOLUTION OTULFI (USTEKINUMAB-AAUZ) SOLUTION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Mar 23, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-01-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-09-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-03-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-03-23"
+   },
+   "lag_days_dailymed": 67,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 62,
+ "fetched_utc": "2026-10-16T08:41:45Z"
+}

@@ -1,0 +1,156 @@
+{
+ "application": "NDA205879",
+ "srlc_rows": [
+  {
+   "drug_name": "INVOKAMET XR",
+   "active_ingredient": "CANAGLIFLOZIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "205879",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "1145"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6868666b-c25e-40d1-9d1f-306bbe9390c1",
+   "title": "INVOKAMET (CANAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED INVOKAMET XR (CANAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [JANSSEN PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 25, 2026",
+   "spl_version": 32,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-08-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-03-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-05-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-09-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-12-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-04-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-06-06"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-06-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-08-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-11-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-12-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-02-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-03-27"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-07-07"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-08-09"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-08-24"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-02-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-06-22"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-11-07"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-06-09"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-08-25"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-11-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-10-27"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2023-07-13"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-01-31"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-09-04"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-01-01"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2025-08-25"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-08-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 32,
+    "published_date": "2026-08-25"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 29
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:01:46Z"
+}

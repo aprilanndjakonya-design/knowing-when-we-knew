@@ -1,0 +1,53 @@
+{
+ "application": "NDA005939",
+ "srlc_rows": [
+  {
+   "drug_name": "BAL",
+   "active_ingredient": "DIMERCAPROL",
+   "application_number": "005939",
+   "application_type": "NDA",
+   "supplement_date": "03/18/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "3265"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-18",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "bee9a137-160f-47e8-a551-ca461ae4f51e",
+   "title": "BAL (DIMERCAPROL) INJECTION [AKORN]",
+   "published_date": "Jul 04, 2022",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-05-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-10-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-01-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-07-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:42:17Z"
+}

@@ -1,0 +1,90 @@
+{
+ "application": "NDA216386",
+ "srlc_rows": [
+  {
+   "drug_name": "ZAVZPRET",
+   "active_ingredient": "ZAVEGEPANT HYDROCHLORIDE",
+   "application_number": "216386",
+   "application_type": "NDA",
+   "supplement_date": "08/01/2025",
+   "database_updated": "08/11/2025",
+   "drug_name_id": "3091"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-01",
+ "srlc_database_updated": "2025-08-11",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "1191475f-e999-49f4-a805-93ad08596b1b",
+   "title": "ZAVZPRET (ZAVEGEPANT) SPRAY [U.S. PHARMACEUTICALS]",
+   "published_date": "Dec 31, 2025",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-06-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-05-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-12-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-12-31"
+   },
+   "lag_days_dailymed": 152,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "9c4a7aec-daef-4961-ba77-92f4b58be780",
+   "title": "ZAVZPRET (ZAVEGEPANT) SPRAY [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Aug 14, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-06-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-04-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-04-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-08-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-08-14"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:09:04Z"
+}

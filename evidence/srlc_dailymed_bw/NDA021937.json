@@ -1,0 +1,83 @@
+{
+ "application": "NDA021937",
+ "srlc_rows": [
+  {
+   "drug_name": "ATRIPLA",
+   "active_ingredient": "EFAVIRENZ; EMTRICITABINE; TENOFOVIR DISOPROXIL FUMARATE",
+   "application_number": "021937",
+   "application_type": "NDA",
+   "supplement_date": "07/25/2018",
+   "supplement": "SUPPL-43",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/25/2018",
+     "suppl": "SUPPL-43",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/29/2019",
+   "database_updated": "11/01/2019",
+   "drug_name_id": "48"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-07-25",
+ "srlc_database_updated": "2019-11-01",
+ "lag_days_srlc_database": 464,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "076da359-b3d0-44f7-8c0e-662f5b7a8668",
+   "title": "ATRIPLA (EFAVIRENZ, EMTRICITABINE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [DOH CENTRAL PHARMACY]",
+   "published_date": "Feb 03, 2017",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-03-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-02-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "2096a07e-8601-4bdc-ba5a-338a40cd02e9",
+   "title": "ATRIPLA (EFAVIRENZ, EMTRICITABINE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 06, 2013",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-05-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-10-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2013-05-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:23:23Z"
+}

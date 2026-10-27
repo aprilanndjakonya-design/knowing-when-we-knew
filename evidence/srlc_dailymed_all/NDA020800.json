@@ -1,0 +1,468 @@
+{
+ "application": "NDA020800",
+ "srlc_rows": [
+  {
+   "drug_name": "ADRENACLICK",
+   "active_ingredient": "EPINEPHRINE",
+   "application_number": "020800",
+   "application_type": "NDA",
+   "supplement_date": "03/19/2026",
+   "database_updated": "03/24/2026",
+   "drug_name_id": "385"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-19",
+ "srlc_database_updated": "2026-03-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 19,
+ "labels": [
+  {
+   "setid": "bfc7ab3d-1e0e-4fd9-b6df-09603eb5808c",
+   "title": "EPINEPHRINE INJECTION [REMEDYREPACK INC.]",
+   "published_date": "Sep 21, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-02-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-09-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-09-21"
+   },
+   "lag_days_dailymed": 186,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "c66de0d3-3b0f-4e52-a712-60357a107676",
+   "title": "EPINEPHRINE INJECTION [REMEDYREPACK INC.]",
+   "published_date": "Mar 26, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-05-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-11-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-06-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-07-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-08-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-03-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-03-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-03-26"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "e13f05f1-7d21-49bb-b8d5-24bf9301c3d7",
+   "title": "EPINEPHRINE INJECTION [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+   "published_date": "Mar 23, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-01-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-09-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-06-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-02-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-01-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-08-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-03-20"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-03-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2026-03-20"
+   },
+   "lag_days_dailymed": 1,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "e7798493-9407-4a5d-9c90-0cc336c59ec1",
+   "title": "EPINEPHRINE INJECTION [SPORTPHARM LLC]",
+   "published_date": "Feb 05, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-09-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-02-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "28642ad9-b839-ce3a-e063-6394a90ab866",
+   "title": "EPINEPHRINE 0.3 ADULTS INJECTION [SINA HEALTH INC]",
+   "published_date": "Jan 14, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 14,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-01-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "287930f8-c5c6-56bd-e063-6394a90ad32e",
+   "title": "EPINEPHRINE PEDIATRICS (EPINEPHRINE 0.15 PEDIATRICS) INJECTION [SINA HEALTH INC]",
+   "published_date": "Jan 14, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 14,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-01-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "a5134e63-9a31-4573-826f-b442d069b3e6",
+   "title": "EPINEPHRINE INJECTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 20, 2025",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-09-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-01-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-03-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-09-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-01-31"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-11-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "76f65a94-4b26-4c40-8a74-79a73afbb4e2",
+   "title": "EPINEPHRINE INJECTION [ASCLEMED USA INC.]",
+   "published_date": "Sep 08, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-09-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f4d7aca4-0acd-74c2-e053-2995a90a9d94",
+   "title": "EPINEPHRINE INJECTION [ADVANCED RX PHARMACY OF TENNESSEE, LLC]",
+   "published_date": "Jan 02, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-02-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "0a29fe62-e241-4272-b91c-c1036b031cd4",
+   "title": "EPINEPHRINE INJECTION [ASCLEMED USA, INC.]",
+   "published_date": "Aug 06, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-08-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "75dbc3f5-9caf-9f55-e053-2a91aa0a4719",
+   "title": "EPINEPHRINE INJECTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Dec 12, 2022",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-09-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-09-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-02-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-02-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-12-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "677bcf31-c1e0-4d82-e053-2991aa0ac2ff",
+   "title": "EPINEPHRINE INJECTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Jan 27, 2020",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-03-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "334b8907-13aa-4117-9630-0d39ea7125cf",
+   "title": "EPINEPHRINE INJECTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Oct 07, 2019",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-10-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2d4165c3-16e8-5af8-e054-00144ff8d46c",
+   "title": "EPINEPHRINE INJECTION [SINA HEALTH INC]",
+   "published_date": "Feb 05, 2019",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-03-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-02-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "4cc59056-a5ae-696d-e054-00144ff88e88",
+   "title": "EPINEPHRINE INJECTION [SINA HEALTH INC]",
+   "published_date": "Feb 05, 2019",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-04-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-02-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "9a010290-186a-4182-a6bd-c6ae75b3cbeb",
+   "title": "EPINEPHRINE INJECTION [PREFERRED PHARMACEUTICALS INC.]",
+   "published_date": "Apr 15, 2016",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-04-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "ad07e9bf-cc81-4736-86c7-2b2de9386eb2",
+   "title": "EPINEPHRINE INJECTION [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jul 26, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-07-26"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "da3009a0-9eed-4254-90f9-b4b024073828",
+   "title": "EPINEPHRINE INJECTION, SOLUTION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 11, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-05-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "fee44162-aaf2-4e89-9f83-2d3a8ff76760",
+   "title": "EPINEPHRINE INJECTION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 06, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-05-06"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 1,
+ "fetched_utc": "2026-10-16T08:48:46Z"
+}

@@ -1,0 +1,80 @@
+{
+ "application": "NDA215830",
+ "srlc_rows": [
+  {
+   "drug_name": "LITFULO",
+   "active_ingredient": "RITLECITINIB TOSYLATE",
+   "application_number": "215830",
+   "application_type": "NDA",
+   "supplement_date": "06/30/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "3301"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-30",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "1882f799-61b0-4813-965a-4910c4ae419c",
+   "title": "LITFULO (RITLECITINIB) CAPSULE [U.S. PHARMACEUTICALS]",
+   "published_date": "Jun 22, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-07-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "6b2f9446-fb23-4741-b73a-5a2f993733c3",
+   "title": "LITFULO (RITLECITINIB) CAPSULE [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jun 22, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-07-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-12-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-07-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-06-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:08:34Z"
+}

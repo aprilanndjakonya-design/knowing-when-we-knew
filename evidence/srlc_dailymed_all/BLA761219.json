@@ -1,0 +1,122 @@
+{
+ "application": "BLA761219",
+ "srlc_rows": [
+  {
+   "drug_name": "YUFLYMA",
+   "active_ingredient": "ADALIMUMAB-AATY",
+   "application_number": "761219",
+   "application_type": "BLA",
+   "supplement_date": "10/16/2025",
+   "database_updated": "10/23/2025",
+   "drug_name_id": "2861"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-16",
+ "srlc_database_updated": "2025-10-23",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "526d626f-8c9f-496c-b838-00a73bb36383",
+   "title": "YUFLYMA (ADALIMUMAB-AATY) KIT [CELLTRION USA, INC.]",
+   "published_date": "Jul 17, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2023-06-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-09-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-11-01"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-01-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-07-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-07-09"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-07-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "c44365e9-d470-4e35-978d-8565a9e3471e",
+   "title": "ADALIMUMAB (ADALIMUMAB-AATY) KIT [CELLTRION USA, INC.]",
+   "published_date": "Jul 09, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-12-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-12-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-01-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-07-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 32,
+ "fetched_utc": "2026-10-16T08:40:19Z"
+}

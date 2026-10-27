@@ -1,0 +1,112 @@
+{
+ "application": "NDA211617",
+ "srlc_rows": [
+  {
+   "drug_name": "NEXLIZET",
+   "active_ingredient": "BEMPEDOIC ACID; EZETIMIBE",
+   "application_number": "211617",
+   "application_type": "NDA",
+   "supplement_date": "01/09/2026",
+   "database_updated": "01/13/2026",
+   "drug_name_id": "2850"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-09",
+ "srlc_database_updated": "2026-01-13",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "3fa2108c-0300-47b8-9d34-f762af7c93c6",
+   "title": "NEXLIZET (BEMPEDOIC ACID AND EZETIMIBE) TABLET, FILM COATED [ESPERION THERAPEUTICS, INC.]",
+   "published_date": "Jul 20, 2026",
+   "spl_version": 23,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-03-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-11-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-11-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-10-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-10-12"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-06-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-09-13"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-09-28"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-04-03"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-06-10"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-10-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-10-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-12-02"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-01-19"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2026-07-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 22,
+    "published_date": "2026-01-19"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 17
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:05:40Z"
+}

@@ -1,0 +1,60 @@
+{
+ "application": "NDA211413",
+ "srlc_rows": [
+  {
+   "drug_name": "CEFAZOLIN SODIUM",
+   "active_ingredient": "CEFAZOLIN SODIUM",
+   "application_number": "211413",
+   "application_type": "NDA",
+   "supplement_date": "02/13/2026",
+   "database_updated": "02/19/2026",
+   "drug_name_id": "3252"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-13",
+ "srlc_database_updated": "2026-02-19",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4f3a9248-a354-4c77-bf5b-9eed38f00219",
+   "title": "CEFAZOLIN INJECTION, POWDER, FOR SOLUTION [WG CRITICAL CARE, LLC]",
+   "published_date": "Mar 23, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-05-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-05-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-03-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-03-16"
+   },
+   "lag_days_dailymed": 31,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 31,
+ "fetched_utc": "2026-10-16T09:05:34Z"
+}

@@ -1,0 +1,112 @@
+{
+ "application": "BLA125460",
+ "srlc_rows": [
+  {
+   "drug_name": "VIMIZIM",
+   "active_ingredient": "ELOSULFASE ALFA",
+   "application_number": "125460",
+   "application_type": "BLA",
+   "supplement_date": "10/30/2025",
+   "supplement": "SUPPL-25",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/30/2025",
+     "suppl": "SUPPL-25",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/30/2025",
+   "database_updated": "10/31/2025",
+   "drug_name_id": "2131"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-30",
+ "srlc_database_updated": "2025-10-31",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0caa2565-12b2-0ad0-1f9a-273e81c3d4cc",
+   "title": "VIMIZIM (ELOSULFASE ALFA) INJECTION, SOLUTION, CONCENTRATE [BIOMARIN PHARMACEUTICAL INC.]",
+   "published_date": "Nov 18, 2025",
+   "spl_version": 38,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2014-03-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-01-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-04-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-06-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-06-27"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-12-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-06-29"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-12-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2019-12-19"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2020-04-15"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2021-11-15"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-12-13"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-11-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 38,
+    "published_date": "2025-11-18"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 14
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T09:12:43Z"
+}

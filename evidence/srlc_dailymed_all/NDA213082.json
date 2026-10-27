@@ -1,0 +1,311 @@
+{
+ "application": "NDA213082",
+ "srlc_rows": [
+  {
+   "drug_name": "XELJANZ",
+   "active_ingredient": "TOFACITINIB CITRATE",
+   "application_number": "213082",
+   "application_type": "NDA",
+   "supplement_date": "09/16/2026",
+   "database_updated": "09/23/2026",
+   "drug_name_id": "2562"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-16",
+ "srlc_database_updated": "2026-09-23",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "cf74ba2f-afc5-4baa-8594-979c889a5831",
+   "title": "XELJANZ (TOFACITINIB) TABLET, FILM COATED XELJANZ XR (TOFACITINIB) TABLET, FILM COATED, EXTENDED RELEASE XELJANZ (TOFACITINIB) SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Sep 28, 2026",
+   "spl_version": 55,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2012-11-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-11-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-09-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-11-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-02-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-04-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-05-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2015-06-26"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-03-07"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-03-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-11-15"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-03-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2017-09-05"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-12-20"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2018-07-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2018-08-28"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2018-10-29"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2018-11-16"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2019-07-29"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2019-09-13"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2020-10-05"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2020-11-24"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2021-02-11"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2021-12-13"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2021-12-20"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2022-01-13"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2022-01-24"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2022-02-18"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2022-09-26"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2023-03-13"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2023-05-26"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2023-09-05"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2023-11-28"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2024-05-22"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2024-10-10"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2024-10-23"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2024-11-27"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2025-06-13"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2026-07-15"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2026-09-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 55,
+    "published_date": "2026-09-28"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 47
+  },
+  {
+   "setid": "68e3d6b2-7838-4d2d-a417-09d919b43e13",
+   "title": "XELJANZ (TOFACITINIB) TABLET, FILM COATED XELJANZ XR (TOFACITINIB) TABLET, EXTENDED RELEASE XELJANZ (TOFACITINIB) SOLUTION [U.S. PHARMACEUTICALS]",
+   "published_date": "Jul 29, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-11-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-02-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-07-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-12-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-08-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-09-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-12-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-09-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-05-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-07-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-01-01"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-03-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-03-30"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-07-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 18
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:06:47Z"
+}

@@ -1,0 +1,98 @@
+{
+ "application": "NDA021610",
+ "srlc_rows": [
+  {
+   "drug_name": "OPANA ER",
+   "active_ingredient": "OXYMORPHONE HYDROCHLORIDE",
+   "application_number": "021610",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-31",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-22",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-26",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-31",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/15/2023",
+   "database_updated": "12/19/2023",
+   "drug_name_id": "683"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2023-12-19",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "5ca97412-1594-4a4e-b5e4-8593ffa1b242",
+   "title": "OPANA ER (OXYMORPHONE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [STAT RX USA LLC]",
+   "published_date": "Aug 01, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-01-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-08-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "b639732f-8eb2-4592-aca3-86faf7e5360b",
+   "title": "OPANA ER (OXYMORPHONE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jun 01, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:22:47Z"
+}

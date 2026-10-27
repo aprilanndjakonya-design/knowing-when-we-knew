@@ -1,0 +1,119 @@
+{
+ "application": "NDA020327",
+ "srlc_rows": [
+  {
+   "drug_name": "ISOVUE-200",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "020327",
+   "application_type": "NDA",
+   "supplement_date": "01/13/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "989"
+  },
+  {
+   "drug_name": "ISOVUE-250",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "020327",
+   "application_type": "NDA",
+   "supplement_date": "01/13/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "990"
+  },
+  {
+   "drug_name": "ISOVUE-300",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "020327",
+   "application_type": "NDA",
+   "supplement_date": "01/13/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "991"
+  },
+  {
+   "drug_name": "ISOVUE-370",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "020327",
+   "application_type": "NDA",
+   "supplement_date": "01/13/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "992"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-13",
+ "srlc_database_updated": "2026-01-22",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "797a11d7-dcd4-43ff-311b-3b48a10da2f2",
+   "title": "ISOVUE 300 (IOPAMIDOL) INJECTION, SOLUTION ISOVUE 370 (IOPAMIDOL) INJECTION, SOLUTION [BRACCO DIAGNOSTICS INC]",
+   "published_date": "Apr 20, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-08-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-03-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-02-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-01-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-04-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-11-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-01-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-11-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-12-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-03-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-05-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-04-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2026-04-20"
+   },
+   "lag_days_dailymed": 97,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 97,
+ "fetched_utc": "2026-10-16T08:47:00Z"
+}

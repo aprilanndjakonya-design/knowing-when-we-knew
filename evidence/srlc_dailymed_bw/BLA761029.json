@@ -1,0 +1,50 @@
+{
+ "application": "BLA761029",
+ "srlc_rows": [
+  {
+   "drug_name": "ZINBRYTA",
+   "active_ingredient": "DACLIZUMAB",
+   "application_number": "761029",
+   "application_type": "BLA",
+   "supplement_date": "08/28/2017",
+   "supplement": "SUPPL-7",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/28/2017",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "08/28/2017",
+     "suppl": "SUPPL-7",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/28/2017",
+   "database_updated": "09/01/2017",
+   "drug_name_id": "1086"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-08-28",
+ "srlc_database_updated": "2017-09-01",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:13:00Z"
+}

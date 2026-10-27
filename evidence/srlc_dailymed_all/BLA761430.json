@@ -1,0 +1,56 @@
+{
+ "application": "BLA761430",
+ "srlc_rows": [
+  {
+   "drug_name": "IMAAVY",
+   "active_ingredient": "NIPOCALIMAB-AAHU",
+   "application_number": "761430",
+   "application_type": "BLA",
+   "supplement_date": "08/24/2026",
+   "database_updated": "09/02/2026",
+   "drug_name_id": "3321"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-24",
+ "srlc_database_updated": "2026-09-02",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8886274c-f2b2-48af-85c1-2f90bfe304b8",
+   "title": "IMAAVY (NIPOCALIMAB-AAHU) INJECTION, SOLUTION, CONCENTRATE [JANSSEN BIOTECH, INC.]",
+   "published_date": "Aug 26, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-05-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-05-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-05-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-08-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-08-26"
+   },
+   "lag_days_dailymed": 2,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 2,
+ "fetched_utc": "2026-10-16T08:42:02Z"
+}

@@ -1,0 +1,56 @@
+{
+ "application": "NDA214657",
+ "srlc_rows": [
+  {
+   "drug_name": "PEMETREXED DISODIUM",
+   "active_ingredient": "PEMETREXED DISODIUM",
+   "application_number": "214657",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2025",
+   "database_updated": "12/19/2025",
+   "drug_name_id": "3222"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-15",
+ "srlc_database_updated": "2025-12-19",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7ac04ab7-7f8c-46ce-ab56-a7a08cd02ab3",
+   "title": "PEMETREXED (PEMETREXED DISODIUM) INJECTION, SOLUTION [SANDOZ INC.]",
+   "published_date": "Dec 24, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-06-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-05-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-09-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-12-24"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:07:38Z"
+}

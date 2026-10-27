@@ -1,0 +1,436 @@
+{
+ "application": "NDA050441",
+ "srlc_rows": [
+  {
+   "drug_name": "CLEOCIN PHOSPHATE",
+   "active_ingredient": "CLINDAMYCIN PHOSPHATE",
+   "application_number": "050441",
+   "application_type": "NDA",
+   "supplement_date": "03/26/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "97"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-26",
+ "srlc_database_updated": "2026-03-31",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 8,
+ "labels": [
+  {
+   "setid": "05a75685-0af5-407c-ac57-e380c882b49d",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION CLEOCIN PHOSPHATE (0009-6582) (STANDALONE) (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Jul 31, 2026",
+   "spl_version": 60,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2006-09-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-06-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2007-12-10"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2010-06-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-03-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-03-23"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-06-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2012-03-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-05-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2013-11-20"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2013-12-13"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2013-12-26"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2014-10-27"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2014-11-05"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2015-10-14"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2015-11-12"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2015-11-16"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2016-02-18"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2016-04-19"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2016-09-21"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2016-11-18"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2016-11-23"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2017-03-20"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2017-06-15"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2017-10-13"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2017-11-02"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2018-05-02"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2018-07-19"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2018-09-17"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2019-01-29"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2019-07-11"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2020-02-26"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2020-05-21"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2020-11-09"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2020-11-12"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2020-11-13"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2021-08-31"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2021-11-01"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2022-06-28"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2022-07-11"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2022-11-18"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 59,
+     "published_date": "2026-04-09"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2026-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 59,
+    "published_date": "2026-04-09"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 48
+  },
+  {
+   "setid": "a0a2eff7-b7de-42fe-8e5a-0cfbed38bb4b",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "May 21, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-11-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-03-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-11-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-07-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-11-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-07-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-08-09"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-03-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-04-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-05-07"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-05-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-04-30"
+   },
+   "lag_days_dailymed": 35,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "38416189-844b-939f-e063-6394a90aa271",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [PROPHARMA DISTRIBUTION]",
+   "published_date": "Jul 21, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-06-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-07-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "184acaee-6129-479e-850f-d89575b8b391",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [HENRY SCHEIN, INC.]",
+   "published_date": "Jan 31, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-10-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-06-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-10-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "12ee0720-9979-3162-e063-6394a90a8003",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Mar 07, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-03-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "896a046f-95d0-100e-e053-2a95a90aa59c",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 16, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-05-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "9e5365a0-dd47-264a-e053-2a95a90a7fb8",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 10, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-02-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "9e549ceb-00e8-64b8-e053-2a95a90aef0f",
+   "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 10, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-02-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:56:38Z"
+}

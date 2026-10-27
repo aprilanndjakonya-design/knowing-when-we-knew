@@ -1,0 +1,196 @@
+{
+ "application": "NDA021514",
+ "srlc_rows": [
+  {
+   "drug_name": "DAYTRANA",
+   "active_ingredient": "METHYLPHENIDATE",
+   "application_number": "021514",
+   "application_type": "NDA",
+   "supplement_date": "10/13/2023",
+   "supplement": "SUPPL-36",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/13/2023",
+     "suppl": "SUPPL-36",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "292"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-13",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 714,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "2c312c31-3198-4775-91ab-294e0b4b9e7f",
+   "title": "DAYTRANA (METHYLPHENIDATE) PATCH [NOVEN THERAPEUTICS, LLC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-10-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-11-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-11-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-03-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-06-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-02-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-04-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2015-06-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-08-26"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2015-09-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-08-29"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-01-13"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-11-16"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-11-05"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-11-04"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-11-20"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-12-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2021-07-12"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2022-11-11"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2023-10-25"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-04-18"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-12-12"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-06-06"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2023-10-25"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 20
+  },
+  {
+   "setid": "7bcff873-1fc2-45bc-a8e4-5db4edeb9bfb",
+   "title": "METHYLPHENIDATE TRANSDERMAL SYSTEM (METHYLPHENIDATE) PATCH [PADAGIS US LLC]",
+   "published_date": "Sep 29, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-06-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-06-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-06-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-09-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2023-11-21"
+   },
+   "lag_days_dailymed": 39,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:22:35Z"
+}

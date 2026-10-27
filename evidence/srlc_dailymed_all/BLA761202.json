@@ -1,0 +1,90 @@
+{
+ "application": "BLA761202",
+ "srlc_rows": [
+  {
+   "drug_name": "BYOOVIZ",
+   "active_ingredient": "RANIBIZUMAB-NUNA",
+   "application_number": "761202",
+   "application_type": "BLA",
+   "supplement_date": "08/15/2025",
+   "database_updated": "08/18/2025",
+   "drug_name_id": "3173"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-15",
+ "srlc_database_updated": "2025-08-18",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "77b53b2c-da0e-44b2-ade4-b08ff75a7584",
+   "title": "BYOOVIZ (RANIBIZUMAB-NUNA) INJECTION, SOLUTION [HARROW EYE, LLC]",
+   "published_date": "Jan 02, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-01-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-01-02"
+   },
+   "lag_days_dailymed": 140,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "e46db299-edd1-4457-89b2-c1e2e505f1b0",
+   "title": "BYOOVIZ (RANIBIZUMAB-NUNA) INJECTION, SOLUTION [BIOGEN INC.]",
+   "published_date": "Dec 02, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-06-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-09-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-07-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-10-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-01-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-01-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-09-01"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:40:12Z"
+}

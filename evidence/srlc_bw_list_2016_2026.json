@@ -1,0 +1,5127 @@
+{
+ "fetched": "2026-10-16",
+ "source": "FDA SrLC, Date Search form (button Datesearch), sections: Boxed Warning only, 01/01/2016–10/16/2026; page says '569 entries'; rows read in the browser with DataTables page.len(-1). The 'Supplement Date' column is the drug's LATEST supplement of ANY section (COPAXONE: 06/22/2026 = SUPPL-121, not the BW supplement 01/22/2025) — BW-specific supplement dates come from the detail pages (srlc_bw_details.json).",
+ "rows": [
+  {
+   "drug_name": "ABSORICA",
+   "active_ingredient": "ISOTRETINOIN",
+   "application_number": "021951",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/19/2026",
+   "drug_name_id": "1555"
+  },
+  {
+   "drug_name": "ABSTRAL",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "022510",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/14/2019",
+   "drug_name_id": "768"
+  },
+  {
+   "drug_name": "ACTIQ",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "020747",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "778"
+  },
+  {
+   "drug_name": "ACTOPLUS MET",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; PIOGLITAZONE HYDROCHLORIDE",
+   "application_number": "021842",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "587"
+  },
+  {
+   "drug_name": "ADASUVE",
+   "active_ingredient": "LOXAPINE",
+   "application_number": "022549",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/27/2021",
+   "database_updated": "11/01/2021",
+   "drug_name_id": "446"
+  },
+  {
+   "drug_name": "ADDERALL 10",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "011522",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "743"
+  },
+  {
+   "drug_name": "ADDERALL 12.5",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "011522",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "744"
+  },
+  {
+   "drug_name": "ADDERALL 15",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "011522",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "745"
+  },
+  {
+   "drug_name": "ADDERALL 20",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "011522",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "747"
+  },
+  {
+   "drug_name": "ADDERALL 30",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "011522",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "748"
+  },
+  {
+   "drug_name": "ADDERALL 5",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "011522",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "749"
+  },
+  {
+   "drug_name": "ADDERALL 7.5",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "011522",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "751"
+  },
+  {
+   "drug_name": "ADDERALL XR 10",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "021303",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/23/2026",
+   "database_updated": "04/24/2026",
+   "drug_name_id": "733"
+  },
+  {
+   "drug_name": "ADDYI",
+   "active_ingredient": "FLIBANSERIN",
+   "application_number": "022526",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/13/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "2085"
+  },
+  {
+   "drug_name": "ADEMPAS",
+   "active_ingredient": "RIOCIGUAT",
+   "application_number": "204819",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/04/2026",
+   "database_updated": "08/14/2026",
+   "drug_name_id": "797"
+  },
+  {
+   "drug_name": "ADUHELM",
+   "active_ingredient": "ADUCANUMAB-AVWA",
+   "application_number": "761178",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "08/30/2023",
+   "database_updated": "09/06/2023",
+   "drug_name_id": "2616"
+  },
+  {
+   "drug_name": "ADZENYS XR-ODT",
+   "active_ingredient": "AMPHETAMINE",
+   "application_number": "204326",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "558"
+  },
+  {
+   "drug_name": "ALDURAZYME",
+   "active_ingredient": "LARONIDASE",
+   "application_number": "125058",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/14/2023",
+   "database_updated": "12/20/2023",
+   "drug_name_id": "2132"
+  },
+  {
+   "drug_name": "ALESSE",
+   "active_ingredient": "ETHINYL ESTRADIOL; LEVONORGESTREL",
+   "application_number": "020683",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/16/2024",
+   "database_updated": "07/22/2024",
+   "drug_name_id": "1191"
+  },
+  {
+   "drug_name": "ALFENTA",
+   "active_ingredient": "ALFENTANIL HYDROCHLORIDE",
+   "application_number": "019353",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "759"
+  },
+  {
+   "drug_name": "AMBIEN",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "019908",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/23/2022",
+   "database_updated": "02/25/2022",
+   "drug_name_id": "264"
+  },
+  {
+   "drug_name": "AMBIEN CR",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "021774",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/23/2022",
+   "database_updated": "02/25/2022",
+   "drug_name_id": "265"
+  },
+  {
+   "drug_name": "AMJEVITA",
+   "active_ingredient": "ADALIMUMAB-ATTO",
+   "application_number": "761024",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "10/16/2025",
+   "database_updated": "10/20/2025",
+   "drug_name_id": "1974"
+  },
+  {
+   "drug_name": "ANAPROX",
+   "active_ingredient": "NAPROXEN SODIUM",
+   "application_number": "018164",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "148"
+  },
+  {
+   "drug_name": "ANGELIQ",
+   "active_ingredient": "DROSPIRENONE; ESTRADIOL",
+   "application_number": "021355",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1328"
+  },
+  {
+   "drug_name": "ANSAID",
+   "active_ingredient": "FLURBIPROFEN",
+   "application_number": "018766",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "05/08/2016",
+   "drug_name_id": "149"
+  },
+  {
+   "drug_name": "APADAZ",
+   "active_ingredient": "ACETAMINOPHEN; BENZHYDROCODONE HYDROCHLORIDE",
+   "application_number": "208653",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/15/2023",
+   "database_updated": "12/19/2023",
+   "drug_name_id": "1683"
+  },
+  {
+   "drug_name": "APTENSIO XR",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "205831",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "686"
+  },
+  {
+   "drug_name": "AQUAMEPHYTON",
+   "active_ingredient": "PHYTONADIONE",
+   "application_number": "012223",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/07/2018",
+   "database_updated": "03/12/2018",
+   "drug_name_id": "1085"
+  },
+  {
+   "drug_name": "ARTHROTEC",
+   "active_ingredient": "DICLOFENAC SODIUM; MISOPROSTOL",
+   "application_number": "020607",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "150"
+  },
+  {
+   "drug_name": "ARYMO ER",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "208603",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/11/2019",
+   "drug_name_id": "1682"
+  },
+  {
+   "drug_name": "ATIVAN",
+   "active_ingredient": "LORAZEPAM",
+   "application_number": "018140",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "248"
+  },
+  {
+   "drug_name": "ATIVAN",
+   "active_ingredient": "LORAZEPAM",
+   "application_number": "017794",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "608"
+  },
+  {
+   "drug_name": "ATRIPLA",
+   "active_ingredient": "EFAVIRENZ; EMTRICITABINE; TENOFOVIR DISOPROXIL FUMARATE",
+   "application_number": "021937",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/29/2019",
+   "database_updated": "11/01/2019",
+   "drug_name_id": "48"
+  },
+  {
+   "drug_name": "AUBAGIO",
+   "active_ingredient": "TERIFLUNOMIDE",
+   "application_number": "202992",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/11/2026",
+   "database_updated": "02/18/2026",
+   "drug_name_id": "103"
+  },
+  {
+   "drug_name": "AUSTEDO",
+   "active_ingredient": "DEUTETRABENAZINE",
+   "application_number": "208082",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/26/2024",
+   "database_updated": "12/03/2024",
+   "drug_name_id": "1599"
+  },
+  {
+   "drug_name": "AVANDAMET",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; ROSIGLITAZONE MALEATE",
+   "application_number": "021410",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/05/2017",
+   "database_updated": "04/07/2017",
+   "drug_name_id": "951"
+  },
+  {
+   "drug_name": "AVASTIN",
+   "active_ingredient": "BEVACIZUMAB",
+   "application_number": "125085",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "09/18/2022",
+   "database_updated": "09/23/2022",
+   "drug_name_id": "581"
+  },
+  {
+   "drug_name": "AVELOX",
+   "active_ingredient": "MOXIFLOXACIN HYDROCHLORIDE",
+   "application_number": "021085",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "299"
+  },
+  {
+   "drug_name": "AVELOX IN SODIUM CHLORIDE 0.8% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "021277",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "301"
+  },
+  {
+   "drug_name": "AZSTARYS",
+   "active_ingredient": "DEXMETHYLPHENIDATE HYDROCHLORIDE; SERDEXMETHYLPHENIDATE CHLORIDE",
+   "application_number": "212994",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2868"
+  },
+  {
+   "drug_name": "BELBUCA",
+   "active_ingredient": "BUPRENORPHINE HYDROCHLORIDE",
+   "application_number": "207932",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "757"
+  },
+  {
+   "drug_name": "BICNU",
+   "active_ingredient": "CARMUSTINE",
+   "application_number": "017422",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/24/2017",
+   "database_updated": "03/28/2017",
+   "drug_name_id": "925"
+  },
+  {
+   "drug_name": "BIJUVA",
+   "active_ingredient": "ESTRADIOL; PROGESTERONE",
+   "application_number": "210132",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/12/2026",
+   "database_updated": "02/13/2026",
+   "drug_name_id": "2498"
+  },
+  {
+   "drug_name": "BLINCYTO",
+   "active_ingredient": "BLINATUMOMAB",
+   "application_number": "125557",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "10/21/2025",
+   "database_updated": "10/24/2025",
+   "drug_name_id": "383"
+  },
+  {
+   "drug_name": "BREXAFEMME",
+   "active_ingredient": "IBREXAFUNGERP CITRATE",
+   "application_number": "214900",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/24/2026",
+   "database_updated": "07/31/2026",
+   "drug_name_id": "2636"
+  },
+  {
+   "drug_name": "BRINEURA",
+   "active_ingredient": "CERLIPONASE ALFA",
+   "application_number": "761052",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "07/24/2024",
+   "database_updated": "07/29/2024",
+   "drug_name_id": "1783"
+  },
+  {
+   "drug_name": "BRISDELLE",
+   "active_ingredient": "PAROXETINE MESYLATE",
+   "application_number": "204516",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/11/2025",
+   "database_updated": "02/18/2025",
+   "drug_name_id": "660"
+  },
+  {
+   "drug_name": "BUPIVACAINE HYDROCHLORIDE",
+   "active_ingredient": "BUPIVACAINE HYDROCHLORIDE",
+   "application_number": "018053",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/09/2021",
+   "database_updated": "03/11/2021",
+   "drug_name_id": "1713"
+  },
+  {
+   "drug_name": "BUPRENEX",
+   "active_ingredient": "BUPRENORPHINE HYDROCHLORIDE",
+   "application_number": "018401",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/15/2023",
+   "database_updated": "12/19/2023",
+   "drug_name_id": "740"
+  },
+  {
+   "drug_name": "BUTRANS",
+   "active_ingredient": "BUPRENORPHINE",
+   "application_number": "021306",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "673"
+  },
+  {
+   "drug_name": "BYDUREON BCISE",
+   "active_ingredient": "EXENATIDE",
+   "application_number": "209210",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/28/2025",
+   "database_updated": "06/05/2025",
+   "drug_name_id": "1872"
+  },
+  {
+   "drug_name": "CABAZITAXEL",
+   "active_ingredient": "CABAZITAXEL",
+   "application_number": "207949",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/10/2024",
+   "database_updated": "10/11/2024",
+   "drug_name_id": "3033"
+  },
+  {
+   "drug_name": "CALDOLOR",
+   "active_ingredient": "IBUPROFEN",
+   "application_number": "022348",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "151"
+  },
+  {
+   "drug_name": "CAMBIA",
+   "active_ingredient": "DICLOFENAC POTASSIUM",
+   "application_number": "022165",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "152"
+  },
+  {
+   "drug_name": "CAMPATH",
+   "active_ingredient": "ALEMTUZUMAB",
+   "application_number": "103948",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "04/26/2023",
+   "database_updated": "05/01/2023",
+   "drug_name_id": "1297"
+  },
+  {
+   "drug_name": "CAPASTAT SULFATE",
+   "active_ingredient": "CAPREOMYCIN SULFATE",
+   "application_number": "050095",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/17/2023",
+   "database_updated": "01/20/2023",
+   "drug_name_id": "2717"
+  },
+  {
+   "drug_name": "CAPLYTA",
+   "active_ingredient": "LUMATEPERONE TOSYLATE",
+   "application_number": "209500",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/05/2025",
+   "database_updated": "11/07/2025",
+   "drug_name_id": "2568"
+  },
+  {
+   "drug_name": "CARDIOGEN-82",
+   "active_ingredient": "RUBIDIUM CHLORIDE RB-82",
+   "application_number": "019414",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/23/2024",
+   "database_updated": "12/27/2024",
+   "drug_name_id": "1928"
+  },
+  {
+   "drug_name": "CATAFLAM",
+   "active_ingredient": "DICLOFENAC POTASSIUM",
+   "application_number": "020142",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/05/2021",
+   "drug_name_id": "153"
+  },
+  {
+   "drug_name": "CELEBREX",
+   "active_ingredient": "CELECOXIB",
+   "application_number": "020998",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "154"
+  },
+  {
+   "drug_name": "CELEXA",
+   "active_ingredient": "CITALOPRAM HYDROBROMIDE",
+   "application_number": "020822",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/19/2024",
+   "database_updated": "04/24/2024",
+   "drug_name_id": "712"
+  },
+  {
+   "drug_name": "CELLCEPT",
+   "active_ingredient": "MYCOPHENOLATE MOFETIL",
+   "application_number": "050722",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/27/2025",
+   "database_updated": "07/03/2025",
+   "drug_name_id": "1660"
+  },
+  {
+   "drug_name": "CELLCEPT",
+   "active_ingredient": "MYCOPHENOLATE MOFETIL",
+   "application_number": "050723",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/27/2025",
+   "database_updated": "07/03/2025",
+   "drug_name_id": "1661"
+  },
+  {
+   "drug_name": "CELLCEPT",
+   "active_ingredient": "MYCOPHENOLATE MOFETIL HYDROCHLORIDE",
+   "application_number": "050758",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/27/2025",
+   "database_updated": "07/03/2025",
+   "drug_name_id": "1662"
+  },
+  {
+   "drug_name": "CELLCEPT",
+   "active_ingredient": "MYCOPHENOLATE MOFETIL",
+   "application_number": "050759",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/27/2025",
+   "database_updated": "07/03/2025",
+   "drug_name_id": "1663"
+  },
+  {
+   "drug_name": "CENESTIN",
+   "active_ingredient": "ESTROGENS, CONJUGATED SYNTHETIC A",
+   "application_number": "020992",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/12/2026",
+   "database_updated": "02/12/2026",
+   "drug_name_id": "1329"
+  },
+  {
+   "drug_name": "CEREBYX",
+   "active_ingredient": "FOSPHENYTOIN SODIUM",
+   "application_number": "020450",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/28/2022",
+   "database_updated": "05/03/2022",
+   "drug_name_id": "133"
+  },
+  {
+   "drug_name": "CEREZYME",
+   "active_ingredient": "IMIGLUCERASE",
+   "application_number": "020367",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "01/12/2026",
+   "database_updated": "01/14/2026",
+   "drug_name_id": "2573"
+  },
+  {
+   "drug_name": "CIPRO",
+   "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE",
+   "application_number": "019537",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/20/2024",
+   "database_updated": "09/23/2024",
+   "drug_name_id": "348"
+  },
+  {
+   "drug_name": "CIPRO",
+   "active_ingredient": "CIPROFLOXACIN",
+   "application_number": "019847",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/20/2024",
+   "database_updated": "10/15/2024",
+   "drug_name_id": "349"
+  },
+  {
+   "drug_name": "CIPRO",
+   "active_ingredient": "CIPROFLOXACIN",
+   "application_number": "020780",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/20/2024",
+   "database_updated": "09/23/2024",
+   "drug_name_id": "351"
+  },
+  {
+   "drug_name": "CIPRO IN DEXTROSE 5% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "019857",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/05/2020",
+   "database_updated": "03/10/2020",
+   "drug_name_id": "350"
+  },
+  {
+   "drug_name": "CIPRO XR",
+   "active_ingredient": "CIPROFLOXACIN; CIPROFLOXACIN HYDROCHLORIDE",
+   "application_number": "021473",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/08/2020",
+   "database_updated": "05/11/2020",
+   "drug_name_id": "352"
+  },
+  {
+   "drug_name": "CLEOCIN HYDROCHLORIDE",
+   "active_ingredient": "CLINDAMYCIN HYDROCHLORIDE",
+   "application_number": "050162",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/01/2026",
+   "database_updated": "09/09/2026",
+   "drug_name_id": "279"
+  },
+  {
+   "drug_name": "CLOZARIL",
+   "active_ingredient": "CLOZAPINE",
+   "application_number": "019758",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/13/2025",
+   "database_updated": "06/24/2025",
+   "drug_name_id": "630"
+  },
+  {
+   "drug_name": "CODEINE PHOSPHATE AND CHLORPHENIRAMINE MALEATE",
+   "active_ingredient": "CHLORPHENIRAMINE MALEATE; CODEINE PHOSPHATE",
+   "application_number": "206323",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/28/2018",
+   "database_updated": "07/09/2018",
+   "drug_name_id": "791"
+  },
+  {
+   "drug_name": "CODEINE SULFATE",
+   "active_ingredient": "CODEINE SULFATE",
+   "application_number": "022402",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "690"
+  },
+  {
+   "drug_name": "CODEINE SULFATE",
+   "active_ingredient": "CODEINE SULFATE",
+   "application_number": "202245",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "718"
+  },
+  {
+   "drug_name": "COMBIVIR",
+   "active_ingredient": "LAMIVUDINE; ZIDOVUDINE",
+   "application_number": "020857",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/10/2019",
+   "database_updated": "05/14/2019",
+   "drug_name_id": "871"
+  },
+  {
+   "drug_name": "COMETRIQ",
+   "active_ingredient": "CABOZANTINIB S-MALATE",
+   "application_number": "203756",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/09/2025",
+   "database_updated": "10/14/2025",
+   "drug_name_id": "224"
+  },
+  {
+   "drug_name": "CONCERTA",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021121",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/02/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "760"
+  },
+  {
+   "drug_name": "CONZIP",
+   "active_ingredient": "TRAMADOL HYDROCHLORIDE",
+   "application_number": "022370",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "755"
+  },
+  {
+   "drug_name": "COPAXONE",
+   "active_ingredient": "GLATIRAMER ACETATE",
+   "application_number": "020622",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/22/2026",
+   "database_updated": "06/25/2026",
+   "drug_name_id": "1430"
+  },
+  {
+   "drug_name": "COPIKTRA",
+   "active_ingredient": "DUVELISIB",
+   "application_number": "211155",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/26/2024",
+   "database_updated": "07/29/2024",
+   "drug_name_id": "2534"
+  },
+  {
+   "drug_name": "CORDARONE",
+   "active_ingredient": "AMIODARONE HYDROCHLORIDE",
+   "application_number": "018972",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/17/2018",
+   "database_updated": "10/19/2018",
+   "drug_name_id": "157"
+  },
+  {
+   "drug_name": "COTEMPLA XR-ODT",
+   "active_ingredient": "METHYLPHENIDATE",
+   "application_number": "205489",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2501"
+  },
+  {
+   "drug_name": "CYKLOKAPRON",
+   "active_ingredient": "TRANEXAMIC ACID",
+   "application_number": "019281",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/29/2025",
+   "database_updated": "09/03/2025",
+   "drug_name_id": "1372"
+  },
+  {
+   "drug_name": "CYTOTEC",
+   "active_ingredient": "MISOPROSTOL",
+   "application_number": "019268",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/28/2018",
+   "database_updated": "03/02/2018",
+   "drug_name_id": "618"
+  },
+  {
+   "drug_name": "CYTOVENE",
+   "active_ingredient": "GANCICLOVIR SODIUM",
+   "application_number": "019661",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/06/2018",
+   "database_updated": "08/13/2018",
+   "drug_name_id": "1169"
+  },
+  {
+   "drug_name": "DAKLINZA",
+   "active_ingredient": "DACLATASVIR DIHYDROCHLORIDE",
+   "application_number": "206843",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/16/2019",
+   "database_updated": "10/21/2019",
+   "drug_name_id": "848"
+  },
+  {
+   "drug_name": "DAYPRO",
+   "active_ingredient": "OXAPROZIN",
+   "application_number": "018841",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "155"
+  },
+  {
+   "drug_name": "DAYPRO ALTA",
+   "active_ingredient": "OXAPROZIN POTASSIUM",
+   "application_number": "020776",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "156"
+  },
+  {
+   "drug_name": "DAYTRANA",
+   "active_ingredient": "METHYLPHENIDATE",
+   "application_number": "021514",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "292"
+  },
+  {
+   "drug_name": "DEMEROL",
+   "active_ingredient": "MEPERIDINE HYDROCHLORIDE",
+   "application_number": "021171",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "665"
+  },
+  {
+   "drug_name": "DEMEROL",
+   "active_ingredient": "MEPERIDINE HYDROCHLORIDE",
+   "application_number": "005010",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "680"
+  },
+  {
+   "drug_name": "DEPACON",
+   "active_ingredient": "VALPROATE SODIUM",
+   "application_number": "020593",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/19/2020",
+   "database_updated": "05/29/2020",
+   "drug_name_id": "56"
+  },
+  {
+   "drug_name": "DEPAKENE",
+   "active_ingredient": "VALPROIC ACID",
+   "application_number": "018082",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/19/2020",
+   "database_updated": "05/29/2020",
+   "drug_name_id": "52"
+  },
+  {
+   "drug_name": "DEPAKOTE",
+   "active_ingredient": "DIVALPROEX SODIUM",
+   "application_number": "018723",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/31/2026",
+   "database_updated": "04/03/2026",
+   "drug_name_id": "53"
+  },
+  {
+   "drug_name": "DEPAKOTE",
+   "active_ingredient": "DIVALPROEX SODIUM",
+   "application_number": "019680",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/31/2026",
+   "database_updated": "04/03/2026",
+   "drug_name_id": "54"
+  },
+  {
+   "drug_name": "DEPAKOTE ER",
+   "active_ingredient": "DIVALPROEX SODIUM",
+   "application_number": "021168",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/31/2026",
+   "database_updated": "04/03/2026",
+   "drug_name_id": "55"
+  },
+  {
+   "drug_name": "DEPO-SUBQ PROVERA 104",
+   "active_ingredient": "MEDROXYPROGESTERONE ACETATE",
+   "application_number": "021583",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/12/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "471"
+  },
+  {
+   "drug_name": "DESCOVY",
+   "active_ingredient": "EMTRICITABINE; TENOFOVIR ALAFENAMIDE FUMARATE",
+   "application_number": "208215",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/20/2025",
+   "database_updated": "06/24/2025",
+   "drug_name_id": "999"
+  },
+  {
+   "drug_name": "DESOGEN",
+   "active_ingredient": "DESOGESTREL; ETHINYL ESTRADIOL",
+   "application_number": "020071",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/15/2018",
+   "database_updated": "06/21/2018",
+   "drug_name_id": "1204"
+  },
+  {
+   "drug_name": "DESOXYN",
+   "active_ingredient": "METHAMPHETAMINE HYDROCHLORIDE",
+   "application_number": "005378",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/24/2024",
+   "database_updated": "09/30/2024",
+   "drug_name_id": "663"
+  },
+  {
+   "drug_name": "DEXEDRINE",
+   "active_ingredient": "DEXTROAMPHETAMINE SULFATE",
+   "application_number": "017078",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "763"
+  },
+  {
+   "drug_name": "DIASTAT",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "020648",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "611"
+  },
+  {
+   "drug_name": "DIASTAT ACUDIAL",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "020648",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "612"
+  },
+  {
+   "drug_name": "DIAZEPAM",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "020124",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "585"
+  },
+  {
+   "drug_name": "DILAUDID",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "019891",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "657"
+  },
+  {
+   "drug_name": "DILAUDID",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "019892",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "676"
+  },
+  {
+   "drug_name": "DILAUDID-HP",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "019034",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "658"
+  },
+  {
+   "drug_name": "DIVIGEL",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "022038",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/12/2026",
+   "database_updated": "02/13/2026",
+   "drug_name_id": "1335"
+  },
+  {
+   "drug_name": "DOCETAXEL",
+   "active_ingredient": "DOCETAXEL",
+   "application_number": "201195",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/20/2023",
+   "database_updated": "09/25/2023",
+   "drug_name_id": "319"
+  },
+  {
+   "drug_name": "DOCETAXEL",
+   "active_ingredient": "DOCETAXEL",
+   "application_number": "201525",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/21/2023",
+   "database_updated": "09/26/2023",
+   "drug_name_id": "513"
+  },
+  {
+   "drug_name": "DOCETAXEL",
+   "active_ingredient": "DOCETAXEL",
+   "application_number": "205934",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/05/2023",
+   "database_updated": "07/07/2023",
+   "drug_name_id": "2198"
+  },
+  {
+   "drug_name": "DOLOPHINE HYDROCHLORIDE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "006134",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/02/2021",
+   "database_updated": "06/03/2021",
+   "drug_name_id": "779"
+  },
+  {
+   "drug_name": "DORAL",
+   "active_ingredient": "QUAZEPAM",
+   "application_number": "018708",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "606"
+  },
+  {
+   "drug_name": "DOTAREM",
+   "active_ingredient": "GADOTERATE MEGLUMINE",
+   "application_number": "204781",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/05/2025",
+   "database_updated": "03/07/2025",
+   "drug_name_id": "1241"
+  },
+  {
+   "drug_name": "DOXIL (LIPOSOMAL)",
+   "active_ingredient": "DOXORUBICIN HYDROCHLORIDE",
+   "application_number": "050718",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/10/2026",
+   "database_updated": "03/13/2026",
+   "drug_name_id": "2019"
+  },
+  {
+   "drug_name": "DOXORUBICIN HYDROCHLORIDE",
+   "active_ingredient": "DOXORUBICIN HYDROCHLORIDE",
+   "application_number": "050629",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/20/2019",
+   "database_updated": "01/06/2020",
+   "drug_name_id": "2017"
+  },
+  {
+   "drug_name": "DOXORUBICIN HYDROCHLORIDE",
+   "active_ingredient": "DOXORUBICIN HYDROCHLORIDE",
+   "application_number": "050467",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/20/2019",
+   "database_updated": "01/08/2020",
+   "drug_name_id": "2018"
+  },
+  {
+   "drug_name": "DROXIA",
+   "active_ingredient": "HYDROXYUREA",
+   "application_number": "016295",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/28/2023",
+   "database_updated": "12/01/2023",
+   "drug_name_id": "83"
+  },
+  {
+   "drug_name": "DUAVEE",
+   "active_ingredient": "BAZEDOXIFENE ACETATE; ESTROGENS, CONJUGATED",
+   "application_number": "022247",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2024",
+   "database_updated": "03/06/2024",
+   "drug_name_id": "1336"
+  },
+  {
+   "drug_name": "DUEXIS",
+   "active_ingredient": "FAMOTIDINE; IBUPROFEN",
+   "application_number": "022519",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "175"
+  },
+  {
+   "drug_name": "DURAGESIC-100",
+   "active_ingredient": "FENTANYL",
+   "application_number": "019813",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/09/2021",
+   "drug_name_id": "741"
+  },
+  {
+   "drug_name": "DURAGESIC-12",
+   "active_ingredient": "FENTANYL",
+   "application_number": "019813",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/09/2021",
+   "drug_name_id": "753"
+  },
+  {
+   "drug_name": "DURAGESIC-25",
+   "active_ingredient": "FENTANYL",
+   "application_number": "019813",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/09/2021",
+   "drug_name_id": "752"
+  },
+  {
+   "drug_name": "DURAGESIC-50",
+   "active_ingredient": "FENTANYL",
+   "application_number": "019813",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/09/2021",
+   "drug_name_id": "750"
+  },
+  {
+   "drug_name": "DURAGESIC-75",
+   "active_ingredient": "FENTANYL",
+   "application_number": "019813",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/09/2021",
+   "drug_name_id": "746"
+  },
+  {
+   "drug_name": "DURAMORPH PF",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "018565",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "728"
+  },
+  {
+   "drug_name": "DUTOPROL",
+   "active_ingredient": "HYDROCHLOROTHIAZIDE; METOPROLOL SUCCINATE",
+   "application_number": "021956",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/14/2022",
+   "database_updated": "01/20/2022",
+   "drug_name_id": "2314"
+  },
+  {
+   "drug_name": "DYANAVEL XR",
+   "active_ingredient": "AMPHETAMINE",
+   "application_number": "208147",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "693"
+  },
+  {
+   "drug_name": "DYANAVEL XR 10",
+   "active_ingredient": "AMPHETAMINE; AMPHETAMINE ASPARTATE/DEXTROAMPHETAMINE SULFATE",
+   "application_number": "210526",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2594"
+  },
+  {
+   "drug_name": "DYANAVEL XR 15",
+   "active_ingredient": "AMPHETAMINE; AMPHETAMINE ASPARTATE/DEXTROAMPHETAMINE SULFATE",
+   "application_number": "210526",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2595"
+  },
+  {
+   "drug_name": "DYANAVEL XR 20",
+   "active_ingredient": "AMPHETAMINE; AMPHETAMINE ASPARTATE/DEXTROAMPHETAMINE SULFATE",
+   "application_number": "210526",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2596"
+  },
+  {
+   "drug_name": "DYANAVEL XR 5",
+   "active_ingredient": "AMPHETAMINE; AMPHETAMINE ASPARTATE/DEXTROAMPHETAMINE SULFATE",
+   "application_number": "210526",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2597"
+  },
+  {
+   "drug_name": "DYLOJECT",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "022396",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "176"
+  },
+  {
+   "drug_name": "EC-NAPROSYN",
+   "active_ingredient": "NAPROXEN",
+   "application_number": "020067",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "197"
+  },
+  {
+   "drug_name": "EDLUAR",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "021997",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1734"
+  },
+  {
+   "drug_name": "EFFEXOR XR",
+   "active_ingredient": "VENLAFAXINE HYDROCHLORIDE",
+   "application_number": "020699",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/23/2023",
+   "drug_name_id": "65"
+  },
+  {
+   "drug_name": "ELELYSO",
+   "active_ingredient": "TALIGLUCERASE ALFA",
+   "application_number": "022458",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "140"
+  },
+  {
+   "drug_name": "ELESTRIN",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "021813",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1337"
+  },
+  {
+   "drug_name": "ELITEK",
+   "active_ingredient": "RASBURICASE",
+   "application_number": "103946",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/12/2019",
+   "database_updated": "12/13/2019",
+   "drug_name_id": "58"
+  },
+  {
+   "drug_name": "ELLENCE",
+   "active_ingredient": "EPIRUBICIN HYDROCHLORIDE",
+   "application_number": "050778",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/26/2019",
+   "database_updated": "07/30/2019",
+   "drug_name_id": "1996"
+  },
+  {
+   "drug_name": "ELUCIREM",
+   "active_ingredient": "GADOPICLENOL",
+   "application_number": "216986",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/20/2026",
+   "database_updated": "02/25/2026",
+   "drug_name_id": "2913"
+  },
+  {
+   "drug_name": "EMBEDA",
+   "active_ingredient": "MORPHINE SULFATE; NALTREXONE HYDROCHLORIDE",
+   "application_number": "022321",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/10/2019",
+   "drug_name_id": "719"
+  },
+  {
+   "drug_name": "EMFLAZA",
+   "active_ingredient": "DEFLAZACORT",
+   "application_number": "208685",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/05/2024",
+   "database_updated": "06/07/2024",
+   "drug_name_id": "1968"
+  },
+  {
+   "drug_name": "EMPAVELI",
+   "active_ingredient": "PEGCETACOPLAN",
+   "application_number": "215014",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/20/2026",
+   "database_updated": "08/27/2026",
+   "drug_name_id": "2726"
+  },
+  {
+   "drug_name": "EMTRIVA",
+   "active_ingredient": "EMTRICITABINE",
+   "application_number": "021500",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/10/2018",
+   "database_updated": "01/09/2019",
+   "drug_name_id": "1003"
+  },
+  {
+   "drug_name": "EMTRIVA",
+   "active_ingredient": "EMTRICITABINE",
+   "application_number": "021896",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/10/2018",
+   "database_updated": "01/09/2019",
+   "drug_name_id": "1004"
+  },
+  {
+   "drug_name": "ENBREL",
+   "active_ingredient": "ETANERCEPT",
+   "application_number": "103795",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "01/30/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "540"
+  },
+  {
+   "drug_name": "ENJUVIA",
+   "active_ingredient": "ESTROGENS, CONJUGATED SYNTHETIC B",
+   "application_number": "021443",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/14/2025",
+   "database_updated": "02/12/2026",
+   "drug_name_id": "1338"
+  },
+  {
+   "drug_name": "ENTEREG",
+   "active_ingredient": "ALVIMOPAN",
+   "application_number": "021775",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/17/2020",
+   "database_updated": "11/24/2020",
+   "drug_name_id": "2086"
+  },
+  {
+   "drug_name": "EOVIST",
+   "active_ingredient": "GADOXETATE DISODIUM",
+   "application_number": "022090",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/13/2026",
+   "database_updated": "02/20/2026",
+   "drug_name_id": "1552"
+  },
+  {
+   "drug_name": "EPCLUSA",
+   "active_ingredient": "SOFOSBUVIR; VELPATASVIR",
+   "application_number": "208341",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/27/2022",
+   "database_updated": "04/29/2022",
+   "drug_name_id": "849"
+  },
+  {
+   "drug_name": "EPIVIR-HBV",
+   "active_ingredient": "LAMIVUDINE",
+   "application_number": "021003",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2021",
+   "database_updated": "12/28/2021",
+   "drug_name_id": "1053"
+  },
+  {
+   "drug_name": "EPIVIR-HBV",
+   "active_ingredient": "LAMIVUDINE",
+   "application_number": "021004",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2021",
+   "database_updated": "12/28/2021",
+   "drug_name_id": "1054"
+  },
+  {
+   "drug_name": "EPKINLY",
+   "active_ingredient": "EPCORITAMAB-BYSP",
+   "application_number": "761324",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "06/17/2026",
+   "database_updated": "06/24/2026",
+   "drug_name_id": "3181"
+  },
+  {
+   "drug_name": "EPZICOM",
+   "active_ingredient": "ABACAVIR SULFATE; LAMIVUDINE",
+   "application_number": "021652",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/10/2021",
+   "database_updated": "12/17/2021",
+   "drug_name_id": "908"
+  },
+  {
+   "drug_name": "ERBITUX",
+   "active_ingredient": "CETUXIMAB",
+   "application_number": "125084",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "09/24/2021",
+   "database_updated": "10/01/2021",
+   "drug_name_id": "469"
+  },
+  {
+   "drug_name": "ESTRASORB",
+   "active_ingredient": "ESTRADIOL HEMIHYDRATE",
+   "application_number": "021371",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/10/2024",
+   "database_updated": "09/13/2024",
+   "drug_name_id": "1340"
+  },
+  {
+   "drug_name": "ESTROGEL",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "021166",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1342"
+  },
+  {
+   "drug_name": "ESTROSTEP FE",
+   "active_ingredient": "ETHINYL ESTRADIOL; NORETHINDRONE ACETATE",
+   "application_number": "020130",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/29/2022",
+   "database_updated": "05/05/2022",
+   "drug_name_id": "1189"
+  },
+  {
+   "drug_name": "EVAMIST",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "022014",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1343"
+  },
+  {
+   "drug_name": "EVEKEO ODT",
+   "active_ingredient": "AMPHETAMINE SULFATE",
+   "application_number": "209905",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "2446"
+  },
+  {
+   "drug_name": "EXALGO",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "021217",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/09/2019",
+   "drug_name_id": "670"
+  },
+  {
+   "drug_name": "EXJADE",
+   "active_ingredient": "DEFERASIROX",
+   "application_number": "021882",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/23/2020",
+   "database_updated": "07/28/2020",
+   "drug_name_id": "267"
+  },
+  {
+   "drug_name": "FABRAZYME",
+   "active_ingredient": "AGALSIDASE BETA",
+   "application_number": "103979",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "07/10/2024",
+   "database_updated": "07/15/2024",
+   "drug_name_id": "1792"
+  },
+  {
+   "drug_name": "FACTIVE",
+   "active_ingredient": "GEMIFLOXACIN MESYLATE",
+   "application_number": "021158",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/03/2019",
+   "database_updated": "05/09/2019",
+   "drug_name_id": "344"
+  },
+  {
+   "drug_name": "FANAPT",
+   "active_ingredient": "ILOPERIDONE",
+   "application_number": "022192",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "9"
+  },
+  {
+   "drug_name": "FAZACLO ODT",
+   "active_ingredient": "CLOZAPINE",
+   "application_number": "021590",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/14/2020",
+   "database_updated": "04/17/2020",
+   "drug_name_id": "860"
+  },
+  {
+   "drug_name": "FELDENE",
+   "active_ingredient": "PIROXICAM",
+   "application_number": "018147",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/26/2024",
+   "drug_name_id": "177"
+  },
+  {
+   "drug_name": "FEMHRT",
+   "active_ingredient": "ETHINYL ESTRADIOL; NORETHINDRONE ACETATE",
+   "application_number": "021065",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/18/2023",
+   "database_updated": "05/24/2023",
+   "drug_name_id": "1344"
+  },
+  {
+   "drug_name": "FENTANYL CITRATE",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "019115",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "781"
+  },
+  {
+   "drug_name": "FENTANYL CITRATE",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "019101",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "2908"
+  },
+  {
+   "drug_name": "FENTORA",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "021947",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "777"
+  },
+  {
+   "drug_name": "FERAHEME",
+   "active_ingredient": "FERUMOXYTOL",
+   "application_number": "022180",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/27/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "1445"
+  },
+  {
+   "drug_name": "FETZIMA",
+   "active_ingredient": "LEVOMILNACIPRAN HYDROCHLORIDE",
+   "application_number": "204168",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/19/2024",
+   "database_updated": "04/24/2024",
+   "drug_name_id": "742"
+  },
+  {
+   "drug_name": "FILSPARI",
+   "active_ingredient": "SPARSENTAN",
+   "application_number": "216403",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/13/2026",
+   "database_updated": "04/16/2026",
+   "drug_name_id": "3019"
+  },
+  {
+   "drug_name": "FINTEPLA",
+   "active_ingredient": "FENFLURAMINE HYDROCHLORIDE",
+   "application_number": "212102",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/15/2025",
+   "database_updated": "10/20/2025",
+   "drug_name_id": "2604"
+  },
+  {
+   "drug_name": "FIORICET W/ CODEINE",
+   "active_ingredient": "ACETAMINOPHEN; BUTALBITAL; CAFFEINE; CODEINE PHOSPHATE",
+   "application_number": "020232",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "652"
+  },
+  {
+   "drug_name": "FIORINAL W/CODEINE",
+   "active_ingredient": "ASPIRIN; BUTALBITAL; CAFFEINE; CODEINE PHOSPHATE",
+   "application_number": "019429",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/04/2021",
+   "drug_name_id": "650"
+  },
+  {
+   "drug_name": "FLECTOR",
+   "active_ingredient": "DICLOFENAC EPOLAMINE",
+   "application_number": "021234",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "183"
+  },
+  {
+   "drug_name": "FLOWTUSS",
+   "active_ingredient": "GUAIFENESIN; HYDROCODONE BITARTRATE",
+   "application_number": "022424",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/13/2026",
+   "drug_name_id": "794"
+  },
+  {
+   "drug_name": "FLUOXETINE HYDROCHLORIDE",
+   "active_ingredient": "FLUOXETINE HYDROCHLORIDE",
+   "application_number": "202133",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/22/2023",
+   "drug_name_id": "688"
+  },
+  {
+   "drug_name": "FOCALIN",
+   "active_ingredient": "DEXMETHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021278",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "703"
+  },
+  {
+   "drug_name": "FOCALIN XR",
+   "active_ingredient": "DEXMETHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021802",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "704"
+  },
+  {
+   "drug_name": "FORTAMET",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE",
+   "application_number": "021574",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "952"
+  },
+  {
+   "drug_name": "FORTEO",
+   "active_ingredient": "TERIPARATIDE RECOMBINANT HUMAN",
+   "application_number": "021318",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/03/2026",
+   "database_updated": "08/12/2026",
+   "drug_name_id": "2076"
+  },
+  {
+   "drug_name": "GADAVIST",
+   "active_ingredient": "GADOBUTROL",
+   "application_number": "201277",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/13/2026",
+   "database_updated": "02/20/2026",
+   "drug_name_id": "1553"
+  },
+  {
+   "drug_name": "GAVRETO",
+   "active_ingredient": "PRALSETINIB",
+   "application_number": "213721",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "2557"
+  },
+  {
+   "drug_name": "GEODON",
+   "active_ingredient": "ZIPRASIDONE HYDROCHLORIDE",
+   "application_number": "020825",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "858"
+  },
+  {
+   "drug_name": "GEODON",
+   "active_ingredient": "ZIPRASIDONE MESYLATE",
+   "application_number": "020919",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "867"
+  },
+  {
+   "drug_name": "GIAZO",
+   "active_ingredient": "BALSALAZIDE DISODIUM",
+   "application_number": "022205",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/01/2021",
+   "database_updated": "11/03/2021",
+   "drug_name_id": "2177"
+  },
+  {
+   "drug_name": "GIMOTI",
+   "active_ingredient": "METOCLOPRAMIDE HYDROCHLORIDE",
+   "application_number": "209388",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/09/2026",
+   "database_updated": "02/11/2026",
+   "drug_name_id": "2391"
+  },
+  {
+   "drug_name": "GLEOSTINE",
+   "active_ingredient": "LOMUSTINE",
+   "application_number": "017588",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/06/2016",
+   "database_updated": "07/11/2016",
+   "drug_name_id": "5"
+  },
+  {
+   "drug_name": "GLUCOPHAGE",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE",
+   "application_number": "020357",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/30/2018",
+   "database_updated": "06/01/2018",
+   "drug_name_id": "954"
+  },
+  {
+   "drug_name": "GLUCOPHAGE XR",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE",
+   "application_number": "021202",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/30/2018",
+   "database_updated": "06/01/2018",
+   "drug_name_id": "955"
+  },
+  {
+   "drug_name": "GLUCOVANCE",
+   "active_ingredient": "GLYBURIDE; METFORMIN HYDROCHLORIDE",
+   "application_number": "021178",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/27/2018",
+   "database_updated": "01/09/2019",
+   "drug_name_id": "957"
+  },
+  {
+   "drug_name": "GLUMETZA",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE",
+   "application_number": "021748",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "953"
+  },
+  {
+   "drug_name": "HALCION",
+   "active_ingredient": "TRIAZOLAM",
+   "application_number": "017892",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/27/2021",
+   "database_updated": "11/01/2021",
+   "drug_name_id": "603"
+  },
+  {
+   "drug_name": "HARVONI",
+   "active_ingredient": "LEDIPASVIR; SOFOSBUVIR",
+   "application_number": "205834",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/19/2024",
+   "database_updated": "12/23/2024",
+   "drug_name_id": "846"
+  },
+  {
+   "drug_name": "HYCAMTIN",
+   "active_ingredient": "TOPOTECAN HYDROCHLORIDE",
+   "application_number": "020671",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/05/2018",
+   "database_updated": "09/10/2018",
+   "drug_name_id": "1671"
+  },
+  {
+   "drug_name": "HYCODAN",
+   "active_ingredient": "HOMATROPINE METHYLBROMIDE; HYDROCODONE BITARTRATE",
+   "application_number": "005213",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "782"
+  },
+  {
+   "drug_name": "HYCOFENIX",
+   "active_ingredient": "GUAIFENESIN; HYDROCODONE BITARTRATE; PSEUDOEPHEDRINE HYDROCHLORIDE",
+   "application_number": "022279",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/13/2026",
+   "drug_name_id": "793"
+  },
+  {
+   "drug_name": "HYDREA",
+   "active_ingredient": "HYDROXYUREA",
+   "application_number": "016295",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/28/2023",
+   "database_updated": "12/01/2023",
+   "drug_name_id": "110"
+  },
+  {
+   "drug_name": "HYDROMORPHONE HYDROCHLORIDE",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "200403",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "708"
+  },
+  {
+   "drug_name": "HYSINGLA",
+   "active_ingredient": "HYDROCODONE BITARTRATE",
+   "application_number": "206627",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/18/2018",
+   "database_updated": "09/21/2018",
+   "drug_name_id": "732"
+  },
+  {
+   "drug_name": "HYSINGLA ER",
+   "active_ingredient": "HYDROCODONE BITARTRATE",
+   "application_number": "206627",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "2081"
+  },
+  {
+   "drug_name": "ICLUSIG",
+   "active_ingredient": "PONATINIB HYDROCHLORIDE",
+   "application_number": "203469",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/10/2025",
+   "database_updated": "10/14/2025",
+   "drug_name_id": "116"
+  },
+  {
+   "drug_name": "IMDELLTRA",
+   "active_ingredient": "TARLATAMAB-DLLE",
+   "application_number": "761344",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "09/11/2026",
+   "database_updated": "09/17/2026",
+   "drug_name_id": "3215"
+  },
+  {
+   "drug_name": "IMODIUM",
+   "active_ingredient": "LOPERAMIDE HYDROCHLORIDE",
+   "application_number": "017690",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/03/2016",
+   "database_updated": "11/18/2016",
+   "drug_name_id": "519"
+  },
+  {
+   "drug_name": "IMODIUM",
+   "active_ingredient": "LOPERAMIDE HYDROCHLORIDE",
+   "application_number": "017694",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/03/2016",
+   "database_updated": "11/18/2016",
+   "drug_name_id": "520"
+  },
+  {
+   "drug_name": "IMPLANON",
+   "active_ingredient": "ETONOGESTREL",
+   "application_number": "021529",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/16/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "86"
+  },
+  {
+   "drug_name": "INDOCIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "016059",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "184"
+  },
+  {
+   "drug_name": "INDOCIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "017814",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "186"
+  },
+  {
+   "drug_name": "INDOCIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "018332",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "187"
+  },
+  {
+   "drug_name": "INDOCIN SR",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "018185",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "185"
+  },
+  {
+   "drug_name": "INDOMETHACIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "018829",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "188"
+  },
+  {
+   "drug_name": "INDOMETHACIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "018851",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "189"
+  },
+  {
+   "drug_name": "INDOMETHACIN",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "018858",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "190"
+  },
+  {
+   "drug_name": "INFUMORPH",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "018565",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "736"
+  },
+  {
+   "drug_name": "INGREZZA",
+   "active_ingredient": "VALBENAZINE TOSYLATE",
+   "application_number": "209241",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/04/2025",
+   "database_updated": "02/10/2025",
+   "drug_name_id": "1668"
+  },
+  {
+   "drug_name": "INJECTAFER",
+   "active_ingredient": "FERRIC CARBOXYMALTOSE",
+   "application_number": "203565",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/13/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "1435"
+  },
+  {
+   "drug_name": "INNOPRAN XL",
+   "active_ingredient": "PROPRANOLOL HYDROCHLORIDE",
+   "application_number": "021438",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2023",
+   "database_updated": "12/27/2023",
+   "drug_name_id": "2527"
+  },
+  {
+   "drug_name": "INREBIC",
+   "active_ingredient": "FEDRATINIB HYDROCHLORIDE",
+   "application_number": "212327",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/20/2026",
+   "database_updated": "07/28/2026",
+   "drug_name_id": "2561"
+  },
+  {
+   "drug_name": "INTERMEZZO",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "022328",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1866"
+  },
+  {
+   "drug_name": "INVEGA TRINZA",
+   "active_ingredient": "PALIPERIDONE PALMITATE",
+   "application_number": "207946",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/23/2025",
+   "database_updated": "02/06/2025",
+   "drug_name_id": "69"
+  },
+  {
+   "drug_name": "INVOKAMET",
+   "active_ingredient": "CANAGLIFLOZIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "204353",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/19/2026",
+   "drug_name_id": "70"
+  },
+  {
+   "drug_name": "INVOKAMET XR",
+   "active_ingredient": "CANAGLIFLOZIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "205879",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "1145"
+  },
+  {
+   "drug_name": "INVOKANA",
+   "active_ingredient": "CANAGLIFLOZIN",
+   "application_number": "204042",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/03/2026",
+   "database_updated": "06/11/2026",
+   "drug_name_id": "71"
+  },
+  {
+   "drug_name": "IONSYS",
+   "active_ingredient": "FENTANYL HYDROCHLORIDE",
+   "application_number": "021338",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "01/10/2017",
+   "drug_name_id": "738"
+  },
+  {
+   "drug_name": "JADENU",
+   "active_ingredient": "DEFERASIROX",
+   "application_number": "206910",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/23/2020",
+   "database_updated": "07/28/2020",
+   "drug_name_id": "266"
+  },
+  {
+   "drug_name": "JADENU SPRINKLE",
+   "active_ingredient": "DEFERASIROX",
+   "application_number": "207968",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/23/2020",
+   "database_updated": "07/28/2020",
+   "drug_name_id": "1458"
+  },
+  {
+   "drug_name": "JANUMET",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN PHOSPHATE",
+   "application_number": "022044",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "801"
+  },
+  {
+   "drug_name": "JANUMET XR",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN PHOSPHATE",
+   "application_number": "202270",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "802"
+  },
+  {
+   "drug_name": "JANUVIA",
+   "active_ingredient": "SITAGLIPTIN PHOSPHATE",
+   "application_number": "021995",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/21/2022",
+   "database_updated": "06/24/2022",
+   "drug_name_id": "799"
+  },
+  {
+   "drug_name": "JENTADUETO",
+   "active_ingredient": "LINAGLIPTIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "201281",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "643"
+  },
+  {
+   "drug_name": "JENTADUETO XR",
+   "active_ingredient": "LINAGLIPTIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "208026",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "645"
+  },
+  {
+   "drug_name": "JEVTANA KIT",
+   "active_ingredient": "CABAZITAXEL",
+   "application_number": "201023",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/07/2023",
+   "database_updated": "07/12/2023",
+   "drug_name_id": "409"
+  },
+  {
+   "drug_name": "JORNAY PM",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "209311",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2502"
+  },
+  {
+   "drug_name": "JUXTAPID",
+   "active_ingredient": "LOMITAPIDE MESYLATE",
+   "application_number": "203858",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/25/2026",
+   "database_updated": "03/02/2026",
+   "drug_name_id": "104"
+  },
+  {
+   "drug_name": "JYNARQUE",
+   "active_ingredient": "TOLVAPTAN",
+   "application_number": "204441",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/15/2026",
+   "database_updated": "09/23/2026",
+   "drug_name_id": "3328"
+  },
+  {
+   "drug_name": "KADCYLA",
+   "active_ingredient": "ADO-TRASTUZUMAB EMTANSINE",
+   "application_number": "125427",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "02/02/2022",
+   "database_updated": "02/04/2022",
+   "drug_name_id": "119"
+  },
+  {
+   "drug_name": "KADIAN",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "020616",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/09/2021",
+   "drug_name_id": "666"
+  },
+  {
+   "drug_name": "KANUMA",
+   "active_ingredient": "SEBELIPASE ALFA",
+   "application_number": "125561",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "07/10/2024",
+   "database_updated": "07/15/2024",
+   "drug_name_id": "2559"
+  },
+  {
+   "drug_name": "KAZANO",
+   "active_ingredient": "ALOGLIPTIN BENZOATE; METFORMIN HYDROCHLORIDE",
+   "application_number": "203414",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "590"
+  },
+  {
+   "drug_name": "KESIMPTA",
+   "active_ingredient": "OFATUMUMAB",
+   "application_number": "125326",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "04/01/2026",
+   "database_updated": "04/03/2026",
+   "drug_name_id": "2303"
+  },
+  {
+   "drug_name": "KISUNLA",
+   "active_ingredient": "DONANEMAB-AZBT",
+   "application_number": "761248",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "07/01/2025",
+   "database_updated": "07/02/2025",
+   "drug_name_id": "3149"
+  },
+  {
+   "drug_name": "KLONOPIN",
+   "active_ingredient": "CLONAZEPAM",
+   "application_number": "017533",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "93"
+  },
+  {
+   "drug_name": "KLONOPIN RAPIDLY DISINTEGRATING",
+   "active_ingredient": "CLONAZEPAM",
+   "application_number": "020813",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "12/21/2016",
+   "drug_name_id": "602"
+  },
+  {
+   "drug_name": "KOMBIGLYZE XR",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; SAXAGLIPTIN HYDROCHLORIDE",
+   "application_number": "200678",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "800"
+  },
+  {
+   "drug_name": "KRYSTEXXA",
+   "active_ingredient": "PEGLOTICASE",
+   "application_number": "125293",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "07/07/2022",
+   "database_updated": "07/13/2022",
+   "drug_name_id": "408"
+  },
+  {
+   "drug_name": "KYNAMRO",
+   "active_ingredient": "MIPOMERSEN SODIUM",
+   "application_number": "203568",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/18/2019",
+   "database_updated": "03/29/2019",
+   "drug_name_id": "191"
+  },
+  {
+   "drug_name": "KYPROLIS",
+   "active_ingredient": "CARFILZOMIB",
+   "application_number": "202714",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/22/2025",
+   "database_updated": "06/04/2025",
+   "drug_name_id": "13"
+  },
+  {
+   "drug_name": "LAMICTAL",
+   "active_ingredient": "LAMOTRIGINE",
+   "application_number": "020241",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "1624"
+  },
+  {
+   "drug_name": "LAMICTAL CD",
+   "active_ingredient": "LAMOTRIGINE",
+   "application_number": "020764",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "1625"
+  },
+  {
+   "drug_name": "LAMICTAL ODT",
+   "active_ingredient": "LAMOTRIGINE",
+   "application_number": "022251",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "1626"
+  },
+  {
+   "drug_name": "LAMICTAL XR",
+   "active_ingredient": "LAMOTRIGINE",
+   "application_number": "022115",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "1627"
+  },
+  {
+   "drug_name": "LATUDA",
+   "active_ingredient": "LURASIDONE HYDROCHLORIDE",
+   "application_number": "200603",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "773"
+  },
+  {
+   "drug_name": "LAZANDA",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "022569",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/10/2021",
+   "drug_name_id": "756"
+  },
+  {
+   "drug_name": "LEMTRADA",
+   "active_ingredient": "ALEMTUZUMAB",
+   "application_number": "103948",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "02/08/2024",
+   "database_updated": "02/12/2024",
+   "drug_name_id": "1296"
+  },
+  {
+   "drug_name": "LEQEMBI",
+   "active_ingredient": "LECANEMAB-IRMB",
+   "application_number": "761269",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/15/2025",
+   "database_updated": "12/19/2025",
+   "drug_name_id": "2813"
+  },
+  {
+   "drug_name": "LETAIRIS",
+   "active_ingredient": "AMBRISENTAN",
+   "application_number": "022081",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/04/2025",
+   "database_updated": "05/16/2025",
+   "drug_name_id": "1765"
+  },
+  {
+   "drug_name": "LEVAQUIN",
+   "active_ingredient": "LEVOFLOXACIN",
+   "application_number": "020634",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/22/2020",
+   "database_updated": "07/06/2020",
+   "drug_name_id": "345"
+  },
+  {
+   "drug_name": "LEVAQUIN",
+   "active_ingredient": "LEVOFLOXACIN",
+   "application_number": "020635",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/08/2017",
+   "database_updated": "02/10/2017",
+   "drug_name_id": "346"
+  },
+  {
+   "drug_name": "LEVAQUIN",
+   "active_ingredient": "LEVOFLOXACIN",
+   "application_number": "021721",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/08/2017",
+   "database_updated": "02/10/2017",
+   "drug_name_id": "347"
+  },
+  {
+   "drug_name": "LEVO-T",
+   "active_ingredient": "LEVOTHYROXINE SODIUM",
+   "application_number": "021342",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/04/2026",
+   "database_updated": "05/20/2026",
+   "drug_name_id": "1386"
+  },
+  {
+   "drug_name": "LIBRAX",
+   "active_ingredient": "CHLORDIAZEPOXIDE HYDROCHLORIDE; CLIDINIUM BROMIDE",
+   "application_number": "012750",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "628"
+  },
+  {
+   "drug_name": "LIBRIUM",
+   "active_ingredient": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+   "application_number": "012249",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "12/21/2016",
+   "drug_name_id": "624"
+  },
+  {
+   "drug_name": "LIMBITROL",
+   "active_ingredient": "AMITRIPTYLINE HYDROCHLORIDE; CHLORDIAZEPOXIDE",
+   "application_number": "016949",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/24/2025",
+   "database_updated": "06/30/2025",
+   "drug_name_id": "166"
+  },
+  {
+   "drug_name": "LINCOCIN",
+   "active_ingredient": "LINCOMYCIN HYDROCHLORIDE",
+   "application_number": "050317",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/11/2022",
+   "database_updated": "04/13/2022",
+   "drug_name_id": "554"
+  },
+  {
+   "drug_name": "LINZESS",
+   "active_ingredient": "LINACLOTIDE",
+   "application_number": "202811",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/21/2026",
+   "database_updated": "05/29/2026",
+   "drug_name_id": "382"
+  },
+  {
+   "drug_name": "LO/OVRAL FE",
+   "active_ingredient": "ETHINYL ESTRADIOL; LEVONORGESTREL; FERROUS FUMARATE",
+   "application_number": "018206",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/29/2022",
+   "database_updated": "05/04/2022",
+   "drug_name_id": "1199"
+  },
+  {
+   "drug_name": "LORBRENA",
+   "active_ingredient": "LORLATINIB",
+   "application_number": "210868",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/29/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "2268"
+  },
+  {
+   "drug_name": "LOSEASONIQUE",
+   "active_ingredient": "ETHINYL ESTRADIOL; LEVONORGESTREL",
+   "application_number": "022262",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/27/2023",
+   "database_updated": "01/31/2023",
+   "drug_name_id": "1209"
+  },
+  {
+   "drug_name": "LOTRONEX",
+   "active_ingredient": "ALOSETRON HYDROCHLORIDE",
+   "application_number": "021107",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/03/2019",
+   "database_updated": "04/04/2019",
+   "drug_name_id": "6"
+  },
+  {
+   "drug_name": "LUMIZYME",
+   "active_ingredient": "ALGLUCOSIDASE ALFA",
+   "application_number": "125291",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/30/2024",
+   "database_updated": "01/02/2025",
+   "drug_name_id": "1963"
+  },
+  {
+   "drug_name": "LUNESTA",
+   "active_ingredient": "ESZOPICLONE",
+   "application_number": "021476",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1747"
+  },
+  {
+   "drug_name": "LYSODREN",
+   "active_ingredient": "MITOTANE",
+   "application_number": "016885",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/28/2024",
+   "database_updated": "10/30/2024",
+   "drug_name_id": "1060"
+  },
+  {
+   "drug_name": "MARCAINE HYDROCHLORIDE",
+   "active_ingredient": "BUPIVACAINE HYDROCHLORIDE",
+   "application_number": "016964",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/21/2020",
+   "database_updated": "08/25/2020",
+   "drug_name_id": "1718"
+  },
+  {
+   "drug_name": "MARCAINE HYDROCHLORIDE W/ EPINEPHRINE",
+   "active_ingredient": "BUPIVACAINE HYDROCHLORIDE; EPINEPHRINE BITARTRATE",
+   "application_number": "016964",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/21/2020",
+   "database_updated": "08/25/2020",
+   "drug_name_id": "1728"
+  },
+  {
+   "drug_name": "MENOSTAR",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "020375",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1357"
+  },
+  {
+   "drug_name": "MEPERGAN",
+   "active_ingredient": "MEPERIDINE HYDROCHLORIDE; PROMETHAZINE HYDROCHLORIDE",
+   "application_number": "011730",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "649"
+  },
+  {
+   "drug_name": "METADATE CD",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021259",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "699"
+  },
+  {
+   "drug_name": "METHADONE HYDROCHLORIDE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "017058",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "730"
+  },
+  {
+   "drug_name": "METHADONE HYDROCHLORIDE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "006383",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/01/2018",
+   "database_updated": "02/02/2018",
+   "drug_name_id": "767"
+  },
+  {
+   "drug_name": "METHADONE HYDROCHLORIDE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "021624",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "780"
+  },
+  {
+   "drug_name": "METHADOSE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "017116",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "723"
+  },
+  {
+   "drug_name": "METHOTREXATE LPF",
+   "active_ingredient": "METHOTREXATE SODIUM",
+   "application_number": "011719",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/28/2025",
+   "database_updated": "06/04/2025",
+   "drug_name_id": "1480"
+  },
+  {
+   "drug_name": "METHOTREXATE PRESERVATIVE FREE",
+   "active_ingredient": "METHOTREXATE SODIUM",
+   "application_number": "011719",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/16/2023",
+   "database_updated": "11/17/2023",
+   "drug_name_id": "1481"
+  },
+  {
+   "drug_name": "METHOTREXATE SODIUM",
+   "active_ingredient": "METHOTREXATE SODIUM",
+   "application_number": "008085",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/27/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "1479"
+  },
+  {
+   "drug_name": "METHOTREXATE SODIUM PRESERVATIVE FREE",
+   "active_ingredient": "METHOTREXATE SODIUM",
+   "application_number": "011719",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/16/2023",
+   "database_updated": "11/17/2023",
+   "drug_name_id": "1482"
+  },
+  {
+   "drug_name": "METHYLIN",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021419",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "696"
+  },
+  {
+   "drug_name": "METHYLIN",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021475",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/10/2025",
+   "database_updated": "01/10/2025",
+   "drug_name_id": "697"
+  },
+  {
+   "drug_name": "MOBIC",
+   "active_ingredient": "MELOXICAM",
+   "application_number": "021530",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/04/2021",
+   "drug_name_id": "192"
+  },
+  {
+   "drug_name": "MOBIC",
+   "active_ingredient": "MELOXICAM",
+   "application_number": "020938",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "193"
+  },
+  {
+   "drug_name": "MORPHABOND",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "206544",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "01/09/2017",
+   "drug_name_id": "724"
+  },
+  {
+   "drug_name": "MORPHABOND ER",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "206544",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/11/2019",
+   "drug_name_id": "1685"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "020631",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/15/2023",
+   "database_updated": "12/19/2023",
+   "drug_name_id": "647"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "022195",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "674"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "022207",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "675"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "019916",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/08/2019",
+   "drug_name_id": "677"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "019917",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/08/2019",
+   "drug_name_id": "678"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "019999",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/08/2019",
+   "drug_name_id": "679"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "201517",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "714"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "202515",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "722"
+  },
+  {
+   "drug_name": "MORPHINE SULFATE",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "204223",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "729"
+  },
+  {
+   "drug_name": "MOXIFLOXACIN HYDROCHLORIDE",
+   "active_ingredient": "MOXIFLOXACIN HYDROCHLORIDE",
+   "application_number": "205572",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/27/2020",
+   "database_updated": "03/31/2020",
+   "drug_name_id": "343"
+  },
+  {
+   "drug_name": "MS CONTIN",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "019516",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "656"
+  },
+  {
+   "drug_name": "MULTIHANCE",
+   "active_ingredient": "GADOBENATE DIMEGLUMINE",
+   "application_number": "021357",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/05/2025",
+   "database_updated": "03/10/2025",
+   "drug_name_id": "1583"
+  },
+  {
+   "drug_name": "MULTIHANCE MULTIPACK",
+   "active_ingredient": "GADOBENATE DIMEGLUMINE",
+   "application_number": "021358",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/05/2025",
+   "database_updated": "03/10/2025",
+   "drug_name_id": "1584"
+  },
+  {
+   "drug_name": "MYDAYIS",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "022063",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/23/2026",
+   "database_updated": "04/28/2026",
+   "drug_name_id": "2080"
+  },
+  {
+   "drug_name": "MYFORTIC",
+   "active_ingredient": "MYCOPHENOLIC ACID",
+   "application_number": "050791",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/30/2025",
+   "database_updated": "06/30/2025",
+   "drug_name_id": "2250"
+  },
+  {
+   "drug_name": "NAGLAZYME",
+   "active_ingredient": "GALSULFASE",
+   "application_number": "125117",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "09/12/2024",
+   "database_updated": "09/16/2024",
+   "drug_name_id": "2153"
+  },
+  {
+   "drug_name": "NALFON",
+   "active_ingredient": "FENOPROFEN CALCIUM",
+   "application_number": "017604",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/26/2024",
+   "drug_name_id": "194"
+  },
+  {
+   "drug_name": "NAPRELAN",
+   "active_ingredient": "NAPROXEN SODIUM",
+   "application_number": "020353",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "199"
+  },
+  {
+   "drug_name": "NAPROSYN",
+   "active_ingredient": "NAPROXEN",
+   "application_number": "017581",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "198"
+  },
+  {
+   "drug_name": "NAPROSYN",
+   "active_ingredient": "NAPROXEN",
+   "application_number": "018965",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "201"
+  },
+  {
+   "drug_name": "NAYZILAM",
+   "active_ingredient": "MIDAZOLAM",
+   "application_number": "211321",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "2401"
+  },
+  {
+   "drug_name": "NEXPLANON",
+   "active_ingredient": "ETONOGESTREL",
+   "application_number": "021529",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/28/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "88"
+  },
+  {
+   "drug_name": "NORDITROPIN",
+   "active_ingredient": "SOMATROPIN RECOMBINANT",
+   "application_number": "021148",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "07/09/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "596"
+  },
+  {
+   "drug_name": "NOROXIN",
+   "active_ingredient": "NORFLOXACIN",
+   "application_number": "019384",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/26/2016",
+   "database_updated": "08/30/2016",
+   "drug_name_id": "341"
+  },
+  {
+   "drug_name": "NUBAIN",
+   "active_ingredient": "NALBUPHINE HYDROCHLORIDE",
+   "application_number": "018024",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "648"
+  },
+  {
+   "drug_name": "NUCYNTA",
+   "active_ingredient": "TAPENTADOL HYDROCHLORIDE",
+   "application_number": "022304",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "667"
+  },
+  {
+   "drug_name": "NUCYNTA",
+   "active_ingredient": "TAPENTADOL HYDROCHLORIDE",
+   "application_number": "203794",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "720"
+  },
+  {
+   "drug_name": "NUCYNTA ER",
+   "active_ingredient": "TAPENTADOL HYDROCHLORIDE",
+   "application_number": "200533",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "698"
+  },
+  {
+   "drug_name": "OBREDON",
+   "active_ingredient": "GUAIFENESIN; HYDROCODONE BITARTRATE",
+   "application_number": "205474",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "786"
+  },
+  {
+   "drug_name": "OCALIVA",
+   "active_ingredient": "OBETICHOLIC ACID",
+   "application_number": "207999",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/26/2021",
+   "database_updated": "06/03/2021",
+   "drug_name_id": "1438"
+  },
+  {
+   "drug_name": "OLINVYK",
+   "active_ingredient": "OLICERIDINE",
+   "application_number": "210730",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "2417"
+  },
+  {
+   "drug_name": "OLUMIANT",
+   "active_ingredient": "BARICITINIB",
+   "application_number": "207924",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/25/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "2084"
+  },
+  {
+   "drug_name": "OLYSIO",
+   "active_ingredient": "SIMEPREVIR SODIUM",
+   "application_number": "205123",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/09/2017",
+   "database_updated": "11/14/2017",
+   "drug_name_id": "847"
+  },
+  {
+   "drug_name": "OMNIPAQUE 140",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "960"
+  },
+  {
+   "drug_name": "OMNIPAQUE 180",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "961"
+  },
+  {
+   "drug_name": "OMNIPAQUE 210",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "962"
+  },
+  {
+   "drug_name": "OMNIPAQUE 240",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "963"
+  },
+  {
+   "drug_name": "OMNIPAQUE 240",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "020608",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "1009"
+  },
+  {
+   "drug_name": "OMNIPAQUE 300",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "964"
+  },
+  {
+   "drug_name": "OMNIPAQUE 300",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "020608",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "1010"
+  },
+  {
+   "drug_name": "OMNIPAQUE 350",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "020608",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "631"
+  },
+  {
+   "drug_name": "OMNIPAQUE 70",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "965"
+  },
+  {
+   "drug_name": "OMNISCAN",
+   "active_ingredient": "GADODIAMIDE",
+   "application_number": "020123",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/05/2025",
+   "database_updated": "03/07/2025",
+   "drug_name_id": "1550"
+  },
+  {
+   "drug_name": "OMNISCAN",
+   "active_ingredient": "GADODIAMIDE",
+   "application_number": "022066",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/05/2025",
+   "database_updated": "03/07/2025",
+   "drug_name_id": "1551"
+  },
+  {
+   "drug_name": "ONFI",
+   "active_ingredient": "CLOBAZAM",
+   "application_number": "202067",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/12/2024",
+   "database_updated": "03/14/2024",
+   "drug_name_id": "600"
+  },
+  {
+   "drug_name": "ONFI",
+   "active_ingredient": "CLOBAZAM",
+   "application_number": "203993",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/12/2024",
+   "database_updated": "03/14/2024",
+   "drug_name_id": "601"
+  },
+  {
+   "drug_name": "ONSOLIS",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "022266",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/10/2021",
+   "drug_name_id": "776"
+  },
+  {
+   "drug_name": "OPANA",
+   "active_ingredient": "OXYMORPHONE HYDROCHLORIDE",
+   "application_number": "021611",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/25/2019",
+   "database_updated": "10/31/2019",
+   "drug_name_id": "671"
+  },
+  {
+   "drug_name": "OPANA",
+   "active_ingredient": "OXYMORPHONE HYDROCHLORIDE",
+   "application_number": "011707",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/08/2019",
+   "drug_name_id": "672"
+  },
+  {
+   "drug_name": "OPANA ER",
+   "active_ingredient": "OXYMORPHONE HYDROCHLORIDE",
+   "application_number": "021610",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/15/2023",
+   "database_updated": "12/19/2023",
+   "drug_name_id": "683"
+  },
+  {
+   "drug_name": "OPANA ER",
+   "active_ingredient": "OXYMORPHONE HYDROCHLORIDE",
+   "application_number": "201655",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/10/2019",
+   "drug_name_id": "717"
+  },
+  {
+   "drug_name": "OPSUMIT",
+   "active_ingredient": "MACITENTAN",
+   "application_number": "204410",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/02/2025",
+   "database_updated": "05/20/2025",
+   "drug_name_id": "66"
+  },
+  {
+   "drug_name": "OPSYNVI",
+   "active_ingredient": "MACITENTAN; TADALAFIL",
+   "application_number": "218490",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/02/2025",
+   "database_updated": "05/20/2025",
+   "drug_name_id": "3108"
+  },
+  {
+   "drug_name": "OPTIRAY 160",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "271"
+  },
+  {
+   "drug_name": "OPTIRAY 240",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "020923",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "272"
+  },
+  {
+   "drug_name": "OPTIRAY 240",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1005"
+  },
+  {
+   "drug_name": "OPTIRAY 300",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1006"
+  },
+  {
+   "drug_name": "OPTIRAY 300",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "020923",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1011"
+  },
+  {
+   "drug_name": "OPTIRAY 320",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1007"
+  },
+  {
+   "drug_name": "OPTIRAY 320",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "020923",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1012"
+  },
+  {
+   "drug_name": "OPTIRAY 350",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "019710",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1008"
+  },
+  {
+   "drug_name": "OPTIRAY 350",
+   "active_ingredient": "IOVERSOL",
+   "application_number": "020923",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/25/2023",
+   "database_updated": "04/28/2023",
+   "drug_name_id": "1013"
+  },
+  {
+   "drug_name": "OPZELURA",
+   "active_ingredient": "RUXOLITINIB PHOSPHATE",
+   "application_number": "215309",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/30/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "2648"
+  },
+  {
+   "drug_name": "OSPHENA",
+   "active_ingredient": "OSPEMIFENE",
+   "application_number": "203505",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/07/2025",
+   "database_updated": "02/12/2025",
+   "drug_name_id": "1735"
+  },
+  {
+   "drug_name": "OXALIPLATIN",
+   "active_ingredient": "OXALIPLATIN",
+   "application_number": "022160",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/31/2024",
+   "database_updated": "11/04/2024",
+   "drug_name_id": "162"
+  },
+  {
+   "drug_name": "OXAYDO",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "202080",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "651"
+  },
+  {
+   "drug_name": "OXYCODONE HYDROCHLORIDE",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "200534",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "681"
+  },
+  {
+   "drug_name": "OXYCODONE HYDROCHLORIDE",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "200535",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "682"
+  },
+  {
+   "drug_name": "OXYCODONE HYDROCHLORIDE",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "201194",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "684"
+  },
+  {
+   "drug_name": "OXYCONTIN",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "022272",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "685"
+  },
+  {
+   "drug_name": "PALYNZIQ",
+   "active_ingredient": "PEGVALIASE-PQPZ",
+   "application_number": "761079",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "02/27/2026",
+   "database_updated": "03/06/2026",
+   "drug_name_id": "2342"
+  },
+  {
+   "drug_name": "PARNATE",
+   "active_ingredient": "TRANYLCYPROMINE SULFATE",
+   "application_number": "012342",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/04/2018",
+   "database_updated": "01/11/2018",
+   "drug_name_id": "1419"
+  },
+  {
+   "drug_name": "PAXIL",
+   "active_ingredient": "PAROXETINE HYDROCHLORIDE",
+   "application_number": "020031",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2026",
+   "database_updated": "10/02/2026",
+   "drug_name_id": "709"
+  },
+  {
+   "drug_name": "PAXIL",
+   "active_ingredient": "PAROXETINE HYDROCHLORIDE",
+   "application_number": "020710",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2026",
+   "database_updated": "10/02/2026",
+   "drug_name_id": "710"
+  },
+  {
+   "drug_name": "PAXIL CR",
+   "active_ingredient": "PAROXETINE HYDROCHLORIDE",
+   "application_number": "020936",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2026",
+   "database_updated": "10/02/2026",
+   "drug_name_id": "711"
+  },
+  {
+   "drug_name": "PEGASYS",
+   "active_ingredient": "PEGINTERFERON ALFA-2A",
+   "application_number": "103964",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/11/2023",
+   "database_updated": "12/13/2023",
+   "drug_name_id": "1303"
+  },
+  {
+   "drug_name": "PENNSAID",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "204623",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/26/2024",
+   "drug_name_id": "196"
+  },
+  {
+   "drug_name": "PENNSAID",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "020947",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "202"
+  },
+  {
+   "drug_name": "PERCODAN",
+   "active_ingredient": "ASPIRIN; OXYCODONE HYDROCHLORIDE",
+   "application_number": "007337",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "668"
+  },
+  {
+   "drug_name": "PEXEVA",
+   "active_ingredient": "PAROXETINE MESYLATE",
+   "application_number": "021299",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/22/2023",
+   "drug_name_id": "707"
+  },
+  {
+   "drug_name": "PHENERGAN VC W/ CODEINE",
+   "active_ingredient": "CODEINE PHOSPHATE; PHENYLEPHRINE HYDROCHLORIDE; PROMETHAZINE HYDROCHLORIDE",
+   "application_number": "008306",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "783"
+  },
+  {
+   "drug_name": "PHENERGAN W/ CODEINE",
+   "active_ingredient": "CODEINE PHOSPHATE; PROMETHAZINE HYDROCHLORIDE",
+   "application_number": "008306",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "784"
+  },
+  {
+   "drug_name": "PLAVIX",
+   "active_ingredient": "CLOPIDOGREL BISULFATE",
+   "application_number": "020839",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/16/2022",
+   "database_updated": "09/21/2022",
+   "drug_name_id": "432"
+  },
+  {
+   "drug_name": "PONSTEL",
+   "active_ingredient": "MEFENAMIC ACID",
+   "application_number": "015034",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/31/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "195"
+  },
+  {
+   "drug_name": "POTIGA",
+   "active_ingredient": "EZOGABINE",
+   "application_number": "022345",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/20/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "203"
+  },
+  {
+   "drug_name": "PRANDIMET",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; REPAGLINIDE",
+   "application_number": "022386",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/08/2017",
+   "database_updated": "12/13/2017",
+   "drug_name_id": "950"
+  },
+  {
+   "drug_name": "PROGRAF",
+   "active_ingredient": "TACROLIMUS",
+   "application_number": "050708",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/14/2023",
+   "database_updated": "09/18/2023",
+   "drug_name_id": "1589"
+  },
+  {
+   "drug_name": "PROGRAF",
+   "active_ingredient": "TACROLIMUS",
+   "application_number": "050709",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/22/2022",
+   "database_updated": "11/29/2022",
+   "drug_name_id": "1596"
+  },
+  {
+   "drug_name": "PROHANCE",
+   "active_ingredient": "GADOTERIDOL",
+   "application_number": "020131",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/05/2025",
+   "database_updated": "03/11/2025",
+   "drug_name_id": "1568"
+  },
+  {
+   "drug_name": "PROHANCE MULTIPACK",
+   "active_ingredient": "GADOTERIDOL",
+   "application_number": "021489",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/05/2025",
+   "database_updated": "03/11/2025",
+   "drug_name_id": "1579"
+  },
+  {
+   "drug_name": "PROLIA",
+   "active_ingredient": "DENOSUMAB",
+   "application_number": "125320",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "06/23/2026",
+   "database_updated": "06/29/2026",
+   "drug_name_id": "281"
+  },
+  {
+   "drug_name": "PROMACTA",
+   "active_ingredient": "ELTROMBOPAG OLAMINE",
+   "application_number": "022291",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/06/2025",
+   "database_updated": "06/10/2025",
+   "drug_name_id": "476"
+  },
+  {
+   "drug_name": "PROMACTA",
+   "active_ingredient": "ELTROMBOPAG OLAMINE",
+   "application_number": "207027",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/24/2018",
+   "database_updated": "08/06/2018",
+   "drug_name_id": "477"
+  },
+  {
+   "drug_name": "PROPYLTHIOURACIL",
+   "active_ingredient": "PROPYLTHIOURACIL",
+   "application_number": "006188",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/19/2018",
+   "database_updated": "09/21/2018",
+   "drug_name_id": "7"
+  },
+  {
+   "drug_name": "PROVAYBLUE",
+   "active_ingredient": "METHYLENE BLUE",
+   "application_number": "204630",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/08/2024",
+   "database_updated": "01/10/2024",
+   "drug_name_id": "2486"
+  },
+  {
+   "drug_name": "PROVOCHOLINE",
+   "active_ingredient": "METHACHOLINE CHLORIDE",
+   "application_number": "019193",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/06/2026",
+   "database_updated": "07/07/2026",
+   "drug_name_id": "2108"
+  },
+  {
+   "drug_name": "PYRIDOSTIGMINE BROMIDE",
+   "active_ingredient": "PYRIDOSTIGMINE BROMIDE",
+   "application_number": "020414",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/26/2025",
+   "database_updated": "09/29/2025",
+   "drug_name_id": "3194"
+  },
+  {
+   "drug_name": "QUILLICHEW ER",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "207960",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "695"
+  },
+  {
+   "drug_name": "QUILLIVANT XR",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "202100",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "694"
+  },
+  {
+   "drug_name": "RASUVO",
+   "active_ingredient": "METHOTREXATE",
+   "application_number": "205776",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/11/2020",
+   "database_updated": "03/13/2020",
+   "drug_name_id": "1478"
+  },
+  {
+   "drug_name": "RAXIBACUMAB",
+   "active_ingredient": "RAXIBACUMAB",
+   "application_number": "125349",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "06/02/2021",
+   "database_updated": "06/03/2021",
+   "drug_name_id": "1422"
+  },
+  {
+   "drug_name": "REGLAN",
+   "active_ingredient": "METOCLOPRAMIDE HYDROCHLORIDE",
+   "application_number": "017854",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/09/2026",
+   "database_updated": "02/11/2026",
+   "drug_name_id": "1246"
+  },
+  {
+   "drug_name": "REGLAN",
+   "active_ingredient": "METOCLOPRAMIDE HYDROCHLORIDE",
+   "application_number": "017862",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/09/2026",
+   "database_updated": "02/11/2026",
+   "drug_name_id": "3249"
+  },
+  {
+   "drug_name": "RELEXXII",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "216117",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2865"
+  },
+  {
+   "drug_name": "RESTORIL",
+   "active_ingredient": "TEMAZEPAM",
+   "application_number": "018163",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/23/2023",
+   "drug_name_id": "604"
+  },
+  {
+   "drug_name": "RETACRIT",
+   "active_ingredient": "EPOETIN ALFA-EPBX",
+   "application_number": "125545",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "06/04/2024",
+   "database_updated": "06/06/2024",
+   "drug_name_id": "1849"
+  },
+  {
+   "drug_name": "RETROVIR",
+   "active_ingredient": "ZIDOVUDINE",
+   "application_number": "019655",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/10/2018",
+   "database_updated": "09/12/2018",
+   "drug_name_id": "872"
+  },
+  {
+   "drug_name": "RETROVIR",
+   "active_ingredient": "ZIDOVUDINE",
+   "application_number": "019910",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/10/2018",
+   "database_updated": "09/12/2018",
+   "drug_name_id": "873"
+  },
+  {
+   "drug_name": "RETROVIR",
+   "active_ingredient": "ZIDOVUDINE",
+   "application_number": "019951",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/10/2018",
+   "database_updated": "09/12/2018",
+   "drug_name_id": "874"
+  },
+  {
+   "drug_name": "REZIRA",
+   "active_ingredient": "HYDROCODONE BITARTRATE; PSEUDOEPHEDRINE HYDROCHLORIDE",
+   "application_number": "022442",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/28/2018",
+   "database_updated": "07/09/2018",
+   "drug_name_id": "788"
+  },
+  {
+   "drug_name": "RINVOQ",
+   "active_ingredient": "UPADACITINIB",
+   "application_number": "211675",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/30/2026",
+   "database_updated": "07/09/2026",
+   "drug_name_id": "2285"
+  },
+  {
+   "drug_name": "RIOMET ER",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE",
+   "application_number": "212595",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "3316"
+  },
+  {
+   "drug_name": "RITALIN",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "010187",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/13/2023",
+   "database_updated": "10/17/2023",
+   "drug_name_id": "700"
+  },
+  {
+   "drug_name": "RITALIN LA",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "021284",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "701"
+  },
+  {
+   "drug_name": "RITALIN-SR",
+   "active_ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+   "application_number": "018029",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/19/2019",
+   "database_updated": "11/21/2019",
+   "drug_name_id": "702"
+  },
+  {
+   "drug_name": "RITUXAN",
+   "active_ingredient": "RITUXIMAB",
+   "application_number": "103705",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/02/2021",
+   "database_updated": "12/07/2021",
+   "drug_name_id": "1511"
+  },
+  {
+   "drug_name": "ROXICODONE",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "021011",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "655"
+  },
+  {
+   "drug_name": "ROXYBOND",
+   "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+   "application_number": "209777",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "1684"
+  },
+  {
+   "drug_name": "RUBY-FILL",
+   "active_ingredient": "RUBIDIUM CHLORIDE RB-82",
+   "application_number": "202153",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/26/2019",
+   "database_updated": "04/30/2019",
+   "drug_name_id": "1929"
+  },
+  {
+   "drug_name": "SABRIL",
+   "active_ingredient": "VIGABATRIN",
+   "application_number": "020427",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/24/2020",
+   "database_updated": "02/06/2020",
+   "drug_name_id": "61"
+  },
+  {
+   "drug_name": "SABRIL",
+   "active_ingredient": "VIGABATRIN",
+   "application_number": "022006",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/24/2020",
+   "database_updated": "02/07/2020",
+   "drug_name_id": "62"
+  },
+  {
+   "drug_name": "SAMSCA",
+   "active_ingredient": "TOLVAPTAN",
+   "application_number": "022275",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/22/2021",
+   "database_updated": "04/26/2021",
+   "drug_name_id": "1097"
+  },
+  {
+   "drug_name": "SANDIMMUNE",
+   "active_ingredient": "CYCLOSPORINE",
+   "application_number": "050573",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/06/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "2856"
+  },
+  {
+   "drug_name": "SANDIMMUNE",
+   "active_ingredient": "CYCLOSPORINE",
+   "application_number": "050574",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/06/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "2857"
+  },
+  {
+   "drug_name": "SANDIMMUNE",
+   "active_ingredient": "CYCLOSPORINE",
+   "application_number": "050625",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/06/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "2858"
+  },
+  {
+   "drug_name": "SAXENDA",
+   "active_ingredient": "LIRAGLUTIDE RECOMBINANT",
+   "application_number": "206321",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/25/2026",
+   "database_updated": "03/02/2026",
+   "drug_name_id": "438"
+  },
+  {
+   "drug_name": "SEASONALE",
+   "active_ingredient": "ETHINYL ESTRADIOL; LEVONORGESTREL",
+   "application_number": "021544",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/27/2023",
+   "database_updated": "01/31/2023",
+   "drug_name_id": "933"
+  },
+  {
+   "drug_name": "SEGLENTIS",
+   "active_ingredient": "CELECOXIB; TRAMADOL HYDROCHLORIDE",
+   "application_number": "213426",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "2894"
+  },
+  {
+   "drug_name": "SEGLUROMET",
+   "active_ingredient": "ERTUGLIFLOZIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "209806",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "1737"
+  },
+  {
+   "drug_name": "SEIZALAM",
+   "active_ingredient": "MIDAZOLAM HYDROCHLORIDE",
+   "application_number": "209566",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "2400"
+  },
+  {
+   "drug_name": "SEREVENT",
+   "active_ingredient": "SALMETEROL XINAFOATE",
+   "application_number": "020692",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/22/2019",
+   "database_updated": "07/24/2019",
+   "drug_name_id": "452"
+  },
+  {
+   "drug_name": "SINEQUAN",
+   "active_ingredient": "DOXEPIN HYDROCHLORIDE",
+   "application_number": "016798",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/03/2025",
+   "database_updated": "07/09/2025",
+   "drug_name_id": "3150"
+  },
+  {
+   "drug_name": "SINEQUAN",
+   "active_ingredient": "DOXEPIN HYDROCHLORIDE",
+   "application_number": "017516",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/03/2025",
+   "database_updated": "07/09/2025",
+   "drug_name_id": "3151"
+  },
+  {
+   "drug_name": "SINGULAIR",
+   "active_ingredient": "MONTELUKAST SODIUM",
+   "application_number": "020829",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/22/2021",
+   "database_updated": "02/26/2021",
+   "drug_name_id": "623"
+  },
+  {
+   "drug_name": "SINGULAIR",
+   "active_ingredient": "MONTELUKAST SODIUM",
+   "application_number": "020830",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/22/2021",
+   "database_updated": "02/26/2021",
+   "drug_name_id": "625"
+  },
+  {
+   "drug_name": "SINGULAIR",
+   "active_ingredient": "MONTELUKAST SODIUM",
+   "application_number": "021409",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/22/2021",
+   "database_updated": "02/26/2021",
+   "drug_name_id": "626"
+  },
+  {
+   "drug_name": "SOLARAZE",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "021005",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "205"
+  },
+  {
+   "drug_name": "SOLIRIS",
+   "active_ingredient": "ECULIZUMAB",
+   "application_number": "125166",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "02/28/2025",
+   "database_updated": "03/03/2025",
+   "drug_name_id": "795"
+  },
+  {
+   "drug_name": "SOLTAMOX",
+   "active_ingredient": "TAMOXIFEN CITRATE",
+   "application_number": "021807",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/25/2018",
+   "database_updated": "10/04/2018",
+   "drug_name_id": "1686"
+  },
+  {
+   "drug_name": "SONATA",
+   "active_ingredient": "ZALEPLON",
+   "application_number": "020859",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1865"
+  },
+  {
+   "drug_name": "SOTALOL HYDROCHLORIDE",
+   "active_ingredient": "SOTALOL HYDROCHLORIDE",
+   "application_number": "022306",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/23/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2211"
+  },
+  {
+   "drug_name": "SOVALDI",
+   "active_ingredient": "SOFOSBUVIR",
+   "application_number": "204671",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/23/2024",
+   "database_updated": "12/27/2024",
+   "drug_name_id": "845"
+  },
+  {
+   "drug_name": "SPINRAZA",
+   "active_ingredient": "NUSINERSEN SODIUM",
+   "application_number": "209531",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/27/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "1373"
+  },
+  {
+   "drug_name": "SPORANOX",
+   "active_ingredient": "ITRACONAZOLE",
+   "application_number": "020083",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/07/2026",
+   "database_updated": "07/16/2026",
+   "drug_name_id": "914"
+  },
+  {
+   "drug_name": "SPORANOX",
+   "active_ingredient": "ITRACONAZOLE",
+   "application_number": "020657",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/07/2026",
+   "database_updated": "07/16/2026",
+   "drug_name_id": "915"
+  },
+  {
+   "drug_name": "SPRAVATO",
+   "active_ingredient": "ESKETAMINE",
+   "application_number": "211243",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/28/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "1944"
+  },
+  {
+   "drug_name": "SPRIX",
+   "active_ingredient": "KETOROLAC TROMETHAMINE",
+   "application_number": "022382",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/26/2024",
+   "drug_name_id": "206"
+  },
+  {
+   "drug_name": "STRATTERA",
+   "active_ingredient": "ATOMOXETINE HYDROCHLORIDE",
+   "application_number": "021411",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/29/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "1079"
+  },
+  {
+   "drug_name": "STRENSIQ",
+   "active_ingredient": "ASFOTASE ALFA",
+   "application_number": "125513",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "07/10/2024",
+   "database_updated": "07/15/2024",
+   "drug_name_id": "479"
+  },
+  {
+   "drug_name": "SUBLIMAZE PRESERVATIVE FREE",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "016619",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/08/2026",
+   "drug_name_id": "762"
+  },
+  {
+   "drug_name": "SUBSYS",
+   "active_ingredient": "FENTANYL",
+   "application_number": "202788",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/10/2021",
+   "drug_name_id": "731"
+  },
+  {
+   "drug_name": "SUBVENITE",
+   "active_ingredient": "LAMOTRIGINE",
+   "application_number": "218879",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/17/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "3306"
+  },
+  {
+   "drug_name": "SUFENTA PRESERVATIVE FREE",
+   "active_ingredient": "SUFENTANIL CITRATE",
+   "application_number": "019050",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "739"
+  },
+  {
+   "drug_name": "SYMPAZAN",
+   "active_ingredient": "CLOBAZAM",
+   "application_number": "210833",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/12/2024",
+   "database_updated": "03/14/2024",
+   "drug_name_id": "2402"
+  },
+  {
+   "drug_name": "SYNALGOS-DC",
+   "active_ingredient": "ASPIRIN; CAFFEINE; DIHYDROCODEINE BITARTRATE",
+   "application_number": "011483",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "669"
+  },
+  {
+   "drug_name": "SYNJARDY",
+   "active_ingredient": "EMPAGLIFLOZIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "206111",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "342"
+  },
+  {
+   "drug_name": "SYNJARDY XR",
+   "active_ingredient": "EMPAGLIFLOZIN;METFORMIN HYDROCHLORIDE",
+   "application_number": "208658",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "646"
+  },
+  {
+   "drug_name": "TALWIN",
+   "active_ingredient": "PENTAZOCINE LACTATE",
+   "application_number": "016194",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/08/2019",
+   "drug_name_id": "664"
+  },
+  {
+   "drug_name": "TARGINIQ",
+   "active_ingredient": "NALOXONE HYDROCHLORIDE; OXYCODONE HYDROCHLORIDE",
+   "application_number": "205777",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/18/2018",
+   "database_updated": "09/28/2018",
+   "drug_name_id": "721"
+  },
+  {
+   "drug_name": "TAXOTERE",
+   "active_ingredient": "DOCETAXEL",
+   "application_number": "020449",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/18/2023",
+   "database_updated": "01/25/2023",
+   "drug_name_id": "1698"
+  },
+  {
+   "drug_name": "TECENTRIQ HYBREZA",
+   "active_ingredient": "ATEZOLIZUMAB AND HYALURONIDASE-TQJS",
+   "application_number": "761347",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "05/12/2026",
+   "database_updated": "05/18/2026",
+   "drug_name_id": "3174"
+  },
+  {
+   "drug_name": "TECHNIVIE",
+   "active_ingredient": "OMBITASVIR; PARITAPREVIR; RITONAVIR",
+   "application_number": "207931",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/06/2019",
+   "database_updated": "12/09/2019",
+   "drug_name_id": "20"
+  },
+  {
+   "drug_name": "TECVAYLI",
+   "active_ingredient": "TECLISTAMAB-CQYV",
+   "application_number": "761291",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "03/05/2026",
+   "database_updated": "03/12/2026",
+   "drug_name_id": "2827"
+  },
+  {
+   "drug_name": "THALOMID",
+   "active_ingredient": "THALIDOMIDE",
+   "application_number": "020785",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/02/2026",
+   "database_updated": "09/09/2026",
+   "drug_name_id": "813"
+  },
+  {
+   "drug_name": "THYRO-TABS",
+   "active_ingredient": "LEVOTHYROXINE SODIUM",
+   "application_number": "021116",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/16/2023",
+   "database_updated": "11/20/2023",
+   "drug_name_id": "1323"
+  },
+  {
+   "drug_name": "TINDAMAX",
+   "active_ingredient": "TINIDAZOLE",
+   "application_number": "021618",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/15/2021",
+   "database_updated": "12/17/2021",
+   "drug_name_id": "1969"
+  },
+  {
+   "drug_name": "TIVDAK",
+   "active_ingredient": "TISOTUMAB VEDOTIN-TFTV",
+   "application_number": "761208",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "11/12/2025",
+   "database_updated": "11/14/2025",
+   "drug_name_id": "2822"
+  },
+  {
+   "drug_name": "TIVORBEX",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "204768",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/07/2021",
+   "drug_name_id": "207"
+  },
+  {
+   "drug_name": "TOBRADEX",
+   "active_ingredient": "DEXAMETHASONE; TOBRAMYCIN",
+   "application_number": "050616",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/14/2021",
+   "database_updated": "05/19/2021",
+   "drug_name_id": "2243"
+  },
+  {
+   "drug_name": "TOFIDENCE",
+   "active_ingredient": "TOCILIZUMAB-BAVI",
+   "application_number": "761354",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "05/22/2026",
+   "database_updated": "06/04/2026",
+   "drug_name_id": "2994"
+  },
+  {
+   "drug_name": "TOPOTECAN HYDROCHLORIDE",
+   "active_ingredient": "TOPOTECAN HYDROCHLORIDE",
+   "application_number": "022453",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/24/2019",
+   "database_updated": "06/27/2019",
+   "drug_name_id": "8"
+  },
+  {
+   "drug_name": "TOPOTECAN HYDROCHLORIDE",
+   "active_ingredient": "TOPOTECAN HYDROCHLORIDE",
+   "application_number": "200582",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/16/2019",
+   "database_updated": "12/20/2019",
+   "drug_name_id": "373"
+  },
+  {
+   "drug_name": "TOPROL-XL",
+   "active_ingredient": "METOPROLOL SUCCINATE",
+   "application_number": "019962",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/10/2023",
+   "database_updated": "03/14/2023",
+   "drug_name_id": "2576"
+  },
+  {
+   "drug_name": "TRACLEER",
+   "active_ingredient": "BOSENTAN",
+   "application_number": "021290",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/05/2025",
+   "database_updated": "11/10/2025",
+   "drug_name_id": "484"
+  },
+  {
+   "drug_name": "TRACLEER",
+   "active_ingredient": "BOSENTAN",
+   "application_number": "209279",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/05/2025",
+   "database_updated": "11/10/2025",
+   "drug_name_id": "1943"
+  },
+  {
+   "drug_name": "TRANXENE",
+   "active_ingredient": "CLORAZEPATE DIPOTASSIUM",
+   "application_number": "017105",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "605"
+  },
+  {
+   "drug_name": "TRANXENE SD",
+   "active_ingredient": "CLORAZEPATE DIPOTASSIUM",
+   "application_number": "017105",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/20/2023",
+   "drug_name_id": "613"
+  },
+  {
+   "drug_name": "TREXIMET",
+   "active_ingredient": "NAPROXEN SODIUM; SUMATRIPTAN SUCCINATE",
+   "application_number": "021926",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "208"
+  },
+  {
+   "drug_name": "TRIJARDY XR",
+   "active_ingredient": "EMPAGLIFLOZIN; LINAGLIPTIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "212614",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "2352"
+  },
+  {
+   "drug_name": "TRIKAFTA (COPACKAGED)",
+   "active_ingredient": "ELEXACAFTOR, IVACAFTOR, TEZACAFTOR; IVACAFTOR",
+   "application_number": "212273",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/27/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "2358"
+  },
+  {
+   "drug_name": "TRINTELLIX",
+   "active_ingredient": "VORTIOXETINE HYDROBROMIDE",
+   "application_number": "204447",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/23/2023",
+   "database_updated": "08/28/2023",
+   "drug_name_id": "381"
+  },
+  {
+   "drug_name": "TRISENOX",
+   "active_ingredient": "ARSENIC TRIOXIDE",
+   "application_number": "021248",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/20/2020",
+   "database_updated": "10/21/2020",
+   "drug_name_id": "1423"
+  },
+  {
+   "drug_name": "TRIUMEQ",
+   "active_ingredient": "ABACAVIR SULFATE; DOLUTEGRAVIR SODIUM; LAMIVUDINE",
+   "application_number": "205551",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/28/2025",
+   "database_updated": "10/29/2025",
+   "drug_name_id": "167"
+  },
+  {
+   "drug_name": "TRIZIVIR",
+   "active_ingredient": "ABACAVIR SULFATE; LAMIVUDINE; ZIDOVUDINE",
+   "application_number": "021205",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/17/2021",
+   "database_updated": "02/18/2021",
+   "drug_name_id": "870"
+  },
+  {
+   "drug_name": "TROXYCA ER",
+   "active_ingredient": "NALTREXONE HYDROCHLORIDE; OXYCODONE HYDROCHLORIDE",
+   "application_number": "207621",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "01/10/2017",
+   "drug_name_id": "734"
+  },
+  {
+   "drug_name": "TRULICITY",
+   "active_ingredient": "DULAGLUTIDE",
+   "application_number": "125469",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "03/12/2026",
+   "database_updated": "03/20/2026",
+   "drug_name_id": "816"
+  },
+  {
+   "drug_name": "TRYVIO",
+   "active_ingredient": "APROCITENTAN",
+   "application_number": "217686",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/02/2025",
+   "database_updated": "05/14/2025",
+   "drug_name_id": "3105"
+  },
+  {
+   "drug_name": "TURALIO",
+   "active_ingredient": "PEXIDARTINIB HYDROCHLORIDE",
+   "application_number": "211810",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/03/2025",
+   "database_updated": "01/07/2025",
+   "drug_name_id": "2237"
+  },
+  {
+   "drug_name": "TUSSIONEX PENNKINETIC",
+   "active_ingredient": "CHLORPHENIRAMINE POLISTIREX; HYDROCODONE POLISTIREX",
+   "application_number": "019111",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/28/2018",
+   "database_updated": "07/05/2018",
+   "drug_name_id": "785"
+  },
+  {
+   "drug_name": "TUZISTRA XR",
+   "active_ingredient": "CHLORPHENIRAMINE POLISTIREX; CODEINE POLISTIREX",
+   "application_number": "207768",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "792"
+  },
+  {
+   "drug_name": "TYENNE",
+   "active_ingredient": "TOCILIZUMAB-AAZG",
+   "application_number": "761275",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "05/21/2026",
+   "database_updated": "05/21/2026",
+   "drug_name_id": "3059"
+  },
+  {
+   "drug_name": "TYMLOS",
+   "active_ingredient": "ABALOPARATIDE",
+   "application_number": "208743",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/03/2026",
+   "database_updated": "08/12/2026",
+   "drug_name_id": "2347"
+  },
+  {
+   "drug_name": "TYSABRI",
+   "active_ingredient": "NATALIZUMAB",
+   "application_number": "125104",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "03/18/2025",
+   "database_updated": "03/24/2025",
+   "drug_name_id": "237"
+  },
+  {
+   "drug_name": "TZIELD",
+   "active_ingredient": "TEPLIZUMAB-MZWV",
+   "application_number": "761183",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "04/20/2026",
+   "database_updated": "04/24/2026",
+   "drug_name_id": "3279"
+  },
+  {
+   "drug_name": "ULTIVA",
+   "active_ingredient": "REMIFENTANIL HYDROCHLORIDE",
+   "application_number": "020630",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "653"
+  },
+  {
+   "drug_name": "ULTOMIRIS",
+   "active_ingredient": "RAVULIZUMAB-CWVZ",
+   "application_number": "761108",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "09/19/2024",
+   "database_updated": "09/23/2024",
+   "drug_name_id": "2091"
+  },
+  {
+   "drug_name": "ULTRACET",
+   "active_ingredient": "ACETAMINOPHEN; TRAMADOL HYDROCHLORIDE",
+   "application_number": "021123",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/13/2023",
+   "database_updated": "02/17/2023",
+   "drug_name_id": "659"
+  },
+  {
+   "drug_name": "ULTRAM",
+   "active_ingredient": "TRAMADOL HYDROCHLORIDE",
+   "application_number": "020281",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/13/2023",
+   "database_updated": "02/17/2023",
+   "drug_name_id": "654"
+  },
+  {
+   "drug_name": "ULTRAM ER",
+   "active_ingredient": "TRAMADOL HYDROCHLORIDE",
+   "application_number": "021692",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/29/2017",
+   "database_updated": "08/31/2017",
+   "drug_name_id": "754"
+  },
+  {
+   "drug_name": "UNITHROID",
+   "active_ingredient": "LEVOTHYROXINE SODIUM",
+   "application_number": "021210",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/10/2018",
+   "database_updated": "12/19/2018",
+   "drug_name_id": "1785"
+  },
+  {
+   "drug_name": "UNITUXIN",
+   "active_ingredient": "DINUTUXIMAB",
+   "application_number": "125516",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "09/29/2020",
+   "database_updated": "10/01/2020",
+   "drug_name_id": "881"
+  },
+  {
+   "drug_name": "VAGIFEM",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "020908",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "880"
+  },
+  {
+   "drug_name": "VALCYTE",
+   "active_ingredient": "VALGANCICLOVIR HYDROCHLORIDE",
+   "application_number": "021304",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/02/2018",
+   "database_updated": "08/06/2018",
+   "drug_name_id": "1119"
+  },
+  {
+   "drug_name": "VALCYTE",
+   "active_ingredient": "VALGANCICLOVIR HYDROCHLORIDE",
+   "application_number": "022257",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/02/2018",
+   "database_updated": "08/06/2018",
+   "drug_name_id": "1120"
+  },
+  {
+   "drug_name": "VALIUM",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "013263",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/24/2026",
+   "database_updated": "09/30/2026",
+   "drug_name_id": "607"
+  },
+  {
+   "drug_name": "VALTOCO",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "211635",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/15/2025",
+   "database_updated": "05/27/2025",
+   "drug_name_id": "2403"
+  },
+  {
+   "drug_name": "VANCOMYCIN HYDROCHLORIDE",
+   "active_ingredient": "VANCOMYCIN HYDROCHLORIDE",
+   "application_number": "211962",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/27/2025",
+   "database_updated": "06/30/2025",
+   "drug_name_id": "2396"
+  },
+  {
+   "drug_name": "VENCLEXTA",
+   "active_ingredient": "VENETOCLAX",
+   "application_number": "208573",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/20/2026",
+   "database_updated": "05/21/2026",
+   "drug_name_id": "1415"
+  },
+  {
+   "drug_name": "VEOZAH",
+   "active_ingredient": "FEZOLINETANT",
+   "application_number": "216578",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/16/2024",
+   "database_updated": "12/18/2024",
+   "drug_name_id": "3021"
+  },
+  {
+   "drug_name": "VERSACLOZ",
+   "active_ingredient": "CLOZAPINE",
+   "application_number": "203479",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/13/2025",
+   "database_updated": "06/17/2025",
+   "drug_name_id": "864"
+  },
+  {
+   "drug_name": "VESANOID",
+   "active_ingredient": "TRETINOIN",
+   "application_number": "020438",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/04/2024",
+   "database_updated": "10/07/2024",
+   "drug_name_id": "2734"
+  },
+  {
+   "drug_name": "VIBATIV",
+   "active_ingredient": "TELAVANCIN HYDROCHLORIDE",
+   "application_number": "022110",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/07/2020",
+   "database_updated": "07/08/2020",
+   "drug_name_id": "2200"
+  },
+  {
+   "drug_name": "VICOPROFEN",
+   "active_ingredient": "HYDROCODONE BITARTRATE; IBUPROFEN",
+   "application_number": "020716",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "01/16/2017",
+   "drug_name_id": "790"
+  },
+  {
+   "drug_name": "VIDEX",
+   "active_ingredient": "DIDANOSINE",
+   "application_number": "020156",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/17/2018",
+   "database_updated": "12/18/2018",
+   "drug_name_id": "1433"
+  },
+  {
+   "drug_name": "VIDEX EC",
+   "active_ingredient": "DIDANOSINE",
+   "application_number": "021183",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/17/2018",
+   "database_updated": "12/18/2018",
+   "drug_name_id": "1434"
+  },
+  {
+   "drug_name": "VIEKIRA PAK (COPACKAGED)",
+   "active_ingredient": "DASABUVIR SODIUM ; OMBITASVIR; PARITAPREVIR; RITONAVIR",
+   "application_number": "206619",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/06/2019",
+   "database_updated": "12/09/2019",
+   "drug_name_id": "23"
+  },
+  {
+   "drug_name": "VIEKIRA XR",
+   "active_ingredient": "DASABUVIR SODIUM; OMBITASVIR; PARITAPREVIR; RITONAVIR",
+   "application_number": "208624",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/06/2019",
+   "database_updated": "12/09/2019",
+   "drug_name_id": "841"
+  },
+  {
+   "drug_name": "VIMIZIM",
+   "active_ingredient": "ELOSULFASE ALFA",
+   "application_number": "125460",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "10/30/2025",
+   "database_updated": "10/31/2025",
+   "drug_name_id": "2131"
+  },
+  {
+   "drug_name": "VIMOVO",
+   "active_ingredient": "ESOMEPRAZOLE MAGNESIUM; NAPROXEN",
+   "application_number": "022511",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "204"
+  },
+  {
+   "drug_name": "VIOXX",
+   "active_ingredient": "ROFECOXIB",
+   "application_number": "021042",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "209"
+  },
+  {
+   "drug_name": "VIOXX",
+   "active_ingredient": "ROFECOXIB",
+   "application_number": "021052",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "210"
+  },
+  {
+   "drug_name": "VIRAMUNE",
+   "active_ingredient": "NEVIRAPINE",
+   "application_number": "020636",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/10/2022",
+   "database_updated": "06/16/2022",
+   "drug_name_id": "938"
+  },
+  {
+   "drug_name": "VIRAMUNE",
+   "active_ingredient": "NEVIRAPINE",
+   "application_number": "020933",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/22/2024",
+   "database_updated": "07/25/2024",
+   "drug_name_id": "939"
+  },
+  {
+   "drug_name": "VIRAMUNE XR",
+   "active_ingredient": "NEVIRAPINE",
+   "application_number": "201152",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "07/22/2024",
+   "database_updated": "07/25/2024",
+   "drug_name_id": "943"
+  },
+  {
+   "drug_name": "VITUZ",
+   "active_ingredient": "CHLORPHENIRAMINE MALEATE; HYDROCODONE BITARTRATE",
+   "application_number": "204307",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/28/2018",
+   "database_updated": "07/09/2018",
+   "drug_name_id": "789"
+  },
+  {
+   "drug_name": "VIVELLE-DOT",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "020538",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "1352"
+  },
+  {
+   "drug_name": "VOLTAREN",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "019201",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/05/2021",
+   "drug_name_id": "211"
+  },
+  {
+   "drug_name": "VOLTAREN",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "022122",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/09/2016",
+   "database_updated": "08/08/2016",
+   "drug_name_id": "212"
+  },
+  {
+   "drug_name": "VOLTAREN-XR",
+   "active_ingredient": "DICLOFENAC SODIUM",
+   "application_number": "020254",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/05/2021",
+   "drug_name_id": "213"
+  },
+  {
+   "drug_name": "VPRIV",
+   "active_ingredient": "VELAGLUCERASE ALFA",
+   "application_number": "022575",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "07/10/2024",
+   "database_updated": "07/15/2024",
+   "drug_name_id": "2001"
+  },
+  {
+   "drug_name": "VYVANSE",
+   "active_ingredient": "LISDEXAMFETAMINE DIMESYLATE",
+   "application_number": "021977",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/23/2026",
+   "database_updated": "04/24/2026",
+   "drug_name_id": "472"
+  },
+  {
+   "drug_name": "VYVANSE",
+   "active_ingredient": "LISDEXAMFETAMINE DIMESYLATE",
+   "application_number": "208510",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "04/23/2026",
+   "database_updated": "04/24/2026",
+   "drug_name_id": "1087"
+  },
+  {
+   "drug_name": "XANAX",
+   "active_ingredient": "ALPRAZOLAM",
+   "application_number": "018276",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/23/2023",
+   "drug_name_id": "609"
+  },
+  {
+   "drug_name": "XANAX XR",
+   "active_ingredient": "ALPRAZOLAM",
+   "application_number": "021434",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/23/2023",
+   "drug_name_id": "610"
+  },
+  {
+   "drug_name": "XARELTO",
+   "active_ingredient": "RIVAROXABAN",
+   "application_number": "022406",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/24/2026",
+   "database_updated": "03/27/2026",
+   "drug_name_id": "287"
+  },
+  {
+   "drug_name": "XARTEMIS XR",
+   "active_ingredient": "ACETAMINOPHEN; OXYCODONE HYDROCHLORIDE",
+   "application_number": "204031",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/18/2018",
+   "database_updated": "09/28/2018",
+   "drug_name_id": "725"
+  },
+  {
+   "drug_name": "XATMEP",
+   "active_ingredient": "METHOTREXATE SODIUM",
+   "application_number": "208400",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/27/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "1475"
+  },
+  {
+   "drug_name": "XELJANZ",
+   "active_ingredient": "TOFACITINIB CITRATE",
+   "application_number": "203214",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/16/2026",
+   "database_updated": "09/23/2026",
+   "drug_name_id": "1236"
+  },
+  {
+   "drug_name": "XELJANZ",
+   "active_ingredient": "TOFACITINIB CITRATE",
+   "application_number": "213082",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/16/2026",
+   "database_updated": "09/23/2026",
+   "drug_name_id": "2562"
+  },
+  {
+   "drug_name": "XELJANZ XR",
+   "active_ingredient": "TOFACITINIB CITRATE",
+   "application_number": "208246",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/16/2026",
+   "database_updated": "09/23/2026",
+   "drug_name_id": "1237"
+  },
+  {
+   "drug_name": "XELODA",
+   "active_ingredient": "CAPECITABINE",
+   "application_number": "020896",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "10/03/2025",
+   "database_updated": "10/07/2025",
+   "drug_name_id": "614"
+  },
+  {
+   "drug_name": "XELSTRYM",
+   "active_ingredient": "DEXTROAMPHETAMINE",
+   "application_number": "215401",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2654"
+  },
+  {
+   "drug_name": "XENPOZYME",
+   "active_ingredient": "OLIPUDASE ALFA-RPCP",
+   "application_number": "761261",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/05/2023",
+   "database_updated": "12/07/2023",
+   "drug_name_id": "2889"
+  },
+  {
+   "drug_name": "XIGDUO XR",
+   "active_ingredient": "DAPAGLIFLOZIN PROPANEDIOL; METFORMIN HYDROCHLORIDE",
+   "application_number": "205649",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "64"
+  },
+  {
+   "drug_name": "XOLAIR",
+   "active_ingredient": "OMALIZUMAB",
+   "application_number": "103976",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "08/06/2026",
+   "database_updated": "08/12/2026",
+   "drug_name_id": "338"
+  },
+  {
+   "drug_name": "XOSPATA",
+   "active_ingredient": "GILTERITINIB FUMARATE",
+   "application_number": "211349",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/12/2022",
+   "database_updated": "01/13/2022",
+   "drug_name_id": "1959"
+  },
+  {
+   "drug_name": "XTAMPZA ER",
+   "active_ingredient": "OXYCODONE",
+   "application_number": "208090",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "735"
+  },
+  {
+   "drug_name": "XTRELUS",
+   "active_ingredient": "GUAIFENESIN; HYDROCODONE BITARTRATE",
+   "application_number": "208085",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/09/2026",
+   "drug_name_id": "2891"
+  },
+  {
+   "drug_name": "XYREM",
+   "active_ingredient": "SODIUM OXYBATE",
+   "application_number": "021196",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/11/2021",
+   "database_updated": "02/22/2021",
+   "drug_name_id": "810"
+  },
+  {
+   "drug_name": "YERVOY",
+   "active_ingredient": "IPILIMUMAB",
+   "application_number": "125377",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "08/31/2026",
+   "database_updated": "09/09/2026",
+   "drug_name_id": "882"
+  },
+  {
+   "drug_name": "ZALTRAP",
+   "active_ingredient": "ZIV-AFLIBERCEPT",
+   "application_number": "125418",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "12/13/2023",
+   "database_updated": "12/20/2023",
+   "drug_name_id": "101"
+  },
+  {
+   "drug_name": "ZEPATIER",
+   "active_ingredient": "ELBASVIR; GRAZOPREVIR",
+   "application_number": "208261",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/09/2021",
+   "database_updated": "12/13/2021",
+   "drug_name_id": "764"
+  },
+  {
+   "drug_name": "ZERIT",
+   "active_ingredient": "STAVUDINE",
+   "application_number": "020412",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/17/2018",
+   "database_updated": "12/18/2018",
+   "drug_name_id": "1413"
+  },
+  {
+   "drug_name": "ZERIT",
+   "active_ingredient": "STAVUDINE",
+   "application_number": "020413",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "12/17/2018",
+   "database_updated": "12/18/2018",
+   "drug_name_id": "1414"
+  },
+  {
+   "drug_name": "ZIAGEN",
+   "active_ingredient": "ABACAVIR SULFATE",
+   "application_number": "020977",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/24/2020",
+   "database_updated": "11/25/2020",
+   "drug_name_id": "906"
+  },
+  {
+   "drug_name": "ZIAGEN",
+   "active_ingredient": "ABACAVIR SULFATE",
+   "application_number": "020978",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/24/2020",
+   "database_updated": "11/25/2020",
+   "drug_name_id": "907"
+  },
+  {
+   "drug_name": "ZILBRYSQ",
+   "active_ingredient": "ZILUCOPLAN SODIUM",
+   "application_number": "216834",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "01/22/2026",
+   "database_updated": "01/28/2026",
+   "drug_name_id": "2949"
+  },
+  {
+   "drug_name": "ZINBRYTA",
+   "active_ingredient": "DACLIZUMAB",
+   "application_number": "761029",
+   "application_type": "BLA",
+   "latest_supplement_date_any_section": "08/28/2017",
+   "database_updated": "09/01/2017",
+   "drug_name_id": "1086"
+  },
+  {
+   "drug_name": "ZIPSOR",
+   "active_ingredient": "DICLOFENAC POTASSIUM",
+   "application_number": "022202",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "214"
+  },
+  {
+   "drug_name": "ZITUVIMET",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN",
+   "application_number": "216743",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "3317"
+  },
+  {
+   "drug_name": "ZITUVIMET XR",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN",
+   "application_number": "216778",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "3318"
+  },
+  {
+   "drug_name": "ZOHYDRO ER",
+   "active_ingredient": "HYDROCODONE BITARTRATE",
+   "application_number": "202880",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/10/2021",
+   "drug_name_id": "758"
+  },
+  {
+   "drug_name": "ZOLOFT",
+   "active_ingredient": "SERTRALINE HYDROCHLORIDE",
+   "application_number": "019839",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/22/2023",
+   "drug_name_id": "640"
+  },
+  {
+   "drug_name": "ZOLOFT",
+   "active_ingredient": "SERTRALINE HYDROCHLORIDE",
+   "application_number": "020990",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/22/2023",
+   "drug_name_id": "641"
+  },
+  {
+   "drug_name": "ZOLPIMIST",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "022196",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1868"
+  },
+  {
+   "drug_name": "ZORVOLEX",
+   "active_ingredient": "DICLOFENAC",
+   "application_number": "204592",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/26/2024",
+   "drug_name_id": "215"
+  },
+  {
+   "drug_name": "ZUTRIPRO",
+   "active_ingredient": "CHLORPHENIRAMINE MALEATE; HYDROCODONE BITARTRATE; PSEUDOEPHEDRINE HYDROCHLORIDE",
+   "application_number": "022439",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "06/28/2018",
+   "database_updated": "07/09/2018",
+   "drug_name_id": "787"
+  },
+  {
+   "drug_name": "ZYDELIG",
+   "active_ingredient": "IDELALISIB",
+   "application_number": "205858",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "02/18/2022",
+   "database_updated": "02/23/2022",
+   "drug_name_id": "437"
+  },
+  {
+   "drug_name": "ZYPREXA RELPREVV",
+   "active_ingredient": "OLANZAPINE PAMOATE",
+   "application_number": "022173",
+   "application_type": "NDA",
+   "latest_supplement_date_any_section": "05/07/2026",
+   "database_updated": "05/19/2026",
+   "drug_name_id": "465"
+  }
+ ]
+}

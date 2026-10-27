@@ -1,0 +1,146 @@
+{
+ "application": "NDA212436",
+ "srlc_rows": [
+  {
+   "drug_name": "IBRANCE",
+   "active_ingredient": "PALBOCICLIB",
+   "application_number": "212436",
+   "application_type": "NDA",
+   "supplement_date": "06/24/2026",
+   "database_updated": "06/30/2026",
+   "drug_name_id": "2845"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-24",
+ "srlc_database_updated": "2026-06-30",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "89a142d5-7e61-48bf-9e77-e2cd124c4792",
+   "title": "IBRANCE (PALBOCICLIB) TABLET, FILM COATED [U.S. PHARMACEUTICALS]",
+   "published_date": "Jul 09, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-03-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-04-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-01-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-09-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-03-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-04-28"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-06-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-07-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-07-09"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "fecbdd7d-b729-41b5-9872-231b8fe104ce",
+   "title": "IBRANCE (PALBOCICLIB) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jul 06, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-03-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-12-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-12-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-09-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-09-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-03-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-01-01"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-05-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-03-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-07-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-07-06"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:06:24Z"
+}

@@ -1,0 +1,21 @@
+{
+ "application": "NDA206769",
+ "srlc_rows": [
+  {
+   "drug_name": "ARGATROBAN IN 0.9% SODIUM CHLORIDE",
+   "active_ingredient": "",
+   "application_number": "206769",
+   "application_type": "NDA",
+   "supplement_date": "06/26/2026",
+   "database_updated": "07/07/2026",
+   "drug_name_id": "1239"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-26",
+ "srlc_database_updated": "2026-07-07",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:02:17Z"
+}

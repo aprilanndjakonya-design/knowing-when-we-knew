@@ -1,0 +1,187 @@
+{
+ "application": "NDA019908",
+ "srlc_rows": [
+  {
+   "drug_name": "AMBIEN",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "019908",
+   "application_type": "NDA",
+   "supplement_date": "08/18/2019",
+   "supplement": "SUPPL-46",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "08/18/2019",
+     "suppl": "SUPPL-46",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/23/2022",
+   "database_updated": "02/25/2022",
+   "drug_name_id": "264"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-08-18",
+ "srlc_database_updated": "2022-02-25",
+ "lag_days_srlc_database": 922,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "c36cadf4-65a4-4466-b409-c82020b42452",
+   "title": "AMBIEN (ZOLPIDEM TARTRATE) TABLET, FILM COATED [SANOFI-AVENTIS U.S. LLC]",
+   "published_date": "Apr 18, 2025",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-10-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-09-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-10-14"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-03-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-06-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-05-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-07-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-10-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-08-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-12-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-03-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-09-26"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-12-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-02-14"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-09-03"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-09-03"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-03-15"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-08-21"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-04-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2019-09-03"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 14
+  },
+  {
+   "setid": "747949c5-2c91-4909-8a07-71b6826f8e97",
+   "title": "AMBIEN (ZOLPIDEM TARTRATE) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+   "published_date": "Feb 10, 2025",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-02-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-02-10"
+   },
+   "lag_days_dailymed": 2003,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "02b5e3bb-c976-40a3-9077-64ffe637429f",
+   "title": "AMBIEN (ZOLPIDEM TARTRATE) TABLET, FILM COATED [STAT RX USA LLC]",
+   "published_date": "Sep 20, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-09-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-01-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-09-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "9dea009e-d435-4268-ab25-cf48a6c69abb",
+   "title": "AMBIEN (ZOLPIDEM TARTRATE) TABLET, FILM COATED [REBEL DISTRIBUTORS CORP.]",
+   "published_date": "Jun 29, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-06-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T09:16:19Z"
+}

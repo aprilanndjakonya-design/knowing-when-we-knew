@@ -1,0 +1,64 @@
+{
+ "application": "BLA761331",
+ "srlc_rows": [
+  {
+   "drug_name": "WEZLANA",
+   "active_ingredient": "USTEKINUMAB-AUUB",
+   "application_number": "761331",
+   "application_type": "BLA",
+   "supplement_date": "05/12/2026",
+   "database_updated": "05/18/2026",
+   "drug_name_id": "3066"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-12",
+ "srlc_database_updated": "2026-05-18",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a6c23978-09f0-4796-88f7-d0ce7e3ed04e",
+   "title": "WEZLANA (USTEKINUMAB-AUUB) INJECTION, SOLUTION [NUVAILA LIMITED]",
+   "published_date": "Jun 09, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-01-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-04-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-01-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-02-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-06-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-05-28"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:41:07Z"
+}

@@ -1,0 +1,267 @@
+{
+ "application": "BLA103795",
+ "srlc_rows": [
+  {
+   "drug_name": "ENBREL",
+   "active_ingredient": "ETANERCEPT",
+   "application_number": "103795",
+   "application_type": "BLA",
+   "supplement_date": "10/18/2023",
+   "supplement": "SUPPL-5595",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/18/2023",
+     "suppl": "SUPPL-5595",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/30/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "540"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-18",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 842,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "a002b40c-097d-47a5-957f-7a7b1807af7f",
+   "title": "ENBREL (ETANERCEPT) KIT ENBREL (ETANERCEPT) SOLUTION [IMMUNEX CORPORATION]",
+   "published_date": "May 20, 2026",
+   "spl_version": 218,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2009-12-10"
+    },
+    {
+     "spl_version": 103,
+     "published_date": "2010-08-16"
+    },
+    {
+     "spl_version": 105,
+     "published_date": "2010-09-03"
+    },
+    {
+     "spl_version": 109,
+     "published_date": "2011-02-22"
+    },
+    {
+     "spl_version": 110,
+     "published_date": "2011-04-26"
+    },
+    {
+     "spl_version": 115,
+     "published_date": "2011-09-27"
+    },
+    {
+     "spl_version": 118,
+     "published_date": "2011-10-11"
+    },
+    {
+     "spl_version": 122,
+     "published_date": "2011-10-18"
+    },
+    {
+     "spl_version": 127,
+     "published_date": "2011-12-16"
+    },
+    {
+     "spl_version": 130,
+     "published_date": "2012-01-06"
+    },
+    {
+     "spl_version": 143,
+     "published_date": "2012-12-20"
+    },
+    {
+     "spl_version": 153,
+     "published_date": "2013-07-22"
+    },
+    {
+     "spl_version": 156,
+     "published_date": "2013-11-29"
+    },
+    {
+     "spl_version": 165,
+     "published_date": "2015-07-14"
+    },
+    {
+     "spl_version": 171,
+     "published_date": "2016-11-18"
+    },
+    {
+     "spl_version": 174,
+     "published_date": "2017-07-25"
+    },
+    {
+     "spl_version": 180,
+     "published_date": "2017-11-16"
+    },
+    {
+     "spl_version": 182,
+     "published_date": "2018-05-09"
+    },
+    {
+     "spl_version": 183,
+     "published_date": "2018-06-08"
+    },
+    {
+     "spl_version": 184,
+     "published_date": "2019-06-04"
+    },
+    {
+     "spl_version": 185,
+     "published_date": "2019-06-10"
+    },
+    {
+     "spl_version": 186,
+     "published_date": "2019-06-26"
+    },
+    {
+     "spl_version": 190,
+     "published_date": "2019-11-13"
+    },
+    {
+     "spl_version": 192,
+     "published_date": "2020-08-27"
+    },
+    {
+     "spl_version": 195,
+     "published_date": "2020-12-22"
+    },
+    {
+     "spl_version": 196,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 197,
+     "published_date": "2021-12-20"
+    },
+    {
+     "spl_version": 198,
+     "published_date": "2022-05-06"
+    },
+    {
+     "spl_version": 199,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 200,
+     "published_date": "2022-08-08"
+    },
+    {
+     "spl_version": 201,
+     "published_date": "2022-08-31"
+    },
+    {
+     "spl_version": 202,
+     "published_date": "2022-11-07"
+    },
+    {
+     "spl_version": 204,
+     "published_date": "2023-06-26"
+    },
+    {
+     "spl_version": 205,
+     "published_date": "2023-11-01"
+    },
+    {
+     "spl_version": 206,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 207,
+     "published_date": "2024-08-05"
+    },
+    {
+     "spl_version": 208,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 209,
+     "published_date": "2024-11-13"
+    },
+    {
+     "spl_version": 211,
+     "published_date": "2025-03-05"
+    },
+    {
+     "spl_version": 212,
+     "published_date": "2025-06-06"
+    },
+    {
+     "spl_version": 213,
+     "published_date": "2025-06-27"
+    },
+    {
+     "spl_version": 214,
+     "published_date": "2025-09-19"
+    },
+    {
+     "spl_version": 215,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 216,
+     "published_date": "2026-03-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 205,
+    "published_date": "2023-11-01"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 33
+  },
+  {
+   "setid": "74bead6e-b746-4134-817f-0c053ef9e451",
+   "title": "ENBREL (ETANERCEPT) SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jun 17, 2021",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2018-08-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-03-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-06-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "2dc2ed4b-f234-4ccc-bd95-0b63ac3ef421",
+   "title": "ENBREL (ETANERCEPT) SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Oct 04, 2019",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-10-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:12:13Z"
+}

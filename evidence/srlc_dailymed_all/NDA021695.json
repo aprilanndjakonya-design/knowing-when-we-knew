@@ -1,0 +1,178 @@
+{
+ "application": "NDA021695",
+ "srlc_rows": [
+  {
+   "drug_name": "ANTARA (MICRONIZED)",
+   "active_ingredient": "FENOFIBRATE",
+   "application_number": "021695",
+   "application_type": "NDA",
+   "supplement_date": "10/01/2025",
+   "database_updated": "10/03/2025",
+   "drug_name_id": "1576"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-01",
+ "srlc_database_updated": "2025-10-03",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "24790a18-0291-4b88-a724-acac43b616ce",
+   "title": "ANTARA (FENOFIBRATE) CAPSULE [LUPIN PHARMACEUTICALS, INC.]",
+   "published_date": "Nov 24, 2025",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-11-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-09-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-11-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-12-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-06-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-01-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-12-13"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-08-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-11-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2025-11-24"
+   },
+   "lag_days_dailymed": 54,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "37b25526-0bd0-4459-a4be-f3a6893506f9",
+   "title": "FENOFIBRATE CAPSULE [LUPIN PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 04, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-03-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-03-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-01-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-01-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-03-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-11-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-06-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "12ebf783-64df-4ffa-9e84-f8fdf4d245d4",
+   "title": "ANTARA (FENOFIBRATE) CAPSULE [LUPIN PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 23, 2024",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2013-11-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-09-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-08-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-08-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-03-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-11-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-04-29"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-05-03"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-03-03"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-11-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-08-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 54,
+ "fetched_utc": "2026-10-16T08:52:47Z"
+}

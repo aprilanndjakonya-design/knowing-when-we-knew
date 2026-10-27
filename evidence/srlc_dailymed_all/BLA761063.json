@@ -1,0 +1,84 @@
+{
+ "application": "BLA761063",
+ "srlc_rows": [
+  {
+   "drug_name": "EMGALITY",
+   "active_ingredient": "GALCANEZUMAB-GNLM",
+   "application_number": "761063",
+   "application_type": "BLA",
+   "supplement_date": "06/05/2026",
+   "database_updated": "06/12/2026",
+   "drug_name_id": "1966"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-05",
+ "srlc_database_updated": "2026-06-12",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "33a147be-233a-40e8-a55e-e40936e28db0",
+   "title": "EMGALITY (GALCANEZUMAB-GNLM) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+   "published_date": "Jun 18, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-11-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-01-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-06-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-06-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-12-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-12-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-12-14"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-04-03"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-06-05"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-11-26"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-06-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2026-06-18"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:39:00Z"
+}

@@ -1,0 +1,155 @@
+{
+ "checks": [
+  {
+   "application": "NDA020990",
+   "drug": "ZOLOFT",
+   "setid": "fda754f6-d0f3-4dce-a17a-927d64f912f7",
+   "supplement_date": "2016-12-23",
+   "carrier": {
+    "spl_version": 1,
+    "published_date": "2023-09-26"
+   },
+   "previous_version": null,
+   "checked_utc": "2026-10-19T09:15:59Z",
+   "carrier_spl": {
+    "spl_version": 1,
+    "effectiveTime": "20230815",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "801d329569d9bd59268ba4dd452253e296952f06f81b6ed08b8c9b40d4b470e5",
+    "bw_text_chars": 651
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 2426
+  },
+  {
+   "application": "NDA022348",
+   "drug": "CALDOLOR",
+   "setid": "1eaa7790-f1a1-4f51-b10a-cbbaf033f684",
+   "supplement_date": "2016-05-09",
+   "carrier": {
+    "spl_version": 7,
+    "published_date": "2018-11-20"
+   },
+   "previous_version": 6,
+   "checked_utc": "2026-10-19T09:16:00Z",
+   "carrier_spl": {
+    "spl_version": 7,
+    "effectiveTime": "20181119",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "80bea8c27c4e46637c7f53bcecfab0d593c348a0c28d62196a0f64c180325402",
+    "bw_text_chars": 1925
+   },
+   "previous_spl": {
+    "spl_version": 6,
+    "effectiveTime": "20160422",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "80bea8c27c4e46637c7f53bcecfab0d593c348a0c28d62196a0f64c180325402",
+    "bw_text_chars": 1925
+   },
+   "verdict": "unchanged",
+   "carrier_effective_vs_supplement": 924
+  },
+  {
+   "application": "NDA022549",
+   "drug": "ADASUVE",
+   "setid": "50e11732-7387-452d-b3e6-db3a431d5c4a",
+   "supplement_date": "2016-09-28",
+   "carrier": {
+    "spl_version": 3,
+    "published_date": "2022-05-31"
+   },
+   "previous_version": 2,
+   "checked_utc": "2026-10-19T09:16:04Z",
+   "carrier_spl": {
+    "spl_version": 3,
+    "effectiveTime": "20220307",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "04ec7195d089d928f35c831390b8e444ba13185666bb1dc6a7d9587f973eb4bd",
+    "bw_text_chars": 2730
+   },
+   "previous_spl": {
+    "spl_version": 2,
+    "effectiveTime": "20121230",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "c396fa9d819c1c754d69ea3f0bd5a81616e1509cbcea2f69899e6ed24111ec0c",
+    "bw_text_chars": 2343
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 1986
+  },
+  {
+   "application": "NDA201194",
+   "drug": "OXYCODONE HYDROCHLORIDE",
+   "setid": "6a4d8151-f28e-366b-e053-2991aa0a1359",
+   "supplement_date": "2018-09-18",
+   "carrier": {
+    "spl_version": 4,
+    "published_date": "2020-01-22"
+   },
+   "previous_version": 2,
+   "checked_utc": "2026-10-19T09:16:07Z",
+   "carrier_spl": {
+    "spl_version": 4,
+    "effectiveTime": "20200120",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "de38ae39cac2ae48eea929250f5a757682a89ff5c1fb0c7b9ef76a49cc3fc804",
+    "bw_text_chars": 3459
+   },
+   "previous_spl": {
+    "spl_version": 2,
+    "effectiveTime": "20180101",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "de38ae39cac2ae48eea929250f5a757682a89ff5c1fb0c7b9ef76a49cc3fc804",
+    "bw_text_chars": 3459
+   },
+   "verdict": "unchanged",
+   "carrier_effective_vs_supplement": 489
+  },
+  {
+   "application": "NDA208653",
+   "drug": "APADAZ",
+   "setid": "0590d4e5-7107-4015-a6a8-deac14265aa2",
+   "supplement_date": "2023-12-15",
+   "carrier": {
+    "spl_version": 5,
+    "published_date": "2025-01-08"
+   },
+   "previous_version": 2,
+   "checked_utc": "2026-10-19T09:16:09Z",
+   "carrier_spl": {
+    "spl_version": 5,
+    "effectiveTime": "20250107",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "55a69f396345d6deb844b80a9cc9a61550087038101ada0f41700e57eba262a6",
+    "bw_text_chars": 5119
+   },
+   "previous_spl": {
+    "spl_version": 2,
+    "effectiveTime": "20191008",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "738c173877c68394bf07af3099b90a2f171dc4b2f7b4ac25f08a15c574231f4a",
+    "bw_text_chars": 6435
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 389
+  }
+ ],
+ "summary": {
+  "checked": 5,
+  "verdicts": {
+   "confirmed": 3,
+   "unchanged": 2
+  },
+  "updated_utc": "2026-10-19T09:16:13Z",
+  "note": "Label text is not stored; only LOINC 34066-1 presence, a SHA-256 of the normalised section text, effectiveTime and version numbers."
+ }
+}

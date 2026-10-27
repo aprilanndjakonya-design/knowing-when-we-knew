@@ -1,0 +1,122 @@
+{
+ "application": "NDA204242",
+ "srlc_rows": [
+  {
+   "drug_name": "ZUBSOLV",
+   "active_ingredient": "BUPRENORPHINE HYDROCHLORIDE; NALOXONE HYDROCHLORIDE",
+   "application_number": "204242",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "467"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 16,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "57583c1d-9c44-4503-917d-68dba7377bd1",
+   "title": "ZUBSOLV (BUPRENORPHINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE) TABLET, ORALLY DISINTEGRATING [EDENBRIDGE PHARMACEUTICALS LLC.]",
+   "published_date": "Jun 15, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-06-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-06-15"
+   },
+   "lag_days_dailymed": 175,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "5f5cfcfe-d52b-49e6-8fe4-550477332dd2",
+   "title": "ZUBSOLV (BUPRENORPHINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE) TABLET, ORALLY DISINTEGRATING [OREXO US, INC.]",
+   "published_date": "Dec 31, 2025",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-07-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-12-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-11-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-03-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-09-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-02-09"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-02-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-10-16"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-02-18"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2021-03-16"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-12-20"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-02-13"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-05-26"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-12-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 27,
+    "published_date": "2025-12-31"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:00:34Z"
+}

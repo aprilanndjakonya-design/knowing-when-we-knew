@@ -1,0 +1,48 @@
+{
+ "application": "NDA215390",
+ "srlc_rows": [
+  {
+   "drug_name": "IGALMI",
+   "active_ingredient": "DEXMEDETOMIDINE HYDROCHLORIDE",
+   "application_number": "215390",
+   "application_type": "NDA",
+   "supplement_date": "11/19/2025",
+   "database_updated": "11/24/2025",
+   "drug_name_id": "3216"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-19",
+ "srlc_database_updated": "2025-11-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "99476e8c-2527-4cb0-9d67-9f9cd91343c6",
+   "title": "IGALMI (DEXMEDETOMIDINE) FILM [BIOXCEL THERAPEUTICS, INC.]",
+   "published_date": "Nov 26, 2025",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-11-26"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:08:21Z"
+}

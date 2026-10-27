@@ -1,0 +1,37 @@
+{
+ "application": "NDA050567",
+ "srlc_rows": [
+  {
+   "drug_name": "POLYTRIM",
+   "active_ingredient": "POLYMYXIN B SULFATE; TRIMETHOPRIM SULFATE",
+   "application_number": "050567",
+   "application_type": "NDA",
+   "supplement_date": "08/04/2025",
+   "database_updated": "08/15/2025",
+   "drug_name_id": "3172"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-04",
+ "srlc_database_updated": "2025-08-15",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1fc0731a-fb78-240f-e063-6394a90a6950",
+   "title": "POLYMYXIN B SULFATE AND TRIMETHOPRIM SULFATE (POLYMYXIN B SULFATE, TRIMETHOPRIM SULFATE) SOLUTION/ DROPS [REDPHARM DRUG]",
+   "published_date": "Aug 16, 2024",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-08-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:56:51Z"
+}

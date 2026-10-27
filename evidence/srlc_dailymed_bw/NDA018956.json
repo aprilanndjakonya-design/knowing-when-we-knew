@@ -1,0 +1,279 @@
+{
+ "application": "NDA018956",
+ "srlc_rows": [
+  {
+   "drug_name": "OMNIPAQUE 140",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "supplement_date": "10/08/2024",
+   "supplement": "SUPPL-119",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/08/2024",
+     "suppl": "SUPPL-119",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "960"
+  },
+  {
+   "drug_name": "OMNIPAQUE 180",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "supplement_date": "10/08/2024",
+   "supplement": "SUPPL-119",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/08/2024",
+     "suppl": "SUPPL-119",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "961"
+  },
+  {
+   "drug_name": "OMNIPAQUE 210",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "supplement_date": "10/08/2024",
+   "supplement": "SUPPL-119",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/08/2024",
+     "suppl": "SUPPL-119",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "962"
+  },
+  {
+   "drug_name": "OMNIPAQUE 240",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "supplement_date": "10/08/2024",
+   "supplement": "SUPPL-119",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/08/2024",
+     "suppl": "SUPPL-119",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "963"
+  },
+  {
+   "drug_name": "OMNIPAQUE 300",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "supplement_date": "10/08/2024",
+   "supplement": "SUPPL-119",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/08/2024",
+     "suppl": "SUPPL-119",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "964"
+  },
+  {
+   "drug_name": "OMNIPAQUE 70",
+   "active_ingredient": "IOHEXOL",
+   "application_number": "018956",
+   "application_type": "NDA",
+   "supplement_date": "10/08/2024",
+   "supplement": "SUPPL-119",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/08/2024",
+     "suppl": "SUPPL-119",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/08/2024",
+   "database_updated": "10/10/2024",
+   "drug_name_id": "965"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-10-08",
+ "srlc_database_updated": "2024-10-10",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "5088be1d-a708-1cac-e063-6394a90a2aff",
+   "title": "OMNIPAQUE (IOHEXOL) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Apr 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-30"
+   },
+   "lag_days_dailymed": 569,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "508c42eb-f5e5-44f1-e063-6294a90a4d1f",
+   "title": "OMNIPAQUE (IOHEXOL) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Apr 30, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-04-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-04-30"
+   },
+   "lag_days_dailymed": 569,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "eee15ebe-d349-4497-acef-6abe7a8247fb",
+   "title": "OMNIPAQUE (IOHEXOL) INJECTION, SOLUTION OMNIPAQUE (IOHEXOL) SOLUTION [GE HEALTHCARE INC.]",
+   "published_date": "Apr 21, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-08-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-03-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-03-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-06-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2009-11-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-04-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2010-10-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-05-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-06-01"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-08-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-08-12"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-03-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-05-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-10-24"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-04-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2024-10-24"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T09:15:23Z"
+}

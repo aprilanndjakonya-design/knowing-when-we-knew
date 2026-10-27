@@ -1,0 +1,139 @@
+{
+ "application": "NDA212097",
+ "srlc_rows": [
+  {
+   "drug_name": "GVOKE HYPOPEN",
+   "active_ingredient": "GLUCAGON",
+   "application_number": "212097",
+   "application_type": "NDA",
+   "supplement_date": "03/14/2025",
+   "database_updated": "03/18/2025",
+   "drug_name_id": "2511"
+  },
+  {
+   "drug_name": "GVOKE PFS",
+   "active_ingredient": "GLUCAGON",
+   "application_number": "212097",
+   "application_type": "NDA",
+   "supplement_date": "03/14/2025",
+   "database_updated": "03/18/2025",
+   "drug_name_id": "2512"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-14",
+ "srlc_database_updated": "2025-03-18",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "92385737-dbad-98c5-e053-2995a90a2805",
+   "title": "GVOKE HYPOPEN 1 MG AUTO-INJECTOR (GLUCAGON INJECTION, SOLUTION) INJECTION, SOLUTION GVOKE HYPOPEN 0.5 MG AUTO-INJECTOR (GLUCAGON INJECTION, SOLUTION) INJECTION, SOLUTION GVOKE PFS 1 MG PRE-FILLED SYRINGE (GLUCAGON INJECTION, SOLUTION) INJECTION, SOLUTION GVOKE KIT (GLUCAGON INJECTION, SOLUTION) INJECTION, SOLUTION [XERIS PHARMACEUTICALS, INC.]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-09-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-10-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-11-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-08-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-03-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-07-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-10-12"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-01-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-01-08"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-04-03"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-12-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-06-26"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2025-03-28"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "359982a8-ec5c-4927-8c0f-89771e0f942b",
+   "title": "GVOKE VIALDX (GLUCAGON INJECTION) INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+   "published_date": "Jul 09, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-08-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-07-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-08-20"
+   },
+   "lag_days_dailymed": 159,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:06:09Z"
+}

@@ -1,0 +1,68 @@
+{
+ "application": "NDA212819",
+ "srlc_rows": [
+  {
+   "drug_name": "RECARBRIO",
+   "active_ingredient": "CILASTATIN SODIUM; IMIPENEM; RELEBACTAM",
+   "application_number": "212819",
+   "application_type": "NDA",
+   "supplement_date": "12/09/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "2270"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-09",
+ "srlc_database_updated": "2025-12-22",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "be32f468-738b-40df-a425-591e12f65159",
+   "title": "RECARBRIO (IMIPENEM ANHYDROUS, CILASTATIN, AND RELEBACTAM ANHYDROUS) INJECTION, POWDER, FOR SOLUTION [MERCK SHARP & DOHME LLC]",
+   "published_date": "Dec 19, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-06-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-04-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-07-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-06-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-08-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-11-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-12-19"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:06:37Z"
+}

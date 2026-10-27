@@ -1,0 +1,48 @@
+{
+ "application": "BLA761297",
+ "srlc_rows": [
+  {
+   "drug_name": "UNLOXCYT",
+   "active_ingredient": "COSIBELIMAB-IPDL",
+   "application_number": "761297",
+   "application_type": "BLA",
+   "supplement_date": "08/31/2026",
+   "database_updated": "09/09/2026",
+   "drug_name_id": "3324"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-31",
+ "srlc_database_updated": "2026-09-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "06bdadd5-d2db-406f-a3f8-de47f48a52e3",
+   "title": "UNLOXCYT (COSIBELIMAB) INJECTION, SOLUTION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+   "published_date": "Sep 24, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-09-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-09-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-09-17"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:40:50Z"
+}

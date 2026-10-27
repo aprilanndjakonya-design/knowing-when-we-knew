@@ -1,0 +1,88 @@
+{
+ "application": "NDA022211",
+ "srlc_rows": [
+  {
+   "drug_name": "ZIRGAN",
+   "active_ingredient": "GANCICLOVIR",
+   "application_number": "022211",
+   "application_type": "NDA",
+   "supplement_date": "01/20/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "3241"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-20",
+ "srlc_database_updated": "2026-01-22",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ea25e7ac-7a93-4ec8-975b-2cec197e1c27",
+   "title": "ZIRGAN (GANCICLOVIR) GEL [BAUSCH & LOMB INCORPORATED]",
+   "published_date": "May 21, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-07-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-09-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-12-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-04-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-04-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-07-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-08-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-08-22"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-05-26"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-09-28"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-02-29"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-02-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-05-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2026-02-06"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:54:35Z"
+}

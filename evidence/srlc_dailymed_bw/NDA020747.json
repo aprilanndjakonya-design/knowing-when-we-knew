@@ -1,0 +1,111 @@
+{
+ "application": "NDA020747",
+ "srlc_rows": [
+  {
+   "drug_name": "ACTIQ",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "020747",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-62",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-43",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Medication Guide",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-44",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Medication Guide",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "03/04/2021",
+     "suppl": "SUPPL-53",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-62",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "778"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 754,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "e4ce209d-3f8c-4ac4-bec1-2525a93708bc",
+   "title": "TRANSMUCOSAL FENTANYL CITRATE (FENTANYL CITRATE) LOZENGE [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Dec 16, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-12-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "b910cff4-22a4-4b39-b872-0bd1312f4d8b",
+   "title": "FENTANYL CITRATE LOZENGE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Mar 23, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-03-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:49Z"
+}

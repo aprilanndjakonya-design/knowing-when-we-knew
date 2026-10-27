@@ -1,0 +1,950 @@
+@prefix iat:      <https://w3id.org/iat-bitemporal/ontology#> .
+@prefix iatd:     <https://w3id.org/iat-bitemporal/data/> .
+@prefix time:     <http://www.w3.org/2006/time#> .
+@prefix obo:      <http://purl.obolibrary.org/obo/> .
+@prefix biolink:  <https://w3id.org/biolink/vocab/> .
+@prefix prov:     <http://www.w3.org/ns/prov#> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:      <http://www.w3.org/2001/XMLSchema#> .
+
+#####################################################################################################
+# Bitemporal Biomedical Knowledge Ontology -- Phase 1 fragment
+# NIH "It's About Time: Temporal Reasoning in Biomedical Knowledge Graphs" Challenge
+#
+# Core idea: every fact (record) carries TWO times:
+#   * valid time        -- when the content of the record holds in the world   (iat:hasValidTime, OWL-Time interval)
+#   * availability time -- when the record became available to a reasoner      (iat:knownFrom)
+# An inference "as of T" may only use records with knownFrom <= T (no temporal leakage).
+#
+# Demonstration: glatiramer acetate (Copaxone) and the Boxed Warning on anaphylactic reactions
+# (FDA labeling supplement SUPPL-119 to NDA 020622, approved 2025-01-22).
+# All regulatory dates/identifiers below were checked against public primary sources on 2026-10-07
+# (see dcterms:source on each individual). The patient is hand-authored SYNTHETIC data (no PHI).
+#####################################################################################################
+
+<https://w3id.org/iat-bitemporal/ontology>
+    a owl:Ontology ;
+    owl:versionIRI <https://w3id.org/iat-bitemporal/ontology/0.1.1> ;
+    owl:versionInfo "0.1.1 (draft, 2026-10-11): property renamed to knownFrom; SrLC availability upper bounds from Internet Archive snapshots; authors and licence" ;
+    dcterms:creator "April Ann Djakonya" , "Denis Bardin" ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:title "Bitemporal Biomedical Knowledge Ontology (Phase 1 fragment)"@en ;
+    dcterms:description """OWL 2 DL fragment showing how a biomedical knowledge graph can represent and reason about time without temporal leakage. Each record has a valid time (OWL-Time proper interval) and an availability time (when it became known). As-of views are OWL defined classes over availability time; a decision record is constrained to use only records of its as-of view, so a reasoner reports any use of later-available knowledge as a logical inconsistency."""@en ;
+    dcterms:created "2026-10-07"^^xsd:date ;
+    dcterms:modified "2026-10-11"^^xsd:date ;
+    rdfs:comment """Reused vocabularies (referenced by IRI, axioms for the used terms replicated locally so the file is self-contained for DL reasoners): W3C OWL-Time (http://www.w3.org/2006/time, CC BY 4.0); OBO Relation Ontology / BFO / IAO terms (purl.obolibrary.org); Biolink Model 4.4.5 (https://w3id.org/biolink/vocab/, CC0); MONDO, ChEBI; NLM RxNorm and MeSH identifiers. OWL-Time is not owl:imported because its full release uses xsd:duration, which is outside the OWL 2 datatype map and is rejected by the HermiT reasoner."""@en ;
+    rdfs:comment """Date normalisation rule (leakage-safe rounding): a day-precision AVAILABILITY date D is encoded as D T23:59:59-12:00, i.e. the last instant of that calendar day anywhere on Earth, so a record can never be seen before it was published in any time zone. Day-precision VALID-TIME boundaries are encoded as D T00:00:00Z."""@en ;
+    skos:editorialNote "Namespace https://w3id.org/iat-bitemporal/ : registration at w3id.org is in preparation; until it is active the IRIs do not resolve."@en .
+
+#####################################################################################################
+# Annotation properties
+#####################################################################################################
+
+skos:definition     a owl:AnnotationProperty .
+skos:exactMatch     a owl:AnnotationProperty .
+skos:closeMatch     a owl:AnnotationProperty .
+skos:relatedMatch   a owl:AnnotationProperty .
+skos:broadMatch     a owl:AnnotationProperty .
+skos:editorialNote  a owl:AnnotationProperty .
+dcterms:title       a owl:AnnotationProperty .
+dcterms:description a owl:AnnotationProperty .
+dcterms:created     a owl:AnnotationProperty .
+dcterms:modified    a owl:AnnotationProperty .
+dcterms:creator     a owl:AnnotationProperty .
+dcterms:license     a owl:AnnotationProperty .
+dcterms:source      a owl:AnnotationProperty .
+oboInOwl:hasDbXref  a owl:AnnotationProperty .
+
+biolink:subject         a owl:AnnotationProperty ; rdfs:label "subject (Biolink association slot)"@en .
+biolink:predicate       a owl:AnnotationProperty ; rdfs:label "predicate (Biolink association slot)"@en .
+biolink:object          a owl:AnnotationProperty ; rdfs:label "object (Biolink association slot)"@en .
+biolink:knowledge_level a owl:AnnotationProperty ; rdfs:label "knowledge level (Biolink association slot)"@en .
+biolink:agent_type      a owl:AnnotationProperty ; rdfs:label "agent type (Biolink association slot)"@en .
+
+iat:inforesId a owl:AnnotationProperty ;
+    rdfs:label "infores identifier"@en ;
+    skos:definition "Identifier of a knowledge source in the Biolink Information Resource Registry (infores CURIE)."@en .
+
+iat:sourceDateText a owl:AnnotationProperty ;
+    rdfs:label "source date text"@en ;
+    skos:definition "A date exactly as printed by the primary source, kept for audit before normalisation to xsd:dateTimeStamp."@en .
+
+iat:accessedOn a owl:AnnotationProperty ;
+    rdfs:label "accessed on"@en ;
+    skos:definition "Date on which the primary source was consulted to verify the asserted values."@en .
+
+#####################################################################################################
+# Reused upper-level terms (BFO, IAO, RO) -- axioms replicated from RO 2026-09-04 / BFO 2019-08-26 / IAO 2026-03-30
+#####################################################################################################
+
+obo:BFO_0000002 a owl:Class ; rdfs:label "continuant"@en ; owl:disjointWith obo:BFO_0000003 .
+obo:BFO_0000003 a owl:Class ; rdfs:label "occurrent"@en .
+obo:BFO_0000015 a owl:Class ; rdfs:label "process"@en ; rdfs:subClassOf obo:BFO_0000003 .
+obo:BFO_0000031 a owl:Class ; rdfs:label "generically dependent continuant"@en ; rdfs:subClassOf obo:BFO_0000002 .
+obo:IAO_0000030 a owl:Class ;
+    rdfs:label "information content entity"@en ;
+    rdfs:subClassOf obo:BFO_0000031 ;
+    skos:exactMatch biolink:InformationContentEntity .
+
+obo:BFO_0000062 a owl:ObjectProperty , owl:TransitiveProperty ;
+    rdfs:label "preceded by"@en ;
+    owl:inverseOf obo:BFO_0000063 ;
+    rdfs:domain obo:BFO_0000003 ;
+    rdfs:range obo:BFO_0000003 ;
+    skos:exactMatch biolink:preceded_by .
+
+obo:BFO_0000063 a owl:ObjectProperty , owl:TransitiveProperty ;
+    rdfs:label "precedes"@en ;
+    rdfs:domain obo:BFO_0000003 ;
+    rdfs:range obo:BFO_0000003 ;
+    skos:exactMatch biolink:precedes .
+
+obo:RO_0000057 a owl:ObjectProperty ;
+    rdfs:label "has participant"@en ;
+    rdfs:domain obo:BFO_0000003 ;
+    rdfs:range obo:BFO_0000002 .
+
+#####################################################################################################
+# Reused OWL-Time terms -- axioms replicated from http://www.w3.org/2006/time (2017 Recommendation)
+#####################################################################################################
+
+time:TemporalEntity a owl:Class ; rdfs:label "Temporal entity"@en .
+time:Instant        a owl:Class ; rdfs:label "Time instant"@en ; rdfs:subClassOf time:TemporalEntity .
+time:Interval       a owl:Class ; rdfs:label "Time interval"@en ; rdfs:subClassOf time:TemporalEntity .
+time:ProperInterval a owl:Class ; rdfs:label "Proper interval"@en ;
+    rdfs:subClassOf time:Interval ;
+    owl:disjointWith time:Instant .
+
+time:hasTime a owl:ObjectProperty ; rdfs:label "has time"@en ; rdfs:range time:TemporalEntity .
+time:hasBeginning a owl:ObjectProperty ; rdfs:label "has beginning"@en ;
+    rdfs:subPropertyOf time:hasTime ; rdfs:domain time:TemporalEntity ; rdfs:range time:Instant .
+time:hasEnd a owl:ObjectProperty ; rdfs:label "has end"@en ;
+    rdfs:subPropertyOf time:hasTime ; rdfs:domain time:TemporalEntity ; rdfs:range time:Instant .
+time:intervalMeets a owl:ObjectProperty ; rdfs:label "interval meets"@en ;
+    rdfs:domain time:ProperInterval ; rdfs:range time:ProperInterval ; owl:inverseOf time:intervalMetBy .
+time:intervalMetBy a owl:ObjectProperty ; rdfs:label "interval met by"@en .
+time:inXSDDateTimeStamp a owl:DatatypeProperty ; rdfs:label "in XSD date-time-stamp"@en ;
+    rdfs:domain time:Instant ; rdfs:range xsd:dateTimeStamp .
+
+#####################################################################################################
+# Reused Biolink Model 4.4.5 classes -- is_a chain replicated from biolink_model.yaml (tag v4.4.5)
+#####################################################################################################
+
+biolink:NamedThing                 a owl:Class ; rdfs:label "named thing"@en .
+biolink:InformationContentEntity   a owl:Class ; rdfs:label "information content entity"@en ; rdfs:subClassOf biolink:NamedThing .
+biolink:Publication                a owl:Class ; rdfs:label "publication"@en ; rdfs:subClassOf biolink:InformationContentEntity .
+biolink:DrugLabel                  a owl:Class ; rdfs:label "drug label"@en ; rdfs:subClassOf biolink:Publication .
+biolink:ChemicalEntity             a owl:Class ; rdfs:label "chemical entity"@en ; rdfs:subClassOf biolink:NamedThing .
+biolink:ChemicalMixture            a owl:Class ; rdfs:label "chemical mixture"@en ; rdfs:subClassOf biolink:ChemicalEntity .
+biolink:MolecularMixture           a owl:Class ; rdfs:label "molecular mixture"@en ; rdfs:subClassOf biolink:ChemicalMixture .
+biolink:Drug                       a owl:Class ; rdfs:label "drug"@en ; rdfs:subClassOf biolink:MolecularMixture .
+biolink:BiologicalEntity           a owl:Class ; rdfs:label "biological entity"@en ; rdfs:subClassOf biolink:NamedThing .
+biolink:OrganismalEntity           a owl:Class ; rdfs:label "organismal entity"@en ; rdfs:subClassOf biolink:BiologicalEntity .
+biolink:IndividualOrganism         a owl:Class ; rdfs:label "individual organism"@en ; rdfs:subClassOf biolink:OrganismalEntity .
+biolink:Case                       a owl:Class ; rdfs:label "case"@en ; rdfs:subClassOf biolink:IndividualOrganism .
+biolink:DiseaseOrPhenotypicFeature a owl:Class ; rdfs:label "disease or phenotypic feature"@en ; rdfs:subClassOf biolink:BiologicalEntity .
+biolink:Disease                    a owl:Class ; rdfs:label "disease"@en ; rdfs:subClassOf biolink:DiseaseOrPhenotypicFeature .
+biolink:Association                a owl:Class ; rdfs:label "association"@en .
+
+#####################################################################################################
+# Reused domain terms (MONDO, ChEBI) -- labels and cross-references verified 2026-10-07 (EBI OLS4, ChEBI API, NLM MeSH)
+#####################################################################################################
+
+obo:MONDO_0005301 a owl:Class ;
+    rdfs:label "multiple sclerosis"@en ;
+    rdfs:subClassOf biolink:Disease ;
+    oboInOwl:hasDbXref "MESH:D009103" .
+
+obo:MONDO_0005314 a owl:Class ;
+    rdfs:label "relapsing-remitting multiple sclerosis"@en ;
+    rdfs:subClassOf obo:MONDO_0005301 ;
+    oboInOwl:hasDbXref "MESH:D020529" .
+
+obo:MONDO_0100053 a owl:Class ;
+    rdfs:label "anaphylaxis"@en ;
+    rdfs:subClassOf biolink:Disease ;
+    oboInOwl:hasDbXref "MESH:D000707" .
+
+obo:CHEBI_749565 a owl:Class ;
+    rdfs:label "glatiramer acetate"@en ;
+    rdfs:subClassOf biolink:ChemicalEntity ;
+    skos:exactMatch <http://id.nlm.nih.gov/mesh/D000068717> ,
+                    <http://purl.bioontology.org/ontology/RXNORM/84375> ;
+    skos:broadMatch <http://purl.bioontology.org/ontology/RXNORM/214582> ;
+    oboInOwl:hasDbXref "UNII:5M691HL4BO" ;
+    rdfs:comment "RXNORM:84375 = precise ingredient (PIN) 'glatiramer acetate'; RXNORM:214582 = ingredient (IN) 'glatiramer' (RxNav, active since 04/2005). UNII taken from the DailyMed SPL ingredient element. Subclass axiom to biolink:ChemicalEntity is an alignment axiom asserted by this ontology."@en .
+
+#####################################################################################################
+# Core bitemporal classes
+#####################################################################################################
+
+iat:TemporalKnowledgeRecord a owl:Class ;
+    rdfs:label "temporal knowledge record"@en ;
+    skos:definition "An information content entity that asserts something about the world and carries exactly one valid time (when its content holds) and exactly one availability time (when it became available to a reasoner), and is recorded in exactly one knowledge source."@en ;
+    rdfs:subClassOf obo:IAO_0000030 ,
+        [ a owl:Restriction ; owl:onProperty iat:hasValidTime ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass time:ProperInterval ] ,
+        [ a owl:Restriction ; owl:onProperty iat:knownFrom ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onDataRange xsd:dateTimeStamp ] ,
+        [ a owl:Restriction ; owl:onProperty iat:recordedIn ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass iat:KnowledgeSource ] ,
+        [ a owl:Restriction ; owl:onProperty iat:hasValidTime ;
+          owl:allValuesFrom [ a owl:Class ; owl:intersectionOf (
+              time:ProperInterval
+              [ a owl:Restriction ; owl:onProperty time:hasBeginning ;
+                owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass time:Instant ]
+              [ a owl:Restriction ; owl:onProperty time:hasEnd ;
+                owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass time:Instant ] ) ] ] ;
+    rdfs:comment "An unknown availability time is allowed by the open-world semantics (the value exists but is not stated); as-of queries treat such records as NOT available (fail-closed)."@en .
+
+iat:LabelVersion a owl:Class ;
+    rdfs:label "label version"@en ;
+    skos:definition "One published version of a structured product label (SPL) document. Valid time: from its SPL effective date until the effective date of the version that supersedes it. Availability: its DailyMed publication date."@en ;
+    rdfs:subClassOf iat:TemporalKnowledgeRecord , biolink:DrugLabel ,
+        [ a owl:Restriction ; owl:onProperty iat:versionOf ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass iat:LabelSet ] ,
+        [ a owl:Restriction ; owl:onProperty iat:splVersion ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onDataRange xsd:integer ] ,
+        [ a owl:Restriction ; owl:onProperty iat:containsBoxedWarningSection ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onDataRange xsd:boolean ] .
+
+iat:LabelSet a owl:Class ;
+    rdfs:label "label set"@en ;
+    skos:definition "The evolving drug label identified by one SPL set id; it has a sequence of label versions."@en ;
+    rdfs:subClassOf obo:IAO_0000030 , biolink:DrugLabel ,
+        [ a owl:Restriction ; owl:onProperty iat:labelFor ; owl:someValuesFrom iat:DrugProduct ] ,
+        [ a owl:Restriction ; owl:onProperty iat:splSetId ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onDataRange xsd:string ] .
+
+iat:LabelingChangeRecord a owl:Class ;
+    rdfs:label "labeling change record"@en ;
+    skos:definition "An entry of the FDA Drug Safety-related Labeling Changes (SrLC) database describing an approved labeling supplement."@en ;
+    rdfs:subClassOf iat:TemporalKnowledgeRecord ,
+        [ a owl:Restriction ; owl:onProperty iat:describesEvent ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass iat:LabelingSupplementApproval ] ,
+        [ a owl:Restriction ; owl:onProperty iat:supplementNumber ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onDataRange xsd:string ] .
+
+iat:SafetyCommunication a owl:Class ;
+    rdfs:label "safety communication"@en ;
+    skos:definition "A dated public regulatory communication about a drug safety issue (e.g. an FDA Drug Safety Communication)."@en ;
+    rdfs:subClassOf iat:TemporalKnowledgeRecord , biolink:Publication .
+
+iat:ClinicalAssertion a owl:Class ;
+    rdfs:label "clinical assertion"@en ;
+    skos:definition "A patient-level record (e.g. a diagnosis or a prescription entry) with its own valid time and the time it was entered in the record system."@en ;
+    rdfs:subClassOf iat:TemporalKnowledgeRecord ,
+        [ a owl:Restriction ; owl:onProperty iat:aboutPatient ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass iat:SyntheticPatient ] .
+
+iat:DiagnosisAssertion a owl:Class ;
+    rdfs:label "diagnosis assertion"@en ;
+    rdfs:subClassOf iat:ClinicalAssertion ,
+        [ a owl:Restriction ; owl:onProperty iat:assertsCondition ; owl:someValuesFrom biolink:Disease ] ;
+    owl:disjointWith iat:PrescriptionRecord .
+
+iat:PrescriptionRecord a owl:Class ;
+    rdfs:label "prescription record"@en ;
+    rdfs:subClassOf iat:ClinicalAssertion ,
+        [ a owl:Restriction ; owl:onProperty iat:documentsEvent ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass iat:PrescriptionEvent ] .
+
+iat:BitemporalAssociation a owl:Class ;
+    rdfs:label "bitemporal association"@en ;
+    skos:definition "A Biolink-style association (subject, predicate, object as Biolink slots) that is also a temporal knowledge record, i.e. carries OWL-Time valid time and an availability time. Derived associations must not become available before the records they are derived from."@en ;
+    rdfs:subClassOf iat:TemporalKnowledgeRecord , biolink:Association ,
+        [ a owl:Restriction ; owl:onProperty iat:derivedFrom ; owl:someValuesFrom iat:TemporalKnowledgeRecord ] .
+
+[] a owl:AllDisjointClasses ;
+   owl:members ( iat:LabelVersion iat:LabelingChangeRecord iat:SafetyCommunication iat:ClinicalAssertion iat:BitemporalAssociation ) .
+
+iat:SafetyWarning a owl:Class ;
+    rdfs:label "safety warning"@en ;
+    skos:definition "A regulatory safety warning about a drug product and a hazard. Its valid time is the period in which the warning is in force; it is known only through records that attest it."@en ;
+    rdfs:subClassOf obo:IAO_0000030 ,
+        [ a owl:Restriction ; owl:onProperty iat:hasValidTime ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass time:ProperInterval ] ,
+        [ a owl:Restriction ; owl:onProperty iat:concernsProduct ; owl:someValuesFrom iat:DrugProduct ] ,
+        [ a owl:Restriction ; owl:onProperty [ owl:inverseOf iat:attests ] ; owl:someValuesFrom iat:TemporalKnowledgeRecord ] .
+
+iat:BoxedWarning a owl:Class ;
+    rdfs:label "boxed warning"@en ;
+    skos:definition "A safety warning placed in the Boxed Warning section of US prescription drug labeling (SPL section LOINC 34066-1)."@en ;
+    rdfs:subClassOf iat:SafetyWarning .
+
+iat:KnowledgeSource a owl:Class ;
+    rdfs:label "knowledge source"@en ;
+    skos:definition "A database, publication channel or record system from which temporal knowledge records are obtained. Where it exists, its Biolink infores identifier is given with iat:inforesId."@en .
+
+iat:DrugProduct a owl:Class ;
+    rdfs:label "drug product"@en ;
+    skos:definition "A marketed drug product identified at the RxNorm branded or clinical drug level."@en ;
+    rdfs:subClassOf biolink:Drug ,
+        [ a owl:Restriction ; owl:onProperty iat:rxcui ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onDataRange xsd:string ] .
+
+iat:GlatiramerAcetateProduct a owl:Class ;
+    rdfs:label "glatiramer acetate product"@en ;
+    skos:definition "A drug product with glatiramer acetate (ChEBI) as active ingredient (defined class; membership is inferred)."@en ;
+    owl:equivalentClass [ a owl:Class ; owl:intersectionOf ( iat:DrugProduct
+        [ a owl:Restriction ; owl:onProperty iat:hasActiveIngredient ; owl:someValuesFrom obo:CHEBI_749565 ] ) ] .
+
+iat:SyntheticPatient a owl:Class ;
+    rdfs:label "synthetic patient"@en ;
+    skos:definition "A computer-generated or hand-authored patient used for demonstration. Contains no protected health information."@en ;
+    rdfs:subClassOf biolink:Case .
+
+[] a owl:AllDisjointClasses ;
+   owl:members ( iat:TemporalKnowledgeRecord iat:SafetyWarning iat:LabelSet iat:KnowledgeSource
+                 iat:DrugProduct iat:SyntheticPatient time:TemporalEntity ) .
+
+iat:ClinicalEvent a owl:Class ;
+    rdfs:label "clinical event"@en ;
+    rdfs:subClassOf obo:BFO_0000015 .
+
+iat:PrescriptionEvent a owl:Class ;
+    rdfs:label "prescription event"@en ;
+    skos:definition "The act of prescribing a drug product to a patient at an instant."@en ;
+    skos:relatedMatch biolink:DrugExposure ;
+    rdfs:subClassOf iat:ClinicalEvent ,
+        [ a owl:Restriction ; owl:onProperty iat:hasPatient ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass iat:SyntheticPatient ] ,
+        [ a owl:Restriction ; owl:onProperty iat:prescribedProduct ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass iat:DrugProduct ] ,
+        [ a owl:Restriction ; owl:onProperty iat:occursAt ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass time:Instant ] .
+
+iat:RegulatoryEvent a owl:Class ;
+    rdfs:label "regulatory event"@en ;
+    rdfs:subClassOf obo:BFO_0000015 .
+
+iat:LabelingSupplementApproval a owl:Class ;
+    rdfs:label "labeling supplement approval"@en ;
+    skos:definition "FDA approval of a supplement that changes the labeling of an approved application."@en ;
+    rdfs:subClassOf iat:RegulatoryEvent ,
+        [ a owl:Restriction ; owl:onProperty iat:occursAt ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass time:Instant ] .
+
+iat:AsOfSafetyCheck a owl:Class ;
+    rdfs:label "as-of safety check"@en ;
+    skos:definition "A decision-support or audit evaluation of a prescription performed as of an instant T, using only records available at T."@en ;
+    rdfs:subClassOf obo:BFO_0000015 ,
+        [ a owl:Restriction ; owl:onProperty iat:evaluatedAsOf ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onDataRange xsd:dateTimeStamp ] ,
+        [ a owl:Restriction ; owl:onProperty iat:checksPrescription ;
+          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ; owl:onClass iat:PrescriptionEvent ] .
+
+iat:CheckRaisingBoxedWarning a owl:Class ;
+    rdfs:label "check raising a boxed warning"@en ;
+    skos:definition "An as-of safety check that used at least one record attesting a boxed warning (defined class; membership is inferred)."@en ;
+    owl:equivalentClass [ a owl:Class ; owl:intersectionOf ( iat:AsOfSafetyCheck
+        [ a owl:Restriction ; owl:onProperty iat:usedRecord ;
+          owl:someValuesFrom [ a owl:Restriction ; owl:onProperty iat:attests ; owl:someValuesFrom iat:BoxedWarning ] ] ) ] .
+
+[] a owl:AllDisjointClasses ;
+   owl:members ( iat:ClinicalEvent iat:RegulatoryEvent iat:AsOfSafetyCheck ) .
+
+# Data-quality axiom (general class inclusion): a label version that includes a boxed warning must have the
+# Boxed Warning SPL section. Asserting the opposite makes the ontology inconsistent.
+[ a owl:Class ; owl:intersectionOf ( iat:LabelVersion
+      [ a owl:Restriction ; owl:onProperty iat:includesWarning ; owl:someValuesFrom iat:BoxedWarning ] ) ]
+    rdfs:subClassOf [ a owl:Restriction ; owl:onProperty iat:containsBoxedWarningSection ; owl:hasValue true ] .
+
+#####################################################################################################
+# As-of view classes (pattern: KnownAsOf_T == record and knownFrom <= T)
+# Generated for the three query instants of the demonstration scenario.
+#####################################################################################################
+
+iat:KnownAsOf_20240614T150000Z a owl:Class ;
+    rdfs:label "known as of 2024-06-14T15:00:00Z"@en ;
+    skos:definition "Records whose availability time is on or before 2024-06-14T15:00:00Z (first prescription)."@en ;
+    owl:equivalentClass [ a owl:Class ; owl:intersectionOf ( iat:TemporalKnowledgeRecord
+        [ a owl:Restriction ; owl:onProperty iat:knownFrom ;
+          owl:someValuesFrom [ a rdfs:Datatype ; owl:onDatatype xsd:dateTimeStamp ;
+                               owl:withRestrictions ( [ xsd:maxInclusive "2024-06-14T15:00:00Z"^^xsd:dateTimeStamp ] ) ] ] ) ] .
+
+iat:KnownAsOf_20250123T150000Z a owl:Class ;
+    rdfs:label "known as of 2025-01-23T15:00:00Z"@en ;
+    skos:definition "Records whose availability time is on or before 2025-01-23T15:00:00Z (after the FDA communication, before the new label reached DailyMed)."@en ;
+    owl:equivalentClass [ a owl:Class ; owl:intersectionOf ( iat:TemporalKnowledgeRecord
+        [ a owl:Restriction ; owl:onProperty iat:knownFrom ;
+          owl:someValuesFrom [ a rdfs:Datatype ; owl:onDatatype xsd:dateTimeStamp ;
+                               owl:withRestrictions ( [ xsd:maxInclusive "2025-01-23T15:00:00Z"^^xsd:dateTimeStamp ] ) ] ] ) ] .
+
+iat:KnownAsOf_20250314T150000Z a owl:Class ;
+    rdfs:label "known as of 2025-03-14T15:00:00Z"@en ;
+    skos:definition "Records whose availability time is on or before 2025-03-14T15:00:00Z (second prescription)."@en ;
+    owl:equivalentClass [ a owl:Class ; owl:intersectionOf ( iat:TemporalKnowledgeRecord
+        [ a owl:Restriction ; owl:onProperty iat:knownFrom ;
+          owl:someValuesFrom [ a rdfs:Datatype ; owl:onDatatype xsd:dateTimeStamp ;
+                               owl:withRestrictions ( [ xsd:maxInclusive "2025-03-14T15:00:00Z"^^xsd:dateTimeStamp ] ) ] ] ) ] .
+
+#####################################################################################################
+# Object properties
+#####################################################################################################
+
+iat:hasValidTime a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "has valid time"@en ;
+    skos:definition "Relates a record or a warning to the OWL-Time proper interval during which its content holds in the world. An interval without time:hasEnd is open (still holding as far as is known)."@en ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( iat:TemporalKnowledgeRecord iat:SafetyWarning ) ] ;
+    rdfs:range time:ProperInterval ;
+    skos:closeMatch biolink:temporal_interval_qualifier .
+
+iat:recordedIn a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "recorded in"@en ;
+    rdfs:domain iat:TemporalKnowledgeRecord ;
+    rdfs:range iat:KnowledgeSource ;
+    skos:closeMatch biolink:primary_knowledge_source .
+
+iat:attests a owl:ObjectProperty ;
+    rdfs:label "attests"@en ;
+    skos:definition "A record states the existence of a regulatory entity such as a safety warning."@en ;
+    rdfs:domain iat:TemporalKnowledgeRecord .
+
+iat:includesWarning a owl:ObjectProperty ;
+    rdfs:label "includes warning"@en ;
+    rdfs:subPropertyOf iat:attests ;
+    rdfs:domain iat:LabelVersion ;
+    rdfs:range iat:SafetyWarning .
+
+iat:announcesWarning a owl:ObjectProperty ;
+    rdfs:label "announces warning"@en ;
+    rdfs:subPropertyOf iat:attests ;
+    rdfs:domain iat:SafetyCommunication ;
+    rdfs:range iat:SafetyWarning .
+
+iat:approvesWarning a owl:ObjectProperty ;
+    rdfs:label "approves warning"@en ;
+    rdfs:subPropertyOf iat:attests ;
+    rdfs:domain iat:LabelingChangeRecord ;
+    rdfs:range iat:SafetyWarning .
+
+iat:versionOf a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "version of"@en ;
+    rdfs:domain iat:LabelVersion ;
+    rdfs:range iat:LabelSet ;
+    owl:inverseOf iat:hasVersion .
+
+iat:hasVersion a owl:ObjectProperty , owl:InverseFunctionalProperty ;
+    rdfs:label "has version"@en ;
+    rdfs:domain iat:LabelSet ;
+    rdfs:range iat:LabelVersion .
+
+iat:laterVersionOf a owl:ObjectProperty , owl:TransitiveProperty ;
+    rdfs:label "later version of"@en ;
+    rdfs:domain iat:LabelVersion ;
+    rdfs:range iat:LabelVersion .
+
+iat:supersedes a owl:ObjectProperty , owl:FunctionalProperty , owl:InverseFunctionalProperty ,
+                 owl:AsymmetricProperty , owl:IrreflexiveProperty ;
+    rdfs:label "supersedes"@en ;
+    skos:definition "Direct succession of label versions: each version supersedes at most one version and is superseded by at most one."@en ;
+    rdfs:subPropertyOf iat:laterVersionOf ;
+    skos:closeMatch prov:wasRevisionOf .
+
+iat:endAttestedBy a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "end attested by"@en ;
+    skos:definition "Links a valid-time interval to the record that revealed its end. The end of a validity interval is itself knowledge: an as-of query may use time:hasEnd only if this record is available at T."@en ;
+    rdfs:domain time:ProperInterval ;
+    rdfs:range iat:TemporalKnowledgeRecord .
+
+iat:labelFor a owl:ObjectProperty ;
+    rdfs:label "label for"@en ;
+    rdfs:domain iat:LabelSet ;
+    rdfs:range iat:DrugProduct .
+
+iat:warnsAbout a owl:ObjectProperty ;
+    rdfs:label "warns about"@en ;
+    rdfs:domain iat:SafetyWarning ;
+    skos:relatedMatch biolink:has_adverse_event .
+
+iat:concernsProduct a owl:ObjectProperty ;
+    rdfs:label "concerns product"@en ;
+    rdfs:domain iat:SafetyWarning ;
+    rdfs:range iat:DrugProduct .
+
+iat:hasActiveIngredient a owl:ObjectProperty ;
+    rdfs:label "has active ingredient"@en ;
+    rdfs:domain iat:DrugProduct ;
+    skos:exactMatch biolink:has_active_ingredient .
+
+iat:aboutPatient a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "about patient"@en ;
+    rdfs:domain iat:ClinicalAssertion ;
+    rdfs:range iat:SyntheticPatient .
+
+iat:assertsCondition a owl:ObjectProperty ;
+    rdfs:label "asserts condition"@en ;
+    rdfs:domain iat:DiagnosisAssertion .
+
+iat:documentsEvent a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "documents event"@en ;
+    rdfs:domain iat:PrescriptionRecord ;
+    rdfs:range iat:PrescriptionEvent .
+
+iat:hasPatient a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "has patient"@en ;
+    rdfs:subPropertyOf obo:RO_0000057 ;
+    rdfs:domain iat:PrescriptionEvent ;
+    rdfs:range iat:SyntheticPatient .
+
+iat:prescribedProduct a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "prescribed product"@en ;
+    rdfs:domain iat:PrescriptionEvent ;
+    rdfs:range iat:DrugProduct .
+
+iat:occursAt a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "occurs at"@en ;
+    rdfs:subPropertyOf time:hasTime ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( iat:ClinicalEvent iat:RegulatoryEvent ) ] ;
+    rdfs:range time:Instant .
+
+iat:describesEvent a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "describes event"@en ;
+    rdfs:domain iat:LabelingChangeRecord ;
+    rdfs:range iat:LabelingSupplementApproval .
+
+iat:usedRecord a owl:ObjectProperty ;
+    rdfs:label "used record"@en ;
+    skos:definition "A record consulted by an as-of safety check."@en ;
+    rdfs:domain iat:AsOfSafetyCheck ;
+    rdfs:range iat:TemporalKnowledgeRecord .
+
+iat:checksPrescription a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:label "checks prescription"@en ;
+    rdfs:domain iat:AsOfSafetyCheck ;
+    rdfs:range iat:PrescriptionEvent .
+
+iat:derivedFrom a owl:ObjectProperty ;
+    rdfs:label "derived from"@en ;
+    rdfs:domain iat:TemporalKnowledgeRecord ;
+    rdfs:range iat:TemporalKnowledgeRecord ;
+    skos:exactMatch prov:wasDerivedFrom .
+
+#####################################################################################################
+# Datatype properties
+#####################################################################################################
+
+iat:knownFrom a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "known from"@en ;
+    skos:definition "Availability (knowledge) time: the instant from which the record could be known to a reasoner through its knowledge source. An inference as of T may use the record only if knownFrom <= T."@en ;
+    rdfs:domain iat:TemporalKnowledgeRecord ;
+    rdfs:range xsd:dateTimeStamp ;
+    skos:relatedMatch prov:generatedAtTime ;
+    rdfs:comment "Named knownFrom (not availableFrom) to avoid confusion with the Biolink slot available_from (the regulatory or commercial availability channel of a drug, DrugAvailabilityEnum). Biolink Model 4.4.5 offers record-keeping dates (creation_date, update_date; dataset-level retrieved_on, ingest_date) and string-serialised temporal qualifiers, but no edge-level time at which the knowledge became available in its primary source; this property fills that gap."@en .
+
+iat:evaluatedAsOf a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "evaluated as of"@en ;
+    rdfs:domain iat:AsOfSafetyCheck ;
+    rdfs:range xsd:dateTimeStamp .
+
+iat:splVersion a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "SPL version number"@en ;
+    rdfs:domain iat:LabelVersion ;
+    rdfs:range xsd:integer .
+
+iat:splDocumentId a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "SPL document id"@en ;
+    rdfs:domain iat:LabelVersion ;
+    rdfs:range xsd:string .
+
+iat:splSetId a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "SPL set id"@en ;
+    rdfs:domain iat:LabelSet ;
+    rdfs:range xsd:string .
+
+iat:applicationNumber a owl:DatatypeProperty ;
+    rdfs:label "FDA application number"@en ;
+    rdfs:domain iat:LabelSet ;
+    rdfs:range xsd:string .
+
+iat:supplementNumber a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "supplement number"@en ;
+    rdfs:domain iat:LabelingChangeRecord ;
+    rdfs:range xsd:string .
+
+iat:rxcui a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "RxNorm concept unique identifier"@en ;
+    rdfs:domain iat:DrugProduct ;
+    rdfs:range xsd:string .
+
+iat:rxnormTermType a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "RxNorm term type"@en ;
+    rdfs:domain iat:DrugProduct ;
+    rdfs:range xsd:string .
+
+iat:containsBoxedWarningSection a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "contains Boxed Warning section"@en ;
+    skos:definition "Whether the SPL document contains a section coded LOINC 34066-1 (Boxed Warning)."@en ;
+    rdfs:domain iat:LabelVersion ;
+    rdfs:range xsd:boolean .
+
+#####################################################################################################
+# INSTANCE DATA
+#####################################################################################################
+
+# ---------- Knowledge sources ----------
+
+iatd:src_dailymed a owl:NamedIndividual , iat:KnowledgeSource ;
+    rdfs:label "DailyMed (U.S. National Library of Medicine)"@en ;
+    iat:inforesId "infores:dailymed" ;
+    dcterms:source <https://dailymed.nlm.nih.gov/dailymed/app-support-web-services.cfm> .
+
+iatd:src_fda_srlc a owl:NamedIndividual , iat:KnowledgeSource ;
+    rdfs:label "FDA Drug Safety-related Labeling Changes (SrLC) database"@en ;
+    dcterms:source <https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/> ;
+    rdfs:comment "No infores identifier for SrLC was found in the Biolink Information Resource Registry (checked 2026-10-07)."@en .
+
+iatd:src_fda_dsc a owl:NamedIndividual , iat:KnowledgeSource ;
+    rdfs:label "FDA Drug Safety Communications"@en ;
+    dcterms:source <https://www.fda.gov/drugs/drug-safety-and-availability/drug-safety-communications> ;
+    rdfs:comment "No infores identifier for FDA Drug Safety Communications was found in the Biolink Information Resource Registry (checked 2026-10-07)."@en .
+
+iatd:src_synthetic_ehr a owl:NamedIndividual , iat:KnowledgeSource ;
+    rdfs:label "Synthetic EHR (hand-authored demonstration data, no PHI)"@en .
+
+iatd:src_this_kg a owl:NamedIndividual , iat:KnowledgeSource ;
+    rdfs:label "This knowledge graph (derived records)"@en .
+
+[] a owl:AllDifferent ;
+   owl:distinctMembers ( iatd:src_dailymed iatd:src_fda_srlc iatd:src_fda_dsc iatd:src_synthetic_ehr iatd:src_this_kg ) .
+
+# ---------- Drug products (RxNorm, verified via RxNav 2026-10-07) ----------
+
+iatd:rxcui_1111642 a owl:NamedIndividual , iat:DrugProduct ,
+        [ a owl:Restriction ; owl:onProperty iat:hasActiveIngredient ; owl:someValuesFrom obo:CHEBI_749565 ] ;
+    rdfs:label "1 ML glatiramer acetate 20 MG/ML Prefilled Syringe [Copaxone]"@en ;
+    iat:rxcui "1111642" ;
+    iat:rxnormTermType "SBD" ;
+    skos:exactMatch <http://purl.bioontology.org/ontology/RXNORM/1111642> ;
+    oboInOwl:hasDbXref "NDC:68546-0317-30" ;
+    dcterms:source <https://rxnav.nlm.nih.gov/REST/rxcui/1111642/properties.json> ;
+    rdfs:comment "RxNav history status: Active since 07/2011. RxNav SPL_SET_ID = aa88f583-4f5f-433b-80b4-1f4c9fb28357. NDC 68546031730 maps to this RxCUI (RxNav ndcstatus)."@en .
+
+iatd:rxcui_1487363 a owl:NamedIndividual , iat:DrugProduct ,
+        [ a owl:Restriction ; owl:onProperty iat:hasActiveIngredient ; owl:someValuesFrom obo:CHEBI_749565 ] ;
+    rdfs:label "1 ML glatiramer acetate 40 MG/ML Prefilled Syringe [Copaxone]"@en ;
+    iat:rxcui "1487363" ;
+    iat:rxnormTermType "SBD" ;
+    skos:exactMatch <http://purl.bioontology.org/ontology/RXNORM/1487363> ;
+    oboInOwl:hasDbXref "NDC:68546-0325-12" ;
+    dcterms:source <https://rxnav.nlm.nih.gov/REST/rxcui/1487363/properties.json> ;
+    rdfs:comment "RxNav history status: Active since 03/2014. RxNav SPL_SET_ID = aa88f583-4f5f-433b-80b4-1f4c9fb28357. NDC 68546032512 maps to this RxCUI (RxNav ndcstatus)."@en .
+
+iatd:rxcui_1111642 owl:differentFrom iatd:rxcui_1487363 .
+
+# ---------- The evolving label (DailyMed SPL set) ----------
+
+iatd:copaxone_spl_set a owl:NamedIndividual , iat:LabelSet ;
+    rdfs:label "COPAXONE (glatiramer acetate) injection -- SPL set"@en ;
+    iat:splSetId "aa88f583-4f5f-433b-80b4-1f4c9fb28357" ;
+    iat:applicationNumber "NDA020622" ;
+    iat:labelFor iatd:rxcui_1111642 , iatd:rxcui_1487363 ;
+    iat:hasVersion iatd:label_v32 , iatd:label_v33 , iatd:label_v34 , iatd:label_v35 , iatd:label_v36 ;
+    oboInOwl:hasDbXref "RXNORM:135779" ;
+    dcterms:source <https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/aa88f583-4f5f-433b-80b4-1f4c9fb28357/history.json> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    rdfs:comment "DailyMed history lists 28 published versions (v3 ... v36); five are modelled here. RXNORM:135779 is the brand name (BN) Copaxone."@en .
+
+# ---------- Time instants (valid-time boundaries: D T00:00:00Z) ----------
+
+iatd:t_2023-11-16 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2023-11-16T00:00:00Z"^^xsd:dateTimeStamp .
+iatd:t_2023-11-20 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2023-11-20T00:00:00Z"^^xsd:dateTimeStamp .
+iatd:t_2023-11-30 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2023-11-30T00:00:00Z"^^xsd:dateTimeStamp .
+iatd:t_2025-01-22 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2025-01-22T00:00:00Z"^^xsd:dateTimeStamp .
+iatd:t_2025-01-31 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2025-01-31T00:00:00Z"^^xsd:dateTimeStamp .
+iatd:t_2026-06-22 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2026-06-22T00:00:00Z"^^xsd:dateTimeStamp .
+iatd:t_2026-06-23 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2026-06-23T00:00:00Z"^^xsd:dateTimeStamp .
+# synthetic clinical instants
+iatd:t_2023-02-10 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2023-02-10T00:00:00Z"^^xsd:dateTimeStamp .
+iatd:t_rx1 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2024-06-14T15:00:00Z"^^xsd:dateTimeStamp .
+iatd:t_rx2 a owl:NamedIndividual , time:Instant ; time:inXSDDateTimeStamp "2025-03-14T15:00:00Z"^^xsd:dateTimeStamp .
+
+[] a owl:AllDifferent ;
+   owl:distinctMembers ( iatd:t_2023-11-16 iatd:t_2023-11-20 iatd:t_2023-11-30 iatd:t_2025-01-22 iatd:t_2025-01-31
+                         iatd:t_2026-06-22 iatd:t_2026-06-23 iatd:t_2023-02-10 iatd:t_rx1 iatd:t_rx2 ) .
+
+# ---------- Valid-time intervals of label versions ----------
+# The end of each interval is revealed by the next version; it is usable only after that version is available.
+
+iatd:vt_label_v32 a owl:NamedIndividual , time:ProperInterval ;
+    time:hasBeginning iatd:t_2023-11-20 ; time:hasEnd iatd:t_2023-11-30 ;
+    iat:endAttestedBy iatd:label_v33 ;
+    time:intervalMeets iatd:vt_label_v33 .
+iatd:vt_label_v33 a owl:NamedIndividual , time:ProperInterval ;
+    time:hasBeginning iatd:t_2023-11-30 ; time:hasEnd iatd:t_2025-01-22 ;
+    iat:endAttestedBy iatd:label_v34 ;
+    time:intervalMeets iatd:vt_label_v34 .
+iatd:vt_label_v34 a owl:NamedIndividual , time:ProperInterval ;
+    time:hasBeginning iatd:t_2025-01-22 ; time:hasEnd iatd:t_2025-01-31 ;
+    iat:endAttestedBy iatd:label_v35 ;
+    time:intervalMeets iatd:vt_label_v35 .
+iatd:vt_label_v35 a owl:NamedIndividual , time:ProperInterval ;
+    time:hasBeginning iatd:t_2025-01-31 ; time:hasEnd iatd:t_2026-06-23 ;
+    iat:endAttestedBy iatd:label_v36 ;
+    time:intervalMeets iatd:vt_label_v36 .
+iatd:vt_label_v36 a owl:NamedIndividual , time:ProperInterval ;
+    time:hasBeginning iatd:t_2026-06-23 .
+
+# ---------- Label versions (DailyMed history + SPL XML, verified 2026-10-07) ----------
+# valid time  = SPL <effectiveTime> ... next version's <effectiveTime>
+# availability = DailyMed published_date, rounded leakage-safe to D T23:59:59-12:00
+
+iatd:label_v32 a owl:NamedIndividual , iat:LabelVersion ;
+    rdfs:label "COPAXONE label, SPL version 32"@en ;
+    iat:versionOf iatd:copaxone_spl_set ;
+    iat:splVersion 32 ;
+    iat:splDocumentId "d3c2bb3f-c354-430c-9cad-68ff376f0508" ;
+    iat:containsBoxedWarningSection false ;
+    iat:hasValidTime iatd:vt_label_v32 ;
+    iat:knownFrom "2023-11-23T23:59:59-12:00"^^xsd:dateTimeStamp ;
+    iat:sourceDateText "SPL effectiveTime 20231120; DailyMed published_date Nov 23, 2023" ;
+    iat:recordedIn iatd:src_dailymed ;
+    dcterms:source <https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=32> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    rdfs:comment "No Boxed Warning section. Anaphylaxis is mentioned only as a theoretical risk in subsection 5.4 and as an anaphylactoid reaction in the list of spontaneous postmarketing reports (6.2), without a dedicated warning."@en .
+
+iatd:label_v33 a owl:NamedIndividual , iat:LabelVersion ;
+    rdfs:label "COPAXONE label, SPL version 33"@en ;
+    iat:versionOf iatd:copaxone_spl_set ;
+    iat:supersedes iatd:label_v32 ;
+    iat:splVersion 33 ;
+    iat:splDocumentId "e85fcb25-7473-4357-bdc0-d3e09b29d5a5" ;
+    iat:containsBoxedWarningSection false ;
+    iat:hasValidTime iatd:vt_label_v33 ;
+    iat:knownFrom "2024-09-27T23:59:59-12:00"^^xsd:dateTimeStamp ;
+    iat:sourceDateText "SPL effectiveTime 20231130; DailyMed published_date Sep 27, 2024" ;
+    iat:recordedIn iatd:src_dailymed ;
+    dcterms:source <https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=33> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    rdfs:comment "Valid from 2023-11-30 but published in DailyMed only on 2024-09-27: a valid-time-only model would wrongly treat this version as known in June 2024. No Boxed Warning section; anaphylaxis mentioned only in 5.4 and 6.2 as for v32."@en .
+
+iatd:label_v34 a owl:NamedIndividual , iat:LabelVersion ;
+    rdfs:label "COPAXONE label, SPL version 34"@en ;
+    iat:versionOf iatd:copaxone_spl_set ;
+    iat:supersedes iatd:label_v33 ;
+    iat:splVersion 34 ;
+    iat:splDocumentId "e90e0917-b20d-4d81-b1eb-cff567fc8adf" ;
+    iat:containsBoxedWarningSection true ;
+    iat:includesWarning iatd:bw_glatiramer_anaphylaxis ;
+    iat:hasValidTime iatd:vt_label_v34 ;
+    iat:knownFrom "2025-01-24T23:59:59-12:00"^^xsd:dateTimeStamp ;
+    iat:sourceDateText "SPL effectiveTime 20250122; DailyMed published_date Jan 24, 2025" ;
+    iat:recordedIn iatd:src_dailymed ;
+    dcterms:source <https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=34> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    rdfs:comment "First DailyMed version with a Boxed Warning section (LOINC 34066-1) on anaphylactic reactions."@en .
+
+iatd:label_v35 a owl:NamedIndividual , iat:LabelVersion ;
+    rdfs:label "COPAXONE label, SPL version 35"@en ;
+    iat:versionOf iatd:copaxone_spl_set ;
+    iat:supersedes iatd:label_v34 ;
+    iat:splVersion 35 ;
+    iat:splDocumentId "5a691b1f-367f-4635-a7d6-0111361a2dbb" ;
+    iat:containsBoxedWarningSection true ;
+    iat:includesWarning iatd:bw_glatiramer_anaphylaxis ;
+    iat:hasValidTime iatd:vt_label_v35 ;
+    iat:knownFrom "2025-02-21T23:59:59-12:00"^^xsd:dateTimeStamp ;
+    iat:sourceDateText "SPL effectiveTime 20250131; DailyMed published_date Feb 21, 2025" ;
+    iat:recordedIn iatd:src_dailymed ;
+    dcterms:source <https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=35> ;
+    iat:accessedOn "2026-10-07"^^xsd:date .
+
+iatd:label_v36 a owl:NamedIndividual , iat:LabelVersion ;
+    rdfs:label "COPAXONE label, SPL version 36"@en ;
+    iat:versionOf iatd:copaxone_spl_set ;
+    iat:supersedes iatd:label_v35 ;
+    iat:splVersion 36 ;
+    iat:splDocumentId "11a58ba0-b865-49e6-86e3-eb9bb58341e5" ;
+    iat:containsBoxedWarningSection true ;
+    iat:includesWarning iatd:bw_glatiramer_anaphylaxis ;
+    iat:hasValidTime iatd:vt_label_v36 ;
+    iat:knownFrom "2026-06-26T23:59:59-12:00"^^xsd:dateTimeStamp ;
+    iat:sourceDateText "SPL effectiveTime 20260623; DailyMed published_date Jun 26, 2026" ;
+    iat:recordedIn iatd:src_dailymed ;
+    dcterms:source <https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=aa88f583-4f5f-433b-80b4-1f4c9fb28357&version=36> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    rdfs:comment "Current version on 2026-10-07. A static knowledge graph built today sees only this version."@en .
+
+[] a owl:AllDifferent ;
+   owl:distinctMembers ( iatd:label_v32 iatd:label_v33 iatd:label_v34 iatd:label_v35 iatd:label_v36 ) .
+
+# ---------- The boxed warning ----------
+
+iatd:vt_boxed_warning a owl:NamedIndividual , time:ProperInterval ;
+    rdfs:label "in force since approval of SUPPL-119 (open)"@en ;
+    time:hasBeginning iatd:t_2025-01-22 .
+
+iatd:bw_glatiramer_anaphylaxis a owl:NamedIndividual , iat:BoxedWarning ,
+        [ a owl:Restriction ; owl:onProperty iat:warnsAbout ; owl:someValuesFrom obo:MONDO_0100053 ] ;
+    rdfs:label "Boxed Warning: anaphylactic reactions with glatiramer acetate (Copaxone)"@en ;
+    iat:concernsProduct iatd:rxcui_1111642 , iatd:rxcui_1487363 ;
+    iat:hasValidTime iatd:vt_boxed_warning ;
+    rdfs:comment "Added to the labeling by FDA approval of supplement SUPPL-119 to NDA 020622 on 2025-01-22 (SrLC: Boxed Warning, newly added section). Still present in SPL version 36 (2026-06-23)."@en .
+
+# ---------- FDA regulatory events and SrLC records ----------
+# SrLC gives approval dates but not the date each entry was posted. Availability is an UPPER BOUND taken from the
+# Internet Archive: the first snapshot of the SrLC page that lists the entry (published no later than that instant;
+# the true posting date is earlier and unknown, so using the bound is leakage-safe). An entry with no such snapshot
+# keeps an unknown availability (fail-closed in as-of queries).
+
+iatd:approval_suppl116 a owl:NamedIndividual , iat:LabelingSupplementApproval ;
+    rdfs:label "FDA approval of NDA 020622 SUPPL-116"@en ;
+    iat:occursAt iatd:t_2023-11-16 .
+iatd:approval_suppl119 a owl:NamedIndividual , iat:LabelingSupplementApproval ;
+    rdfs:label "FDA approval of NDA 020622 SUPPL-119 (Boxed Warning added)"@en ;
+    iat:occursAt iatd:t_2025-01-22 ;
+    obo:BFO_0000062 iatd:approval_suppl116 .
+iatd:approval_suppl121 a owl:NamedIndividual , iat:LabelingSupplementApproval ;
+    rdfs:label "FDA approval of NDA 020622 SUPPL-121"@en ;
+    iat:occursAt iatd:t_2026-06-22 ;
+    obo:BFO_0000062 iatd:approval_suppl119 .
+
+[] a owl:AllDifferent ;
+   owl:distinctMembers ( iatd:approval_suppl116 iatd:approval_suppl119 iatd:approval_suppl121 ) .
+
+iatd:vt_suppl116 a owl:NamedIndividual , time:ProperInterval ; time:hasBeginning iatd:t_2023-11-16 .
+iatd:vt_suppl121 a owl:NamedIndividual , time:ProperInterval ; time:hasBeginning iatd:t_2026-06-22 .
+
+iatd:srlc_suppl116 a owl:NamedIndividual , iat:LabelingChangeRecord ;
+    rdfs:label "SrLC entry: COPAXONE NDA 020622 SUPPL-116 (11/16/2023)"@en ;
+    iat:supplementNumber "SUPPL-116" ;
+    iat:describesEvent iatd:approval_suppl116 ;
+    iat:hasValidTime iatd:vt_suppl116 ;
+    iat:recordedIn iatd:src_fda_srlc ;
+    iat:sourceDateText "11/16/2023" ;
+    dcterms:source <https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    iat:knownFrom "2024-06-13T22:39:40Z"^^xsd:dateTimeStamp ;
+    rdfs:comment "Section changed: Warnings and Precautions. Availability: upper bound, the first Internet Archive snapshot listing this entry (https://web.archive.org/web/20240613223940/https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430); the true posting date is earlier and unknown."@en .
+
+iatd:srlc_suppl119 a owl:NamedIndividual , iat:LabelingChangeRecord ;
+    rdfs:label "SrLC entry: COPAXONE NDA 020622 SUPPL-119 (01/22/2025)"@en ;
+    iat:supplementNumber "SUPPL-119" ;
+    iat:describesEvent iatd:approval_suppl119 ;
+    iat:approvesWarning iatd:bw_glatiramer_anaphylaxis ;
+    iat:hasValidTime iatd:vt_boxed_warning ;
+    iat:recordedIn iatd:src_fda_srlc ;
+    iat:sourceDateText "01/22/2025" ;
+    dcterms:source <https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    iat:knownFrom "2025-08-10T17:25:41Z"^^xsd:dateTimeStamp ;
+    rdfs:comment "Sections changed: Boxed Warning (newly added section), Contraindications, Warnings and Precautions, Adverse Reactions, Medication Guide. Availability: upper bound, the first Internet Archive snapshot listing this entry (https://web.archive.org/web/20250810172541/https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430); the true posting date is earlier and unknown."@en .
+
+iatd:srlc_suppl121 a owl:NamedIndividual , iat:LabelingChangeRecord ;
+    rdfs:label "SrLC entry: COPAXONE NDA 020622 SUPPL-121 (06/22/2026)"@en ;
+    iat:supplementNumber "SUPPL-121" ;
+    iat:describesEvent iatd:approval_suppl121 ;
+    iat:hasValidTime iatd:vt_suppl121 ;
+    iat:recordedIn iatd:src_fda_srlc ;
+    iat:sourceDateText "06/22/2026" ;
+    dcterms:source <https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    rdfs:comment "Section changed: Use in Specific Populations (8.2 Lactation). Availability time not known: no Internet Archive snapshot of the SrLC page lists this entry (latest snapshot checked: 2026-02-08), so as-of queries treat it as not available (fail-closed)."@en .
+
+# ---------- FDA Drug Safety Communication ----------
+
+iatd:dsc_2025-01-22_glatiramer a owl:NamedIndividual , iat:SafetyCommunication ;
+    rdfs:label "FDA Drug Safety Communication 2025-01-22: Boxed Warning about anaphylaxis with glatiramer acetate (Copaxone, Glatopa)"@en ;
+    iat:announcesWarning iatd:bw_glatiramer_anaphylaxis ;
+    iat:hasValidTime iatd:vt_boxed_warning ;
+    iat:knownFrom "2025-01-22T23:59:59-12:00"^^xsd:dateTimeStamp ;
+    iat:sourceDateText "01-22-2025 (page); 1-22-2025 (list)" ;
+    iat:recordedIn iatd:src_fda_dsc ;
+    dcterms:source <https://www.fda.gov/drugs/drug-safety-communications/fda-adds-boxed-warning-about-rare-serious-allergic-reaction-called-anaphylaxis-multiple-sclerosis> ;
+    iat:accessedOn "2026-10-07"^^xsd:date ;
+    rdfs:comment "The web page was later edited (content current as of 04/03/2026); the communication itself is dated 2025-01-22."@en .
+
+# ---------- Biolink-style association with bitemporal qualifiers (derived record) ----------
+
+iatd:assoc_glatiramer_anaphylaxis a owl:NamedIndividual , iat:BitemporalAssociation ;
+    rdfs:label "glatiramer acetate -- has adverse event --> anaphylaxis (boxed-warning level)"@en ;
+    biolink:subject obo:CHEBI_749565 ;
+    biolink:predicate biolink:has_adverse_event ;
+    biolink:object obo:MONDO_0100053 ;
+    biolink:knowledge_level "knowledge_assertion" ;
+    biolink:agent_type "manual_agent" ;
+    iat:derivedFrom iatd:dsc_2025-01-22_glatiramer ;
+    iat:hasValidTime iatd:vt_boxed_warning ;
+    iat:knownFrom "2025-01-22T23:59:59-12:00"^^xsd:dateTimeStamp ;
+    iat:recordedIn iatd:src_this_kg ;
+    rdfs:comment "Valid time = period during which FDA labeling states this association at boxed-warning level; it does not claim when the biological risk began. Availability = availability of the record it is derived from."@en .
+
+# ---------- Synthetic patient (hand-authored, NO PHI) ----------
+
+iatd:patient_SYN001 a owl:NamedIndividual , iat:SyntheticPatient ;
+    rdfs:label "Synthetic patient SYN-001 (no PHI)"@en ;
+    rdfs:comment "Hand-authored demonstration patient. No real person, no dates of birth, no identifiers."@en .
+
+iatd:vt_dx_SYN001 a owl:NamedIndividual , time:ProperInterval ; time:hasBeginning iatd:t_2023-02-10 .
+
+iatd:dx_SYN001_rrms a owl:NamedIndividual , iat:DiagnosisAssertion ,
+        [ a owl:Restriction ; owl:onProperty iat:assertsCondition ; owl:someValuesFrom obo:MONDO_0005314 ] ;
+    rdfs:label "SYN-001: relapsing-remitting multiple sclerosis (synthetic)"@en ;
+    iat:aboutPatient iatd:patient_SYN001 ;
+    iat:hasValidTime iatd:vt_dx_SYN001 ;
+    iat:knownFrom "2023-02-10T18:00:00Z"^^xsd:dateTimeStamp ;
+    iat:recordedIn iatd:src_synthetic_ehr .
+
+iatd:rx_SYN001_2024-06 a owl:NamedIndividual , iat:PrescriptionEvent ;
+    rdfs:label "SYN-001: Copaxone 20 mg/mL prescribed 2024-06-14 (synthetic)"@en ;
+    iat:hasPatient iatd:patient_SYN001 ;
+    iat:prescribedProduct iatd:rxcui_1111642 ;
+    iat:occursAt iatd:t_rx1 .
+
+iatd:rx_SYN001_2025-03 a owl:NamedIndividual , iat:PrescriptionEvent ;
+    rdfs:label "SYN-001: Copaxone 40 mg/mL prescribed 2025-03-14 (synthetic)"@en ;
+    iat:hasPatient iatd:patient_SYN001 ;
+    iat:prescribedProduct iatd:rxcui_1487363 ;
+    iat:occursAt iatd:t_rx2 ;
+    obo:BFO_0000062 iatd:rx_SYN001_2024-06 .
+
+iatd:rx_SYN001_2024-06 owl:differentFrom iatd:rx_SYN001_2025-03 .
+
+iatd:vt_rxrec1 a owl:NamedIndividual , time:ProperInterval ;
+    time:hasBeginning iatd:t_rx1 ; time:hasEnd iatd:t_rx2 ;
+    iat:endAttestedBy iatd:rxrec_SYN001_2025-03 ;
+    time:intervalMeets iatd:vt_rxrec2 .
+iatd:vt_rxrec2 a owl:NamedIndividual , time:ProperInterval ; time:hasBeginning iatd:t_rx2 .
+
+iatd:rxrec_SYN001_2024-06 a owl:NamedIndividual , iat:PrescriptionRecord ;
+    rdfs:label "SYN-001: prescription record 2024-06 (synthetic EHR entry)"@en ;
+    iat:aboutPatient iatd:patient_SYN001 ;
+    iat:documentsEvent iatd:rx_SYN001_2024-06 ;
+    iat:hasValidTime iatd:vt_rxrec1 ;
+    iat:knownFrom "2024-06-14T15:00:00Z"^^xsd:dateTimeStamp ;
+    iat:recordedIn iatd:src_synthetic_ehr .
+
+iatd:rxrec_SYN001_2025-03 a owl:NamedIndividual , iat:PrescriptionRecord ;
+    rdfs:label "SYN-001: prescription record 2025-03 (synthetic EHR entry)"@en ;
+    iat:aboutPatient iatd:patient_SYN001 ;
+    iat:documentsEvent iatd:rx_SYN001_2025-03 ;
+    iat:hasValidTime iatd:vt_rxrec2 ;
+    iat:knownFrom "2025-03-14T15:00:00Z"^^xsd:dateTimeStamp ;
+    iat:recordedIn iatd:src_synthetic_ehr .
+
+# ---------- As-of safety checks (retrospective audit of each prescription) ----------
+# Each check is contractually restricted to records of its as-of view: using any record that became available
+# after T makes the ontology inconsistent (see validation_report.txt for the counter-examples).
+
+iatd:check_SYN001_2024-06 a owl:NamedIndividual , iat:AsOfSafetyCheck ,
+        [ a owl:Restriction ; owl:onProperty iat:usedRecord ; owl:allValuesFrom iat:KnownAsOf_20240614T150000Z ] ;
+    rdfs:label "As-of safety check of the 2024-06-14 prescription"@en ;
+    iat:checksPrescription iatd:rx_SYN001_2024-06 ;
+    iat:evaluatedAsOf "2024-06-14T15:00:00Z"^^xsd:dateTimeStamp ;
+    iat:usedRecord iatd:label_v32 , iatd:dx_SYN001_rrms , iatd:rxrec_SYN001_2024-06 ;
+    rdfs:comment "Result: no boxed warning was known; the prescription was consistent with the knowledge available at that time."@en .
+
+iatd:check_SYN001_2025-03 a owl:NamedIndividual , iat:AsOfSafetyCheck ,
+        [ a owl:Restriction ; owl:onProperty iat:usedRecord ; owl:allValuesFrom iat:KnownAsOf_20250314T150000Z ] ;
+    rdfs:label "As-of safety check of the 2025-03-14 prescription"@en ;
+    iat:checksPrescription iatd:rx_SYN001_2025-03 ;
+    iat:evaluatedAsOf "2025-03-14T15:00:00Z"^^xsd:dateTimeStamp ;
+    iat:usedRecord iatd:label_v35 , iatd:dsc_2025-01-22_glatiramer , iatd:assoc_glatiramer_anaphylaxis ,
+                   iatd:dx_SYN001_rrms , iatd:rxrec_SYN001_2025-03 ;
+    rdfs:comment "Result: the boxed warning on anaphylaxis was known and must be shown to the prescriber."@en .

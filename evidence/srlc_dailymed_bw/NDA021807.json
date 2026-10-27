@@ -1,0 +1,64 @@
+{
+ "application": "NDA021807",
+ "srlc_rows": [
+  {
+   "drug_name": "SOLTAMOX",
+   "active_ingredient": "TAMOXIFEN CITRATE",
+   "application_number": "021807",
+   "application_type": "NDA",
+   "supplement_date": "09/25/2018",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/25/2018",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/25/2018",
+   "database_updated": "10/04/2018",
+   "drug_name_id": "1686"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-25",
+ "srlc_database_updated": "2018-10-04",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1e6ff055-590c-41e6-9530-1fdf04cdbd02",
+   "title": "SOLTAMOX (TAMOXIFEN CITRATE) LIQUID [MAYNE PHARMA]",
+   "published_date": "Dec 01, 2021",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-12-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2021-06-18"
+   },
+   "lag_days_dailymed": 997,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 997,
+ "fetched_utc": "2026-10-16T09:23:12Z"
+}

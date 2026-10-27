@@ -1,0 +1,88 @@
+{
+ "application": "NDA214313",
+ "srlc_rows": [
+  {
+   "drug_name": "NOREPINEPHRINE BITARTRATE IN 5% DEXTROSE",
+   "active_ingredient": "",
+   "application_number": "214313",
+   "application_type": "NDA",
+   "supplement_date": "02/06/2026",
+   "database_updated": "02/11/2026",
+   "drug_name_id": "3248"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-06",
+ "srlc_database_updated": "2026-02-11",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6363e9b4-29df-4553-904d-a563e5adda6e",
+   "title": "NOREPINEPHRINE BITARTRATE INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Feb 16, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-01-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-06-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-10-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-12-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-08-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-04-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-06-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-02-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-02-16"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:07:27Z"
+}

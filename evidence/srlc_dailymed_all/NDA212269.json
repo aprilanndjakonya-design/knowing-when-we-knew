@@ -1,0 +1,72 @@
+{
+ "application": "NDA212269",
+ "srlc_rows": [
+  {
+   "drug_name": "FERRIPROX",
+   "active_ingredient": "DEFERIPRONE",
+   "application_number": "212269",
+   "application_type": "NDA",
+   "supplement_date": "03/26/2025",
+   "database_updated": "03/28/2025",
+   "drug_name_id": "2453"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-26",
+ "srlc_database_updated": "2025-03-28",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "946718ff-df43-1baa-74d1-e5bcfbe8ad86",
+   "title": "FERRIPROX (DEFERIPRONE) TABLET FERRIPROX (DEFERIPRONE) TABLET, FILM COATED [CHIESI USA, INC.]",
+   "published_date": "Jan 30, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-06-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-05-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-07-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-11-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-12-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-07-31"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-04-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-06-20"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-01-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-04-17"
+   },
+   "lag_days_dailymed": 22,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 22,
+ "fetched_utc": "2026-10-16T09:06:16Z"
+}

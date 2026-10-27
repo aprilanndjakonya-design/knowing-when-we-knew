@@ -1,0 +1,52 @@
+{
+ "application": "BLA761333",
+ "srlc_rows": [
+  {
+   "drug_name": "BKEMV",
+   "active_ingredient": "ECULIZUMAB-AEEB",
+   "application_number": "761333",
+   "application_type": "BLA",
+   "supplement_date": "11/24/2025",
+   "database_updated": "11/28/2025",
+   "drug_name_id": "3056"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-24",
+ "srlc_database_updated": "2025-11-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "002f9748-b0e8-4b6e-a38b-56930a839491",
+   "title": "BKEMV (ECULIZUMAB-AEEB) INJECTION, SOLUTION, CONCENTRATE [AMGEN INC]",
+   "published_date": "Jul 13, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2025-03-03"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-07-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-12-08"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:41:08Z"
+}

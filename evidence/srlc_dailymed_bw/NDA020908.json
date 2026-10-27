@@ -1,0 +1,155 @@
+{
+ "application": "NDA020908",
+ "srlc_rows": [
+  {
+   "drug_name": "VAGIFEM",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "020908",
+   "application_type": "NDA",
+   "supplement_date": "09/29/2022",
+   "supplement": "SUPPL-27",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/29/2022",
+     "suppl": "SUPPL-27",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/15/2024",
+   "database_updated": "02/20/2024",
+   "drug_name_id": "880"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-09-29",
+ "srlc_database_updated": "2024-02-20",
+ "lag_days_srlc_database": 509,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "e5ad3cf6-dd96-4e64-af21-c1eee38d0b88",
+   "title": "VAGIFEM (ESTRADIOL) INSERT [NOVO NORDISK]",
+   "published_date": "Feb 12, 2025",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-06-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-01-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-07-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-05-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-04-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-07-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-04-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-03-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-07-14"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-09-14"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-03-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-11-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-04-25"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-04-30"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-06-11"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-12-18"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-10-14"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-10-09"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-02-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2022-10-14"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 17
+  },
+  {
+   "setid": "d67888ac-5041-4758-88db-845a41f67df4",
+   "title": "VAGIFEM (ESTRADIOL) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Mar 28, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-10-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-03-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:18:23Z"
+}

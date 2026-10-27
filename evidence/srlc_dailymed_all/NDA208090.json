@@ -1,0 +1,68 @@
+{
+ "application": "NDA208090",
+ "srlc_rows": [
+  {
+   "drug_name": "XTAMPZA ER",
+   "active_ingredient": "OXYCODONE",
+   "application_number": "208090",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/06/2026",
+   "drug_name_id": "735"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-06",
+ "lag_days_srlc_database": 15,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b0a5ded2-8ee2-49ca-a86c-2b28ae40f60c",
+   "title": "XTAMPZA ER (OXYCODONE) CAPSULE, EXTENDED RELEASE [COLLEGIUM PHARMACEUTICAL, INC.]",
+   "published_date": "Jan 06, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-05-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-12-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-11-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-02-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-10-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-03-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-01-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-01-06"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:03:00Z"
+}

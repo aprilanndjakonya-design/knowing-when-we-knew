@@ -1,0 +1,128 @@
+{
+ "application": "NDA016885",
+ "srlc_rows": [
+  {
+   "drug_name": "LYSODREN",
+   "active_ingredient": "MITOTANE",
+   "application_number": "016885",
+   "application_type": "NDA",
+   "supplement_date": "01/09/2024",
+   "supplement": "SUPPL-32",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/09/2024",
+     "suppl": "SUPPL-32",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/28/2024",
+   "database_updated": "10/30/2024",
+   "drug_name_id": "1060"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-01-09",
+ "srlc_database_updated": "2024-10-30",
+ "lag_days_srlc_database": 295,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "4046a224-8832-daa2-e063-6294a90a11d7",
+   "title": "LYSODREN (MITOTANE) TABLET [ESTEVE PHARMACEUTICALS, S.A.]",
+   "published_date": "Aug 06, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-05-25"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-08-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-10-06"
+   },
+   "lag_days_dailymed": 636,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "f0cd76e9-460c-450e-b094-172e636f340a",
+   "title": "LYSODREN (MITOTANE) TABLET [HRA PHARMA RARE DISEASES]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-09-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-02-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-08-04"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-01-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-01-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-04-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-12-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-05-05"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2024-01-23"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:14:00Z"
+}

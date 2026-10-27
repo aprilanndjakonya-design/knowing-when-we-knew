@@ -1,0 +1,142 @@
+{
+ "application": "BLA761059",
+ "srlc_rows": [
+  {
+   "drug_name": "HADLIMA",
+   "active_ingredient": "ADALIMUMAB-BWWD",
+   "application_number": "761059",
+   "application_type": "BLA",
+   "supplement_date": "10/17/2025",
+   "database_updated": "10/29/2025",
+   "drug_name_id": "2637"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-17",
+ "srlc_database_updated": "2025-10-29",
+ "lag_days_srlc_database": 12,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "c24655e5-796e-4127-b716-92f08d649c83",
+   "title": "ADALIMUMAB-BWWD SOLUTION [CORDAVIS LIMITED]",
+   "published_date": "Jul 21, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-12-16"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-07-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-12-16"
+   },
+   "lag_days_dailymed": 60,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c361dd60-c88d-4f3c-b98c-79687bbc3450",
+   "title": "HADLIMA (ADALIMUMAB-BWWD) SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 20, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-10-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-05-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-05-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-05-18"
+   },
+   "lag_days_dailymed": 213,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "4774a951-3ce8-43b6-80b1-e6b23752aae6",
+   "title": "HADLIMA (ADALIMUMAB-BWWD) SOLUTION [ORGANON LLC]",
+   "published_date": "Jan 14, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 7,
+     "published_date": "2023-07-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-07-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-07-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-07-15"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-12-29"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-01-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-12-04"
+   },
+   "lag_days_dailymed": 48,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "7345f276-102e-4175-b7ef-ff1706b05472",
+   "title": "HADLIMA (ADALIMUMAB-BWWD) SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 02, 2023",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2023-11-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "ef25af7e-6267-409a-8d68-de51eb48812a",
+   "title": "HADLIMA (ADALIMUMAB-BWWD) SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Oct 03, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-10-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 48,
+ "fetched_utc": "2026-10-16T08:38:57Z"
+}

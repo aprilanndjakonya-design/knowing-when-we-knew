@@ -1,0 +1,88 @@
+{
+ "application": "NDA020657",
+ "srlc_rows": [
+  {
+   "drug_name": "SPORANOX",
+   "active_ingredient": "ITRACONAZOLE",
+   "application_number": "020657",
+   "application_type": "NDA",
+   "supplement_date": "03/18/2024",
+   "supplement": "SUPPL-42",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/17/2017",
+     "suppl": "SUPPL-35",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Drug Interactions"
+     ]
+    },
+    {
+     "date": "10/07/2017",
+     "suppl": "SUPPL-36",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Drug Interactions",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "12/05/2022",
+     "suppl": "SUPPL-38",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "10/19/2023",
+     "suppl": "SUPPL-39",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "02/05/2024",
+     "suppl": "SUPPL-40",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    },
+    {
+     "date": "03/18/2024",
+     "suppl": "SUPPL-42",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/07/2026",
+   "database_updated": "07/16/2026",
+   "drug_name_id": "915"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-03-18",
+ "srlc_database_updated": "2026-07-16",
+ "lag_days_srlc_database": 850,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:33Z"
+}

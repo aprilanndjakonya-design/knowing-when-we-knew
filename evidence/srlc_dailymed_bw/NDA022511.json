@@ -1,0 +1,51 @@
+{
+ "application": "NDA022511",
+ "srlc_rows": [
+  {
+   "drug_name": "VIMOVO",
+   "active_ingredient": "ESOMEPRAZOLE MAGNESIUM; NAPROXEN",
+   "application_number": "022511",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-18",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-18",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/21/2024",
+   "database_updated": "11/25/2024",
+   "drug_name_id": "204"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2024-11-25",
+ "lag_days_srlc_database": 3122,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9513589d-ef5d-4b8d-a90a-6adb6af2ae11",
+   "title": "VIMOVO (NAPROXEN AND ESOMEPRAZOLE MAGNESIUM) TABLET, DELAYED RELEASE [STAT RX USA LLC]",
+   "published_date": "Aug 12, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-08-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:25:24Z"
+}

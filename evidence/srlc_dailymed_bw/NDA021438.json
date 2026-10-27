@@ -1,0 +1,125 @@
+{
+ "application": "NDA021438",
+ "srlc_rows": [
+  {
+   "drug_name": "INNOPRAN XL",
+   "active_ingredient": "PROPRANOLOL HYDROCHLORIDE",
+   "application_number": "021438",
+   "application_type": "NDA",
+   "supplement_date": "08/16/2021",
+   "supplement": "SUPPL-25",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/16/2021",
+     "suppl": "SUPPL-25",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2023",
+   "database_updated": "12/27/2023",
+   "drug_name_id": "2527"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-08-16",
+ "srlc_database_updated": "2023-12-27",
+ "lag_days_srlc_database": 863,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "ac196ff5-9215-402b-bc57-69aa87f8bade",
+   "title": "INDERAL XL (PROPRANOLOL HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [ANI PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-11-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-06-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-09-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-02-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-06-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-09-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-06-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2021-09-20"
+   },
+   "lag_days_dailymed": 35,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "cd5601b3-4d87-4c3b-acac-b476e787609d",
+   "title": "INNOPRAN XL (PROPRANOLOL HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [ANI PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-02-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-06-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-08-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-06-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2021-08-26"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:22:21Z"
+}

@@ -1,0 +1,114 @@
+{
+ "application": "NDA021530",
+ "srlc_rows": [
+  {
+   "drug_name": "MOBIC",
+   "active_ingredient": "MELOXICAM",
+   "application_number": "021530",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-14",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-14",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/04/2021",
+   "drug_name_id": "192"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2021-05-04",
+ "lag_days_srlc_database": 1821,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "4ddf5a4d-8e84-419d-8e3a-c91b85501885",
+   "title": "MELOXICAM SUSPENSION [AVONDALE PHARMACEUTICALS, LLC]",
+   "published_date": "Sep 28, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-06-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-01-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-09-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2022-06-24"
+   },
+   "lag_days_dailymed": 2237,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec",
+   "title": "ZYBIC (MELOXICAM) SUSPENSION [REDMONT PHARMACEUTICALS, LLC]",
+   "published_date": "Sep 28, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-01-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-09-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-01-05"
+   },
+   "lag_days_dailymed": 3528,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "55af77dd-2abc-49a6-990c-399d5a5e7a91",
+   "title": "MELOXICAM SUSPENSION [EMERALD THERAPEUTICS, LLC]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-06-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-01-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2022-06-29"
+   },
+   "lag_days_dailymed": 2242,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 2237,
+ "fetched_utc": "2026-10-16T09:22:39Z"
+}

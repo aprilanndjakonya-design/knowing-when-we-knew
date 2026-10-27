@@ -1,0 +1,48 @@
+{
+ "application": "NDA216318",
+ "srlc_rows": [
+  {
+   "drug_name": "AZMIRO",
+   "active_ingredient": "TESTOSTERONE CYPIONATE",
+   "application_number": "216318",
+   "application_type": "NDA",
+   "supplement_date": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "3153"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-11",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "235b5625-570d-3fba-e063-6394a90aa2d1",
+   "title": "AZMIRO (TESTOSTERONE CYPIONATE) INJECTION, SOLUTION [AZURITY PHARMACEUTICALS, INC.]",
+   "published_date": "Jul 28, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-01-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-07-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-07-28"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:09:01Z"
+}

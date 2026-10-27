@@ -1,0 +1,56 @@
+{
+ "application": "NDA014399",
+ "srlc_rows": [
+  {
+   "drug_name": "NORPRAMIN",
+   "active_ingredient": "DESIPRAMINE HYDROCHLORIDE",
+   "application_number": "014399",
+   "application_type": "NDA",
+   "supplement_date": "06/24/2025",
+   "database_updated": "06/30/2025",
+   "drug_name_id": "3146"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-24",
+ "srlc_database_updated": "2025-06-30",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "70b562ea-9f21-4e4a-b3ed-0590b2892f6a",
+   "title": "NORPRAMIN (DESIPRAMINE HYDROCHLORIDE) TABLET, SUGAR COATED [VALIDUS PHARMACEUTICALS LLC]",
+   "published_date": "Jul 07, 2025",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-07-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-12-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-01-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-12-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-07-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-07-07"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:43:05Z"
+}

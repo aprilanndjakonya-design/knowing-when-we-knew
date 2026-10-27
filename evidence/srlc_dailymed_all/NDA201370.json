@@ -1,0 +1,104 @@
+{
+ "application": "NDA201370",
+ "srlc_rows": [
+  {
+   "drug_name": "HEPARIN SODIUM PRESERVATIVE FREE",
+   "active_ingredient": "HEPARIN SODIUM",
+   "application_number": "201370",
+   "application_type": "NDA",
+   "supplement_date": "09/24/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "285"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-24",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "56dc3074-f1c5-45a3-b923-f1d14858e06d",
+   "title": "HEPARIN SODIUM INJECTION [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Oct 06, 2025",
+   "spl_version": 32,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-08-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-08-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-08-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-08-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-08-23"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-08-10"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-10-10"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2020-02-12"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2020-02-14"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2020-05-28"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-08-23"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-07-31"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2025-08-22"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 32,
+    "published_date": "2025-10-06"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:58:46Z"
+}

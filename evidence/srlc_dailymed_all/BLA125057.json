@@ -1,0 +1,369 @@
+{
+ "application": "BLA125057",
+ "srlc_rows": [
+  {
+   "drug_name": "HUMIRA",
+   "active_ingredient": "ADALIMUMAB",
+   "application_number": "125057",
+   "application_type": "BLA",
+   "supplement_date": "07/16/2025",
+   "database_updated": "07/21/2025",
+   "drug_name_id": "368"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-16",
+ "srlc_database_updated": "2025-07-21",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "4977567e-3525-44ac-9ff5-f1e74b053950",
+   "title": "HUMIRA (ADALIMUMAB) KIT [CORDAVIS LIMITED]",
+   "published_date": "Feb 26, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-02-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-02-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-08-04"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "608d4f0d-b19f-46d3-749a-7159aa5f933d",
+   "title": "HUMIRA (ADALIMUMAB) KIT [ABBVIE INC.]",
+   "published_date": "Feb 06, 2026",
+   "spl_version": 2154,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-10-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-01-11"
+    },
+    {
+     "spl_version": 609,
+     "published_date": "2009-11-24"
+    },
+    {
+     "spl_version": 671,
+     "published_date": "2009-12-15"
+    },
+    {
+     "spl_version": 1112,
+     "published_date": "2010-08-11"
+    },
+    {
+     "spl_version": 1273,
+     "published_date": "2010-10-08"
+    },
+    {
+     "spl_version": 1407,
+     "published_date": "2011-03-16"
+    },
+    {
+     "spl_version": 1409,
+     "published_date": "2011-04-21"
+    },
+    {
+     "spl_version": 1411,
+     "published_date": "2011-05-10"
+    },
+    {
+     "spl_version": 1412,
+     "published_date": "2011-06-01"
+    },
+    {
+     "spl_version": 1415,
+     "published_date": "2011-09-16"
+    },
+    {
+     "spl_version": 1419,
+     "published_date": "2012-01-05"
+    },
+    {
+     "spl_version": 1426,
+     "published_date": "2012-05-02"
+    },
+    {
+     "spl_version": 1451,
+     "published_date": "2012-06-11"
+    },
+    {
+     "spl_version": 1490,
+     "published_date": "2012-10-11"
+    },
+    {
+     "spl_version": 1522,
+     "published_date": "2013-05-07"
+    },
+    {
+     "spl_version": 1528,
+     "published_date": "2013-05-20"
+    },
+    {
+     "spl_version": 1535,
+     "published_date": "2013-05-29"
+    },
+    {
+     "spl_version": 1538,
+     "published_date": "2013-06-21"
+    },
+    {
+     "spl_version": 1552,
+     "published_date": "2013-09-09"
+    },
+    {
+     "spl_version": 1553,
+     "published_date": "2013-09-10"
+    },
+    {
+     "spl_version": 1560,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 1619,
+     "published_date": "2014-06-09"
+    },
+    {
+     "spl_version": 1692,
+     "published_date": "2014-10-08"
+    },
+    {
+     "spl_version": 1748,
+     "published_date": "2015-02-23"
+    },
+    {
+     "spl_version": 1766,
+     "published_date": "2015-07-31"
+    },
+    {
+     "spl_version": 1805,
+     "published_date": "2015-09-24"
+    },
+    {
+     "spl_version": 1839,
+     "published_date": "2015-12-16"
+    },
+    {
+     "spl_version": 1858,
+     "published_date": "2016-04-01"
+    },
+    {
+     "spl_version": 1870,
+     "published_date": "2016-07-11"
+    },
+    {
+     "spl_version": 1886,
+     "published_date": "2016-07-20"
+    },
+    {
+     "spl_version": 1893,
+     "published_date": "2016-09-08"
+    },
+    {
+     "spl_version": 1907,
+     "published_date": "2016-10-28"
+    },
+    {
+     "spl_version": 1946,
+     "published_date": "2017-04-07"
+    },
+    {
+     "spl_version": 1958,
+     "published_date": "2017-05-03"
+    },
+    {
+     "spl_version": 1971,
+     "published_date": "2017-06-16"
+    },
+    {
+     "spl_version": 1989,
+     "published_date": "2017-11-06"
+    },
+    {
+     "spl_version": 2006,
+     "published_date": "2017-12-19"
+    },
+    {
+     "spl_version": 2032,
+     "published_date": "2018-08-07"
+    },
+    {
+     "spl_version": 2034,
+     "published_date": "2018-08-09"
+    },
+    {
+     "spl_version": 2053,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 2063,
+     "published_date": "2018-10-22"
+    },
+    {
+     "spl_version": 2070,
+     "published_date": "2018-11-29"
+    },
+    {
+     "spl_version": 2074,
+     "published_date": "2018-12-11"
+    },
+    {
+     "spl_version": 2075,
+     "published_date": "2018-12-13"
+    },
+    {
+     "spl_version": 2094,
+     "published_date": "2019-01-23"
+    },
+    {
+     "spl_version": 2096,
+     "published_date": "2019-04-17"
+    },
+    {
+     "spl_version": 2104,
+     "published_date": "2020-01-03"
+    },
+    {
+     "spl_version": 2112,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 2122,
+     "published_date": "2020-03-20"
+    },
+    {
+     "spl_version": 2134,
+     "published_date": "2020-12-18"
+    },
+    {
+     "spl_version": 2135,
+     "published_date": "2021-03-03"
+    },
+    {
+     "spl_version": 2136,
+     "published_date": "2021-10-05"
+    },
+    {
+     "spl_version": 2137,
+     "published_date": "2022-08-15"
+    },
+    {
+     "spl_version": 2138,
+     "published_date": "2022-08-26"
+    },
+    {
+     "spl_version": 2139,
+     "published_date": "2023-02-06"
+    },
+    {
+     "spl_version": 2140,
+     "published_date": "2023-03-15"
+    },
+    {
+     "spl_version": 2141,
+     "published_date": "2023-03-27"
+    },
+    {
+     "spl_version": 2142,
+     "published_date": "2023-04-10"
+    },
+    {
+     "spl_version": 2143,
+     "published_date": "2023-05-17"
+    },
+    {
+     "spl_version": 2144,
+     "published_date": "2023-07-07"
+    },
+    {
+     "spl_version": 2145,
+     "published_date": "2023-08-24"
+    },
+    {
+     "spl_version": 2146,
+     "published_date": "2023-09-20"
+    },
+    {
+     "spl_version": 2147,
+     "published_date": "2023-11-08"
+    },
+    {
+     "spl_version": 2148,
+     "published_date": "2024-02-12"
+    },
+    {
+     "spl_version": 2151,
+     "published_date": "2025-07-14"
+    },
+    {
+     "spl_version": 2152,
+     "published_date": "2025-08-01"
+    },
+    {
+     "spl_version": 2153,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 2154,
+     "published_date": "2026-02-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2152,
+    "published_date": "2025-08-01"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 66
+  },
+  {
+   "setid": "a06a9aec-fd5b-4c3e-a81f-eb46bb384100",
+   "title": "HUMIRA (ADALIMUMAB) KIT [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 17, 2024",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-10-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:37:42Z"
+}

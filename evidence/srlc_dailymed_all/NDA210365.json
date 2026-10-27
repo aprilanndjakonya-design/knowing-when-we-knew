@@ -1,0 +1,140 @@
+{
+ "application": "NDA210365",
+ "srlc_rows": [
+  {
+   "drug_name": "EPIDIOLEX",
+   "active_ingredient": "CANNABIDIOL",
+   "application_number": "210365",
+   "application_type": "NDA",
+   "supplement_date": "06/05/2026",
+   "database_updated": "06/12/2026",
+   "drug_name_id": "2298"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-05",
+ "srlc_database_updated": "2026-06-12",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8bf27097-4870-43fb-94f0-f3d0871d1eec",
+   "title": "EPIDIOLEX (CANNABIDIOL) SOLUTION [JAZZ PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 15, 2026",
+   "spl_version": 35,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-11-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-12-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-01-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-06-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-06-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-10-22"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-04-24"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-08-10"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-08-27"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-11-04"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2021-07-12"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-09-07"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2021-10-12"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-11-09"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-12-09"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2022-03-14"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-05-02"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2023-01-02"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-11-09"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-03-18"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2025-04-09"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-07-03"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2026-06-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 35,
+    "published_date": "2026-06-15"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 25
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:04:58Z"
+}

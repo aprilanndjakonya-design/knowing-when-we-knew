@@ -1,0 +1,56 @@
+{
+ "application": "NDA022118",
+ "srlc_rows": [
+  {
+   "drug_name": "FENOGLIDE",
+   "active_ingredient": "FENOFIBRATE",
+   "application_number": "022118",
+   "application_type": "NDA",
+   "supplement_date": "06/06/2025",
+   "database_updated": "06/11/2025",
+   "drug_name_id": "1573"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-06",
+ "srlc_database_updated": "2025-06-11",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "b38489c0-ee7b-11df-b958-0002a5d5c51b",
+   "title": "FENOGLIDE (FENOFIBRATE) TABLET [SHORE THERAPEUTICS, INC]",
+   "published_date": "May 17, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-05-17"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "9d4fa3ac-5a6d-460c-bc89-1c83fd436e90",
+   "title": "FENOGLIDE (FENOFIBRATE) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 14, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:54:09Z"
+}

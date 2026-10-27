@@ -1,0 +1,39 @@
+{
+ "application": "NDA022205",
+ "srlc_rows": [
+  {
+   "drug_name": "GIAZO",
+   "active_ingredient": "BALSALAZIDE DISODIUM",
+   "application_number": "022205",
+   "application_type": "NDA",
+   "supplement_date": "10/01/2020",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/01/2020",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "11/01/2021",
+   "database_updated": "11/03/2021",
+   "drug_name_id": "2177"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-10-01",
+ "srlc_database_updated": "2021-11-03",
+ "lag_days_srlc_database": 398,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:24:29Z"
+}

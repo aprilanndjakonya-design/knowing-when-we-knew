@@ -1,0 +1,52 @@
+{
+ "application": "NDA215559",
+ "srlc_rows": [
+  {
+   "drug_name": "SOHONOS",
+   "active_ingredient": "PALOVAROTENE",
+   "application_number": "215559",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2026",
+   "database_updated": "09/24/2026",
+   "drug_name_id": "3330"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-18",
+ "srlc_database_updated": "2026-09-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "67dce406-7cc4-4d66-92de-ad18b6df0625",
+   "title": "SOHONOS (PALOVAROTENE) CAPSULE [IPSEN BIOPHARMACEUTICALS, INC.]",
+   "published_date": "Sep 28, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-08-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-09-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-09-28"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:08:31Z"
+}

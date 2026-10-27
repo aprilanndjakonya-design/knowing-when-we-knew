@@ -1,0 +1,77 @@
+{
+ "application": "NDA018960",
+ "srlc_rows": [
+  {
+   "drug_name": "CUPRIC CHLORIDE IN PLASTIC CONTAINER",
+   "active_ingredient": "CUPRIC CHLORIDE",
+   "application_number": "018960",
+   "application_type": "NDA",
+   "supplement_date": "07/09/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "3161"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-09",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a84d61a4-8e7f-4be1-aba6-f633b334aafc",
+   "title": "COPPER (CUPRIC CHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "May 20, 2026",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-10-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-07-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-08-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2014-07-01"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-05-02"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-11-27"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-04-27"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-07-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:44:47Z"
+}

@@ -1,0 +1,39 @@
+{
+ "application": "NDA201152",
+ "srlc_rows": [
+  {
+   "drug_name": "VIRAMUNE XR",
+   "active_ingredient": "NEVIRAPINE",
+   "application_number": "201152",
+   "application_type": "NDA",
+   "supplement_date": "03/27/2017",
+   "supplement": "SUPPL-10",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/27/2017",
+     "suppl": "SUPPL-10",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/22/2024",
+   "database_updated": "07/25/2024",
+   "drug_name_id": "943"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-03-27",
+ "srlc_database_updated": "2024-07-25",
+ "lag_days_srlc_database": 2677,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:26:13Z"
+}

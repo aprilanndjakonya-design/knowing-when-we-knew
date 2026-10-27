@@ -1,0 +1,94 @@
+{
+ "application": "BLA761183",
+ "srlc_rows": [
+  {
+   "drug_name": "TZIELD",
+   "active_ingredient": "TEPLIZUMAB-MZWV",
+   "application_number": "761183",
+   "application_type": "BLA",
+   "supplement_date": "04/20/2026",
+   "supplement": "SUPPL-13",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "04/20/2026",
+     "suppl": "SUPPL-13",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/20/2026",
+   "database_updated": "04/24/2026",
+   "drug_name_id": "3279"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-04-20",
+ "srlc_database_updated": "2026-04-24",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e8a39a5f-139c-4510-9777-71cbb00138fa",
+   "title": "TZIELD (TEPLIZUMAB-MZWV) INJECTION [PROVENTION BIO, INC.]",
+   "published_date": "Aug 19, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-11-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-11-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-05-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-04-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-06-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-06-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-08-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-08-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-04-23"
+   },
+   "lag_days_dailymed": 3,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 3,
+ "fetched_utc": "2026-10-16T09:13:06Z"
+}

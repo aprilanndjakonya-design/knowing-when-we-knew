@@ -1,0 +1,121 @@
+{
+ "application": "NDA209949",
+ "srlc_rows": [
+  {
+   "drug_name": "DAPTOMYCIN",
+   "active_ingredient": "DAPTOMYCIN",
+   "application_number": "209949",
+   "application_type": "NDA",
+   "supplement_date": "04/30/2025",
+   "database_updated": "05/30/2025",
+   "drug_name_id": "2064"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-30",
+ "srlc_database_updated": "2025-05-30",
+ "lag_days_srlc_database": 30,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "23f39005-3008-4ab1-918d-b8acb001554e",
+   "title": "DAPTOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+   "published_date": "Mar 24, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-03-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-03-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-03-02"
+   },
+   "lag_days_dailymed": 306,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "97c47c18-985d-4373-88f7-a86ec591ea44",
+   "title": "DAPTOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [XELLIA PHARMACEUTICALS USA LLC]",
+   "published_date": "Apr 10, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-03-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-12-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-11-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-04-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "bcacf746-a3ee-48b5-bfbe-6a2b548ad24c",
+   "title": "DAPTOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CIVICA, INC.]",
+   "published_date": "Apr 10, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-09-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-02-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-04-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "e3e6b91e-c673-46da-a654-2bb1312cb02b",
+   "title": "DAPTOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [XELLIA PHARMACEUTICALS USA, LLC]",
+   "published_date": "Oct 07, 2019",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 306,
+ "fetched_utc": "2026-10-16T09:04:40Z"
+}

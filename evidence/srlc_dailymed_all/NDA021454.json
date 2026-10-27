@@ -1,0 +1,142 @@
+{
+ "application": "NDA021454",
+ "srlc_rows": [
+  {
+   "drug_name": "TESTIM",
+   "active_ingredient": "TESTOSTERONE",
+   "application_number": "021454",
+   "application_type": "NDA",
+   "supplement_date": "07/11/2025",
+   "database_updated": "07/16/2025",
+   "drug_name_id": "492"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-11",
+ "srlc_database_updated": "2025-07-16",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "9f2aae1f-898d-4955-be31-678e0cf85395",
+   "title": "TESTIM (TESTOSTERONE) GEL [ENDO USA, INC.]",
+   "published_date": "Mar 05, 2026",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-02-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-04-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-12-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2012-02-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2013-09-12"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-05-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2014-07-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2015-01-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2015-05-21"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2016-10-26"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2016-10-27"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-05-18"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-05-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-12-09"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-08-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-09-13"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2025-07-23"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-12-05"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-03-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 27,
+    "published_date": "2025-07-23"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 16
+  },
+  {
+   "setid": "48f8aa83-e043-41b8-9a20-dbb098045895",
+   "title": "TESTIM (TESTOSTERONE) GEL [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Apr 20, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-04-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "0d90cadf-d579-47bf-b655-7e9d3bd1cabe",
+   "title": "TESTIM (TESTOSTERONE) GEL [STAT RX USA]",
+   "published_date": "Mar 16, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:52:03Z"
+}

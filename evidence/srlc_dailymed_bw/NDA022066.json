@@ -1,0 +1,36 @@
+{
+ "application": "NDA022066",
+ "srlc_rows": [
+  {
+   "drug_name": "OMNISCAN",
+   "active_ingredient": "GADODIAMIDE",
+   "application_number": "022066",
+   "application_type": "NDA",
+   "supplement_date": "01/26/2024",
+   "supplement": "SUPPL-13",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/26/2024",
+     "suppl": "SUPPL-13",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/05/2025",
+   "database_updated": "03/07/2025",
+   "drug_name_id": "1551"
+  }
+ ],
+ "latest_bw_supplement_date": "2024-01-26",
+ "srlc_database_updated": "2025-03-07",
+ "lag_days_srlc_database": 406,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:23:48Z"
+}

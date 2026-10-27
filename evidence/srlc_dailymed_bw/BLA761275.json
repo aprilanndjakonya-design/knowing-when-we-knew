@@ -1,0 +1,103 @@
+{
+ "application": "BLA761275",
+ "srlc_rows": [
+  {
+   "drug_name": "TYENNE",
+   "active_ingredient": "TOCILIZUMAB-AAZG",
+   "application_number": "761275",
+   "application_type": "BLA",
+   "supplement_date": "02/28/2025",
+   "supplement": "SUPPL-8",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/28/2025",
+     "suppl": "SUPPL-8",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/21/2026",
+   "database_updated": "05/21/2026",
+   "drug_name_id": "3059"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-28",
+ "srlc_database_updated": "2026-05-21",
+ "lag_days_srlc_database": 447,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "ad76441d-da59-47df-8d9d-2243005180f0",
+   "title": "TYENNE (TOCILIZUMAB-AAZG) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-07-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-12-04"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-06-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-10-03"
+   },
+   "lag_days_dailymed": 217,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "e400bbe6-43c5-4de6-82b9-cb44ce3cd906",
+   "title": "TYENNE (TOCILIZUMAB-AAZG) INJECTION, SOLUTION, CONCENTRATE [FRESENIUS KABI USA, LLC]",
+   "published_date": "Aug 17, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-08-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-08-17"
+   },
+   "lag_days_dailymed": 535,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 217,
+ "fetched_utc": "2026-10-16T09:13:14Z"
+}

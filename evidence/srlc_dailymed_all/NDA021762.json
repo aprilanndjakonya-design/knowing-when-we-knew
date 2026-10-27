@@ -1,0 +1,87 @@
+{
+ "application": "NDA021762",
+ "srlc_rows": [
+  {
+   "drug_name": "FOSAMAX PLUS D",
+   "active_ingredient": "ALENDRONATE SODIUM; CHOLECALCIFEROL",
+   "application_number": "021762",
+   "application_type": "NDA",
+   "supplement_date": "02/03/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "2025"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-03",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "10307e7e-9a84-4aa1-8c5c-4b209cffe4d1",
+   "title": "FOSAMAX PLUS D (ALENDRONATE SODIUM AND CHOLECALCIFEROL) TABLET [ORGANON LLC]",
+   "published_date": "Feb 16, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-09-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-06-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-11-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-04-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-12-15"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-02-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-02-16"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "d4a71df1-7488-46a2-8ded-dd0db56de618",
+   "title": "FOSAMAX PLUS D (ALENDRONATE SODIUM AND CHOLECALCIFEROL) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Dec 28, 2011",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-07-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-12-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:52:58Z"
+}

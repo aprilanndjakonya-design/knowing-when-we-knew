@@ -1,0 +1,44 @@
+{
+ "application": "NDA021817",
+ "srlc_rows": [
+  {
+   "drug_name": "RECLAST",
+   "active_ingredient": "ZOLEDRONIC ACID",
+   "application_number": "021817",
+   "application_type": "NDA",
+   "supplement_date": "02/03/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "170"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-03",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5a9b3737-9ce6-4a89-b76e-6aab79eba9cf",
+   "title": "RECLAST (ZOLEDRONIC ACID) INJECTION, SOLUTION [SANDOZ INC]",
+   "published_date": "Feb 13, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-12-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-02-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-02-13"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:53:12Z"
+}

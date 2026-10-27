@@ -1,0 +1,72 @@
+{
+ "application": "NDA216834",
+ "srlc_rows": [
+  {
+   "drug_name": "ZILBRYSQ",
+   "active_ingredient": "ZILUCOPLAN SODIUM",
+   "application_number": "216834",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2026",
+   "database_updated": "01/28/2026",
+   "drug_name_id": "2949"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-22",
+ "srlc_database_updated": "2026-01-28",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9f1d53d6-e495-4a3a-8bb9-680a15d25034",
+   "title": "ZILBRYSQ (ZILUCOPLAN) INJECTION, SOLUTION [UCB, INC.]",
+   "published_date": "Feb 05, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-03-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-06-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-07-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-09-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-07-10"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-02-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-02-05"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:09:23Z"
+}

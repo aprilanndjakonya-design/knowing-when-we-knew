@@ -1,0 +1,68 @@
+{
+ "application": "NDA212801",
+ "srlc_rows": [
+  {
+   "drug_name": "ISTURISA",
+   "active_ingredient": "OSILODROSTAT PHOSPHATE",
+   "application_number": "212801",
+   "application_type": "NDA",
+   "supplement_date": "07/03/2025",
+   "database_updated": "07/09/2025",
+   "drug_name_id": "3109"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-03",
+ "srlc_database_updated": "2025-07-09",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f3a5ec24-63c3-4d83-b1c0-6c550fbe7ae2",
+   "title": "ISTURISA (OSILODROSTAT) TABLET, COATED ISTURISA (OSILODROSTAT) TABLET, COATED ISTURISA (OSILODROSTAT) TABLET, COATED [RECORDATI RARE DISEASES, INC.]",
+   "published_date": "Nov 19, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-03-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-01-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-11-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-04-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-07-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2025-07-17"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:06:35Z"
+}

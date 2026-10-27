@@ -1,0 +1,35 @@
+{
+ "application": "NDA008085",
+ "srlc_rows": [
+  {
+   "drug_name": "METHOTREXATE SODIUM",
+   "active_ingredient": "METHOTREXATE SODIUM",
+   "application_number": "008085",
+   "application_type": "NDA",
+   "supplement_date": "05/27/2026",
+   "supplement": "SUPPL-72",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/27/2026",
+     "suppl": "SUPPL-72",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/27/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "1479"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-27",
+ "srlc_database_updated": "2026-06-01",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:13:33Z"
+}

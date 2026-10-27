@@ -1,0 +1,112 @@
+{
+ "application": "NDA019466",
+ "srlc_rows": [
+  {
+   "drug_name": "DEXTROSE 5% IN PLASTIC CONTAINER",
+   "active_ingredient": "",
+   "application_number": "019466",
+   "application_type": "NDA",
+   "supplement_date": "06/06/2025",
+   "database_updated": "06/13/2025",
+   "drug_name_id": "3139"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-06",
+ "srlc_database_updated": "2025-06-13",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "10e98cb0-31a5-4ad1-3eaa-aa4af387a42d",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Jun 03, 2026",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2007-09-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-11-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-04-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2015-03-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2015-03-24"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-05-25"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-11-15"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-11-08"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-03-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-07-15"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-07-18"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-06-11"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-07-23"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-07-13"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-10-20"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-06-23"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-06-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2025-06-23"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:45:17Z"
+}

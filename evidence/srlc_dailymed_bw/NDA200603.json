@@ -1,0 +1,144 @@
+{
+ "application": "NDA200603",
+ "srlc_rows": [
+  {
+   "drug_name": "LATUDA",
+   "active_ingredient": "LURASIDONE HYDROCHLORIDE",
+   "application_number": "200603",
+   "application_type": "NDA",
+   "supplement_date": "01/27/2017",
+   "supplement": "SUPPL-27",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/11/2017",
+     "suppl": "SUPPL-21",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "01/27/2017",
+     "suppl": "SUPPL-26",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "01/27/2017",
+     "suppl": "SUPPL-27",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "773"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-01-27",
+ "srlc_database_updated": "2025-02-05",
+ "lag_days_srlc_database": 2931,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "afad3051-9df2-4c54-9684-e8262a133af8",
+   "title": "LATUDA (LURASIDONE HYDROCHLORIDE) TABLET, FILM COATED [SUMITOMO PHARMA AMERICA, INC.]",
+   "published_date": "Jan 14, 2026",
+   "spl_version": 37,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2010-12-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-12-22"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2012-05-29"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2012-07-10"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2013-02-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-07-22"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-02-24"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2017-03-02"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-03-20"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2018-12-20"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2019-12-20"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2020-12-01"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2022-07-26"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2023-07-24"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2025-02-06"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2026-01-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2017-02-24"
+   },
+   "lag_days_dailymed": 28,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 28,
+ "fetched_utc": "2026-10-16T09:26:10Z"
+}

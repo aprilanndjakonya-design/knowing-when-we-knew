@@ -1,0 +1,275 @@
+{
+ "application": "NDA019962",
+ "srlc_rows": [
+  {
+   "drug_name": "TOPROL-XL",
+   "active_ingredient": "METOPROLOL SUCCINATE",
+   "application_number": "019962",
+   "application_type": "NDA",
+   "supplement_date": "01/12/2022",
+   "supplement": "SUPPL-48",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/12/2022",
+     "suppl": "SUPPL-48",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/10/2023",
+   "database_updated": "03/14/2023",
+   "drug_name_id": "2576"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-01-12",
+ "srlc_database_updated": "2023-03-14",
+ "lag_days_srlc_database": 426,
+ "dailymed_setids": 9,
+ "labels": [
+  {
+   "setid": "496ddfaa-7c9c-4888-b747-a210249b367a",
+   "title": "TOPROL XL (METOPROLOL SUCCINATE) TABLET, EXTENDED RELEASE [MELINTA THERAPEUTICS, LLC]",
+   "published_date": "Mar 06, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-07-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-03-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2023-07-03"
+   },
+   "lag_days_dailymed": 537,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "991fe00b-498b-400e-9e5b-921cb07d9b2c",
+   "title": "TOPROL XL (METOPROLOL SUCCINATE) TABLET, EXTENDED RELEASE [ARALEZ PHARMACEUTICALS US INC.]",
+   "published_date": "Apr 25, 2023",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-01-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-12-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-11-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-02-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-02-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-04-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-07-18"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-07-20"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-08-26"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-04-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2022-02-02"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "d66c1b47-e67f-4b5c-9290-f90bbb378971",
+   "title": "METOPROLOL SUCCINATE TABLET, EXTENDED RELEASE [NEW AMERICAN THERAPEUTICS]",
+   "published_date": "Apr 25, 2023",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-09-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-10-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-05-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-07-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-08-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-04-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2022-05-18"
+   },
+   "lag_days_dailymed": 126,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "29325682-e82a-4e6c-80c0-c1c2c3943f74",
+   "title": "METOPROLOL SUCCINATE TABLET, EXTENDED RELEASE [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Feb 08, 2021",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-09-26"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-02-25"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-04-12"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-02-20"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-02-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "bbeadd00-fc1f-43be-b95d-3330faa39550",
+   "title": "METOPROLOL SUCCINATE TABLET, EXTENDED RELEASE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Jan 29, 2021",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "1e487de1-848a-4ee8-929b-406dac379166",
+   "title": "METOPROLOL SUCCINATE TABLET, EXTENDED RELEASE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Dec 18, 2020",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-12-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "8be7b96c-3a6c-409b-8b42-d07e98699c5e",
+   "title": "TOPROL XL (METOPROLOL SUCCINATE) TABLET, EXTENDED RELEASE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Jan 27, 2020",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-01-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "e236f1ed-b400-4854-81c7-64964422a2f7",
+   "title": "METOPROLOL SUCCINATE TABLET, EXTENDED RELEASE [PROFICIENT RX LP]",
+   "published_date": "Oct 18, 2019",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-12-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-10-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "a07891a5-152e-4a38-8179-e05a90458a7d",
+   "title": "TOPROL XL (METOPROLOL SUCCINATE) TABLET, EXTENDED RELEASE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Feb 21, 2018",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-02-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T09:16:30Z"
+}

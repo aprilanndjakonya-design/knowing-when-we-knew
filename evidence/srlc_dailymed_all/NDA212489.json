@@ -1,0 +1,56 @@
+{
+ "application": "NDA212489",
+ "srlc_rows": [
+  {
+   "drug_name": "ONGENTYS",
+   "active_ingredient": "OPICAPONE",
+   "application_number": "212489",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "3078"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-10",
+ "srlc_database_updated": "2025-10-15",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a511a531-112e-43f8-a43f-5334b0efe979",
+   "title": "ONGENTYS (OPICAPONE) CAPSULE [AMNEAL PHARMACEUTICALS LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2024-04-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-02-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-03-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 38,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 38,
+ "fetched_utc": "2026-10-16T09:06:27Z"
+}

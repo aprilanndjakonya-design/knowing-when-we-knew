@@ -1,0 +1,98 @@
+{
+ "application": "NDA050514",
+ "srlc_rows": [
+  {
+   "drug_name": "NATACYN",
+   "active_ingredient": "NATAMYCIN",
+   "application_number": "050514",
+   "application_type": "NDA",
+   "supplement_date": "11/17/2025",
+   "database_updated": "11/24/2025",
+   "drug_name_id": "3212"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-17",
+ "srlc_database_updated": "2025-11-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "20ede08c-0d39-dc65-e063-6394a90aa3e0",
+   "title": "NATACYN (NATAMYCIN) SUSPENSION/ DROPS [HARROW EYE, LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-11-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 0,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2818fcb8-5bac-41fb-864e-3b598308a428",
+   "title": "NATACYN (NATAMYCIN) SUSPENSION/ DROPS [EYEVANCE PHARMACEUTICALS, LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-12-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-08-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-11-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-10-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-09-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-01-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 0,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 0,
+ "fetched_utc": "2026-10-16T08:56:43Z"
+}

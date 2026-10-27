@@ -1,0 +1,72 @@
+{
+ "application": "NDA022555",
+ "srlc_rows": [
+  {
+   "drug_name": "CYSVIEW KIT",
+   "active_ingredient": "HEXAMINOLEVULINATE HYDROCHLORIDE",
+   "application_number": "022555",
+   "application_type": "NDA",
+   "supplement_date": "06/18/2026",
+   "database_updated": "06/24/2026",
+   "drug_name_id": "1456"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-18",
+ "srlc_database_updated": "2026-06-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5aeed40d-6841-4adf-8940-f51d439fdfa3",
+   "title": "CYSVIEW (HEXAMINOLEVULINATE HYDROCHLORIDE) KIT [PHOTOCURE INC.]",
+   "published_date": "Jul 03, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2018-05-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-08-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-06-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-11-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-11-05"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-07-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2026-07-03"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:56:06Z"
+}

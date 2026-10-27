@@ -1,0 +1,78 @@
+{
+ "application": "NDA021158",
+ "srlc_rows": [
+  {
+   "drug_name": "FACTIVE",
+   "active_ingredient": "GEMIFLOXACIN MESYLATE",
+   "application_number": "021158",
+   "application_type": "NDA",
+   "supplement_date": "07/26/2016",
+   "supplement": "SUPPL-23",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/26/2016",
+     "suppl": "SUPPL-23",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/03/2019",
+   "database_updated": "05/09/2019",
+   "drug_name_id": "344"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-07-26",
+ "srlc_database_updated": "2019-05-09",
+ "lag_days_srlc_database": 1017,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "63f60426-e27f-4258-9bfc-b4a15ebdca83",
+   "title": "FACTIVE (GEMIFLOXACIN MESYLATE) TABLET [MERUS LABS INTERNATIONAL INC.]",
+   "published_date": "Aug 10, 2016",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-06-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-08-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-08-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2016-08-10"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "4502217c-3424-4453-a3ab-4bb2c35d2f0a",
+   "title": "FACTIVE (GEMIFLOXACIN MESYLATE) TABLET [VANSEN PHARMA INC.]",
+   "published_date": "Nov 07, 2013",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-11-07"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:19:45Z"
+}

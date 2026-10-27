@@ -1,0 +1,40 @@
+{
+ "application": "NDA022386",
+ "srlc_rows": [
+  {
+   "drug_name": "PRANDIMET",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; REPAGLINIDE",
+   "application_number": "022386",
+   "application_type": "NDA",
+   "supplement_date": "04/05/2017",
+   "supplement": "SUPPL-18",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/05/2017",
+     "suppl": "SUPPL-18",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/08/2017",
+   "database_updated": "12/13/2017",
+   "drug_name_id": "950"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-04-05",
+ "srlc_database_updated": "2017-12-13",
+ "lag_days_srlc_database": 252,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:25:10Z"
+}

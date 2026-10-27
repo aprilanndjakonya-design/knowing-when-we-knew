@@ -1,0 +1,145 @@
+{
+ "application": "BLA125058",
+ "srlc_rows": [
+  {
+   "drug_name": "ALDURAZYME",
+   "active_ingredient": "LARONIDASE",
+   "application_number": "125058",
+   "application_type": "BLA",
+   "supplement_date": "12/14/2023",
+   "supplement": "SUPPL-246",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/14/2023",
+     "suppl": "SUPPL-246",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/14/2023",
+   "database_updated": "12/20/2023",
+   "drug_name_id": "2132"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-14",
+ "srlc_database_updated": "2023-12-20",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a80ac249-cae4-41f3-88bb-344088b20e60",
+   "title": "ALDURAZYME (LARONIDASE) INJECTION, SOLUTION, CONCENTRATE [GENZYME CORPORATION]",
+   "published_date": "Sep 16, 2026",
+   "spl_version": 39,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-01-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-05-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-07-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-05-06"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-07-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-06-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-12-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-08-07"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-06-10"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-06-27"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-12-08"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-06-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-12-21"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-06-05"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2019-12-19"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2022-12-23"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-05-19"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2023-12-28"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-10-10"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2025-11-26"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2026-07-29"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2026-09-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 35,
+    "published_date": "2023-12-28"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 18
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:12:22Z"
+}

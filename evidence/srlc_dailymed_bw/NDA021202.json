@@ -1,0 +1,40 @@
+{
+ "application": "NDA021202",
+ "srlc_rows": [
+  {
+   "drug_name": "GLUCOPHAGE XR",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE",
+   "application_number": "021202",
+   "application_type": "NDA",
+   "supplement_date": "05/30/2018",
+   "supplement": "SUPPL-18",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/30/2018",
+     "suppl": "SUPPL-18",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/30/2018",
+   "database_updated": "06/01/2018",
+   "drug_name_id": "955"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-05-30",
+ "srlc_database_updated": "2018-06-01",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:19:58Z"
+}

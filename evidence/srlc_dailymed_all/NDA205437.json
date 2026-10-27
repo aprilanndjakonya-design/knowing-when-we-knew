@@ -1,0 +1,116 @@
+{
+ "application": "NDA205437",
+ "srlc_rows": [
+  {
+   "drug_name": "OTEZLA",
+   "active_ingredient": "APREMILAST",
+   "application_number": "205437",
+   "application_type": "NDA",
+   "supplement_date": "12/23/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "1122"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-23",
+ "srlc_database_updated": "2026-01-05",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f6b1f516-4972-4d82-bced-113e47b41cc5",
+   "title": "OTEZLA (APREMILAST) TABLET, FILM COATED OTEZLA (APREMILAST) KIT [AMGEN, INC]",
+   "published_date": "Sep 11, 2026",
+   "spl_version": 38,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-04-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-10-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-12-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-07-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-10-18"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-12-24"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-05-04"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-05-16"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-06-19"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-08-17"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-09-22"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-09-15"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-01-07"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2026-08-11"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2026-09-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2026-01-07"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:01:24Z"
+}

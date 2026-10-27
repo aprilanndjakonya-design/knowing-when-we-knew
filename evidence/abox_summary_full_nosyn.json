@@ -1,0 +1,19 @@
+{
+ "applications": 530,
+ "label_sets": 338,
+ "label_versions": 363,
+ "change_records": 774,
+ "approvals": 774,
+ "boxed_warnings": 530,
+ "patients": 0,
+ "prescriptions": 0,
+ "checks": 0,
+ "known_as_of_classes": 0,
+ "verified_sections": 35,
+ "srlc_known_from_asserted": 181,
+ "label_sets_shared": 19,
+ "t_grid": "none",
+ "bytes": 2428076,
+ "file": "/private/tmp/claude-501/-Users-denis-Projects-Estimates/feb6cdef-f89c-4dd5-9caf-a92865d712ac/scratchpad/tgrid/full_nosyn.ttl",
+ "generated_utc": "2026-10-19T09:00:50Z"
+}

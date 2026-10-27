@@ -1,0 +1,44 @@
+{
+ "application": "BLA761322",
+ "srlc_rows": [
+  {
+   "drug_name": "TYRUKO",
+   "active_ingredient": "NATALIZUMAB-SZTN",
+   "application_number": "761322",
+   "application_type": "BLA",
+   "supplement_date": "10/30/2025",
+   "database_updated": "10/31/2025",
+   "drug_name_id": "3206"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-30",
+ "srlc_database_updated": "2025-10-31",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ef653c36-dd4b-4e71-9d2d-40b8fea24b67",
+   "title": "TYRUKO (NATALIZUMAB-SZTN) INJECTION [SANDOZ INC]",
+   "published_date": "Jan 23, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 12,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-01-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2025-11-18"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T08:41:03Z"
+}

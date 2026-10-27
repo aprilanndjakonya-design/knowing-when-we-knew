@@ -1,0 +1,87 @@
+{
+ "application": "BLA761263",
+ "srlc_rows": [
+  {
+   "drug_name": "LUNSUMIO",
+   "active_ingredient": "MOSUNETUZUMAB-AXGB",
+   "application_number": "761263",
+   "application_type": "BLA",
+   "supplement_date": "06/18/2026",
+   "database_updated": "06/24/2026",
+   "drug_name_id": "3054"
+  },
+  {
+   "drug_name": "LUNSUMIO VELO",
+   "active_ingredient": "MOSUNETUZUMAB-AXGB",
+   "application_number": "761263",
+   "application_type": "BLA",
+   "supplement_date": "06/18/2026",
+   "database_updated": "07/13/2026",
+   "drug_name_id": "3304"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-18",
+ "srlc_database_updated": "2026-07-13",
+ "lag_days_srlc_database": 25,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "6a2b6dc2-48bd-4da7-a611-bc6bae2893c8",
+   "title": "LUNSUMIO VELO (MOSUNETUZUMAB) INJECTION [GENENTECH, INC.]",
+   "published_date": "Jul 02, 2026",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-07-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2026-07-02"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "2ef0cf38-101c-4681-98fe-c05dc9ead443",
+   "title": "LUNSUMIO (MOSUNETUZUMAB) CONCENTRATE [GENENTECH, INC.]",
+   "published_date": "Jun 30, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-12-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-06-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-06-30"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T08:40:37Z"
+}

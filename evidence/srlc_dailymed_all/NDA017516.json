@@ -1,0 +1,21 @@
+{
+ "application": "NDA017516",
+ "srlc_rows": [
+  {
+   "drug_name": "SINEQUAN",
+   "active_ingredient": "DOXEPIN HYDROCHLORIDE",
+   "application_number": "017516",
+   "application_type": "NDA",
+   "supplement_date": "07/03/2025",
+   "database_updated": "07/09/2025",
+   "drug_name_id": "3151"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-03",
+ "srlc_database_updated": "2025-07-09",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:43:38Z"
+}

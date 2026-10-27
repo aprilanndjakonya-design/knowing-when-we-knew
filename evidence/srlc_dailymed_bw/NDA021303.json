@@ -1,0 +1,326 @@
+{
+ "application": "NDA021303",
+ "srlc_rows": [
+  {
+   "drug_name": "ADDERALL XR 10",
+   "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+   "application_number": "021303",
+   "application_type": "NDA",
+   "supplement_date": "10/13/2023",
+   "supplement": "SUPPL-38",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/13/2023",
+     "suppl": "SUPPL-38",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/23/2026",
+   "database_updated": "04/24/2026",
+   "drug_name_id": "733"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-13",
+ "srlc_database_updated": "2026-04-24",
+ "lag_days_srlc_database": 924,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "aff45863-ffe1-4d4f-8acf-c7081512a6c0",
+   "title": "ADDERALL XR (DEXTROAMPHETAMINE SULFATE, DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE SULFATE AND AMPHETAMINE ASPARTATE) CAPSULE, EXTENDED RELEASE [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+   "published_date": "May 06, 2026",
+   "spl_version": 38,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-10-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-03-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-08-08"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-01-28"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-07-01"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2013-12-17"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2015-05-20"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2015-12-09"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2016-01-05"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2016-03-03"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-01-20"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-02-10"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2017-10-12"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2018-07-30"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-12-04"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2019-07-18"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2020-12-14"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2022-01-17"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2022-03-10"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2022-11-02"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-10-27"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2026-05-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 34,
+    "published_date": "2023-10-27"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 20
+  },
+  {
+   "setid": "6f637e8d-7c2e-47fa-a43c-3250c51aed77",
+   "title": "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE (DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [SANDOZ INC]",
+   "published_date": "Jun 24, 2024",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-06-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-03-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-10-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-12-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-04-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-12-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-03-22"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-06-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2024-06-24"
+   },
+   "lag_days_dailymed": 255,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "f85af6ee-9029-42de-adea-6dbb8642952c",
+   "title": "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE (DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [PRASCO LABORATORIES]",
+   "published_date": "Jun 13, 2024",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-12-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-02-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-10-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-12-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-03-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-06-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2024-06-13"
+   },
+   "lag_days_dailymed": 244,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "34726042-2386-4c19-abec-440769fff99a",
+   "title": "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE CAPSULE, EXTENDED RELEASE [GLOBAL PHARMACEUTICALS, DIVISION OF IMPAX LABORATORIES INC.]",
+   "published_date": "May 15, 2015",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2009-12-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-10-13"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2013-01-28"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-07-01"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2013-12-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2015-05-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "35744538-1704-4ee0-954d-52710cf3456d",
+   "title": "ADDERALL XR (DEXTROAMPHETAMINE SULFATE, DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE SULFATE AND AMPHETAMINE ASPARTATE) CAPSULE, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Oct 04, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-07-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-10-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "f6c30ba1-53d0-4f85-a515-81acfb922e73",
+   "title": "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE CAPSULE, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Mar 25, 2011",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-12-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-03-04"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-03-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:21:15Z"
+}

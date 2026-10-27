@@ -1,0 +1,89 @@
+{
+ "application": "NDA202880",
+ "srlc_rows": [
+  {
+   "drug_name": "ZOHYDRO ER",
+   "active_ingredient": "HYDROCODONE BITARTRATE",
+   "application_number": "202880",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-15",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-9",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/04/2021",
+   "database_updated": "03/10/2021",
+   "drug_name_id": "758"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2021-03-10",
+ "lag_days_srlc_database": 904,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "6ccfbd98-7750-4955-a654-ec104fb666f9",
+   "title": "ZOHYDRO (HYDROCODONE BITARTRATE) CAPSULE, EXTENDED RELEASE [ZOGENIX, INC.]",
+   "published_date": "Feb 27, 2015",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 20,
+     "published_date": "2015-02-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "cf68f7fe-30a9-4f1a-a3a4-6352dc436bbe",
+   "title": "ZOHYDRO (HYDROCODONE BITARTRATE) CAPSULE, EXTENDED RELEASE [ZOGENIX, INC.]",
+   "published_date": "Aug 27, 2014",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2013-11-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-01-24"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-08-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:26:43Z"
+}

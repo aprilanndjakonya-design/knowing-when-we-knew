@@ -1,0 +1,62 @@
+{
+ "application": "NDA218879",
+ "srlc_rows": [
+  {
+   "drug_name": "SUBVENITE",
+   "active_ingredient": "LAMOTRIGINE",
+   "application_number": "218879",
+   "application_type": "NDA",
+   "supplement_date": "07/17/2026",
+   "supplement": "SUPPL-1",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/17/2026",
+     "suppl": "SUPPL-1",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/17/2026",
+   "database_updated": "07/24/2026",
+   "drug_name_id": "3306"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-17",
+ "srlc_database_updated": "2026-07-24",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "022b0913-f683-4af8-a862-f81b315909b2",
+   "title": "SUBVENITE (LAMOTRIGINE) SUSPENSION [OWP PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 18, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-10-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-02-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:29:52Z"
+}

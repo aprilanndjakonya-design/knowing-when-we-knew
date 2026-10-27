@@ -1,0 +1,130 @@
+{
+ "application": "NDA205489",
+ "srlc_rows": [
+  {
+   "drug_name": "COTEMPLA XR-ODT",
+   "active_ingredient": "METHYLPHENIDATE",
+   "application_number": "205489",
+   "application_type": "NDA",
+   "supplement_date": "10/13/2023",
+   "supplement": "SUPPL-12",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "10/13/2023",
+     "suppl": "SUPPL-12",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "2501"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-10-13",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 714,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "33f70f58-c871-42c8-8adb-345caeafefcd",
+   "title": "COTEMPLA XR-ODT (METHYLPHENIDATE) TABLET, ORALLY DISINTEGRATING [NEOS THERAPEUTICS BRANDS, LLC]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-06-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-06-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-06-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-07-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-08-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-08-18"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-08-25"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2023-12-01"
+   },
+   "lag_days_dailymed": 49,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "c2fec19b-6610-4ce0-8e60-f8218a11f62f",
+   "title": "METHYLPHENIDATE EXTENDED-RELEASE TABLET, ORALLY DISINTEGRATING [NEOS THERAPEUTICS, LP]",
+   "published_date": "Jul 01, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-07-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-07-01"
+   },
+   "lag_days_dailymed": 992,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 49,
+ "fetched_utc": "2026-10-16T09:27:38Z"
+}

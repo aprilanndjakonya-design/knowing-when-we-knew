@@ -1,0 +1,37 @@
+{
+ "application": "NDA007337",
+ "srlc_rows": [
+  {
+   "drug_name": "PERCODAN",
+   "active_ingredient": "ASPIRIN; OXYCODONE HYDROCHLORIDE",
+   "application_number": "007337",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "668"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 16,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "23a60947-6058-4bf7-a3ee-ae396e55d939",
+   "title": "ENDODAN (OXYCODONE AND ASPIRIN) TABLET [STAT RX USA LLC]",
+   "published_date": "Jun 01, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:42:20Z"
+}

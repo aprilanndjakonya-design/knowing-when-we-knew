@@ -1,0 +1,96 @@
+{
+ "application": "BLA761115",
+ "srlc_rows": [
+  {
+   "drug_name": "TRODELVY",
+   "active_ingredient": "SACITUZUMAB GOVITECAN-HZIY",
+   "application_number": "761115",
+   "application_type": "BLA",
+   "supplement_date": "06/24/2026",
+   "database_updated": "06/30/2026",
+   "drug_name_id": "2442"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-24",
+ "srlc_database_updated": "2026-06-30",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "57a597d2-03f0-472e-b148-016d7169169d",
+   "title": "TRODELVY (SACITUZUMAB GOVITECAN) POWDER, FOR SOLUTION [GILEAD SCIENCES, INC.]",
+   "published_date": "Jun 29, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2020-04-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-04-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-11-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-04-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-06-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-12-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-02-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-04-18"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-09-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-12-16"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-06-26"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-06-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2026-06-26"
+   },
+   "lag_days_dailymed": 2,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 2,
+ "fetched_utc": "2026-10-16T08:39:34Z"
+}

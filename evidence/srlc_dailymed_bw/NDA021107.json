@@ -1,0 +1,125 @@
+{
+ "application": "NDA021107",
+ "srlc_rows": [
+  {
+   "drug_name": "LOTRONEX",
+   "active_ingredient": "ALOSETRON HYDROCHLORIDE",
+   "application_number": "021107",
+   "application_type": "NDA",
+   "supplement_date": "01/07/2016",
+   "supplement": "SUPPL-27",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/07/2016",
+     "suppl": "SUPPL-27",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/03/2019",
+   "database_updated": "04/04/2019",
+   "drug_name_id": "6"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-01-07",
+ "srlc_database_updated": "2019-04-04",
+ "lag_days_srlc_database": 1183,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "35cbb9d5-639b-207a-e054-00144ff88e88",
+   "title": "LOTRONEX (ALOSETRON HYDROCHLORIDE) TABLET [SEBELA PHARMACEUTICALS INC.]",
+   "published_date": "Jul 02, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-07-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-12-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-05-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-07-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2016-07-11"
+   },
+   "lag_days_dailymed": 186,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "c216e967-436f-475a-8e6a-2ad11adc63af",
+   "title": "LOTRONEX (ALOSETRON HYDROCHLORIDE) TABLET [LEGACY PHARMA USA INC.]",
+   "published_date": "Mar 24, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-03-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-03-24"
+   },
+   "lag_days_dailymed": 3729,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "526ba44c-a476-4675-a63c-4d0a72b723f5",
+   "title": "LOTRONEX (ALOSETRON HYDROCHLORIDE) TABLET [PROMETHEUS LABORATORIES INC.]",
+   "published_date": "Jan 21, 2016",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2010-03-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2010-09-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-06-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-01-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2016-01-21"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:19:10Z"
+}

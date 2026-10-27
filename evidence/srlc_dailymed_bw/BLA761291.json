@@ -1,0 +1,102 @@
+{
+ "application": "BLA761291",
+ "srlc_rows": [
+  {
+   "drug_name": "TECVAYLI",
+   "active_ingredient": "TECLISTAMAB-CQYV",
+   "application_number": "761291",
+   "application_type": "BLA",
+   "supplement_date": "08/19/2025",
+   "supplement": "SUPPL-13",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/19/2025",
+     "suppl": "SUPPL-13",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/05/2026",
+   "database_updated": "03/12/2026",
+   "drug_name_id": "2827"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-19",
+ "srlc_database_updated": "2026-03-12",
+ "lag_days_srlc_database": 205,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "54e0f974-ccee-44ea-9254-40e9883cee1e",
+   "title": "TECVAYLI (TECLISTAMAB-CQYV) INJECTION [JANSSEN BIOTECH, INC.]",
+   "published_date": "Apr 22, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-06-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-08-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-06-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-06-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-07-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-12-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-08-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-03-09"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-03-31"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-04-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2025-08-28"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 9
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:13:15Z"
+}

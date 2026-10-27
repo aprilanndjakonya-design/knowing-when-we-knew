@@ -1,0 +1,80 @@
+{
+ "application": "NDA020992",
+ "srlc_rows": [
+  {
+   "drug_name": "CENESTIN",
+   "active_ingredient": "ESTROGENS, CONJUGATED SYNTHETIC A",
+   "application_number": "020992",
+   "application_type": "NDA",
+   "supplement_date": "02/12/2026",
+   "supplement": "SUPPL-43",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "11/30/2020",
+     "suppl": "SUPPL-38",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "11/30/2020",
+     "suppl": "SUPPL-39",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    },
+    {
+     "date": "02/12/2026",
+     "suppl": "SUPPL-43",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/12/2026",
+   "database_updated": "02/12/2026",
+   "drug_name_id": "1329"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-12",
+ "srlc_database_updated": "2026-02-12",
+ "lag_days_srlc_database": 0,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1cd07b54-f66f-4040-9058-462324267196",
+   "title": "CENESTIN (SYNTHETIC CONJUGATED ESTROGENS, A) TABLET, FILM COATED [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Dec 20, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-12-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:18:40Z"
+}

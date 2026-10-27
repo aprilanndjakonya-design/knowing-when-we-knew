@@ -1,0 +1,137 @@
+{
+ "page": "https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430",
+ "accessed_utc": "2026-10-11T09:53:03Z",
+ "rule": "first snapshot listing an entry = upper bound of its availability time (published no later than)",
+ "snapshots": [
+  {
+   "timestamp": "20240613223940",
+   "instant_utc": "2024-06-13T22:39:40Z",
+   "snapshot_url": "https://web.archive.org/web/20240613223940/https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430",
+   "archive_digest": "25NYZI2GSAOUI3HLJXSZK7UZKIGVGOE3",
+   "sha256": "dc1465ca391c9960b23037a555468666abc6033c170cfa0a746d76f5db3899fd",
+   "bytes": 60449,
+   "suppl_listed": [
+    "102",
+    "104",
+    "106",
+    "107",
+    "110",
+    "113",
+    "114",
+    "116"
+   ],
+   "dates_listed": [
+    "01/23/2018",
+    "01/28/2022",
+    "04/15/2022",
+    "07/19/2019",
+    "07/22/2020",
+    "09/07/2018",
+    "11/16/2023",
+    "12/27/2019"
+   ]
+  },
+  {
+   "timestamp": "20240614073806",
+   "instant_utc": "2024-06-14T07:38:06Z",
+   "snapshot_url": "https://web.archive.org/web/20240614073806/https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430",
+   "archive_digest": "25NYZI2GSAOUI3HLJXSZK7UZKIGVGOE3",
+   "sha256": "dc1465ca391c9960b23037a555468666abc6033c170cfa0a746d76f5db3899fd",
+   "bytes": 60449,
+   "suppl_listed": [
+    "102",
+    "104",
+    "106",
+    "107",
+    "110",
+    "113",
+    "114",
+    "116"
+   ],
+   "dates_listed": [
+    "01/23/2018",
+    "01/28/2022",
+    "04/15/2022",
+    "07/19/2019",
+    "07/22/2020",
+    "09/07/2018",
+    "11/16/2023",
+    "12/27/2019"
+   ]
+  },
+  {
+   "timestamp": "20250810172541",
+   "instant_utc": "2025-08-10T17:25:41Z",
+   "snapshot_url": "https://web.archive.org/web/20250810172541/https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430",
+   "archive_digest": "IVGGKHM4X2WTAUSQX6MWGHZXKSFIDPY6",
+   "sha256": "dd62b6e846659a14eab40965815f9894d2aa4cbdae608ff92128b18c88a03192",
+   "bytes": 76370,
+   "suppl_listed": [
+    "102",
+    "104",
+    "106",
+    "107",
+    "110",
+    "113",
+    "114",
+    "116",
+    "118",
+    "119"
+   ],
+   "dates_listed": [
+    "01/22/2025",
+    "01/23/2018",
+    "01/28/2022",
+    "04/15/2022",
+    "07/19/2019",
+    "07/22/2020",
+    "09/07/2018",
+    "11/16/2023",
+    "12/27/2019"
+   ]
+  },
+  {
+   "timestamp": "20260208083636",
+   "instant_utc": "2026-02-08T08:36:36Z",
+   "snapshot_url": "https://web.archive.org/web/20260208083636/https://www.accessdata.fda.gov/scripts/cder/safetylabelingchanges/index.cfm?event=searchdetail.page&DrugNameID=1430",
+   "archive_digest": "IVGGKHM4X2WTAUSQX6MWGHZXKSFIDPY6",
+   "sha256": "dd62b6e846659a14eab40965815f9894d2aa4cbdae608ff92128b18c88a03192",
+   "bytes": 76370,
+   "suppl_listed": [
+    "102",
+    "104",
+    "106",
+    "107",
+    "110",
+    "113",
+    "114",
+    "116",
+    "118",
+    "119"
+   ],
+   "dates_listed": [
+    "01/22/2025",
+    "01/23/2018",
+    "01/28/2022",
+    "04/15/2022",
+    "07/19/2019",
+    "07/22/2020",
+    "09/07/2018",
+    "11/16/2023",
+    "12/27/2019"
+   ]
+  }
+ ],
+ "first_seen_utc": {
+  "SUPPL-102": "2024-06-13T22:39:40Z",
+  "SUPPL-104": "2024-06-13T22:39:40Z",
+  "SUPPL-106": "2024-06-13T22:39:40Z",
+  "SUPPL-107": "2024-06-13T22:39:40Z",
+  "SUPPL-110": "2024-06-13T22:39:40Z",
+  "SUPPL-113": "2024-06-13T22:39:40Z",
+  "SUPPL-114": "2024-06-13T22:39:40Z",
+  "SUPPL-116": "2024-06-13T22:39:40Z",
+  "SUPPL-118": "2025-08-10T17:25:41Z",
+  "SUPPL-119": "2025-08-10T17:25:41Z"
+ }
+}

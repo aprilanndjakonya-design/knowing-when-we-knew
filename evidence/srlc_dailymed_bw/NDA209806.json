@@ -1,0 +1,165 @@
+{
+ "application": "NDA209806",
+ "srlc_rows": [
+  {
+   "drug_name": "SEGLUROMET",
+   "active_ingredient": "ERTUGLIFLOZIN; METFORMIN HYDROCHLORIDE",
+   "application_number": "209806",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "supplement": "SUPPL-15",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "08/11/2026",
+     "suppl": "SUPPL-13",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/11/2026",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "1737"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "a6aeb99a-ce49-4125-90ce-642df3f1ebad",
+   "title": "SEGLUROMET (ERTUGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-11-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-02-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-08-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-03-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-10-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-11-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-07-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-08-10"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-09-27"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-07-04"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-01-13"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2026-08-28"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 14
+  },
+  {
+   "setid": "8efac46d-d6bb-483a-825d-60bba09d3c17",
+   "title": "SEGLUROMET (ERTUGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 22, 2022",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2022-11-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "9f720024-c68c-420c-aad7-c575237b6d39",
+   "title": "SEGLUROMET (ERTUGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 14, 2022",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-11-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "b0451c1c-2b3b-4032-bb49-157425686754",
+   "title": "SEGLUROMET (ERTUGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 14, 2022",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-11-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:28:55Z"
+}

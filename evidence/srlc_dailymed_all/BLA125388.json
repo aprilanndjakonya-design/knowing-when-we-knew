@@ -1,0 +1,136 @@
+{
+ "application": "BLA125388",
+ "srlc_rows": [
+  {
+   "drug_name": "ADCETRIS",
+   "active_ingredient": "BRENTUXIMAB VEDOTIN",
+   "application_number": "125388",
+   "application_type": "BLA",
+   "supplement_date": "02/11/2025",
+   "database_updated": "02/13/2025",
+   "drug_name_id": "81"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-11",
+ "srlc_database_updated": "2025-02-13",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "3904f8dd-1aef-3490-e48f-bd55f32ed67f",
+   "title": "ADCETRIS (BRENTUXIMAB VEDOTIN) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [SEAGEN INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 38,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-08-26"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-01-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-06-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-04-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-04-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-08-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-12-08"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-02-24"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2015-08-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2015-11-23"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-03-17"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2016-10-11"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2017-11-29"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2018-04-03"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2018-11-30"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2019-10-29"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2020-12-17"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2021-12-16"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2022-02-25"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2022-11-21"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-06-27"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2025-02-21"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 36,
+    "published_date": "2025-02-21"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 22
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:38:03Z"
+}

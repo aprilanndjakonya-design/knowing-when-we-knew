@@ -1,0 +1,146 @@
+{
+ "application": "NDA021392",
+ "srlc_rows": [
+  {
+   "drug_name": "CARDIZEM LA",
+   "active_ingredient": "DILTIAZEM HYDROCHLORIDE",
+   "application_number": "021392",
+   "application_type": "NDA",
+   "supplement_date": "04/16/2025",
+   "database_updated": "05/27/2025",
+   "drug_name_id": "566"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-16",
+ "srlc_database_updated": "2025-05-27",
+ "lag_days_srlc_database": 41,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "3e180dc7-c871-4efc-8755-cae882976c8d",
+   "title": "CARDIZEM LA (DILTIAZEM HYDROCHLORIDE) TABLET, EXTENDED RELEASE [BAUSCH HEALTH US LLC]",
+   "published_date": "Dec 12, 2025",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2014-02-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-04-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-06-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-10-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-12-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-02-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-05-02"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-05-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-03-15"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-04-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2019-09-25"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-03-19"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-05-05"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-08-01"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-12-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-05-05"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "73b3607a-99d0-44d8-92ef-0074684c9d7d",
+   "title": "DILTIAZEM HYDROCHLORIDE (DILTIAZEM HYDROCHLORIDE EXTENDED-RELEASE TABLETS) TABLET, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-02-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-02-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-10-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-03-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-10-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-03-19"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 215,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T08:51:30Z"
+}

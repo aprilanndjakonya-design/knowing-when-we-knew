@@ -1,0 +1,104 @@
+{
+ "application": "NDA205838",
+ "srlc_rows": [
+  {
+   "drug_name": "BRIVIACT",
+   "active_ingredient": "BRIVARACETAM",
+   "application_number": "205838",
+   "application_type": "NDA",
+   "supplement_date": "08/28/2025",
+   "database_updated": "09/03/2025",
+   "drug_name_id": "1274"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-08-28",
+ "srlc_database_updated": "2025-09-03",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "3cf2f439-0e97-443e-8e33-25ecef616f6c",
+   "title": "BRIVIACT (BRIVARACETAM) TABLET, FILM COATED BRIVIACT (BRIVARACETAM) SOLUTION BRIVIACT (BRIVARACETAM) INJECTION, SUSPENSION [UCB, INC.]",
+   "published_date": "Aug 21, 2026",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2016-03-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-06-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-09-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-05-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-03-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-01-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-04-05"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-09-09"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-08-31"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2023-02-09"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-05-26"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-06-18"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-09-12"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2026-03-09"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-04-13"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-05-14"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-08-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 23,
+    "published_date": "2025-09-12"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:01:45Z"
+}

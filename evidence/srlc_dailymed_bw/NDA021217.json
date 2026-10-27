@@ -1,0 +1,81 @@
+{
+ "application": "NDA021217",
+ "srlc_rows": [
+  {
+   "drug_name": "EXALGO",
+   "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+   "application_number": "021217",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-24",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-19",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-24",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/09/2019",
+   "drug_name_id": "670"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2019-10-09",
+ "lag_days_srlc_database": 386,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "0dedd480-dc5c-499c-8763-6044b9bd4a6b",
+   "title": "EXALGO (HYDROMORPHONE HYDROCHLORIDE) TABLET, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 28, 2013",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-01-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f26ababe-f6f0-443e-8d91-4d2a174675bc",
+   "title": "EXALGO (HYDROMORPHONE HYDROCHLORIDE) TABLET, EXTENDED RELEASE [STAT RX USA LLC]",
+   "published_date": "Dec 02, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-12-02"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:20:44Z"
+}

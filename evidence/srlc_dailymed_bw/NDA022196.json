@@ -1,0 +1,40 @@
+{
+ "application": "NDA022196",
+ "srlc_rows": [
+  {
+   "drug_name": "ZOLPIMIST",
+   "active_ingredient": "ZOLPIDEM TARTRATE",
+   "application_number": "022196",
+   "application_type": "NDA",
+   "supplement_date": "08/18/2019",
+   "supplement": "SUPPL-12",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "08/18/2019",
+     "suppl": "SUPPL-12",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/18/2019",
+   "database_updated": "08/26/2019",
+   "drug_name_id": "1868"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-08-18",
+ "srlc_database_updated": "2019-08-26",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:24:24Z"
+}

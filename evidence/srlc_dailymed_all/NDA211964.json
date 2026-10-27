@@ -1,0 +1,92 @@
+{
+ "application": "NDA211964",
+ "srlc_rows": [
+  {
+   "drug_name": "QELBREE",
+   "active_ingredient": "VILOXAZINE HYDROCHLORIDE",
+   "application_number": "211964",
+   "application_type": "NDA",
+   "supplement_date": "01/23/2025",
+   "database_updated": "02/06/2025",
+   "drug_name_id": "2617"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-23",
+ "srlc_database_updated": "2025-02-06",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "aedf408d-0f84-418d-9416-7c39ddb0d29a",
+   "title": "QELBREE (VILOXAZINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [SUPERNUS PHARMACEUTICALS, INC]",
+   "published_date": "Oct 08, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2021-04-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-04-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-05-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-10-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-10-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-02-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-08-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-12-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-09-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-10-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2025-02-03"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:06:00Z"
+}

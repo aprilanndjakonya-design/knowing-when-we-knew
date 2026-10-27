@@ -1,0 +1,168 @@
+{
+ "application": "NDA208065",
+ "srlc_rows": [
+  {
+   "drug_name": "TAGRISSO",
+   "active_ingredient": "OSIMERTINIB MESYLATE",
+   "application_number": "208065",
+   "application_type": "NDA",
+   "supplement_date": "09/14/2026",
+   "database_updated": "09/23/2026",
+   "drug_name_id": "270"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-14",
+ "srlc_database_updated": "2026-09-23",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "5e81b4a7-b971-45e1-9c31-29cea8c87ce7",
+   "title": "TAGRISSO (OSIMERTINIB) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Sep 25, 2026",
+   "spl_version": 37,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-11-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-08-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-10-05"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-04-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-04-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-11-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-04-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-04-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-09-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-11-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-02-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-06-05"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-06-08"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-12-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-12-18"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-12-22"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-12-24"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2021-01-28"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2021-02-16"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-05-14"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2021-08-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2022-01-26"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-10-05"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-06-29"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-02-07"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-02-20"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2024-05-06"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2024-10-07"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2025-02-28"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2026-04-22"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2026-09-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 37,
+    "published_date": "2026-09-25"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 32
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:02:55Z"
+}

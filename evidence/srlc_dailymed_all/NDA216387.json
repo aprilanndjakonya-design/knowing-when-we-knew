@@ -1,0 +1,60 @@
+{
+ "application": "NDA216387",
+ "srlc_rows": [
+  {
+   "drug_name": "CALQUENCE",
+   "active_ingredient": "ACALABRUTINIB MALEATE",
+   "application_number": "216387",
+   "application_type": "NDA",
+   "supplement_date": "02/19/2026",
+   "database_updated": "02/24/2026",
+   "drug_name_id": "2979"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-19",
+ "srlc_database_updated": "2026-02-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b1409184-3267-4d8c-8f17-4e01f69828b1",
+   "title": "CALQUENCE (ACALABRUTINIB) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Mar 03, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-08-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-06-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-02-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-02-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-03-03"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:09:06Z"
+}

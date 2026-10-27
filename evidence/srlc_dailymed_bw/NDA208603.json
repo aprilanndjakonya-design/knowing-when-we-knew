@@ -1,0 +1,47 @@
+{
+ "application": "NDA208603",
+ "srlc_rows": [
+  {
+   "drug_name": "ARYMO ER",
+   "active_ingredient": "MORPHINE SULFATE",
+   "application_number": "208603",
+   "application_type": "NDA",
+   "supplement_date": "10/07/2019",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    },
+    {
+     "date": "10/07/2019",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "10/07/2019",
+   "database_updated": "10/11/2019",
+   "drug_name_id": "1682"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-10-07",
+ "srlc_database_updated": "2019-10-11",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:28:33Z"
+}

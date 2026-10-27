@@ -1,0 +1,116 @@
+{
+ "application": "BLA761139",
+ "srlc_rows": [
+  {
+   "drug_name": "ENHERTU",
+   "active_ingredient": "FAM-TRASTUZUMAB DERUXTECAN-NXKI",
+   "application_number": "761139",
+   "application_type": "BLA",
+   "supplement_date": "05/15/2026",
+   "database_updated": "05/20/2026",
+   "drug_name_id": "2390"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-15",
+ "srlc_database_updated": "2026-05-20",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7e67e73e-ddf4-4e4d-8b50-09d7514910b6",
+   "title": "ENHERTU (FAM-TRASTUZUMAB DERUXTECAN-NXKI) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [DAIICHI SANKYO INC.]",
+   "published_date": "May 28, 2026",
+   "spl_version": 28,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2019-12-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-01-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-11-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-05-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-08-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-08-24"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-09-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-11-07"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-11-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-02-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-02-06"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-02-28"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-04-18"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-02-03"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-05-22"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-07-14"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-12-25"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-05-04"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-05-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 28,
+    "published_date": "2026-05-28"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 19
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:39:48Z"
+}

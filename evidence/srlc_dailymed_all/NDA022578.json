@@ -1,0 +1,128 @@
+{
+ "application": "NDA022578",
+ "srlc_rows": [
+  {
+   "drug_name": "ZYRTEC ALLERGY",
+   "active_ingredient": "CETIRIZINE HYDROCHLORIDE",
+   "application_number": "022578",
+   "application_type": "NDA",
+   "supplement_date": "07/02/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "3302"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-07-02",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "a1edc2e6-3661-4d7a-884c-709d73cb89e0",
+   "title": "CHILDRENS ZYRTEC ALLERGY (CETIRIZINE HYDROCHLORIDE) TABLET, ORALLY DISINTEGRATING [KENVUE BRANDS LLC]",
+   "published_date": "Apr 28, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2014-01-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-11-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-11-30"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-12-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-03-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-11-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-06-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-04-28"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "6a962a1c-c197-492b-bfa6-e0c28eda1533",
+   "title": "ZYRTEC ALLERGY (CETIRIZINE HYDROCHLORIDE) TABLET, ORALLY DISINTEGRATING [KENVUE BRANDS LLC]",
+   "published_date": "Apr 14, 2025",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 7,
+     "published_date": "2014-01-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-12-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-12-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-04-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-12-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-11-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-06-01"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-02-24"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-04-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:56:12Z"
+}

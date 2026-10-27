@@ -1,0 +1,34 @@
+{
+ "application": "NDA020710",
+ "srlc_rows": [
+  {
+   "drug_name": "PAXIL",
+   "active_ingredient": "PAROXETINE HYDROCHLORIDE",
+   "application_number": "020710",
+   "application_type": "NDA",
+   "supplement_date": "02/06/2021",
+   "supplement": "SUPPL-45",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/06/2021",
+     "suppl": "SUPPL-45",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/23/2026",
+   "database_updated": "10/02/2026",
+   "drug_name_id": "710"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-06",
+ "srlc_database_updated": "2026-10-02",
+ "lag_days_srlc_database": 2064,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:46Z"
+}

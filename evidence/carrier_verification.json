@@ -1,0 +1,1198 @@
+{
+ "checks": [
+  {
+   "application": "BLA020367",
+   "drug": "CEREZYME",
+   "setid": "df60f030-866b-4374-a31f-8ae3f6b45c38",
+   "supplement_date": "2024-07-10",
+   "carrier": {
+    "spl_version": 23,
+    "published_date": "2024-07-16"
+   },
+   "previous_version": 21,
+   "checked_utc": "2026-10-16T09:17:33Z",
+   "carrier_spl": {
+    "spl_version": 23,
+    "effectiveTime": "20240712",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "00b413f1d2231c7c6a74289539a418c06cfadc8b2dfb7900325c134f9d7d5781",
+    "bw_text_chars": 1439
+   },
+   "previous_spl": {
+    "spl_version": 21,
+    "effectiveTime": "20180410",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 2
+  },
+  {
+   "application": "BLA021148",
+   "drug": "NORDITROPIN",
+   "setid": "1058e17c-9261-459c-a3e6-fae38d196c14",
+   "supplement_date": "2025-01-31",
+   "carrier": {
+    "spl_version": 28,
+    "published_date": "2025-02-17"
+   },
+   "previous_version": 27,
+   "checked_utc": "2026-10-16T09:17:36Z",
+   "carrier_spl": {
+    "spl_version": 28,
+    "effectiveTime": "20200309",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 27,
+    "effectiveTime": "20200309",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": -1789
+  },
+  {
+   "application": "BLA022458",
+   "drug": "ELELYSO",
+   "setid": "fa3cbd5d-677c-4b19-9032-d9182cb69a83",
+   "supplement_date": "2024-07-10",
+   "carrier": {
+    "spl_version": 28,
+    "published_date": "2024-07-19"
+   },
+   "previous_version": 27,
+   "checked_utc": "2026-10-16T09:17:47Z",
+   "carrier_spl": {
+    "spl_version": 28,
+    "effectiveTime": "20240718",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "fe03a03438327015c68b13a912e7e295f0d6c74ed7db6b8a5a7f854ba718ecca",
+    "bw_text_chars": 1436
+   },
+   "previous_spl": {
+    "spl_version": 27,
+    "effectiveTime": "20240522",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "1b6ae48efd659b638f336f320665229268a6c867a2be852ae0e5c510bfa0cd38",
+    "bw_text_chars": 1102
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 8
+  },
+  {
+   "application": "BLA022575",
+   "drug": "VPRIV",
+   "setid": "ca02f7a4-ae4f-43c1-a06a-259fe4fcf9cf",
+   "supplement_date": "2024-07-10",
+   "carrier": {
+    "spl_version": 26,
+    "published_date": "2024-07-19"
+   },
+   "previous_version": 25,
+   "checked_utc": "2026-10-16T09:17:51Z",
+   "carrier_spl": {
+    "spl_version": 26,
+    "effectiveTime": "20240717",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "1739129ebb6ad533a20d1d531986a5b99f1d332f1a1128f91ff56076d78ba993",
+    "bw_text_chars": 1413
+   },
+   "previous_spl": {
+    "spl_version": 25,
+    "effectiveTime": "20221024",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA103705",
+   "drug": "RITUXAN",
+   "setid": "b172773b-3905-4a1c-ad95-bab4b6126563",
+   "supplement_date": "2019-01-25",
+   "carrier": {
+    "spl_version": 22,
+    "published_date": "2019-02-06"
+   },
+   "previous_version": 21,
+   "checked_utc": "2026-10-16T09:17:53Z",
+   "carrier_spl": {
+    "spl_version": 22,
+    "effectiveTime": "20190204",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "2e83e192c4e0f051fa395331de8fbb2d6ba47f3a3609f2f3bf5b27c5c53c4a94",
+    "bw_text_chars": 2082
+   },
+   "previous_spl": {
+    "spl_version": 21,
+    "effectiveTime": "20181210",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "e2f4d23dea4acd05b71893f638c88ce4243a5852207a727d1073dbb85f1eff4f",
+    "bw_text_chars": 2034
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 10
+  },
+  {
+   "application": "BLA103795",
+   "drug": "ENBREL",
+   "setid": "a002b40c-097d-47a5-957f-7a7b1807af7f",
+   "supplement_date": "2023-10-18",
+   "carrier": {
+    "spl_version": 205,
+    "published_date": "2023-11-01"
+   },
+   "previous_version": 204,
+   "checked_utc": "2026-10-16T09:17:56Z",
+   "carrier_spl": {
+    "spl_version": 205,
+    "effectiveTime": "20231024",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "5ffb84537668bcc229406b8583a6a3607e23295a1a20c98430020b92c59c3f61",
+    "bw_text_chars": 2805
+   },
+   "previous_spl": {
+    "spl_version": 204,
+    "effectiveTime": "20230616",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "852aef21e532dfbbb37e02dbe0301886cd53f1fdc67cdf26e567679f178626ca",
+    "bw_text_chars": 2852
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 6
+  },
+  {
+   "application": "BLA103946",
+   "drug": "ELITEK",
+   "setid": "0ae10bc4-6b65-402f-9db5-2d7753054922",
+   "supplement_date": "2016-06-13",
+   "carrier": {
+    "spl_version": 11,
+    "published_date": "2016-06-21"
+   },
+   "previous_version": 10,
+   "checked_utc": "2026-10-16T09:18:11Z",
+   "carrier_spl": {
+    "spl_version": 11,
+    "effectiveTime": "20160620",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "863036e93ae8ebb536a5223123a862d220034c2f9a772f78979d90aa716538a6",
+    "bw_text_chars": 2538
+   },
+   "previous_spl": {
+    "spl_version": 10,
+    "effectiveTime": "20150309",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "f30443ac443c2b74861690f7b0c05eb62f0ceaaaba510585bd0a815e9b89cdf6",
+    "bw_text_chars": 2471
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA103948",
+   "drug": "CAMPATH",
+   "setid": "4f5f7255-7abc-4328-bd1a-ceaf139ef3e0",
+   "supplement_date": "2020-09-25",
+   "carrier": {
+    "spl_version": 14,
+    "published_date": "2020-12-02"
+   },
+   "previous_version": 13,
+   "checked_utc": "2026-10-16T09:18:14Z",
+   "carrier_spl": {
+    "spl_version": 14,
+    "effectiveTime": "20201029",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "f5bb96fe7ad6958faea33dd08f61a70c067edd9ad9a3119baeaf782f562333fa",
+    "bw_text_chars": 1749
+   },
+   "previous_spl": {
+    "spl_version": 13,
+    "effectiveTime": "20200707",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "1d66bdea6c50c7230f6dbe8d1bedbf233cfc06d3be96d4922001fbc4da97e9d7",
+    "bw_text_chars": 1748
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 34
+  },
+  {
+   "application": "BLA103964",
+   "drug": "PEGASYS",
+   "setid": "d9290e5b-6d40-2318-e053-2995a90a9916",
+   "supplement_date": "2023-12-11",
+   "carrier": {
+    "spl_version": 39,
+    "published_date": "2024-01-05"
+   },
+   "previous_version": 38,
+   "checked_utc": "2026-10-16T09:18:18Z",
+   "carrier_spl": {
+    "spl_version": 39,
+    "effectiveTime": "20240101",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "92101a8e0f85ea494c76594fed225a9c448d1859dce6c3ffa010adee1d9052a9",
+    "bw_text_chars": 1008
+   },
+   "previous_spl": {
+    "spl_version": 38,
+    "effectiveTime": "20220301",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "e7bf868a2ac5ff2a2fb582921dc565a5d1cec3cfcb473fb7034e51e4199a148a",
+    "bw_text_chars": 1008
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 21
+  },
+  {
+   "application": "BLA103976",
+   "drug": "XOLAIR",
+   "setid": "7f6a2191-adfb-48b9-9bfa-0d9920479f0d",
+   "supplement_date": "2021-04-09",
+   "carrier": {
+    "spl_version": 18,
+    "published_date": "2021-04-26"
+   },
+   "previous_version": 16,
+   "checked_utc": "2026-10-16T09:18:21Z",
+   "carrier_spl": {
+    "spl_version": 18,
+    "effectiveTime": "20210420",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "39a4cbd969849b2346ca0dd5c69747158894f2eb399ff74154ee72f57d9f0676",
+    "bw_text_chars": 1836
+   },
+   "previous_spl": {
+    "spl_version": 16,
+    "effectiveTime": "20201209",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "3e6f67123718d46ed8e5e631968a9977a8fadf72f769c6a1148be7151a2fbb12",
+    "bw_text_chars": 1447
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 11
+  },
+  {
+   "application": "BLA103979",
+   "drug": "FABRAZYME",
+   "setid": "988513ab-b06f-4dd0-93f7-d2d4531dcce4",
+   "supplement_date": "2024-07-10",
+   "carrier": {
+    "spl_version": 34,
+    "published_date": "2024-07-18"
+   },
+   "previous_version": 33,
+   "checked_utc": "2026-10-16T09:18:27Z",
+   "carrier_spl": {
+    "spl_version": 34,
+    "effectiveTime": "20240715",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "f2839a233f69e969e0974c8efc1e3dffab915b472fdf880c5c68879fb9a1fdfe",
+    "bw_text_chars": 1436
+   },
+   "previous_spl": {
+    "spl_version": 33,
+    "effectiveTime": "20240223",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 5
+  },
+  {
+   "application": "BLA125058",
+   "drug": "ALDURAZYME",
+   "setid": "a80ac249-cae4-41f3-88bb-344088b20e60",
+   "supplement_date": "2023-12-14",
+   "carrier": {
+    "spl_version": 35,
+    "published_date": "2023-12-28"
+   },
+   "previous_version": 33,
+   "checked_utc": "2026-10-16T09:18:31Z",
+   "carrier_spl": {
+    "spl_version": 35,
+    "effectiveTime": "20231222",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "ec8001e2b8979931bd87bfc800fb50602a2204396d573731a7107071f73e9bc7",
+    "bw_text_chars": 1807
+   },
+   "previous_spl": {
+    "spl_version": 33,
+    "effectiveTime": "20230515",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "cc8c3bc617e27f805138ca50a2cb872b0e59a3e3571605abe0735a2bb3b20bc5",
+    "bw_text_chars": 1077
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 8
+  },
+  {
+   "application": "BLA125084",
+   "drug": "ERBITUX",
+   "setid": "8bc6397e-4bd8-4d37-a007-a327e4da34d9",
+   "supplement_date": "2018-06-05",
+   "carrier": {
+    "spl_version": 42,
+    "published_date": "2018-06-19"
+   },
+   "previous_version": 41,
+   "checked_utc": "2026-10-16T09:18:34Z",
+   "carrier_spl": {
+    "spl_version": 42,
+    "effectiveTime": "20180605",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "d34d269748af89ff8ed355690bf72c1fd278ff897f642c6830d0a17303c3e6e2",
+    "bw_text_chars": 1360
+   },
+   "previous_spl": {
+    "spl_version": 41,
+    "effectiveTime": "20180504",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "848b31b76e6f08b07270210fe2943599b5db3056ca75cbf6942c55c8e065ce83",
+    "bw_text_chars": 1767
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 0
+  },
+  {
+   "application": "BLA125085",
+   "drug": "AVASTIN",
+   "setid": "939b5d1f-9fb2-4499-80ef-0607aa6b114e",
+   "supplement_date": "2017-12-05",
+   "carrier": {
+    "spl_version": 24,
+    "published_date": "2017-12-18"
+   },
+   "previous_version": 23,
+   "checked_utc": "2026-10-16T09:18:38Z",
+   "carrier_spl": {
+    "spl_version": 24,
+    "effectiveTime": "20171214",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "095c78dcf1045a359eac575af270dce3b0a3f6e9ff8a1e91cd54345afe1cea35",
+    "bw_text_chars": 1908
+   },
+   "previous_spl": {
+    "spl_version": 23,
+    "effectiveTime": "20161212",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "63e7fdc18d6d6e64d2c7d8d5c0389b54c8445c3a4d93f7591438482d5741d924",
+    "bw_text_chars": 2272
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 9
+  },
+  {
+   "application": "BLA125104",
+   "drug": "TYSABRI",
+   "setid": "c5fdde91-1989-4dd2-9129-4f3323ea2962",
+   "supplement_date": "2020-06-17",
+   "carrier": {
+    "spl_version": 35,
+    "published_date": "2020-07-02"
+   },
+   "previous_version": 34,
+   "checked_utc": "2026-10-16T09:18:41Z",
+   "carrier_spl": {
+    "spl_version": 35,
+    "effectiveTime": "20200630",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "428552e10c4262e4fbcb8ffe4cfbcb64e27b82cc09e3ac9df5072929061a617a",
+    "bw_text_chars": 2047
+   },
+   "previous_spl": {
+    "spl_version": 34,
+    "effectiveTime": "20190812",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "07bf0b189103052b0b9d182822c9c1a09b651b2513fb616293058d8acc0b0bfb",
+    "bw_text_chars": 2039
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 13
+  },
+  {
+   "application": "BLA125117",
+   "drug": "NAGLAZYME",
+   "setid": "59341250-deac-ed71-3823-a4f5d64dbd77",
+   "supplement_date": "2024-07-10",
+   "carrier": {
+    "spl_version": 36,
+    "published_date": "2024-07-19"
+   },
+   "previous_version": 34,
+   "checked_utc": "2026-10-16T09:18:44Z",
+   "carrier_spl": {
+    "spl_version": 36,
+    "effectiveTime": "20240717",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "7f088757694fa8e7cf15423290a53ef2a34c3821222c521bb0e9446dcd996df0",
+    "bw_text_chars": 1437
+   },
+   "previous_spl": {
+    "spl_version": 34,
+    "effectiveTime": "20200414",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA125166",
+   "drug": "SOLIRIS",
+   "setid": "ebcd67fa-b4d1-4a22-b33d-ee8bf6b9c722",
+   "supplement_date": "2024-03-22",
+   "carrier": {
+    "spl_version": 39,
+    "published_date": "2024-04-02"
+   },
+   "previous_version": 38,
+   "checked_utc": "2026-10-16T09:18:46Z",
+   "carrier_spl": {
+    "spl_version": 39,
+    "effectiveTime": "20240328",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "8e3d0ea92b4f3edbdd29052f2edfb5dc69b2716e683fb947323040ae0df60ab4",
+    "bw_text_chars": 2474
+   },
+   "previous_spl": {
+    "spl_version": 38,
+    "effectiveTime": "20240220",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "331cfd423e29b4da3ce25ccca94726e2abceb1b52430e5b292e3f14fa19e96a7",
+    "bw_text_chars": 2442
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 6
+  },
+  {
+   "application": "BLA125291",
+   "drug": "LUMIZYME",
+   "setid": "d6bfbc45-2d34-439e-8aad-59ee2d53d4df",
+   "supplement_date": "2024-12-30",
+   "carrier": {
+    "spl_version": 21,
+    "published_date": "2025-01-13"
+   },
+   "previous_version": 20,
+   "checked_utc": "2026-10-16T09:18:49Z",
+   "carrier_spl": {
+    "spl_version": 21,
+    "effectiveTime": "20250110",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "c527e42805e615e7381ae60e4a001568c0fd4900e9e1df5e7e38d7b10b612315",
+    "bw_text_chars": 2953
+   },
+   "previous_spl": {
+    "spl_version": 20,
+    "effectiveTime": "20240404",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "5ff406b1803f99b1b1082c1b8bb1f31d1236c71626b6c47736ebaf0a4d37f653",
+    "bw_text_chars": 2399
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 11
+  },
+  {
+   "application": "BLA125293",
+   "drug": "KRYSTEXXA",
+   "setid": "6e566303-d93a-4130-b764-25749829aa95",
+   "supplement_date": "2016-09-09",
+   "carrier": {
+    "spl_version": 2,
+    "published_date": "2016-10-07"
+   },
+   "previous_version": null,
+   "checked_utc": "2026-10-16T09:18:53Z",
+   "carrier_spl": {
+    "spl_version": 2,
+    "effectiveTime": "20160930",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "c586691046a1362fe964b917e2ca714ef0540bf08c0865776f672ca688fe99ff",
+    "bw_text_chars": 2506
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 21
+  },
+  {
+   "application": "BLA125320",
+   "drug": "PROLIA",
+   "setid": "628f0998-1206-4001-aeee-18133aa9f3bf",
+   "supplement_date": "2024-01-19",
+   "carrier": {
+    "spl_version": 172,
+    "published_date": "2024-03-21"
+   },
+   "previous_version": 171,
+   "checked_utc": "2026-10-16T09:18:54Z",
+   "carrier_spl": {
+    "spl_version": 172,
+    "effectiveTime": "20240112",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 171,
+    "effectiveTime": "20200609",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": -7
+  },
+  {
+   "application": "BLA125326",
+   "drug": "KESIMPTA",
+   "setid": "6a8a3f53-2062-48ff-9dbe-b939df133ca3",
+   "supplement_date": "2022-09-02",
+   "carrier": {
+    "spl_version": 5,
+    "published_date": "2022-09-14"
+   },
+   "previous_version": 4,
+   "checked_utc": "2026-10-16T09:18:56Z",
+   "carrier_spl": {
+    "spl_version": 5,
+    "effectiveTime": "20220902",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 4,
+    "effectiveTime": "20220607",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 0
+  },
+  {
+   "application": "BLA125349",
+   "drug": "RAXIBACUMAB",
+   "setid": "f6927e91-bb46-47b3-ab66-f9d8a9d7b12a",
+   "supplement_date": "2021-06-02",
+   "carrier": {
+    "spl_version": 2,
+    "published_date": "2021-06-22"
+   },
+   "previous_version": 1,
+   "checked_utc": "2026-10-16T09:19:01Z",
+   "carrier_spl": {
+    "spl_version": 2,
+    "effectiveTime": "20210614",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "2ab4897e6dabc8e34ebf348b16dacc4233cc1ce1750a4c6e986300cb662c8733",
+    "bw_text_chars": 1001
+   },
+   "previous_spl": {
+    "spl_version": 1,
+    "effectiveTime": "20180319",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 12
+  },
+  {
+   "application": "BLA125377",
+   "drug": "YERVOY",
+   "setid": "2265ef30-253e-11df-8a39-0800200c9a66",
+   "supplement_date": "2020-06-29",
+   "carrier": {
+    "spl_version": 30,
+    "published_date": "2020-07-10"
+   },
+   "previous_version": 29,
+   "checked_utc": "2026-10-16T09:19:03Z",
+   "carrier_spl": {
+    "spl_version": 30,
+    "effectiveTime": "20200629",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 29,
+    "effectiveTime": "20200526",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "7b8571d2312dfe2c11393d58ab6ca81f879421eeed910b730ef0b7021252338b",
+    "bw_text_chars": 2019
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 0
+  },
+  {
+   "application": "BLA125418",
+   "drug": "ZALTRAP",
+   "setid": "f6725df6-50ee-4b0a-b900-d02ba634395d",
+   "supplement_date": "2020-03-11",
+   "carrier": {
+    "spl_version": 23,
+    "published_date": "2020-03-20"
+   },
+   "previous_version": 22,
+   "checked_utc": "2026-10-16T09:19:07Z",
+   "carrier_spl": {
+    "spl_version": 23,
+    "effectiveTime": "20200319",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "previous_spl": {
+    "spl_version": 22,
+    "effectiveTime": "20191206",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "7744714d464060eb718f3d844b7b2365feb7085f72a81555f84c7927739adac1",
+    "bw_text_chars": 1911
+   },
+   "verdict": "no_bw_section",
+   "carrier_effective_vs_supplement": 8
+  },
+  {
+   "application": "BLA125427",
+   "drug": "KADCYLA",
+   "setid": "23f3c1f4-0fc8-4804-a9e3-04cf25dd302e",
+   "supplement_date": "2016-04-28",
+   "carrier": {
+    "spl_version": 6,
+    "published_date": "2016-05-16"
+   },
+   "previous_version": 5,
+   "checked_utc": "2026-10-16T09:19:11Z",
+   "carrier_spl": {
+    "spl_version": 6,
+    "effectiveTime": "20160509",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "614e4b68888256562a829743534907c5d5680be138b5bdcc28c5804793d7ca7f",
+    "bw_text_chars": 1747
+   },
+   "previous_spl": {
+    "spl_version": 5,
+    "effectiveTime": "20150531",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "3501e7d13f06958ab382cf7e49ee0f97a29a141750c55beb56c4e8a47d6fbb13",
+    "bw_text_chars": 1642
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 11
+  },
+  {
+   "application": "BLA125460",
+   "drug": "VIMIZIM",
+   "setid": "0caa2565-12b2-0ad0-1f9a-273e81c3d4cc",
+   "supplement_date": "2025-10-30",
+   "carrier": {
+    "spl_version": 38,
+    "published_date": "2025-11-18"
+   },
+   "previous_version": 36,
+   "checked_utc": "2026-10-16T09:19:14Z",
+   "carrier_spl": {
+    "spl_version": 38,
+    "effectiveTime": "20251030",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "7eaef867c186ac5e60f1b5fcf938a9fa92cc7dc2d7c96d61b862a364c322d2f6",
+    "bw_text_chars": 1926
+   },
+   "previous_spl": {
+    "spl_version": 36,
+    "effectiveTime": "20191219",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "d3e305f0327dbf89fbf71fb1651b97848225316020eb29c84a23e565159cd382",
+    "bw_text_chars": 1882
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 0
+  },
+  {
+   "application": "BLA125469",
+   "drug": "TRULICITY",
+   "setid": "463050bd-2b1c-40f5-b3c3-0a04bb433309",
+   "supplement_date": "2017-01-27",
+   "carrier": {
+    "spl_version": 19,
+    "published_date": "2017-02-06"
+   },
+   "previous_version": 17,
+   "checked_utc": "2026-10-16T09:19:16Z",
+   "carrier_spl": {
+    "spl_version": 19,
+    "effectiveTime": "20170206",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "b00090095ddd90d0b32a8839d01a0818e18bea2f031031813fb820b6b0ccea53",
+    "bw_text_chars": 1713
+   },
+   "previous_spl": {
+    "spl_version": 17,
+    "effectiveTime": "20161220",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "b00090095ddd90d0b32a8839d01a0818e18bea2f031031813fb820b6b0ccea53",
+    "bw_text_chars": 1713
+   },
+   "verdict": "unchanged",
+   "carrier_effective_vs_supplement": 10
+  },
+  {
+   "application": "BLA125513",
+   "drug": "STRENSIQ",
+   "setid": "3387574f-5eaa-4501-a71d-4cbfbd563031",
+   "supplement_date": "2024-07-10",
+   "carrier": {
+    "spl_version": 17,
+    "published_date": "2024-07-19"
+   },
+   "previous_version": 16,
+   "checked_utc": "2026-10-16T09:19:24Z",
+   "carrier_spl": {
+    "spl_version": 17,
+    "effectiveTime": "20240717",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "8f897b8e6515688900306539d2dc5dde391c89090bc409684ac00e19d10db546",
+    "bw_text_chars": 1357
+   },
+   "previous_spl": {
+    "spl_version": 16,
+    "effectiveTime": "20230314",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA125516",
+   "drug": "UNITUXIN",
+   "setid": "d66bdf0d-9d65-45de-ae5b-a58617c27492",
+   "supplement_date": "2017-03-01",
+   "carrier": {
+    "spl_version": 2,
+    "published_date": "2017-03-14"
+   },
+   "previous_version": 1,
+   "checked_utc": "2026-10-16T09:19:32Z",
+   "carrier_spl": {
+    "spl_version": 2,
+    "effectiveTime": "20170310",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "a74a8611dd08d5839c48c8837266aecb6d9a5b1cbe50e4b771a9b3c560f8c717",
+    "bw_text_chars": 2270
+   },
+   "previous_spl": {
+    "spl_version": 1,
+    "effectiveTime": "20150316",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "003f5fc9de6f5c6def8d927faf8301538cb633fd1d196fd2b02908c58d5431f2",
+    "bw_text_chars": 2155
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 9
+  },
+  {
+   "application": "BLA125545",
+   "drug": "RETACRIT",
+   "setid": "3af26b0d-8ad0-44e1-a538-8bdb5ab39374",
+   "supplement_date": "2024-06-04",
+   "carrier": {
+    "spl_version": 17,
+    "published_date": "2024-06-17"
+   },
+   "previous_version": 16,
+   "checked_utc": "2026-10-16T09:19:35Z",
+   "carrier_spl": {
+    "spl_version": 17,
+    "effectiveTime": "20240614",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "bc7cc88591ac9b71f8c7dd2eda547b2b45a1ae41c82d2a43313e067fbe9f4f26",
+    "bw_text_chars": 3123
+   },
+   "previous_spl": {
+    "spl_version": 16,
+    "effectiveTime": "20230608",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "ccb1d18266c4dbb0e3af8dccb113061f40ae7fead14fc3c65ce04b4089b05d71",
+    "bw_text_chars": 3089
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 10
+  },
+  {
+   "application": "BLA125557",
+   "drug": "BLINCYTO",
+   "setid": "38b482a8-960b-4591-9857-5031ecb830aa",
+   "supplement_date": "2024-02-08",
+   "carrier": {
+    "spl_version": 35,
+    "published_date": "2024-02-20"
+   },
+   "previous_version": 34,
+   "checked_utc": "2026-10-16T09:19:46Z",
+   "carrier_spl": {
+    "spl_version": 35,
+    "effectiveTime": "20240213",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "d8bbd14ebe60e7525fa7a1b192b0f5b875c57f8a7cb73d79423947be1b9cdce6",
+    "bw_text_chars": 1346
+   },
+   "previous_spl": {
+    "spl_version": 34,
+    "effectiveTime": "20230623",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "3ce4447d3a40f7af3e546fc4c229e186bc0321bda97ea5e3c2bdb0b81fca7ae5",
+    "bw_text_chars": 1069
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 5
+  },
+  {
+   "application": "BLA125561",
+   "drug": "KANUMA",
+   "setid": "83a77b9d-42f0-4645-8420-786285da7326",
+   "supplement_date": "2024-07-10",
+   "carrier": {
+    "spl_version": 10,
+    "published_date": "2024-07-19"
+   },
+   "previous_version": 9,
+   "checked_utc": "2026-10-16T09:19:48Z",
+   "carrier_spl": {
+    "spl_version": 10,
+    "effectiveTime": "20240717",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "e3c731a1cc2f8a5e794c11277233b0b316dd3f6c3f0432171255bd8644c8dddd",
+    "bw_text_chars": 1417
+   },
+   "previous_spl": {
+    "spl_version": 9,
+    "effectiveTime": "20230718",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 7
+  },
+  {
+   "application": "BLA761024",
+   "drug": "AMJEVITA",
+   "setid": "9c44bd5b-4464-40a4-8933-8680950f00f2",
+   "supplement_date": "2019-06-13",
+   "carrier": {
+    "spl_version": 18,
+    "published_date": "2023-01-31"
+   },
+   "previous_version": null,
+   "checked_utc": "2026-10-16T09:19:50Z",
+   "carrier_spl": {
+    "spl_version": 18,
+    "effectiveTime": "20220805",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "cd95beecf8699f1c2aefbd607ca58c1bf889cd15db58d9b1352352cb5c5e9c99",
+    "bw_text_chars": 3846
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 1149
+  },
+  {
+   "application": "BLA761052",
+   "drug": "BRINEURA",
+   "setid": "485ab3c5-0359-4878-872f-2fe1e7df4047",
+   "supplement_date": "2024-07-10",
+   "carrier": {
+    "spl_version": 30,
+    "published_date": "2024-08-08"
+   },
+   "previous_version": 27,
+   "checked_utc": "2026-10-16T09:19:55Z",
+   "carrier_spl": {
+    "spl_version": 30,
+    "effectiveTime": "20240805",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "f10532296a059a9ec0a06b1e0288197b06fd3d8307664e04750283fdeda8c1f2",
+    "bw_text_chars": 1432
+   },
+   "previous_spl": {
+    "spl_version": 27,
+    "effectiveTime": "20200702",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 26
+  },
+  {
+   "application": "BLA761079",
+   "drug": "PALYNZIQ",
+   "setid": "6dba844a-db02-44f8-8593-ce497ed9406c",
+   "supplement_date": "2026-02-27",
+   "carrier": {
+    "spl_version": 36,
+    "published_date": "2026-03-09"
+   },
+   "previous_version": 35,
+   "checked_utc": "2026-10-16T09:19:59Z",
+   "carrier_spl": {
+    "spl_version": 36,
+    "effectiveTime": "20260302",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "9737ea05daca980bb7fa2d7668ead8bb0dc0bf554362b12aa270bf74020e5713",
+    "bw_text_chars": 3057
+   },
+   "previous_spl": {
+    "spl_version": 35,
+    "effectiveTime": "20251003",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "bab6b1a73a4704bdef73d0c0c9535e895a3cefc4d47cca3e36fabee3f94dea32",
+    "bw_text_chars": 3195
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 3
+  },
+  {
+   "application": "BLA761108",
+   "drug": "ULTOMIRIS",
+   "setid": "a9a590d9-0217-43c7-908d-e62a71279791",
+   "supplement_date": "2024-03-22",
+   "carrier": {
+    "spl_version": 16,
+    "published_date": "2024-04-02"
+   },
+   "previous_version": 15,
+   "checked_utc": "2026-10-16T09:20:06Z",
+   "carrier_spl": {
+    "spl_version": 16,
+    "effectiveTime": "20240328",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "3f48d3dcd1d0cbefca133e71ed0d19676feaca97d558c715b54b71b14888e744",
+    "bw_text_chars": 2491
+   },
+   "previous_spl": {
+    "spl_version": 15,
+    "effectiveTime": "20240220",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "b548854fbd4f3621e47850eb7e9dd2cef138c626754c80db4e3aced597da0a27",
+    "bw_text_chars": 2468
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 6
+  },
+  {
+   "application": "BLA761183",
+   "drug": "TZIELD",
+   "setid": "e8a39a5f-139c-4510-9777-71cbb00138fa",
+   "supplement_date": "2026-04-20",
+   "carrier": {
+    "spl_version": 6,
+    "published_date": "2026-04-23"
+   },
+   "previous_version": 5,
+   "checked_utc": "2026-10-16T09:20:15Z",
+   "carrier_spl": {
+    "spl_version": 6,
+    "effectiveTime": "20260421",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "b406b36f40b508570e381f4cb6f8b33ff0ef24431e0cfc2a6754c10882dea760",
+    "bw_text_chars": 1733
+   },
+   "previous_spl": {
+    "spl_version": 5,
+    "effectiveTime": "20250506",
+    "bw_section_present": false,
+    "bw_section_count": 0,
+    "bw_text_sha256": null,
+    "bw_text_chars": 0
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 1
+  },
+  {
+   "application": "BLA761208",
+   "drug": "TIVDAK",
+   "setid": "c9fe3f32-4219-466e-acb9-3f609b4f4df1",
+   "supplement_date": "2024-04-29",
+   "carrier": {
+    "spl_version": 7,
+    "published_date": "2024-05-09"
+   },
+   "previous_version": 5,
+   "checked_utc": "2026-10-16T09:20:18Z",
+   "carrier_spl": {
+    "spl_version": 7,
+    "effectiveTime": "20240430",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "2cf66f149fef9e76b6252b2baa0ab8c3a6d6ebbd8dc492a3078a392bb885ec86",
+    "bw_text_chars": 1518
+   },
+   "previous_spl": {
+    "spl_version": 5,
+    "effectiveTime": "20230727",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "585f4f6545a1a6fc55c17bcec4358e356bcde55fb0dd01167f996c39db7aa1f4",
+    "bw_text_chars": 1233
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 1
+  },
+  {
+   "application": "BLA761248",
+   "drug": "KISUNLA",
+   "setid": "190352d4-ef62-4679-b4fa-e846e2766afa",
+   "supplement_date": "2025-07-01",
+   "carrier": {
+    "spl_version": 6,
+    "published_date": "2025-07-18"
+   },
+   "previous_version": 4,
+   "checked_utc": "2026-10-16T09:20:22Z",
+   "carrier_spl": {
+    "spl_version": 6,
+    "effectiveTime": "20250701",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "d6ef42978efae2d0d9cf6adf078d03b843be622a1a90c0faa20c1028bf62970c",
+    "bw_text_chars": 3300
+   },
+   "previous_spl": {
+    "spl_version": 4,
+    "effectiveTime": "20240702",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "f1f557065571b84c3ae52c1d550dbd61395dcd23bc5bce03f643859e62b5fd61",
+    "bw_text_chars": 3289
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 0
+  },
+  {
+   "application": "BLA761261",
+   "drug": "XENPOZYME",
+   "setid": "01a910ee-a33e-4be3-ac41-322d64c34311",
+   "supplement_date": "2023-12-05",
+   "carrier": {
+    "spl_version": 5,
+    "published_date": "2023-12-13"
+   },
+   "previous_version": 4,
+   "checked_utc": "2026-10-16T09:20:24Z",
+   "carrier_spl": {
+    "spl_version": 5,
+    "effectiveTime": "20231212",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "38590e812c87f67d54b0c1970a6374b0abaac6b25ab3ab320c05ee1d994406e4",
+    "bw_text_chars": 1014
+   },
+   "previous_spl": {
+    "spl_version": 4,
+    "effectiveTime": "20230706",
+    "bw_section_present": true,
+    "bw_section_count": 1,
+    "bw_text_sha256": "4103e3153ccbcd0fff7577c11610fc14f6ec625655960ae671091d0735acf241",
+    "bw_text_chars": 1078
+   },
+   "verdict": "confirmed",
+   "carrier_effective_vs_supplement": 7
+  }
+ ],
+ "summary": {
+  "checked": 40,
+  "verdicts": {
+   "confirmed": 34,
+   "no_bw_section": 5,
+   "unchanged": 1
+  },
+  "updated_utc": "2026-10-16T09:20:28Z",
+  "note": "Label text is not stored; only LOINC 34066-1 presence, a SHA-256 of the normalised section text, effectiveTime and version numbers."
+ }
+}

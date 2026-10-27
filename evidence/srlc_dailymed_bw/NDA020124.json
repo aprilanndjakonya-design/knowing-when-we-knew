@@ -1,0 +1,100 @@
+{
+ "application": "NDA020124",
+ "srlc_rows": [
+  {
+   "drug_name": "DIAZEPAM",
+   "active_ingredient": "DIAZEPAM",
+   "application_number": "020124",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-33",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-32",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-33",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/18/2023",
+   "drug_name_id": "585"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-18",
+ "lag_days_srlc_database": 712,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "fa352464-14c8-49e9-b8b7-5a968b1cfa93",
+   "title": "DIAZEPAM INJECTION [MERIDIAN MEDICAL TECHNOLOGIES LLC]",
+   "published_date": "Dec 22, 2023",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-03-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-03-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-03-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-11-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-12-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-02-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-12-03"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-04-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-07-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-12-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2021-02-26"
+   },
+   "lag_days_dailymed": 21,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 21,
+ "fetched_utc": "2026-10-16T09:16:40Z"
+}

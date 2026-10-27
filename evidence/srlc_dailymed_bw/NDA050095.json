@@ -1,0 +1,36 @@
+{
+ "application": "NDA050095",
+ "srlc_rows": [
+  {
+   "drug_name": "CAPASTAT SULFATE",
+   "active_ingredient": "CAPREOMYCIN SULFATE",
+   "application_number": "050095",
+   "application_type": "NDA",
+   "supplement_date": "01/17/2023",
+   "supplement": "SUPPL-78",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/17/2023",
+     "suppl": "SUPPL-78",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/17/2023",
+   "database_updated": "01/20/2023",
+   "drug_name_id": "2717"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-01-17",
+ "srlc_database_updated": "2023-01-20",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:25:30Z"
+}

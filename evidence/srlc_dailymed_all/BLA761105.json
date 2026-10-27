@@ -1,0 +1,188 @@
+{
+ "application": "BLA761105",
+ "srlc_rows": [
+  {
+   "drug_name": "SKYRIZI",
+   "active_ingredient": "RISANKIZUMAB-RZAA",
+   "application_number": "761105",
+   "application_type": "BLA",
+   "supplement_date": "06/26/2026",
+   "database_updated": "07/07/2026",
+   "drug_name_id": "2448"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-26",
+ "srlc_database_updated": "2026-07-07",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7148c8eb-b39e-e20a-6494-a6df82392858",
+   "title": "SKYRIZI (RISANKIZUMAB-RZAA) KIT SKYRIZI (RISANKIZUMAB-RZAA) INJECTION SKYRIZI (RISANKIZUMAB-RZAA) INJECTION, SOLUTION [ABBVIE INC.]",
+   "published_date": "Jul 31, 2026",
+   "spl_version": 179,
+   "versions": [
+    {
+     "spl_version": 53,
+     "published_date": "2019-04-24"
+    },
+    {
+     "spl_version": 67,
+     "published_date": "2019-09-03"
+    },
+    {
+     "spl_version": 79,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 80,
+     "published_date": "2020-05-13"
+    },
+    {
+     "spl_version": 93,
+     "published_date": "2020-07-07"
+    },
+    {
+     "spl_version": 119,
+     "published_date": "2020-11-19"
+    },
+    {
+     "spl_version": 120,
+     "published_date": "2020-12-16"
+    },
+    {
+     "spl_version": 126,
+     "published_date": "2021-05-03"
+    },
+    {
+     "spl_version": 127,
+     "published_date": "2021-05-21"
+    },
+    {
+     "spl_version": 129,
+     "published_date": "2021-09-15"
+    },
+    {
+     "spl_version": 130,
+     "published_date": "2022-01-28"
+    },
+    {
+     "spl_version": 131,
+     "published_date": "2022-06-27"
+    },
+    {
+     "spl_version": 132,
+     "published_date": "2022-06-29"
+    },
+    {
+     "spl_version": 133,
+     "published_date": "2022-07-20"
+    },
+    {
+     "spl_version": 134,
+     "published_date": "2022-08-10"
+    },
+    {
+     "spl_version": 136,
+     "published_date": "2022-09-12"
+    },
+    {
+     "spl_version": 137,
+     "published_date": "2022-10-10"
+    },
+    {
+     "spl_version": 140,
+     "published_date": "2022-12-23"
+    },
+    {
+     "spl_version": 141,
+     "published_date": "2023-01-26"
+    },
+    {
+     "spl_version": 142,
+     "published_date": "2023-02-09"
+    },
+    {
+     "spl_version": 143,
+     "published_date": "2023-02-23"
+    },
+    {
+     "spl_version": 144,
+     "published_date": "2023-03-16"
+    },
+    {
+     "spl_version": 145,
+     "published_date": "2023-04-04"
+    },
+    {
+     "spl_version": 150,
+     "published_date": "2023-05-31"
+    },
+    {
+     "spl_version": 153,
+     "published_date": "2024-01-12"
+    },
+    {
+     "spl_version": 154,
+     "published_date": "2024-03-14"
+    },
+    {
+     "spl_version": 155,
+     "published_date": "2024-07-01"
+    },
+    {
+     "spl_version": 156,
+     "published_date": "2024-09-18"
+    },
+    {
+     "spl_version": 157,
+     "published_date": "2024-10-03"
+    },
+    {
+     "spl_version": 162,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 163,
+     "published_date": "2025-06-26"
+    },
+    {
+     "spl_version": 166,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 168,
+     "published_date": "2025-09-15"
+    },
+    {
+     "spl_version": 172,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 173,
+     "published_date": "2026-03-30"
+    },
+    {
+     "spl_version": 176,
+     "published_date": "2026-06-22"
+    },
+    {
+     "spl_version": 178,
+     "published_date": "2026-07-03"
+    },
+    {
+     "spl_version": 179,
+     "published_date": "2026-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 178,
+    "published_date": "2026-07-03"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 36
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T08:39:27Z"
+}

@@ -1,0 +1,164 @@
+{
+ "application": "BLA019640",
+ "srlc_rows": [
+  {
+   "drug_name": "HUMATROPE",
+   "active_ingredient": "SOMATROPIN RECOMBINANT",
+   "application_number": "019640",
+   "application_type": "BLA",
+   "supplement_date": "11/25/2025",
+   "database_updated": "12/03/2025",
+   "drug_name_id": "599"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-25",
+ "srlc_database_updated": "2025-12-03",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a774e1ae-3997-49ee-8b0e-99a2b315d409",
+   "title": "HUMATROPE (SOMATROPIN) KIT [ELI LILLY AND COMPANY]",
+   "published_date": "Sep 02, 2026",
+   "spl_version": 45,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-09-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2009-10-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-08-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2010-10-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2011-01-20"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-03-08"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-03-28"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-04-18"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2011-10-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2011-12-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2012-04-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2012-09-11"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2013-04-29"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2014-08-12"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2015-04-20"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2016-09-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2016-12-20"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2017-05-15"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-09-06"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-11-12"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2020-09-03"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2021-03-25"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2021-08-13"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2023-06-28"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2023-12-22"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2024-12-12"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2025-12-11"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2026-09-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 44,
+    "published_date": "2025-12-11"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 30
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:36:54Z"
+}

@@ -1,0 +1,947 @@
+{
+ "application": "NDA011856",
+ "srlc_rows": [
+  {
+   "drug_name": "SOLU-MEDROL",
+   "active_ingredient": "METHYLPREDNISOLONE SODIUM SUCCINATE",
+   "application_number": "011856",
+   "application_type": "NDA",
+   "supplement_date": "11/04/2025",
+   "database_updated": "11/07/2025",
+   "drug_name_id": "397"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-04",
+ "srlc_database_updated": "2025-11-07",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 20,
+ "labels": [
+  {
+   "setid": "68ef8ec4-16de-4a8c-8696-b09359660380",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Jul 28, 2026",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-05-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-10-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-01-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-01-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-03-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-06-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-10-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-01-31"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-02-11"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-04-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-07-19"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-07-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-01-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-07-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2026-01-06"
+   },
+   "lag_days_dailymed": 63,
+   "versions_before_supplement": 13
+  },
+  {
+   "setid": "0cb0ba76-067f-46c4-a5d8-b585d5ecafe3",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [SPORTPHARM LLC]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-07-24"
+   },
+   "lag_days_dailymed": 262,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "7271310c-7764-4812-aa30-a5e90987c7a9",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Jun 26, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-08-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-10-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-11-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2021-12-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-01-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-08-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-07-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-12-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2025-12-01"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "ea2f9b6f-2375-40a6-8b97-b607b9f3ac63",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [HENRY SCHEIN, INC.]",
+   "published_date": "Jun 17, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-07-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-08-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-10-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-06-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-06-17"
+   },
+   "lag_days_dailymed": 225,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "2af28649-2553-4bcc-9cb1-c73f7cec76d5",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Jun 08, 2026",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-10-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-05-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-06-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-06-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-03-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-04-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-07-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-05-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-06-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-06-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-07-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2014-08-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-08-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-11-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-08-01"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-01-15"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-09-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-04-17"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-12-24"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2021-09-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-05-25"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-03-22"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-11-01"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-07-08"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-01-16"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-06-08"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2026-01-16"
+   },
+   "lag_days_dailymed": 73,
+   "versions_before_supplement": 24
+  },
+  {
+   "setid": "8e5997ed-f4a5-43f7-abbd-c8e2219fe0e9",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 33,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2017-09-26"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-01-10"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2019-01-25"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2021-06-15"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2023-03-07"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2026-06-01"
+   },
+   "lag_days_dailymed": 209,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "decceb81-e922-4b72-a278-3ed80f4adb04",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [HENRY SCHEIN, INC.]",
+   "published_date": "Mar 20, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-02-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-10-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-01-31"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-03-20"
+   },
+   "lag_days_dailymed": 136,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "1d5ef347-2e9a-432f-9a88-a7c4ba300267",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [REMEDYREPACK INC.]",
+   "published_date": "Feb 02, 2026",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-04-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-10-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-11-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-06-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-03-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-07-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-08-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-12-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-02-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-12-17"
+   },
+   "lag_days_dailymed": 43,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "7e38b09c-da41-4ee3-8f99-812d3276d551",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Dec 29, 2025",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-10-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-05-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-06-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-07-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-10-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-11-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-12-08"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-01-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-02-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-12-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-02-11"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-10-14"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-07-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-12-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-12-29"
+   },
+   "lag_days_dailymed": 55,
+   "versions_before_supplement": 15
+  },
+  {
+   "setid": "42df21df-9284-4505-e063-6294a90a7024",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [PROPHARMA DISTRIBUTION]",
+   "published_date": "Dec 19, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-12-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "cd99be87-c8d9-48d6-a8e5-e081052e3f19",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Dec 16, 2025",
+   "spl_version": 35,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2009-11-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-11-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-08-27"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-12-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-01-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-05-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-07-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2014-11-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-11-25"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-02-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-05-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-10-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-11-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-01-25"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-06-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-02-14"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-09-06"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-11-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2018-12-06"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-12-19"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-08-28"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2020-09-28"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2020-11-03"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2021-06-15"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2021-11-10"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-01-08"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-06-18"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-11-22"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2025-04-28"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2025-11-28"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2025-12-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 33,
+    "published_date": "2025-11-18"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 30
+  },
+  {
+   "setid": "38698075-ac58-b5a4-e063-6294a90a7848",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [PROPHARMA DISTRIBUTION]",
+   "published_date": "Jul 21, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-07-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "99b3c99a-79d5-6c54-e053-2a95a90a28bc",
+   "title": "SOLU-MEDROL(R) METHYLPREDNISOLONE SODIUM SUCCINAT INJECTION, POWDER, FOR SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Jan 10, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-01-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "74e5060c-8426-1b77-e053-2a91aa0a1f13",
+   "title": "SOLU-MEDROL INJECTION, POWDER, FOR SOLUTION [HF ACQUISITION CO. LLC, DBA HEALTHFIRST]",
+   "published_date": "Feb 27, 2024",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-09-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-05-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-06-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-10-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-01-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-02-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "74e448ed-f4b4-8d09-e053-2991aa0a7500",
+   "title": "SOLU-MEDROL INJECTION, POWDER, FOR SOLUTION [HF ACQUISITION CO. LLC, DBA HEALTHFIRST]",
+   "published_date": "Jan 31, 2024",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-09-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-05-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-06-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-10-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-01-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "6a26a977-95dd-cdae-e053-2a91aa0a8b0a",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 31, 2023",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-04-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-05-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "dd2bfa31-9eae-2baa-e053-2a95a90a9db7",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 24, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-04-22"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "b635e21b-d68d-f60b-e053-2995a90a0f46",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 09, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-12-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "4cc6480c-df7d-0a78-e054-00144ff88e88",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [SINA HEALTH INC]",
+   "published_date": "Apr 10, 2017",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-04-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "22046228-2f23-4990-bb26-9b7eec4d40f8",
+   "title": "SOLU-MEDROL (METHYLPREDNISOLONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [US MEDSOURCE, LLC]",
+   "published_date": "Jul 21, 2014",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-07-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:42:59Z"
+}

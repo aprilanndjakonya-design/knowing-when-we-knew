@@ -1,0 +1,113 @@
+{
+ "application": "NDA021529",
+ "srlc_rows": [
+  {
+   "drug_name": "IMPLANON",
+   "active_ingredient": "ETONOGESTREL",
+   "application_number": "021529",
+   "application_type": "NDA",
+   "supplement_date": "01/16/2026",
+   "supplement": "SUPPL-27",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "01/16/2026",
+     "suppl": "SUPPL-27",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/16/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "86"
+  },
+  {
+   "drug_name": "NEXPLANON",
+   "active_ingredient": "ETONOGESTREL",
+   "application_number": "021529",
+   "application_type": "NDA",
+   "supplement_date": "01/16/2026",
+   "supplement": "SUPPL-27",
+   "boxed_warning_newly_added": true,
+   "bw_supplements": [
+    {
+     "date": "01/16/2026",
+     "suppl": "SUPPL-27",
+     "newly_added": true,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/28/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "88"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-16",
+ "srlc_database_updated": "2026-06-01",
+ "lag_days_srlc_database": 136,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "487f8a62-e142-457c-97cc-2e398fde7594",
+   "title": "NEXPLANON (ETONOGESTREL) IMPLANT [ORGANON LLC]",
+   "published_date": "Jun 11, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-06-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-07-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-11-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-10-13"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-09-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-06-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2026-01-23"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:22:36Z"
+}

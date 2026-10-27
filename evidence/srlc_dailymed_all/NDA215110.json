@@ -1,0 +1,144 @@
+{
+ "application": "NDA215110",
+ "srlc_rows": [
+  {
+   "drug_name": "MAVYRET",
+   "active_ingredient": "GLECAPREVIR; PIBRENTASVIR",
+   "application_number": "215110",
+   "application_type": "NDA",
+   "supplement_date": "06/10/2025",
+   "database_updated": "06/13/2025",
+   "drug_name_id": "2870"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-10",
+ "srlc_database_updated": "2025-06-13",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7bf99777-0401-9095-8645-16c6e907fcc0",
+   "title": "MAVYRET (GLECAPREVIR AND PIBRENTASVIR) TABLET, FILM COATED MAVYRET (GLECAPREVIR AND PIBRENTASVIR) PELLET [ABBVIE INC.]",
+   "published_date": "Aug 07, 2026",
+   "spl_version": 201,
+   "versions": [
+    {
+     "spl_version": 83,
+     "published_date": "2017-08-04"
+    },
+    {
+     "spl_version": 96,
+     "published_date": "2017-12-14"
+    },
+    {
+     "spl_version": 107,
+     "published_date": "2018-08-10"
+    },
+    {
+     "spl_version": 109,
+     "published_date": "2018-12-03"
+    },
+    {
+     "spl_version": 124,
+     "published_date": "2019-04-03"
+    },
+    {
+     "spl_version": 133,
+     "published_date": "2019-05-02"
+    },
+    {
+     "spl_version": 140,
+     "published_date": "2019-06-27"
+    },
+    {
+     "spl_version": 141,
+     "published_date": "2019-07-03"
+    },
+    {
+     "spl_version": 159,
+     "published_date": "2019-10-03"
+    },
+    {
+     "spl_version": 160,
+     "published_date": "2019-10-15"
+    },
+    {
+     "spl_version": 167,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 178,
+     "published_date": "2020-04-15"
+    },
+    {
+     "spl_version": 181,
+     "published_date": "2020-05-11"
+    },
+    {
+     "spl_version": 183,
+     "published_date": "2021-05-11"
+    },
+    {
+     "spl_version": 184,
+     "published_date": "2021-06-18"
+    },
+    {
+     "spl_version": 186,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 187,
+     "published_date": "2021-07-14"
+    },
+    {
+     "spl_version": 188,
+     "published_date": "2021-10-14"
+    },
+    {
+     "spl_version": 189,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 190,
+     "published_date": "2023-03-27"
+    },
+    {
+     "spl_version": 193,
+     "published_date": "2023-11-06"
+    },
+    {
+     "spl_version": 194,
+     "published_date": "2024-09-10"
+    },
+    {
+     "spl_version": 197,
+     "published_date": "2025-04-25"
+    },
+    {
+     "spl_version": 198,
+     "published_date": "2025-06-06"
+    },
+    {
+     "spl_version": 199,
+     "published_date": "2025-06-16"
+    },
+    {
+     "spl_version": 200,
+     "published_date": "2026-01-30"
+    },
+    {
+     "spl_version": 201,
+     "published_date": "2026-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 199,
+    "published_date": "2025-06-16"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 24
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T09:08:02Z"
+}

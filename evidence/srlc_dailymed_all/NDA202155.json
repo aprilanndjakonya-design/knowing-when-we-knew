@@ -1,0 +1,512 @@
+{
+ "application": "NDA202155",
+ "srlc_rows": [
+  {
+   "drug_name": "ELIQUIS",
+   "active_ingredient": "APIXABAN",
+   "application_number": "202155",
+   "application_type": "NDA",
+   "supplement_date": "04/17/2025",
+   "database_updated": "05/27/2025",
+   "drug_name_id": "312"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-17",
+ "srlc_database_updated": "2025-05-27",
+ "lag_days_srlc_database": 40,
+ "dailymed_setids": 10,
+ "labels": [
+  {
+   "setid": "41a133ef-e461-48ad-8221-b735bdd0ec25",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Sep 25, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-09-12"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-10-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-02-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-02-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-09-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-09-25"
+   },
+   "lag_days_dailymed": 526,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "7be1f4c1-bb2f-4ded-ae9a-515d2a22f93e",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [REMEDYREPACK INC.]",
+   "published_date": "Sep 14, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-09-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-09-01"
+   },
+   "lag_days_dailymed": 137,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "a454cd24-0c6d-46e8-b1e4-197388606175",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [CARDINAL HEALTH 107, LLC]",
+   "published_date": "May 04, 2026",
+   "spl_version": 38,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-04-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-04-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-06-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-09-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-12-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-01-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-02-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-03-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-10-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-10-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-11-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-05-14"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-12-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-03-05"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-04-20"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-05-27"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-08-04"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-09-10"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-10-26"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-12-14"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2021-02-05"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-03-25"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-05-21"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-07-01"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2021-08-30"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2021-10-29"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2021-11-30"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2022-03-30"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2022-08-11"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2022-10-21"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2022-11-22"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-01-09"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2024-04-30"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-08-05"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2025-09-05"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2026-05-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 37,
+    "published_date": "2025-09-05"
+   },
+   "lag_days_dailymed": 141,
+   "versions_before_supplement": 36
+  },
+  {
+   "setid": "e9481622-7cc6-418a-acb6-c5450daae9b0",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED ELIQUIS 30-DAY STARTER PACK (APIXABAN) KIT [E.R. SQUIBB & SONS, L.L.C.]",
+   "published_date": "May 05, 2025",
+   "spl_version": 30,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-01-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-02-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-04-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-09-04"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-06-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-09-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-09-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-04-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-05-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-08-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-06-01"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-12-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-02-23"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-03-08"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-07-12"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-01-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-06-10"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-06-11"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-12-11"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-11-20"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-03-22"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-04-09"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2021-04-26"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2021-10-01"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-02-21"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-01-30"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-05-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2025-05-05"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 27
+  },
+  {
+   "setid": "1523ab32-2c2c-6501-e063-6394a90aa0b3",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC ]",
+   "published_date": "Feb 05, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-04-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "33a9046a-41cc-46c1-becc-2ff4d7d71538",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 27, 2024",
+   "spl_version": 23,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2017-12-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-05-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-02-24"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-04-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-06-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-08-19"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-01-08"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-11-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "8917e527-990a-17c0-e053-2a95a90a4631",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [REDPHARM DRUG, INC.]",
+   "published_date": "Aug 05, 2024",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2019-05-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-01-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-01-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-08-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "33752f5d-2ca7-45c0-8292-b54742219b97",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [PROFICIENT RX LP]",
+   "published_date": "Jul 01, 2024",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-06-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-07-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "2f47aa0e-0235-4220-85dd-dfcb8ad0d009",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 11, 2023",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2023-05-11"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "fd383ae7-1e34-44ef-b8f1-ca6906dfbcef",
+   "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 04, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T08:59:12Z"
+}

@@ -1,0 +1,167 @@
+{
+ "application": "NDA202270",
+ "srlc_rows": [
+  {
+   "drug_name": "JANUMET XR",
+   "active_ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN PHOSPHATE",
+   "application_number": "202270",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "802"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50",
+   "title": "JANUMET XR (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [MERCK SHARP & DOHME LLC]",
+   "published_date": "Aug 28, 2026",
+   "spl_version": 44,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-02-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-05-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-02-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-07-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2013-09-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2013-11-07"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2014-02-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2015-03-05"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2015-09-09"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-04-18"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2016-05-06"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2016-11-16"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-01-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2017-08-22"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2018-02-21"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2019-01-30"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2019-03-18"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-06-27"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2019-08-26"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2020-12-21"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2021-06-08"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2021-12-15"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2022-07-06"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2022-08-05"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2023-08-15"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2024-10-28"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2025-01-13"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2025-03-31"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2026-08-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 44,
+    "published_date": "2026-08-28"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 28
+  },
+  {
+   "setid": "90c0244b-afb3-4e69-b79f-486d002ca432",
+   "title": "JANUMET XR (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jun 23, 2023",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 7,
+     "published_date": "2023-06-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:59:16Z"
+}

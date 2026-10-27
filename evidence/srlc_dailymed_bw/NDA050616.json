@@ -1,0 +1,100 @@
+{
+ "application": "NDA050616",
+ "srlc_rows": [
+  {
+   "drug_name": "TOBRADEX",
+   "active_ingredient": "DEXAMETHASONE; TOBRAMYCIN",
+   "application_number": "050616",
+   "application_type": "NDA",
+   "supplement_date": "05/14/2021",
+   "supplement": "SUPPL-41",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/14/2021",
+     "suppl": "SUPPL-41",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "05/14/2021",
+   "database_updated": "05/19/2021",
+   "drug_name_id": "2243"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-05-14",
+ "srlc_database_updated": "2021-05-19",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "7f310e0e-0d3b-493d-b6c4-238493a2a9b9",
+   "title": "TOBRADEX (TOBRAMYCIN AND DEXAMETHASONE) OINTMENT [NOVARTIS PHARMACEUTICALS CORPORATION]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-10-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-05-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-08-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-07-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-02-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-09-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2021-05-26"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "fe08bcd5-4d14-4c2d-940c-b7968f9a89f0",
+   "title": "TOBRADEX (TOBRAMYCIN AND DEXAMETHASONE) OINTMENT [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jan 04, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:25:39Z"
+}

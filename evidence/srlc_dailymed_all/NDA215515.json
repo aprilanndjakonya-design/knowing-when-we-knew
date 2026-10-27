@@ -1,0 +1,60 @@
+{
+ "application": "NDA215515",
+ "srlc_rows": [
+  {
+   "drug_name": "AMVUTTRA",
+   "active_ingredient": "VUTRISIRAN",
+   "application_number": "215515",
+   "application_type": "NDA",
+   "supplement_date": "03/20/2025",
+   "database_updated": "03/26/2025",
+   "drug_name_id": "2730"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-20",
+ "srlc_database_updated": "2025-03-26",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8db0facb-81b6-4006-9239-27dc6409c5d3",
+   "title": "AMVUTTRA (VUTRISIRAN) INJECTION [ALNYLAM PHARMACEUTICALS, INC.]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2022-06-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-03-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-03-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-03-31"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:08:29Z"
+}

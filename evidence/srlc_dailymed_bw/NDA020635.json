@@ -1,0 +1,36 @@
+{
+ "application": "NDA020635",
+ "srlc_rows": [
+  {
+   "drug_name": "LEVAQUIN",
+   "active_ingredient": "LEVOFLOXACIN",
+   "application_number": "020635",
+   "application_type": "NDA",
+   "supplement_date": "07/26/2016",
+   "supplement": "SUPPL-73",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "07/26/2016",
+     "suppl": "SUPPL-73",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/08/2017",
+   "database_updated": "02/10/2017",
+   "drug_name_id": "346"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-07-26",
+ "srlc_database_updated": "2017-02-10",
+ "lag_days_srlc_database": 199,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:17:30Z"
+}

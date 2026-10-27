@@ -1,0 +1,172 @@
+{
+ "application": "NDA201525",
+ "srlc_rows": [
+  {
+   "drug_name": "DOCETAXEL",
+   "active_ingredient": "DOCETAXEL",
+   "application_number": "201525",
+   "application_type": "NDA",
+   "supplement_date": "01/13/2021",
+   "supplement": "SUPPL-22",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/13/2021",
+     "suppl": "SUPPL-22",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/21/2023",
+   "database_updated": "09/26/2023",
+   "drug_name_id": "513"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-01-13",
+ "srlc_database_updated": "2023-09-26",
+ "lag_days_srlc_database": 986,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "e03d1378-6889-43d5-a34c-f96132cffa88",
+   "title": "DOCETAXEL INJECTION, SOLUTION [SANDOZ INC.]",
+   "published_date": "Aug 30, 2024",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-07-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-05-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-10-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-08-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-08-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-11-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-04-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-09-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-01-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-07-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-02-24"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-08-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2021-01-28"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "0e0f06bd-d190-45da-be8b-062e8de01970",
+   "title": "DOCETAXEL INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Aug 29, 2024",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-02-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-11-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-10-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-04-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-09-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-02-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-06-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-02-24"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-08-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2021-02-25"
+   },
+   "lag_days_dailymed": 43,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:26:24Z"
+}

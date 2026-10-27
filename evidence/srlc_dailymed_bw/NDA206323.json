@@ -1,0 +1,120 @@
+{
+ "application": "NDA206323",
+ "srlc_rows": [
+  {
+   "drug_name": "CODEINE PHOSPHATE AND CHLORPHENIRAMINE MALEATE",
+   "active_ingredient": "CHLORPHENIRAMINE MALEATE; CODEINE PHOSPHATE",
+   "application_number": "206323",
+   "application_type": "NDA",
+   "supplement_date": "06/28/2018",
+   "supplement": "SUPPL-6",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/13/2017",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "08/29/2017",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "06/28/2018",
+     "suppl": "SUPPL-6",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "06/28/2018",
+   "database_updated": "07/09/2018",
+   "drug_name_id": "791"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-06-28",
+ "srlc_database_updated": "2018-07-09",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "a7cfab67-6087-4ab4-b7cd-4f9295413180",
+   "title": "TUXARIN (CODEINE PHOSPHATE AND CHLORPHENIRAMINE MALEATE) TABLET, EXTENDED RELEASE [MAINPOINTE PHARMACEUTICALS]",
+   "published_date": "Jan 19, 2024",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-10-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-11-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-11-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-06-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-01-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2018-10-23"
+   },
+   "lag_days_dailymed": 117,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "f3114cff-d638-4562-9e11-88130677363c",
+   "title": "CODEINE AND CHLORPHENIRAMINE MALEATE ER TABLET, EXTENDED RELEASE [NEXGEN PHARMA, INC.]",
+   "published_date": "Feb 10, 2017",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-09-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-02-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 117,
+ "fetched_utc": "2026-10-16T09:27:58Z"
+}

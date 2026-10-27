@@ -1,0 +1,100 @@
+{
+ "application": "NDA021624",
+ "srlc_rows": [
+  {
+   "drug_name": "METHADONE HYDROCHLORIDE",
+   "active_ingredient": "METHADONE HYDROCHLORIDE",
+   "application_number": "021624",
+   "application_type": "NDA",
+   "supplement_date": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "780"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-22",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 16,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "092d78eb-6423-495c-bf0d-e6532bea7138",
+   "title": "METHADONE HYDROCHLORIDE INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+   "published_date": "Aug 11, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-03-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-11-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-02-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-07-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-12-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-03-24"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-11-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-10-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-06-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-07-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-05-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-04-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-01-02"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-06-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-08-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2026-01-02"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T08:52:36Z"
+}

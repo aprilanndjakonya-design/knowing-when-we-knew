@@ -1,0 +1,56 @@
+{
+ "application": "NDA215151",
+ "srlc_rows": [
+  {
+   "drug_name": "VOQUEZNA",
+   "active_ingredient": "VONOPRAZAN FUMARATE",
+   "application_number": "215151",
+   "application_type": "NDA",
+   "supplement_date": "11/06/2025",
+   "database_updated": "11/10/2025",
+   "drug_name_id": "3207"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-06",
+ "srlc_database_updated": "2025-11-10",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "0cc52ac5-77ec-4d66-a770-762a1a960914",
+   "title": "VOQUEZNA (VONOPRAZAN FUMARATE) TABLET [PHATHOM PHARMACEUTICALS INC.]",
+   "published_date": "Jul 20, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-07-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-19"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-07-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-11-19"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:08:05Z"
+}

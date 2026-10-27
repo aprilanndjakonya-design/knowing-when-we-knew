@@ -1,0 +1,61 @@
+{
+ "application": "BLA761240",
+ "srlc_rows": [
+  {
+   "drug_name": "LOQTORZI",
+   "active_ingredient": "TORIPALIMAB-TPZI",
+   "application_number": "761240",
+   "application_type": "BLA",
+   "supplement_date": "08/31/2026",
+   "database_updated": "09/09/2026",
+   "drug_name_id": "2944"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-31",
+ "srlc_database_updated": "2026-09-09",
+ "lag_days_srlc_database": 9,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "82e7921a-1e84-4988-9799-0ad7d19b2a75",
+   "title": "LOQTORZI (TORIPALIMAB-TPZI) INJECTION [COHERUS ONCOLOGY, INC.]",
+   "published_date": "Jul 27, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2023-11-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-11-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-12-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-01-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-07-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:40:26Z"
+}

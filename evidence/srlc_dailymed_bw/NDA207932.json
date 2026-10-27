@@ -1,0 +1,108 @@
+{
+ "application": "NDA207932",
+ "srlc_rows": [
+  {
+   "drug_name": "BELBUCA",
+   "active_ingredient": "BUPRENORPHINE HYDROCHLORIDE",
+   "application_number": "207932",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2018",
+   "supplement": "SUPPL-9",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "09/18/2018",
+     "suppl": "SUPPL-9",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/05/2026",
+   "drug_name_id": "757"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-09-18",
+ "srlc_database_updated": "2026-01-05",
+ "lag_days_srlc_database": 2666,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "bc2b7a3d-72cf-497c-95b0-ba2b71f63c64",
+   "title": "BELBUCA (BUPRENORPHINE HYDROCHLORIDE) FILM, SOLUBLE [BIODELIVERY SCIENCES INTERNATIONAL INC]",
+   "published_date": "Jan 06, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-10-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-10-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-02-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-10-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-12-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-09-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-08-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-06-30"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-01-04"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-01-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2018-10-15"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T09:28:09Z"
+}

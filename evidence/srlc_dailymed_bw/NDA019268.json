@@ -1,0 +1,326 @@
+{
+ "application": "NDA019268",
+ "srlc_rows": [
+  {
+   "drug_name": "CYTOTEC",
+   "active_ingredient": "MISOPROSTOL",
+   "application_number": "019268",
+   "application_type": "NDA",
+   "supplement_date": "12/19/2016",
+   "supplement": "SUPPL-49",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/19/2016",
+     "suppl": "SUPPL-49",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/28/2018",
+   "database_updated": "03/02/2018",
+   "drug_name_id": "618"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-12-19",
+ "srlc_database_updated": "2018-03-02",
+ "lag_days_srlc_database": 438,
+ "dailymed_setids": 9,
+ "labels": [
+  {
+   "setid": "c4fe14fb-0a43-4c31-9cd6-29eb0d156705",
+   "title": "MISOPROSTOL TABLET [MYLAN PHARMACEUTICALS INC.]",
+   "published_date": "Aug 27, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-11-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-03-04"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-12-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-08-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-08-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-07-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-07-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-03-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-07-31"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-02-27"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-05-26"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-05-25"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-08-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2017-07-12"
+   },
+   "lag_days_dailymed": 205,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "c842c35f-6a64-4ecc-95a1-41b6d056047e",
+   "title": "MISOPROSTOL TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Jul 01, 2026",
+   "spl_version": 102,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2023-02-03"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 102,
+     "published_date": "2026-07-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 100,
+    "published_date": "2023-02-03"
+   },
+   "lag_days_dailymed": 2237,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "4ab12da7-5731-4e06-bf1c-bc3f2e711f12",
+   "title": "CYTOTEC (MISOPROSTOL) TABLET [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Jun 05, 2026",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2010-03-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-04-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-08-09"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-08-04"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-06-30"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-07-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-07-27"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-07-24"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-07-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2020-09-11"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-02-19"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-07-13"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-01-14"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-02-21"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-07-30"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2026-05-28"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-06-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2017-06-30"
+   },
+   "lag_days_dailymed": 193,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "2fd197c6-05db-5011-e063-6294a90a585d",
+   "title": "MISOPROSTOL TABLET [REDPHARM DRUG]",
+   "published_date": "Dec 29, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-03-10"
+   },
+   "lag_days_dailymed": 3003,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "f15b41bd-ed36-4908-aba5-f0a019b7a26e",
+   "title": "MISOPROSTOL TABLET [APOTHECA INC.]",
+   "published_date": "Mar 03, 2017",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-04-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-04-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-03-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2017-03-03"
+   },
+   "lag_days_dailymed": 74,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "1f81237e-2cf7-4c85-a054-daffe5bb1c68",
+   "title": "MISOPROSTOL TABLET [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Jul 31, 2013",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2013-07-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a5e5413d-bc22-4ae1-959b-0eb0430dbd38",
+   "title": "MISOPROSTOL TABLET [H.J. HARKINS COMPANY, INC.]",
+   "published_date": "Jan 20, 2012",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2012-01-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "74ae4775-8190-4bab-93d0-0f209023f973",
+   "title": "CYTOTEC (MISOPROSTOL) TABLET [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "May 14, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "10644068-fa47-4e3b-9e93-f57ebac3dd17",
+   "title": "CYTOTEC (MISOPROSTOL) TABLET [APOTHECA, INC]",
+   "published_date": "Apr 05, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-04-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 74,
+ "fetched_utc": "2026-10-16T09:15:44Z"
+}

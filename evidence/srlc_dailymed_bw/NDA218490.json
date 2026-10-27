@@ -1,0 +1,65 @@
+{
+ "application": "NDA218490",
+ "srlc_rows": [
+  {
+   "drug_name": "OPSYNVI",
+   "active_ingredient": "MACITENTAN; TADALAFIL",
+   "application_number": "218490",
+   "application_type": "NDA",
+   "supplement_date": "04/02/2025",
+   "supplement": "SUPPL-2",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "04/02/2025",
+     "suppl": "SUPPL-2",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Use in Specific Populations",
+      "Contraindications",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/02/2025",
+   "database_updated": "05/20/2025",
+   "drug_name_id": "3108"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-02",
+ "srlc_database_updated": "2025-05-20",
+ "lag_days_srlc_database": 48,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6945b183-18d3-40de-afd1-c88e33cc1a63",
+   "title": "OPSYNVI (MACITENTAN AND TADALAFIL) TABLET, FILM COATED [ACTELION PHARMACEUTICALS US, INC.]",
+   "published_date": "Apr 14, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-03-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-04-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-04-14"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:29:51Z"
+}

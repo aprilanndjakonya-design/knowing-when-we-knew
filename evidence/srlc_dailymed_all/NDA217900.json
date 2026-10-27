@@ -1,0 +1,60 @@
+{
+ "application": "NDA217900",
+ "srlc_rows": [
+  {
+   "drug_name": "LEQSELVI",
+   "active_ingredient": "DEURUXOLITINIB PHOSPHATE",
+   "application_number": "217900",
+   "application_type": "NDA",
+   "supplement_date": "06/30/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "3299"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-30",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "a603f231-d09e-4bad-ad5e-b55f865da095",
+   "title": "LEQSELVI (DEURUXOLITINIB PHOSPHATE) TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+   "published_date": "Sep 30, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 8,
+     "published_date": "2025-06-26"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-07-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-07-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-07-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-07-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-09-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2026-07-15"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:10:17Z"
+}

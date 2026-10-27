@@ -1,0 +1,71 @@
+{
+ "application": "NDA203505",
+ "srlc_rows": [
+  {
+   "drug_name": "OSPHENA",
+   "active_ingredient": "OSPEMIFENE",
+   "application_number": "203505",
+   "application_type": "NDA",
+   "supplement_date": "01/25/2019",
+   "supplement": "SUPPL-15",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/25/2019",
+     "suppl": "SUPPL-15",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information",
+      "Patient Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/07/2025",
+   "database_updated": "02/12/2025",
+   "drug_name_id": "1735"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-01-25",
+ "srlc_database_updated": "2025-02-12",
+ "lag_days_srlc_database": 2210,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9accbcc9-78ee-4f84-9b7e-704f2ab1c413",
+   "title": "OSPHENA (OSPEMIFENE) TABLET, FILM COATED [DUCHESNAY USA, INC.]",
+   "published_date": "Feb 17, 2025",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-04-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-07-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-02-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-02-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2023-04-03"
+   },
+   "lag_days_dailymed": 1529,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 1529,
+ "fetched_utc": "2026-10-16T09:26:54Z"
+}

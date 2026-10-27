@@ -1,0 +1,84 @@
+{
+ "application": "NDA017584",
+ "srlc_rows": [
+  {
+   "drug_name": "LIDOCAINE HYDROCHLORIDE PRESERVATIVE FREE",
+   "active_ingredient": "LIDOCAINE HYDROCHLORIDE",
+   "application_number": "017584",
+   "application_type": "NDA",
+   "supplement_date": "08/17/2026",
+   "database_updated": "08/27/2026",
+   "drug_name_id": "3319"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-17",
+ "srlc_database_updated": "2026-08-27",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "f1b26274-a55e-4321-b96c-ce0df830f205",
+   "title": "LIDOCAINE (LIDOCAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Mar 03, 2025",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-09-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-11-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-08-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-03-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "993bc59e-5e71-bd9e-e053-2a95a90af85c",
+   "title": "LIDOCAINE HCI INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Jan 29, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-01-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-01-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:43:47Z"
+}

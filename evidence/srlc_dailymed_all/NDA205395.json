@@ -1,0 +1,163 @@
+{
+ "application": "NDA205395",
+ "srlc_rows": [
+  {
+   "drug_name": "PREZCOBIX",
+   "active_ingredient": "COBICISTAT; DARUNAVIR ETHANOLATE",
+   "application_number": "205395",
+   "application_type": "NDA",
+   "supplement_date": "02/27/2026",
+   "database_updated": "03/06/2026",
+   "drug_name_id": "94"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-27",
+ "srlc_database_updated": "2026-03-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "9c38fdb6-d0ba-4f16-a0e3-85d9ec334d9f",
+   "title": "PREZCOBIX (DARUNAVIR ETHANOLATE AND COBICISTAT) TABLET, FILM COATED PREZCOBIX PED (DARUNAVIR ETHANOLATE AND COBICISTAT) TABLET, FOR SUSPENSION [JANSSEN PRODUCTS, LP]",
+   "published_date": "Aug 17, 2026",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-02-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-04-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-07-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-09-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-10-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-03-31"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-06-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-02-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-06-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-09-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-09-20"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-02-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-06-07"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-08-07"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-01-05"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-08-02"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-04-25"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-04-11"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-08-16"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-09-08"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-08-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 28,
+    "published_date": "2026-03-18"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 23
+  },
+  {
+   "setid": "16ca460a-3c89-4697-8f45-972615a2a518",
+   "title": "PREZCOBIX (DARUNAVIR ETHANOLATE AND COBICISTAT) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 03, 2024",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-01-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-01-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T09:01:16Z"
+}

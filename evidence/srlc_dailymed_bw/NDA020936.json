@@ -1,0 +1,284 @@
+{
+ "application": "NDA020936",
+ "srlc_rows": [
+  {
+   "drug_name": "PAXIL CR",
+   "active_ingredient": "PAROXETINE HYDROCHLORIDE",
+   "application_number": "020936",
+   "application_type": "NDA",
+   "supplement_date": "09/11/2019",
+   "supplement": "SUPPL-47",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "09/11/2019",
+     "suppl": "SUPPL-47",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Adverse Reactions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/23/2026",
+   "database_updated": "10/02/2026",
+   "drug_name_id": "711"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-09-11",
+ "srlc_database_updated": "2026-10-02",
+ "lag_days_srlc_database": 2578,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+   "title": "PAXIL CR (PAROXETINE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [APOTEX CORP]",
+   "published_date": "Oct 02, 2026",
+   "spl_version": 34,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-03"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-02-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-04-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-07-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-02-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-02-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-04-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-01-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-03-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-07-29"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2016-11-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-08-12"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-08-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-09-24"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-06-23"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-06-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-06-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2021-09-27"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-07-03"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2023-08-22"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2023-08-24"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-01-16"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-09-09"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-09-11"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-09-18"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-10-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 18,
+    "published_date": "2019-09-24"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 13
+  },
+  {
+   "setid": "087ff0d3-1761-47ea-a8c1-7c4cb679af97",
+   "title": "PAROXETINE HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [APOTEX CORP]",
+   "published_date": "Sep 18, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-09-13"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-02-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-04-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-07-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-06-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2013-01-16"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-10-29"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-01-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-08-12"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-08-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-09-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-08-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-11-16"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-12-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-10-09"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-05-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-09-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-09-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2019-09-25"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "027c7db2-2a36-477f-90bf-608ff3a0e14e",
+   "title": "PAXILCR (PAROXETINE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Sep 13, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "4f4a52b2-a43f-4c72-bb0d-ead2cceb9feb",
+   "title": "PAXIL CR (PAROXETINE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [STAT RX USA LLC]",
+   "published_date": "Mar 22, 2010",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-02-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-03-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:18:32Z"
+}

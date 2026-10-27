@@ -1,0 +1,106 @@
+{
+ "application": "NDA022306",
+ "srlc_rows": [
+  {
+   "drug_name": "SOTALOL HYDROCHLORIDE",
+   "active_ingredient": "SOTALOL HYDROCHLORIDE",
+   "application_number": "022306",
+   "application_type": "NDA",
+   "supplement_date": "03/06/2020",
+   "supplement": "SUPPL-5",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "03/06/2020",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "07/23/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2211"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-03-06",
+ "srlc_database_updated": "2025-07-28",
+ "lag_days_srlc_database": 1970,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ff3061ab-d930-4318-a5be-684e38be229e",
+   "title": "SOTALOL HYDROCHLORIDE INJECTION [ALTATHERA PHARMACEUTICALS, LLC]",
+   "published_date": "Aug 06, 2025",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-10-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-10-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-02-26"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-12-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-03-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-11-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-11-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-01-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-05-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-07-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-08-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-10-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-08-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2020-03-18"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:24:54Z"
+}

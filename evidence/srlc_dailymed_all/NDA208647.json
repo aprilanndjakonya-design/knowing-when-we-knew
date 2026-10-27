@@ -1,0 +1,21 @@
+{
+ "application": "NDA208647",
+ "srlc_rows": [
+  {
+   "drug_name": "EZALLOR SPRINKLE",
+   "active_ingredient": "ROSUVASTATIN CALCIUM",
+   "application_number": "208647",
+   "application_type": "NDA",
+   "supplement_date": "02/12/2025",
+   "database_updated": "02/18/2025",
+   "drug_name_id": "2338"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-12",
+ "srlc_database_updated": "2025-02-18",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:03:23Z"
+}

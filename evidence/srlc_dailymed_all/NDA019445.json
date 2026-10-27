@@ -1,0 +1,628 @@
+{
+ "application": "NDA019445",
+ "srlc_rows": [
+  {
+   "drug_name": "DEXTROSE 25%",
+   "active_ingredient": "",
+   "application_number": "019445",
+   "application_type": "NDA",
+   "supplement_date": "07/25/2025",
+   "database_updated": "07/30/2025",
+   "drug_name_id": "3164"
+  },
+  {
+   "drug_name": "DEXTROSE 50%",
+   "active_ingredient": "",
+   "application_number": "019445",
+   "application_type": "NDA",
+   "supplement_date": "07/25/2025",
+   "database_updated": "07/30/2025",
+   "drug_name_id": "3165"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-25",
+ "srlc_database_updated": "2025-07-30",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 16,
+ "labels": [
+  {
+   "setid": "e2638b45-1141-4391-971d-c0dea825e41c",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [REMEDYREPACK INC.]",
+   "published_date": "Sep 14, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-08-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-09-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2025-08-27"
+   },
+   "lag_days_dailymed": 33,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "8cf6943f-16e8-4521-863c-09bb0b55e2a9",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [HENRY SCHEIN, INC.]",
+   "published_date": "Sep 11, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-10-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-11-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-05-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-09-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-10-06"
+   },
+   "lag_days_dailymed": 73,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "b8b77421-d687-45aa-82f6-d49bce644c10",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [REMEDYREPACK INC.]",
+   "published_date": "Sep 02, 2026",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-10-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-12-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-10-02"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-09-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-10-02"
+   },
+   "lag_days_dailymed": 69,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "4ed365da-4e62-4329-c1b9-c197ab4fb6e1",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 34,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-09-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-07-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-07-22"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2013-12-04"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-10-16"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-07-19"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-01-31"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-05-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-05-15"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-09-18"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-05-11"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-05-26"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2021-09-28"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-04-28"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-04-15"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-07-25"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-11-05"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-04-17"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-06-13"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-08-13"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2025-12-01"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-01-30"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-07-01"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2025-08-13"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 19
+  },
+  {
+   "setid": "ce71d929-d11e-444c-bd45-e025d5172057",
+   "title": "INFANT DEXTROSE (DEXTROSE ) INJECTION, SOLUTION [HENRY SCHEIN, INC.]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-03-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-10-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-11-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-03-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-05-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 115,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "672264e3-9709-4bba-2a9d-12bf70c7396a",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Jun 30, 2026",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-11-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-10-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-07-25"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-11-08"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-02-26"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-06-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2019-12-04"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-06-23"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-09-17"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-07-14"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-01-12"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-10-31"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-08-13"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-06-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 24,
+    "published_date": "2025-08-13"
+   },
+   "lag_days_dailymed": 19,
+   "versions_before_supplement": 12
+  },
+  {
+   "setid": "40fd1ac4-39bb-45fb-ba99-4fb65481f231",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [HENRY SCHEIN, INC.]",
+   "published_date": "Apr 13, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-11"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-10-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-10-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-07-04"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-10-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-04-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-10-06"
+   },
+   "lag_days_dailymed": 73,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "3842a9c0-8b15-1c94-e063-6394a90ae120",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [PROPHARMA DISTRIBUTION]",
+   "published_date": "Jul 21, 2025",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-06-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-07-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "763b1cb8-1151-5f59-e053-2991aa0a4e01",
+   "title": "50% DEXTROSE INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Feb 27, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-09-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-07-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-02-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "75c902e8-50e7-a337-e053-2991aa0a2093",
+   "title": "DEXTROSE INJECTION, SOLUTION [HF ACQUISITION CO LLC, DBA HEALTHFIRST]",
+   "published_date": "Feb 20, 2024",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-09-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-02-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-02-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-12-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-02-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "677a81e5-26ba-2a69-e053-2991aa0a101a",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 31, 2023",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-03-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-05-31"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "ada63d44-3b37-b65d-e053-2a95a90aa088",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "May 04, 2023",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-08-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-05-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "73d04839-a2bb-65dd-e053-2991aa0a82ca",
+   "title": "25% DEXTROSE INFANT INJECTION, SOLUTION [HF ACQUISITION CO. LLC, DBA HEALTH FIRST]",
+   "published_date": "Dec 12, 2022",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-08-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-01-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-02-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-02-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-02-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-12-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "66713d9c-f404-4ec8-e053-2a91aa0a620a",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [MEDICAL PURCHASING SOLUTIONS, LLC]",
+   "published_date": "Oct 14, 2022",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2020-01-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-10-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "8027a2bf-3019-428a-8a23-621898b5a7a3",
+   "title": "DEXTROSE (DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Apr 19, 2021",
+   "spl_version": 15,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2016-11-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2018-01-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-03-28"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-04-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "6d1199d2-4a7d-4e6c-9785-2688888377bc",
+   "title": "DEXTROSE INJECTION, SOLUTION [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 21, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-01-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 19,
+ "fetched_utc": "2026-10-16T08:45:16Z"
+}

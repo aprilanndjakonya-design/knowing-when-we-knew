@@ -1,0 +1,124 @@
+{
+ "application": "NDA204370",
+ "srlc_rows": [
+  {
+   "drug_name": "VRAYLAR",
+   "active_ingredient": "CARIPRAZINE HYDROCHLORIDE",
+   "application_number": "204370",
+   "application_type": "NDA",
+   "supplement_date": "12/18/2025",
+   "database_updated": "12/22/2025",
+   "drug_name_id": "857"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-18",
+ "srlc_database_updated": "2025-12-22",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4b5f7c65-aa2d-452a-b3db-bc85c06ff12f",
+   "title": "VRAYLAR (CARIPRAZINE) CAPSULE, GELATIN COATED VRAYLAR (CARIPRAZINE) KIT [ALLERGAN, INC.]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 32,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-09-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-03-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-11-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-12-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-03-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-03-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-12-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-05-30"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-07-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2019-11-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-12-28"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-03-31"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2023-09-28"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-02-19"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-04-02"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-05-02"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-08-15"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-12-31"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2025-12-19"
+   },
+   "lag_days_dailymed": 1,
+   "versions_before_supplement": 19
+  }
+ ],
+ "lag_days_dailymed_min": 1,
+ "fetched_utc": "2026-10-16T09:00:38Z"
+}

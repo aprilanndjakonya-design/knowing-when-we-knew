@@ -1,0 +1,199 @@
+{
+ "application": "NDA205649",
+ "srlc_rows": [
+  {
+   "drug_name": "XIGDUO XR",
+   "active_ingredient": "DAPAGLIFLOZIN PROPANEDIOL; METFORMIN HYDROCHLORIDE",
+   "application_number": "205649",
+   "application_type": "NDA",
+   "supplement_date": "08/11/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "64"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-11",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "ac8a0f7b-9f69-4495-abbc-3a47cd75a859",
+   "title": "XIGDUO XR (DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Aug 26, 2026",
+   "spl_version": 40,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-11-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-12-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-01-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-06-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-08-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-08-22"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-10-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-10-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-02-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-03-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-08-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-03-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-10-31"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-01-30"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-03-01"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2019-10-28"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-02-05"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-08-26"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2022-02-10"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2022-04-14"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2022-06-30"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-10-19"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-05-19"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2023-09-18"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-03-20"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2024-04-11"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2024-06-21"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2025-01-06"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2025-01-23"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2026-08-13"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2026-08-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 39,
+    "published_date": "2026-08-13"
+   },
+   "lag_days_dailymed": 2,
+   "versions_before_supplement": 30
+  },
+  {
+   "setid": "eaf135b6-e378-4f62-a1e7-db45e23668c7",
+   "title": "DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [PRASCO LABORATORIES]",
+   "published_date": "Jun 16, 2025",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-01-04"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-03-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-04-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-07-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-01-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-06-16"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 2,
+ "fetched_utc": "2026-10-16T09:01:39Z"
+}

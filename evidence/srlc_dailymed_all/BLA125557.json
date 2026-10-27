@@ -1,0 +1,132 @@
+{
+ "application": "BLA125557",
+ "srlc_rows": [
+  {
+   "drug_name": "BLINCYTO",
+   "active_ingredient": "BLINATUMOMAB",
+   "application_number": "125557",
+   "application_type": "BLA",
+   "supplement_date": "10/21/2025",
+   "database_updated": "10/24/2025",
+   "drug_name_id": "383"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-21",
+ "srlc_database_updated": "2025-10-24",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "38b482a8-960b-4591-9857-5031ecb830aa",
+   "title": "BLINCYTO (BLINATUMOMAB) KIT [AMGEN, INC]",
+   "published_date": "Apr 22, 2026",
+   "spl_version": 42,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2014-12-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-02-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-09-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-11-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-05-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-07-25"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2017-12-14"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-04-10"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-05-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-05-03"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-11-18"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2020-04-06"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2021-03-25"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2022-03-07"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2022-05-25"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2022-11-01"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-06-30"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2024-02-20"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-06-25"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2024-07-23"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2025-05-12"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2026-04-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 41,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 22
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T08:38:25Z"
+}

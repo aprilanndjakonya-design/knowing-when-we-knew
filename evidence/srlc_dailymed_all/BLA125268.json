@@ -1,0 +1,144 @@
+{
+ "application": "BLA125268",
+ "srlc_rows": [
+  {
+   "drug_name": "NPLATE",
+   "active_ingredient": "ROMIPLOSTIM",
+   "application_number": "125268",
+   "application_type": "BLA",
+   "supplement_date": "02/21/2025",
+   "database_updated": "02/27/2025",
+   "drug_name_id": "200"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-21",
+ "srlc_database_updated": "2025-02-27",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "c45f9a58-37c1-4f76-8e36-97d38c577037",
+   "title": "NPLATE (ROMIPLOSTIM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AMGEN, INC]",
+   "published_date": "Jun 26, 2026",
+   "spl_version": 162,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-11-21"
+    },
+    {
+     "spl_version": 100,
+     "published_date": "2011-02-07"
+    },
+    {
+     "spl_version": 101,
+     "published_date": "2011-08-05"
+    },
+    {
+     "spl_version": 106,
+     "published_date": "2011-12-20"
+    },
+    {
+     "spl_version": 118,
+     "published_date": "2012-10-10"
+    },
+    {
+     "spl_version": 122,
+     "published_date": "2012-11-20"
+    },
+    {
+     "spl_version": 124,
+     "published_date": "2013-06-12"
+    },
+    {
+     "spl_version": 131,
+     "published_date": "2016-05-04"
+    },
+    {
+     "spl_version": 133,
+     "published_date": "2017-06-01"
+    },
+    {
+     "spl_version": 134,
+     "published_date": "2017-06-19"
+    },
+    {
+     "spl_version": 136,
+     "published_date": "2017-11-14"
+    },
+    {
+     "spl_version": 139,
+     "published_date": "2018-12-05"
+    },
+    {
+     "spl_version": 140,
+     "published_date": "2018-12-24"
+    },
+    {
+     "spl_version": 142,
+     "published_date": "2019-08-12"
+    },
+    {
+     "spl_version": 143,
+     "published_date": "2019-10-01"
+    },
+    {
+     "spl_version": 144,
+     "published_date": "2019-11-01"
+    },
+    {
+     "spl_version": 149,
+     "published_date": "2020-11-05"
+    },
+    {
+     "spl_version": 150,
+     "published_date": "2020-12-09"
+    },
+    {
+     "spl_version": 151,
+     "published_date": "2021-02-11"
+    },
+    {
+     "spl_version": 152,
+     "published_date": "2021-02-25"
+    },
+    {
+     "spl_version": 154,
+     "published_date": "2022-02-25"
+    },
+    {
+     "spl_version": 155,
+     "published_date": "2022-07-22"
+    },
+    {
+     "spl_version": 157,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 159,
+     "published_date": "2025-03-10"
+    },
+    {
+     "spl_version": 160,
+     "published_date": "2025-06-18"
+    },
+    {
+     "spl_version": 161,
+     "published_date": "2026-03-12"
+    },
+    {
+     "spl_version": 162,
+     "published_date": "2026-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 159,
+    "published_date": "2025-03-10"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 23
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:37:51Z"
+}

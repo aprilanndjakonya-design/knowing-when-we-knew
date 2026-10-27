@@ -1,0 +1,224 @@
+{
+ "application": "NDA021266",
+ "srlc_rows": [
+  {
+   "drug_name": "VFEND",
+   "active_ingredient": "VORICONAZOLE",
+   "application_number": "021266",
+   "application_type": "NDA",
+   "supplement_date": "02/19/2026",
+   "database_updated": "02/24/2026",
+   "drug_name_id": "1109"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-19",
+ "srlc_database_updated": "2026-02-24",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ce3ef5cf-3087-4d92-9d94-9eb8287228db",
+   "title": "VFEND (VORICONAZOLE) TABLET, FILM COATED VFEND (VORICONAZOLE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION VFEND (VORICONAZOLE) POWDER, FOR SUSPENSION [ROERIG]",
+   "published_date": "Mar 02, 2026",
+   "spl_version": 58,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-01-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2008-02-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2008-04-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2008-06-02"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2010-04-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2010-04-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2011-01-24"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2011-06-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2011-09-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2011-12-02"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2013-04-08"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2014-03-25"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2014-05-27"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2014-10-27"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2015-04-08"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2015-04-15"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2015-08-13"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2016-02-08"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2016-04-08"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2017-04-04"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2017-06-29"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2017-08-24"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2017-09-21"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2018-04-04"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2018-05-24"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2019-02-21"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2019-03-13"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2019-05-14"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2019-10-17"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2020-09-17"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2021-02-08"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2021-03-24"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2021-11-30"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2022-02-09"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2022-03-21"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2022-08-29"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2022-11-02"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2024-07-30"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2024-09-09"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2025-02-13"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2025-03-24"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2025-09-10"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2026-02-10"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2026-03-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 58,
+    "published_date": "2026-03-02"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 46
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T08:50:13Z"
+}

@@ -1,0 +1,60 @@
+{
+ "application": "NDA218730",
+ "srlc_rows": [
+  {
+   "drug_name": "ALYFTREK",
+   "active_ingredient": "DEUTIVACAFTOR; TEZACAFTOR; VANZACAFTOR CALCIUM",
+   "application_number": "218730",
+   "application_type": "NDA",
+   "supplement_date": "03/27/2026",
+   "database_updated": "03/31/2026",
+   "drug_name_id": "3192"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-27",
+ "srlc_database_updated": "2026-03-31",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7e635909-c6fd-4f0d-ae77-cdff03653a20",
+   "title": "ALYFTREK (VANZACAFTOR, TEZACAFTOR, AND DEUTIVACAFTOR) TABLET, FILM COATED [VERTEX PHARMACEUTICALS INCORPORATED]",
+   "published_date": "Sep 02, 2026",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-01-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-01-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-02-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-04-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-09-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-04-08"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:10:36Z"
+}

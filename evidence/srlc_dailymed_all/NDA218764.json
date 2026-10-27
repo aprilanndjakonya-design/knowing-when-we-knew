@@ -1,0 +1,52 @@
+{
+ "application": "NDA218764",
+ "srlc_rows": [
+  {
+   "drug_name": "JASCAYD",
+   "active_ingredient": "NERANDOMILAST",
+   "application_number": "218764",
+   "application_type": "NDA",
+   "supplement_date": "08/14/2026",
+   "database_updated": "08/18/2026",
+   "drug_name_id": "3256"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-14",
+ "srlc_database_updated": "2026-08-18",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "fa1b14c6-957f-d326-5099-911bfe33e391",
+   "title": "JASCAYD (NERANDOMILAST) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 31, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-12-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-02-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-08-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-08-31"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:10:38Z"
+}

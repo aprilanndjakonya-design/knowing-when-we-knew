@@ -1,0 +1,144 @@
+{
+ "application": "NDA022315",
+ "srlc_rows": [
+  {
+   "drug_name": "OZURDEX",
+   "active_ingredient": "DEXAMETHASONE",
+   "application_number": "022315",
+   "application_type": "NDA",
+   "supplement_date": "03/11/2026",
+   "database_updated": "03/13/2026",
+   "drug_name_id": "1564"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-11",
+ "srlc_database_updated": "2026-03-13",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "4b204f44-6e8a-4d17-803c-268f0b04679f",
+   "title": "OZURDEX (DEXAMETHASONE) IMPLANT [ALLERGAN, INC.]",
+   "published_date": "Mar 18, 2026",
+   "spl_version": 38,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2009-08-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-08-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-10-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-01-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-03-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-09-11"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-04-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-05-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-02-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-07-09"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2014-10-01"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-05-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-11-27"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-10-28"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-11-04"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2022-12-29"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-11-08"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-04-25"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-05-22"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-08-22"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2025-09-10"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2026-02-10"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2026-02-27"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2026-03-03"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2026-03-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 38,
+    "published_date": "2026-03-18"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 26
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T08:55:03Z"
+}

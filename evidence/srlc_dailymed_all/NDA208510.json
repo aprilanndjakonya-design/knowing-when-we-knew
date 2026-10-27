@@ -1,0 +1,192 @@
+{
+ "application": "NDA208510",
+ "srlc_rows": [
+  {
+   "drug_name": "VYVANSE",
+   "active_ingredient": "LISDEXAMFETAMINE DIMESYLATE",
+   "application_number": "208510",
+   "application_type": "NDA",
+   "supplement_date": "04/23/2026",
+   "database_updated": "04/24/2026",
+   "drug_name_id": "1087"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-04-23",
+ "srlc_database_updated": "2026-04-24",
+ "lag_days_srlc_database": 1,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "704e4378-ca83-445c-8b45-3cfa51c1ecad",
+   "title": "VYVANSE (LISDEXAMFETAMINE DIMESYLATE) CAPSULE VYVANSE (LISDEXAMFETAMINE DIMESYLATE) TABLET, CHEWABLE [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+   "published_date": "May 06, 2026",
+   "spl_version": 81,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-09-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-01-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2009-12-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2009-12-22"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2010-04-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2010-04-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2010-08-31"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2010-11-26"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2010-12-23"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2011-04-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2011-08-08"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2012-02-17"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2012-12-04"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2013-05-10"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2013-07-01"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2013-12-20"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2014-07-25"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2014-11-12"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2014-11-28"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2015-02-11"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2015-04-09"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2015-12-10"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2016-03-01"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2016-10-25"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2017-01-17"
+    },
+    {
+     "spl_version": 60,
+     "published_date": "2017-02-24"
+    },
+    {
+     "spl_version": 61,
+     "published_date": "2017-04-03"
+    },
+    {
+     "spl_version": 62,
+     "published_date": "2017-05-02"
+    },
+    {
+     "spl_version": 63,
+     "published_date": "2017-08-04"
+    },
+    {
+     "spl_version": 64,
+     "published_date": "2018-01-22"
+    },
+    {
+     "spl_version": 65,
+     "published_date": "2019-11-01"
+    },
+    {
+     "spl_version": 66,
+     "published_date": "2021-05-26"
+    },
+    {
+     "spl_version": 67,
+     "published_date": "2021-08-16"
+    },
+    {
+     "spl_version": 69,
+     "published_date": "2021-11-15"
+    },
+    {
+     "spl_version": 72,
+     "published_date": "2022-03-11"
+    },
+    {
+     "spl_version": 74,
+     "published_date": "2023-07-20"
+    },
+    {
+     "spl_version": 75,
+     "published_date": "2023-10-24"
+    },
+    {
+     "spl_version": 78,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 81,
+     "published_date": "2026-05-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 81,
+    "published_date": "2026-05-06"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 38
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:03:16Z"
+}

@@ -1,0 +1,96 @@
+{
+ "application": "NDA210238",
+ "srlc_rows": [
+  {
+   "drug_name": "DOPTELET",
+   "active_ingredient": "AVATROMBOPAG MALEATE",
+   "application_number": "210238",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "1900"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-24",
+ "srlc_database_updated": "2025-07-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "e2d5960d-6c18-46cc-86bd-089222b09852",
+   "title": "DOPTELET (AVATROMBOPAG MALEATE) TABLET, FILM COATED DOPTELET SPRINKLE (AVATROMBOPAG) GRANULE [AKARX, INC.]",
+   "published_date": "Aug 15, 2025",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-05-30"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-07-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-04-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-07-10"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-09-01"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-11-10"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-06-28"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-08-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-05-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-02-16"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-06-09"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-07-10"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-07-30"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-08-11"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-08-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2025-08-11"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 13
+  }
+ ],
+ "lag_days_dailymed_min": 18,
+ "fetched_utc": "2026-10-16T09:04:52Z"
+}

@@ -1,0 +1,196 @@
+{
+ "application": "BLA125289",
+ "srlc_rows": [
+  {
+   "drug_name": "SIMPONI",
+   "active_ingredient": "GOLIMUMAB",
+   "application_number": "125289",
+   "application_type": "BLA",
+   "supplement_date": "10/07/2025",
+   "database_updated": "10/09/2025",
+   "drug_name_id": "16"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-07",
+ "srlc_database_updated": "2025-10-09",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f86cb4a7-c358-4136-ae57-b32bda9bba00",
+   "title": "SIMPONI (GOLIMUMAB) INJECTION, SOLUTION [JANSSEN BIOTECH, INC.]",
+   "published_date": "Sep 24, 2026",
+   "spl_version": 43,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-11-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2010-03-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-09-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-10-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-01-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2011-04-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2011-08-31"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2011-09-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2012-01-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2012-12-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2013-05-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2013-05-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2013-11-19"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2014-01-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2014-01-31"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2014-12-24"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2015-06-29"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2015-10-08"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2016-01-25"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2016-07-05"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2017-02-07"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2017-04-04"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2017-06-29"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2017-07-10"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2017-08-09"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2017-11-22"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2018-02-20"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2018-03-15"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2018-06-05"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2018-09-13"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2019-10-03"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-04-12"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2023-11-22"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2025-04-29"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2025-09-11"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2025-11-21"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2026-09-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 40,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 41,
+   "versions_before_supplement": 36
+  }
+ ],
+ "lag_days_dailymed_min": 41,
+ "fetched_utc": "2026-10-16T08:37:54Z"
+}

@@ -1,0 +1,100 @@
+{
+ "application": "NDA020708",
+ "srlc_rows": [
+  {
+   "drug_name": "LUPRON DEPOT",
+   "active_ingredient": "LEUPROLIDE ACETATE",
+   "application_number": "020708",
+   "application_type": "NDA",
+   "supplement_date": "09/10/2025",
+   "database_updated": "09/12/2025",
+   "drug_name_id": "1532"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-10",
+ "srlc_database_updated": "2025-09-12",
+ "lag_days_srlc_database": 2,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "60aad237-e1da-4705-cbbb-b3ca79e89ad8",
+   "title": "LUPRON DEPOT (LEUPROLIDE ACETATE) KIT [ABBVIE INC.]",
+   "published_date": "Sep 18, 2025",
+   "spl_version": 1517,
+   "versions": [
+    {
+     "spl_version": 1058,
+     "published_date": "2010-11-12"
+    },
+    {
+     "spl_version": 1408,
+     "published_date": "2011-07-12"
+    },
+    {
+     "spl_version": 1413,
+     "published_date": "2012-01-30"
+    },
+    {
+     "spl_version": 1419,
+     "published_date": "2012-04-06"
+    },
+    {
+     "spl_version": 1450,
+     "published_date": "2013-12-03"
+    },
+    {
+     "spl_version": 1465,
+     "published_date": "2016-02-11"
+    },
+    {
+     "spl_version": 1467,
+     "published_date": "2016-02-18"
+    },
+    {
+     "spl_version": 1494,
+     "published_date": "2018-04-26"
+    },
+    {
+     "spl_version": 1499,
+     "published_date": "2018-11-28"
+    },
+    {
+     "spl_version": 1508,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 1510,
+     "published_date": "2021-10-13"
+    },
+    {
+     "spl_version": 1511,
+     "published_date": "2022-11-10"
+    },
+    {
+     "spl_version": 1512,
+     "published_date": "2023-06-28"
+    },
+    {
+     "spl_version": 1514,
+     "published_date": "2023-11-13"
+    },
+    {
+     "spl_version": 1515,
+     "published_date": "2024-12-09"
+    },
+    {
+     "spl_version": 1517,
+     "published_date": "2025-09-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1517,
+    "published_date": "2025-09-18"
+   },
+   "lag_days_dailymed": 8,
+   "versions_before_supplement": 15
+  }
+ ],
+ "lag_days_dailymed_min": 8,
+ "fetched_utc": "2026-10-16T08:48:17Z"
+}

@@ -1,0 +1,84 @@
+{
+ "application": "BLA761177",
+ "srlc_rows": [
+  {
+   "drug_name": "SKYTROFA",
+   "active_ingredient": "LONAPEGSOMATROPIN-TCGD",
+   "application_number": "761177",
+   "application_type": "BLA",
+   "supplement_date": "07/25/2025",
+   "database_updated": "07/30/2025",
+   "drug_name_id": "2686"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-25",
+ "srlc_database_updated": "2025-07-30",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "9229f871-bc61-4ddc-8122-d126d40e36ac",
+   "title": "SKYTROFA (LONAPEGSOMATROPIN-TCGD) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ASCENDIS PHARMA ENDOCRINOLOGY, INC.]",
+   "published_date": "Jul 24, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-09-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-04-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-04-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-08-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-01-31"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-05-13"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-05-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-08-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-09-11"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-07-20"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-07-24"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2025-08-18"
+   },
+   "lag_days_dailymed": 24,
+   "versions_before_supplement": 8
+  }
+ ],
+ "lag_days_dailymed_min": 24,
+ "fetched_utc": "2026-10-16T08:40:00Z"
+}

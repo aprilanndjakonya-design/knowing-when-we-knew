@@ -1,0 +1,80 @@
+{
+ "application": "NDA215309",
+ "srlc_rows": [
+  {
+   "drug_name": "OPZELURA",
+   "active_ingredient": "RUXOLITINIB PHOSPHATE",
+   "application_number": "215309",
+   "application_type": "NDA",
+   "supplement_date": "06/30/2026",
+   "database_updated": "07/10/2026",
+   "drug_name_id": "2648"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-30",
+ "srlc_database_updated": "2026-07-10",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "24da5509-6631-4795-9d42-273faecd08e7",
+   "title": "OPZELURA (RUXOLITINIB) CREAM [INCYTE CORPORATION]",
+   "published_date": "Jul 15, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-09-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-04-26"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-05-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-08-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-10-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-01-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-10-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-09-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-07-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2026-07-15"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:08:14Z"
+}

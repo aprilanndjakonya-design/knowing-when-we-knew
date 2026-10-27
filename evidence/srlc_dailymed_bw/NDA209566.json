@@ -1,0 +1,37 @@
+{
+ "application": "NDA209566",
+ "srlc_rows": [
+  {
+   "drug_name": "SEIZALAM",
+   "active_ingredient": "MIDAZOLAM HYDROCHLORIDE",
+   "application_number": "209566",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-1",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-1",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/19/2023",
+   "drug_name_id": "2400"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-19",
+ "lag_days_srlc_database": 713,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:28:50Z"
+}

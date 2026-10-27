@@ -1,0 +1,1906 @@
+{
+ "205923": {
+  "name": "1 ML epoetin alfa 4000 UNT/ML Injection [Epogen]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "314076": {
+  "name": "lisinopril 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "106892": {
+  "name": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "062005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "310798": {
+  "name": "hydrochlorothiazide 25 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "308136": {
+  "name": "amlodipine 2.5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "860975": {
+  "name": "24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1535362": {
+  "name": "sodium fluoride 0.0272 MG/MG Oral Gel",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062014",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1736854": {
+  "name": "cisplatin 50 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "583214": {
+  "name": "paclitaxel 100 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "112005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "206905": {
+  "name": "ibuprofen 400 MG Oral Tablet [Ibu]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "904419": {
+  "name": "alendronic acid 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "314231": {
+  "name": "simvastatin 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "856987": {
+  "name": "acetaminophen 300 MG / hydrocodone bitartrate 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "313521": {
+  "name": "tropicamide 5 MG/ML Ophthalmic Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1049625": {
+  "name": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet [Percocet]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "012011",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "209387": {
+  "name": "acetaminophen 325 MG Oral Tablet [Tylenol]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1664463": {
+  "name": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "102015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "245314": {
+  "name": "albuterol 5 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "896209": {
+  "name": "60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "993770": {
+  "name": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "072010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "313782": {
+  "name": "acetaminophen 325 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1719286": {
+  "name": "10 ML furosemide 10 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "122015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "630208": {
+  "name": "albuterol 0.83 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "226719": {
+  "name": "etoposide 100 MG Injection [Etopophos]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "245134": {
+  "name": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "855332": {
+  "name": "warfarin sodium 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197604": {
+  "name": "digoxin 0.125 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "895996": {
+  "name": "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "022010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "562251": {
+  "name": "amoxicillin 250 MG / clavulanate 125 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "897685": {
+  "name": "verapamil hydrochloride 80 MG Oral Tablet [Calan]",
+  "tty": "SBD",
+  "status": "Obsolete",
+  "activeStartDate": "032010",
+  "activeEndDate": "042026",
+  "remappedDate": null
+ },
+ "849574": {
+  "name": "naproxen sodium 220 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1860491": {
+  "name": "12 HR hydrocodone bitartrate 10 MG Extended Release Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012017",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "351109": {
+  "name": "budesonide 0.25 MG/ML Inhalation Suspension",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "896001": {
+  "name": "120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "022010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "705129": {
+  "name": "nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062007",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "835603": {
+  "name": "tramadol hydrochloride 50 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "312961": {
+  "name": "simvastatin 20 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "313988": {
+  "name": "furosemide 40 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "859088": {
+  "name": "NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "092009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "309362": {
+  "name": "clopidogrel 75 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "310965": {
+  "name": "ibuprofen 200 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198440": {
+  "name": "acetaminophen 500 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "313820": {
+  "name": "acetaminophen 160 MG Chewable Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "200033": {
+  "name": "carvedilol 25 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1049221": {
+  "name": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012011",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1043400": {
+  "name": "acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "122010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "745752": {
+  "name": "NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "012008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "979492": {
+  "name": "losartan potassium 50 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1870230": {
+  "name": "NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032017",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "476556": {
+  "name": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "314077": {
+  "name": "lisinopril 20 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "389221": {
+  "name": "etonogestrel 68 MG Drug Implant",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "854235": {
+  "name": "0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "072009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "2563431": {
+  "name": "aspirin 81 MG Oral Capsule [Vazalore]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "082021",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "757594": {
+  "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]",
+  "tty": "BPCK",
+  "status": "Obsolete",
+  "activeStartDate": "032008",
+  "activeEndDate": "072022",
+  "remappedDate": null
+ },
+ "1000126": {
+  "name": "1 ML medroxyprogesterone acetate 150 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1431987": {
+  "name": "24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "082013",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "748856": {
+  "name": "{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]",
+  "tty": "BPCK",
+  "status": "Active",
+  "activeStartDate": "012008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "831533": {
+  "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]",
+  "tty": "BPCK",
+  "status": "Active",
+  "activeStartDate": "032009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198405": {
+  "name": "ibuprofen 100 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "979485": {
+  "name": "losartan potassium 25 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "749762": {
+  "name": "{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]",
+  "tty": "BPCK",
+  "status": "Obsolete",
+  "activeStartDate": "012008",
+  "activeEndDate": "092026",
+  "remappedDate": null
+ },
+ "748962": {
+  "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]",
+  "tty": "BPCK",
+  "status": "Active",
+  "activeStartDate": "012008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "978950": {
+  "name": "{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]",
+  "tty": "BPCK",
+  "status": "Active",
+  "activeStartDate": "062010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "834102": {
+  "name": "penicillin V potassium 500 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "834061": {
+  "name": "penicillin V potassium 250 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "751905": {
+  "name": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]",
+  "tty": "BPCK",
+  "status": "Active",
+  "activeStartDate": "022008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "308192": {
+  "name": "amoxicillin 500 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "748879": {
+  "name": "{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]",
+  "tty": "BPCK",
+  "status": "Active",
+  "activeStartDate": "012008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "2001499": {
+  "name": "vitamin B12 5 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042018",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1803932": {
+  "name": "leucovorin 100 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1736776": {
+  "name": "10 ML oxaliplatin 5 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "317150": {
+  "name": "ritonavir 100 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "243670": {
+  "name": "aspirin 81 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "2123111": {
+  "name": "NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "052019",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "744842": {
+  "name": "raltegravir 400 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1656356": {
+  "name": "sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "082015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "351137": {
+  "name": "albuterol 0.21 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1367439": {
+  "name": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "022013",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "807283": {
+  "name": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "102008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "351136": {
+  "name": "albuterol 0.417 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "310325": {
+  "name": "ferrous sulfate 325 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "205532": {
+  "name": "dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198767": {
+  "name": "pancreatin 600 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Obsolete",
+  "activeStartDate": "042005",
+  "activeEndDate": "072026",
+  "remappedDate": null
+ },
+ "1740467": {
+  "name": "2 ML ondansetron 2 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "351266": {
+  "name": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1665060": {
+  "name": "cefazolin 2000 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "102015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1808217": {
+  "name": "100 ML propofol 10 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "102016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1234995": {
+  "name": "rocuronium bromide 10 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012012",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "311700": {
+  "name": "midazolam 1 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1648755": {
+  "name": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1605257": {
+  "name": "levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "855812": {
+  "name": "prasugrel 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1359269": {
+  "name": "darunavir 800 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "122012",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1659263": {
+  "name": "1 ML heparin sodium, porcine 5000 UNT/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1796676": {
+  "name": "25 ML protamine sulfate (USP) 10 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "072016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1856546": {
+  "name": "levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "122016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "861467": {
+  "name": "meperidine hydrochloride 50 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "2003249": {
+  "name": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "052018",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "665078": {
+  "name": "loratadine 5 MG Chewable Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "122006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "308182": {
+  "name": "amoxicillin 250 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "854252": {
+  "name": "1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "072009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "997488": {
+  "name": "fexofenadine hydrochloride 30 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1534809": {
+  "name": "168 HR ethinyl estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "052014",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "857005": {
+  "name": "acetaminophen 325 MG / hydrocodone bitartrate 7.5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "477045": {
+  "name": "chlorpheniramine maleate 2 MG/ML Oral Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1191013": {
+  "name": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "112011",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "309097": {
+  "name": "cefuroxime 250 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "542347": {
+  "name": "isoflurane 999 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197454": {
+  "name": "cephalexin 500 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "106258": {
+  "name": "hydrocortisone 10 MG/ML Topical Cream",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "204892": {
+  "name": "clonazepam 0.25 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "349094": {
+  "name": "budesonide 0.125 MG/ML Inhalation Suspension",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "310436": {
+  "name": "galantamine 4 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "212033": {
+  "name": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "312617": {
+  "name": "prednisone 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "616830": {
+  "name": "budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198335": {
+  "name": "sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "309309": {
+  "name": "ciprofloxacin 500 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197591": {
+  "name": "diazepam 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1729584": {
+  "name": "remifentanil 2 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1657066": {
+  "name": "4 ML bevacizumab 25 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1049630": {
+  "name": "diphenhydramine hydrochloride 25 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012011",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1433873": {
+  "name": "dolutegravir 50 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092013",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197511": {
+  "name": "ciprofloxacin 250 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "749882": {
+  "name": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]",
+  "tty": "BPCK",
+  "status": "Obsolete",
+  "activeStartDate": "012008",
+  "activeEndDate": "072019",
+  "remappedDate": null
+ },
+ "308971": {
+  "name": "carbamazepine 20 MG/ML Oral Suspension [Tegretol]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1361048": {
+  "name": "heparin sodium, porcine 100 UNT/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012013",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1014676": {
+  "name": "cetirizine hydrochloride 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "112010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1659131": {
+  "name": "piperacillin 2000 MG / tazobactam 250 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197378": {
+  "name": "astemizole 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198039": {
+  "name": "nitroglycerin 0.4 MG Sublingual Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1116635": {
+  "name": "ticagrelor 90 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082011",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1804799": {
+  "name": "alteplase 100 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "235389": {
+  "name": "mestranol / norethynodrel",
+  "tty": "MIN",
+  "status": "Active",
+  "activeStartDate": "092010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "749785": {
+  "name": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]",
+  "tty": "BPCK",
+  "status": "Active",
+  "activeStartDate": "012008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "897122": {
+  "name": "3 ML liraglutide 6 MG/ML Pen Injector",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "200243": {
+  "name": "sevoflurane 1000 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "746815": {
+  "name": "60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "012008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "752899": {
+  "name": "0.25 ML leuprolide acetate 30 MG/ML Prefilled Syringe",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "966524": {
+  "name": "120 ACTUAT budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "664741": {
+  "name": "atazanavir 300 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "122006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198014": {
+  "name": "naproxen 500 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "617296": {
+  "name": "amoxicillin 500 MG / clavulanate 125 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "052006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "996740": {
+  "name": "memantine hydrochloride 2 MG/ML Oral Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "072010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1649987": {
+  "name": "doxycycline hyclate 100 MG",
+  "tty": "SCDC",
+  "status": "Active",
+  "activeStartDate": "062015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "313572": {
+  "name": "vancomycin 50 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "252559": {
+  "name": "budesonide 0.5 MG/ML Inhalation Suspension",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "808917": {
+  "name": "fosfomycin 3000 MG Granules for Oral Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "112008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "349477": {
+  "name": "efavirenz 600 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198031": {
+  "name": "24 HR nicotine 0.292 MG/HR Transdermal System",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "617311": {
+  "name": "atorvastatin 40 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "052006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1599803": {
+  "name": "24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1723208": {
+  "name": "10 ML alfentanil 0.5 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Obsolete",
+  "activeStartDate": "012016",
+  "activeEndDate": "052025",
+  "remappedDate": null
+ },
+ "242969": {
+  "name": "4 ML norepinephrine 1 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "402109": {
+  "name": "fosamprenavir 700 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "105078": {
+  "name": "penicillin G 375 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Obsolete",
+  "activeStartDate": "042005",
+  "activeEndDate": "022026",
+  "remappedDate": null
+ },
+ "1728805": {
+  "name": "2 ML morphine sulfate 1 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1732186": {
+  "name": "100 ML epirubicin hydrochloride 2 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1734919": {
+  "name": "cyclophosphamide 1000 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197319": {
+  "name": "allopurinol 100 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "617310": {
+  "name": "atorvastatin 20 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "052006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1091392": {
+  "name": "methylphenidate hydrochloride 20 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032011",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "311034": {
+  "name": "insulin, regular, human 100 UNT/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "259255": {
+  "name": "atorvastatin 80 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1359133": {
+  "name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]",
+  "tty": "BPCK",
+  "status": "Active",
+  "activeStartDate": "122012",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "866924": {
+  "name": "metoprolol tartrate 25 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "112009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "311372": {
+  "name": "loratadine 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1361226": {
+  "name": "heparin sodium, porcine 1000 UNT/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012013",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "608139": {
+  "name": "atomoxetine 100 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1366343": {
+  "name": "levonorgestrel 0.00354 MG/HR Drug Implant",
+  "tty": "SCD",
+  "status": "Obsolete",
+  "activeStartDate": "022013",
+  "activeEndDate": "052017",
+  "remappedDate": null
+ },
+ "617312": {
+  "name": "atorvastatin 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "052006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "562366": {
+  "name": "desflurane 1000 MG/ML Inhalation Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "643066": {
+  "name": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1997015": {
+  "name": "50 ML bivalirudin 5 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "022018",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "866511": {
+  "name": "metoprolol tartrate 100 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "112009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "749196": {
+  "name": "clopidogrel 300 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197884": {
+  "name": "lisinopril 40 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "141918": {
+  "name": "terfenadine 60 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1648756": {
+  "name": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG [Macrobid]",
+  "tty": "SBDC",
+  "status": "Active",
+  "activeStartDate": "062015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "313002": {
+  "name": "sodium chloride 9 MG/ML Injectable Solution",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1659149": {
+  "name": "piperacillin 4000 MG / tazobactam 500 MG Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "212446": {
+  "name": "azithromycin 250 MG Oral Tablet [Zithromax]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "979480": {
+  "name": "losartan potassium 100 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "200349": {
+  "name": "100 ML eptifibatide 0.75 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1363309": {
+  "name": "chlorpheniramine maleate 4 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012013",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198211": {
+  "name": "simvastatin 40 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "904475": {
+  "name": "pravastatin sodium 40 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "859747": {
+  "name": "rosuvastatin calcium 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "311354": {
+  "name": "lisinopril 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "241834": {
+  "name": "cyclosporine, modified 100 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "856980": {
+  "name": "acetaminophen 300 MG / hydrocodone bitartrate 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "562508": {
+  "name": "amoxicillin 875 MG / clavulanate 125 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "200346": {
+  "name": "cefdinir 300 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "349201": {
+  "name": "valsartan 160 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1014678": {
+  "name": "cetirizine hydrochloride 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "112010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "858817": {
+  "name": "enalapril maleate 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1737466": {
+  "name": "100 ML tirofiban 0.05 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032016",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "310385": {
+  "name": "fluoxetine 20 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "856519": {
+  "name": "propranolol hydrochloride 40 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "198240": {
+  "name": "tamoxifen 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1652673": {
+  "name": "doxycycline monohydrate 50 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "072015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "200095": {
+  "name": "irbesartan 150 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197886": {
+  "name": "hydrochlorothiazide 12.5 MG / lisinopril 20 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "904467": {
+  "name": "pravastatin sodium 20 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197380": {
+  "name": "atenolol 25 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1100184": {
+  "name": "donepezil hydrochloride 23 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062011",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "314203": {
+  "name": "quinapril 40 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "313185": {
+  "name": "tacrine 10 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "997223": {
+  "name": "donepezil hydrochloride 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "859419": {
+  "name": "rosuvastatin calcium 40 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197887": {
+  "name": "hydrochlorothiazide 25 MG / lisinopril 20 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197885": {
+  "name": "hydrochlorothiazide 12.5 MG / lisinopril 10 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "856556": {
+  "name": "propranolol hydrochloride 60 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "727762": {
+  "name": "5 ML fulvestrant 50 MG/ML Prefilled Syringe",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092007",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "2119714": {
+  "name": "5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042019",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1946840": {
+  "name": "abemaciclib 100 MG Oral Tablet [Verzenio]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "112017",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1601380": {
+  "name": "palbociclib 100 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032015",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "854905": {
+  "name": "bisoprolol fumarate 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197541": {
+  "name": "colchicine 0.6 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "141962": {
+  "name": "azithromycin 250 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "686924": {
+  "name": "carvedilol 3.125 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032007",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "858813": {
+  "name": "enalapril maleate 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "1483744": {
+  "name": "naltrexone hydrochloride 50 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012014",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "898356": {
+  "name": "amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "997501": {
+  "name": "fexofenadine hydrochloride 60 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "082010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "349353": {
+  "name": "hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "197381": {
+  "name": "atenolol 50 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "859424": {
+  "name": "rosuvastatin calcium 5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "092009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "979471": {
+  "name": "hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "200031": {
+  "name": "carvedilol 6.25 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "751616": {
+  "name": "nebivolol 10 MG Oral Tablet [Bystolic]",
+  "tty": "SBD",
+  "status": "Active",
+  "activeStartDate": "022008",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "105585": {
+  "name": "methotrexate 2.5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "833135": {
+  "name": "milnacipran hydrochloride 100 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "032009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "596926": {
+  "name": "duloxetine 20 MG Delayed Release Oral Capsule",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "012006",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "866514": {
+  "name": "metoprolol tartrate 50 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "112009",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "979464": {
+  "name": "hydrochlorothiazide 12.5 MG / losartan potassium 100 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "062010",
+  "activeEndDate": "",
+  "remappedDate": null
+ },
+ "200032": {
+  "name": "carvedilol 12.5 MG Oral Tablet",
+  "tty": "SCD",
+  "status": "Active",
+  "activeStartDate": "042005",
+  "activeEndDate": "",
+  "remappedDate": null
+ }
+}

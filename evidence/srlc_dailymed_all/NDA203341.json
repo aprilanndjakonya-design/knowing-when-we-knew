@@ -1,0 +1,170 @@
+{
+ "application": "NDA203341",
+ "srlc_rows": [
+  {
+   "drug_name": "BOSULIF",
+   "active_ingredient": "BOSUTINIB MONOHYDRATE",
+   "application_number": "203341",
+   "application_type": "NDA",
+   "supplement_date": "03/02/2026",
+   "database_updated": "03/06/2026",
+   "drug_name_id": "559"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-03-02",
+ "srlc_database_updated": "2026-03-06",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "d5929f91-6496-4c0e-97e8-0bd524e15763",
+   "title": "BOSULIF (BOSUTINIB) TABLET, FILM COATED [U.S. PHARMACEUTICALS]",
+   "published_date": "May 29, 2026",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-05-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-08-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-03-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-03-20"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-05-29"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2026-03-20"
+   },
+   "lag_days_dailymed": 18,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "adc84ad5-a04d-4fee-9ba8-91f7abd928e3",
+   "title": "BOSULIF (BOSUTINIB) TABLET, FILM COATED BOSULIF (BOSUTINIB) CAPSULE [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Mar 12, 2026",
+   "spl_version": 32,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2012-09-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2015-03-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-10-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-09-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-12-30"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-04-26"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-11-08"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-01-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-09-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-10-31"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-08-27"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-10-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-11-06"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-06-24"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-05-25"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2021-08-25"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2021-10-18"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2023-05-01"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2024-01-02"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-10-30"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-03-12"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 32,
+    "published_date": "2026-03-12"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 23
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:00:05Z"
+}

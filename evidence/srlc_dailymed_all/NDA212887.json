@@ -1,0 +1,68 @@
+{
+ "application": "NDA212887",
+ "srlc_rows": [
+  {
+   "drug_name": "VOCABRIA",
+   "active_ingredient": "CABOTEGRAVIR SODIUM",
+   "application_number": "212887",
+   "application_type": "NDA",
+   "supplement_date": "04/11/2025",
+   "database_updated": "05/27/2025",
+   "drug_name_id": "2569"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-11",
+ "srlc_database_updated": "2025-05-27",
+ "lag_days_srlc_database": 46,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "66d450fb-cca4-476c-b0c7-c0730e3e4cf3",
+   "title": "VOCABRIA (CABOTEGRAVIR SODIUM) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+   "published_date": "Apr 18, 2025",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2021-12-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-02-16"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-04-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2023-03-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2024-09-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-04-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2025-04-18"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T09:06:41Z"
+}

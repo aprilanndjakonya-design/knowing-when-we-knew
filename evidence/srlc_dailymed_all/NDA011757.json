@@ -1,0 +1,587 @@
+{
+ "application": "NDA011757",
+ "srlc_rows": [
+  {
+   "drug_name": "DEPO-MEDROL",
+   "active_ingredient": "METHYLPREDNISOLONE ACETATE",
+   "application_number": "011757",
+   "application_type": "NDA",
+   "supplement_date": "11/04/2025",
+   "database_updated": "11/07/2025",
+   "drug_name_id": "396"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-11-04",
+ "srlc_database_updated": "2025-11-07",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 13,
+ "labels": [
+  {
+   "setid": "823b0010-2b57-4e76-b5ac-4a8c2963438f",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Jan 26, 2026",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-01-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-06-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-07-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-01-05"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-01-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-01-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-02-07"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-01-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-08-21"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-11-19"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-01-22"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2020-12-10"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-03-15"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2021-06-17"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-01-08"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-06-18"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-01-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2025-11-18"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 17
+  },
+  {
+   "setid": "9a7b3837-e038-48bf-97e9-78ad463760dc",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Jan 26, 2026",
+   "spl_version": 27,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-11-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-12-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-04-07"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-04-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2013-04-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-06-10"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2014-07-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-02-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-10-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2018-01-12"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-08-21"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-09-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2019-01-22"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-12-09"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2021-03-15"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2021-06-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2024-01-08"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-06-18"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-08-27"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-12-10"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-01-08"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2026-01-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 25,
+    "published_date": "2025-12-10"
+   },
+   "lag_days_dailymed": 36,
+   "versions_before_supplement": 19
+  },
+  {
+   "setid": "bf1b104d-85cb-414d-a366-78068c82c883",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [PHARMACIA & UPJOHN COMPANY LLC]",
+   "published_date": "Dec 02, 2025",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-05-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-01-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-02-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-01-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-01-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-02-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-03-06"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-01-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-12-10"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-12-21"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-06-14"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-01-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-08-07"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-12-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 15
+  },
+  {
+   "setid": "cb457bef-8823-4f3c-987b-eb0922494c46",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2018-01-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-01-15"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-03-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-06-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2024-02-08"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "d75f6751-9ac3-416f-8470-6c011aacf755",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2017-10-05"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-02-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-06-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-02-08"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-04-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-06-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-02-08"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2023-06-01"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-06-12"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 22,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "e8209047-c1e6-4081-a6d3-c603d9ee4f14",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-01-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-02-26"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-04-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-06-24"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "aa151d12-bd33-4d26-848f-2195172c9700",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jun 12, 2024",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2017-10-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-02-18"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-04-16"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2023-05-10"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2023-08-11"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-06-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "cb0e1c92-d2df-47f8-ab3f-edc1a98bf4b6",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [ASCLEMED USA, INC.]",
+   "published_date": "Oct 13, 2022",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-04-10"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-10-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "f7d4269e-eb4c-46aa-805f-8e8662c80904",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Apr 15, 2021",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 5,
+     "published_date": "2017-09-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-02-25"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-04-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "92cb6339-75ab-48eb-b304-19db59695883",
+   "title": "MULTI-SPECIALTY KIT (DEPO-MEDROL, LIDOCAINE, ISOPROPYL ALCOHOL) KIT [PROFICIENT RX LP]",
+   "published_date": "Apr 08, 2015",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-04-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "c5ca262e-5558-4065-8ef5-e2e76f3635e5",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [DISPENSING SOLUTIONS, INC.]",
+   "published_date": "Mar 13, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-03-13"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "41fa78f5-8f41-415e-80f3-7fee7091df5e",
+   "title": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [REBEL DISTRIBUTORS CORP]",
+   "published_date": "Jun 29, 2011",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-06-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "9da7dd02-0837-4264-b6eb-9212565eb2d7",
+   "title": "METHYLPREDNISOLONE TABLET [ALTURA PHARMACEUTICALS, INC.]",
+   "published_date": "Apr 30, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-04-30"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:42:45Z"
+}

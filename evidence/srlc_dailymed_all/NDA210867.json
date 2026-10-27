@@ -1,0 +1,72 @@
+{
+ "application": "NDA210867",
+ "srlc_rows": [
+  {
+   "drug_name": "MOXIDECTIN",
+   "active_ingredient": "MOXIDECTIN",
+   "application_number": "210867",
+   "application_type": "NDA",
+   "supplement_date": "02/07/2025",
+   "database_updated": "02/12/2025",
+   "drug_name_id": "2423"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-02-07",
+ "srlc_database_updated": "2025-02-12",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "6eb02ae9-9065-176f-e053-2991aa0ac891",
+   "title": "MOXIDECTIN TABLET [MEDICINES DEVELOPMENT FOR GLOBAL HEALTH]",
+   "published_date": "Aug 03, 2026",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 12,
+     "published_date": "2019-12-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-03-15"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-01-10"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-01-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2024-05-06"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-02-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-08-03"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2025-02-13"
+   },
+   "lag_days_dailymed": 6,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 6,
+ "fetched_utc": "2026-10-16T09:05:22Z"
+}

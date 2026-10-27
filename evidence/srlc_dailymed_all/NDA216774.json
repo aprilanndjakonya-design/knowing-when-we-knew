@@ -1,0 +1,68 @@
+{
+ "application": "NDA216774",
+ "srlc_rows": [
+  {
+   "drug_name": "ALVAIZ",
+   "active_ingredient": "ELTROMBOPAG CHOLINE",
+   "application_number": "216774",
+   "application_type": "NDA",
+   "supplement_date": "01/15/2026",
+   "database_updated": "01/22/2026",
+   "drug_name_id": "3240"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-15",
+ "srlc_database_updated": "2026-01-22",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ed51e463-7a03-4858-bbd2-882ce4753d5a",
+   "title": "ALVAIZ (ELTROMBOPAG) TABLET, FILM COATED [TEVA PHARMACEUTICALS, INC.]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-02-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-05-27"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-09-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-05-15"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-08-20"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-02-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2026-02-04"
+   },
+   "lag_days_dailymed": 20,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 20,
+ "fetched_utc": "2026-10-16T09:09:17Z"
+}

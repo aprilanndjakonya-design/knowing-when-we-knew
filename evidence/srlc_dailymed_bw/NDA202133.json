@@ -1,0 +1,41 @@
+{
+ "application": "NDA202133",
+ "srlc_rows": [
+  {
+   "drug_name": "FLUOXETINE HYDROCHLORIDE",
+   "active_ingredient": "FLUOXETINE HYDROCHLORIDE",
+   "application_number": "202133",
+   "application_type": "NDA",
+   "supplement_date": "01/04/2017",
+   "supplement": "SUPPL-4",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "01/04/2017",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "08/18/2023",
+   "database_updated": "08/22/2023",
+   "drug_name_id": "688"
+  }
+ ],
+ "latest_bw_supplement_date": "2017-01-04",
+ "srlc_database_updated": "2023-08-22",
+ "lag_days_srlc_database": 2421,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:26:29Z"
+}

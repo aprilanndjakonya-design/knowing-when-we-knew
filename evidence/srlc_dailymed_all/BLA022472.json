@@ -1,0 +1,104 @@
+{
+ "application": "BLA022472",
+ "srlc_rows": [
+  {
+   "drug_name": "AFREZZA",
+   "active_ingredient": "INSULIN RECOMBINANT HUMAN",
+   "application_number": "022472",
+   "application_type": "BLA",
+   "supplement_date": "05/29/2026",
+   "database_updated": "06/01/2026",
+   "drug_name_id": "1290"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-29",
+ "srlc_database_updated": "2026-06-01",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "29f4637b-e204-425b-b89c-7238008d8c10",
+   "title": "AFREZZA (INSULIN HUMAN) POWDER, METERED AFREZZA (INSULIN HUMAN) POWDER, METERED AFREZZA (INSULIN HUMAN) KIT [MANNKIND CORPORATION]",
+   "published_date": "Jun 26, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-06-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-08-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-12-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-06-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-10-10"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-05-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-10-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-10-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-04-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-02-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-03-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-04-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-08-16"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-02-29"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-06-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-02-06"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 17,
+    "published_date": "2026-06-26"
+   },
+   "lag_days_dailymed": 28,
+   "versions_before_supplement": 16
+  }
+ ],
+ "lag_days_dailymed_min": 28,
+ "fetched_utc": "2026-10-16T08:37:24Z"
+}

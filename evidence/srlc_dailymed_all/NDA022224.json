@@ -1,0 +1,56 @@
+{
+ "application": "NDA022224",
+ "srlc_rows": [
+  {
+   "drug_name": "TRILIPIX",
+   "active_ingredient": "CHOLINE FENOFIBRATE",
+   "application_number": "022224",
+   "application_type": "NDA",
+   "supplement_date": "06/06/2025",
+   "database_updated": "06/10/2025",
+   "drug_name_id": "1575"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-06",
+ "srlc_database_updated": "2025-06-10",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "e3ad559c-b107-409f-a297-a052765b71ab",
+   "title": "FENOFIBRIC ACID CAPSULE, DELAYED RELEASE [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Apr 19, 2021",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-10-08"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-04-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "3057fc9c-ff77-43eb-b687-776660423742",
+   "title": "TRILIPIX (FENOFIBRIC ACID) CAPSULE, DELAYED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Jan 03, 2012",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-01-03"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:54:43Z"
+}

@@ -1,0 +1,106 @@
+{
+ "application": "NDA020248",
+ "srlc_rows": [
+  {
+   "drug_name": "INTRALIPID 20%",
+   "active_ingredient": "",
+   "application_number": "020248",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2626"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-24",
+ "srlc_database_updated": "2025-07-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "bdcc364b-77b2-4939-8add-03e5396d46c2",
+   "title": "INTRALIPID (I.V. FAT EMULSION) EMULSION [FRESENIUS KABI USA, LLC]",
+   "published_date": "Nov 19, 2025",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-02-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-10-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-11-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2025-11-19"
+   },
+   "lag_days_dailymed": 118,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "55609586-f0b4-42e6-8dd9-cd090afb5dca",
+   "title": "INTRALIPID (I.V. FAT EMULSION) EMULSION [BAXTER HEALTHCARE CORPORATION\n]",
+   "published_date": "Aug 12, 2022",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-07-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-11-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-08-12"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "cbd3396e-6b85-41bf-82d2-940beba86686",
+   "title": "INTRALIPID (I.V. FAT EMULSION) EMULSION [BAXTER HEALTHCARE CORPORATION]",
+   "published_date": "Apr 01, 2019",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-10-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-05-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-08-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-04-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-04-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 118,
+ "fetched_utc": "2026-10-16T08:46:52Z"
+}

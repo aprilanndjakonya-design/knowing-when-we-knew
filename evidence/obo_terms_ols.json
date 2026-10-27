@@ -1,0 +1,264 @@
+{
+ "ontology_versions": {
+  "bfo": "http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl",
+  "chebi": "http://purl.obolibrary.org/obo/chebi/256/chebi.owl",
+  "iao": "http://purl.obolibrary.org/obo/iao/2026-03-30/iao.owl",
+  "mondo": "http://purl.obolibrary.org/obo/mondo/releases/2026-10-06/mondo-international.owl",
+  "ro": "http://purl.obolibrary.org/obo/ro/releases/2026-09-04/ro.owl"
+ },
+ "terms": {
+  "http://purl.obolibrary.org/obo/BFO_0000002": {
+   "ontology": "bfo",
+   "kind": "classes",
+   "label": [
+    "continuant"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/BFO_0000001"
+   ],
+   "disjointWith": [
+    "http://purl.obolibrary.org/obo/BFO_0000003"
+   ],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": []
+  },
+  "http://purl.obolibrary.org/obo/BFO_0000003": {
+   "ontology": "bfo",
+   "kind": "classes",
+   "label": [
+    "occurrent"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/BFO_0000001"
+   ],
+   "disjointWith": [],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": []
+  },
+  "http://purl.obolibrary.org/obo/BFO_0000015": {
+   "ontology": "bfo",
+   "kind": "classes",
+   "label": [
+    "process"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/BFO_0000003"
+   ],
+   "disjointWith": [],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": []
+  },
+  "http://purl.obolibrary.org/obo/BFO_0000031": {
+   "ontology": "bfo",
+   "kind": "classes",
+   "label": [
+    "generically dependent continuant"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/BFO_0000002"
+   ],
+   "disjointWith": [],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": []
+  },
+  "http://purl.obolibrary.org/obo/BFO_0000062": {
+   "ontology": "ro",
+   "kind": "properties",
+   "label": [
+    "preceded by"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#ObjectProperty",
+    "http://www.w3.org/2002/07/owl#TransitiveProperty"
+   ],
+   "subClassOf": [],
+   "disjointWith": [],
+   "domain": [
+    "http://purl.obolibrary.org/obo/BFO_0000003"
+   ],
+   "range": [
+    "http://purl.obolibrary.org/obo/BFO_0000003"
+   ],
+   "inverseOf": [
+    "http://purl.obolibrary.org/obo/BFO_0000063"
+   ],
+   "hasDbXref_MESH": []
+  },
+  "http://purl.obolibrary.org/obo/BFO_0000063": {
+   "ontology": "ro",
+   "kind": "properties",
+   "label": [
+    "precedes"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#ObjectProperty",
+    "http://www.w3.org/2002/07/owl#TransitiveProperty"
+   ],
+   "subClassOf": [],
+   "disjointWith": [],
+   "domain": [
+    "http://purl.obolibrary.org/obo/BFO_0000003"
+   ],
+   "range": [
+    "http://purl.obolibrary.org/obo/BFO_0000003"
+   ],
+   "inverseOf": [
+    "http://purl.obolibrary.org/obo/BFO_0000062"
+   ],
+   "hasDbXref_MESH": []
+  },
+  "http://purl.obolibrary.org/obo/CHEBI_749565": {
+   "ontology": "chebi",
+   "kind": "classes",
+   "label": [
+    "glatiramer acetate"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/CHEBI_50860"
+   ],
+   "disjointWith": [],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": []
+  },
+  "http://purl.obolibrary.org/obo/IAO_0000030": {
+   "ontology": "iao",
+   "kind": "classes",
+   "label": [
+    "information content entity"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/BFO_0000031"
+   ],
+   "disjointWith": [],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": []
+  },
+  "http://purl.obolibrary.org/obo/MONDO_0005301": {
+   "ontology": "mondo",
+   "kind": "classes",
+   "label": [
+    "multiple sclerosis"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/MONDO_0000568",
+    "http://purl.obolibrary.org/obo/MONDO_0005560",
+    "http://purl.obolibrary.org/obo/MONDO_0006704",
+    "http://purl.obolibrary.org/obo/MONDO_0020800"
+   ],
+   "disjointWith": [],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": [
+    "MESH:D009103"
+   ]
+  },
+  "http://purl.obolibrary.org/obo/MONDO_0005314": {
+   "ontology": "mondo",
+   "kind": "classes",
+   "label": [
+    "relapsing-remitting multiple sclerosis"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/MONDO_0005301"
+   ],
+   "disjointWith": [],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": [
+    "MESH:D020529"
+   ]
+  },
+  "http://purl.obolibrary.org/obo/MONDO_0100053": {
+   "ontology": "mondo",
+   "kind": "classes",
+   "label": [
+    "anaphylaxis"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#Class"
+   ],
+   "subClassOf": [
+    "http://purl.obolibrary.org/obo/MONDO_0000605"
+   ],
+   "disjointWith": [],
+   "domain": [],
+   "range": [],
+   "inverseOf": [],
+   "hasDbXref_MESH": [
+    "MESH:D000707"
+   ]
+  },
+  "http://purl.obolibrary.org/obo/RO_0000057": {
+   "ontology": "ro",
+   "kind": "properties",
+   "label": [
+    "has participant"
+   ],
+   "is_obsolete": false,
+   "rdf_type": [
+    "http://www.w3.org/2002/07/owl#ObjectProperty"
+   ],
+   "subClassOf": [],
+   "disjointWith": [],
+   "domain": [
+    "http://purl.obolibrary.org/obo/BFO_0000003"
+   ],
+   "range": [
+    "http://purl.obolibrary.org/obo/BFO_0000002"
+   ],
+   "inverseOf": [
+    "http://purl.obolibrary.org/obo/RO_0000056"
+   ],
+   "hasDbXref_MESH": []
+  }
+ }
+}

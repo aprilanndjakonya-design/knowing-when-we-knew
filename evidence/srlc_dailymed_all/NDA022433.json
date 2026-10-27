@@ -1,0 +1,326 @@
+{
+ "application": "NDA022433",
+ "srlc_rows": [
+  {
+   "drug_name": "BRILINTA",
+   "active_ingredient": "TICAGRELOR",
+   "application_number": "022433",
+   "application_type": "NDA",
+   "supplement_date": "05/07/2026",
+   "database_updated": "05/19/2026",
+   "drug_name_id": "339"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-07",
+ "srlc_database_updated": "2026-05-19",
+ "lag_days_srlc_database": 12,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "f7b3f443-e83d-4bf2-0e96-023448fed9a8",
+   "title": "BRILINTA (TICAGRELOR) TABLET [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Aug 07, 2026",
+   "spl_version": 56,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-07-27"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-01-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-06-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2012-08-10"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2012-10-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2013-02-06"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2013-04-11"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2013-09-18"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2013-12-19"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2014-04-14"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2015-04-03"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2015-07-02"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2015-09-04"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2015-09-10"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2015-09-18"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2016-01-28"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2016-02-04"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2016-06-23"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2016-07-29"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2016-09-28"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2016-09-29"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2016-10-27"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2017-05-18"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2018-03-19"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2018-06-21"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2019-02-01"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2019-04-09"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2019-08-28"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2019-09-03"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2019-10-31"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2019-11-19"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2020-06-02"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2020-09-14"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2020-11-09"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2021-02-23"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2021-08-19"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2022-05-23"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2023-11-06"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2024-05-13"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2024-06-03"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2024-11-18"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2025-12-23"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2026-05-18"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2026-05-20"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2026-08-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 55,
+    "published_date": "2026-05-18"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 43
+  },
+  {
+   "setid": "4f9bd52a-99a7-4606-92b4-456a917aabef",
+   "title": "BRILINTA (TICAGRELOR) TABLET [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Apr 21, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-04-21"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-10-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-02-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-06-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-12-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-05-14"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-11-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-04-10"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-11-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-09-01"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-05-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-01-09"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-02-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-07-25"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-09-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-09-05"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-02-02"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-03-20"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-04-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 19
+  },
+  {
+   "setid": "1547e2b6-8858-178e-e063-6394a90abb23",
+   "title": "BRILINTA (TICAGRELOR) TABLET [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC ]",
+   "published_date": "Apr 10, 2024",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-04-08"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T08:55:43Z"
+}

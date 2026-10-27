@@ -1,0 +1,126 @@
+{
+ "application": "NDA204326",
+ "srlc_rows": [
+  {
+   "drug_name": "ADZENYS XR-ODT",
+   "active_ingredient": "AMPHETAMINE",
+   "application_number": "204326",
+   "application_type": "NDA",
+   "supplement_date": "09/23/2025",
+   "database_updated": "09/26/2025",
+   "drug_name_id": "558"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-23",
+ "srlc_database_updated": "2025-09-26",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "48d0f55c-f847-4d26-b2ed-94b5a2770228",
+   "title": "AMPHETAMINE EXTENDED-RELEASE TABLET, ORALLY DISINTEGRATING [NEOS THERAPEUTICS, LP]",
+   "published_date": "Oct 05, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-09-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-10-05"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 55,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "c1179269-00b5-48ea-972d-31e614e99b7e",
+   "title": "ADZENYS XR-ODT (AMPHETAMINE) TABLET, ORALLY DISINTEGRATING [NEOS THERAPEUTICS BRANDS, LLC]",
+   "published_date": "Sep 28, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2016-03-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-01-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-02-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-06-03"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-03-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-08-23"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-03-28"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-11-11"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-04-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2026-05-14"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-09-28"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 55,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 55,
+ "fetched_utc": "2026-10-16T09:00:36Z"
+}

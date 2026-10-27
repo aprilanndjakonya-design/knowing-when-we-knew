@@ -1,0 +1,82 @@
+{
+ "application": "BLA761244",
+ "srlc_rows": [
+  {
+   "drug_name": "SPEVIGO",
+   "active_ingredient": "SPESOLIMAB-SBZO",
+   "application_number": "761244",
+   "application_type": "BLA",
+   "supplement_date": "10/21/2025",
+   "database_updated": "10/24/2025",
+   "drug_name_id": "2931"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-21",
+ "srlc_database_updated": "2025-10-24",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "41a481ee-3062-45d1-aed5-17e8b105634d",
+   "title": "SPEVIGO (SPESOLIMAB-SBZO) INJECTION [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 18, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-09-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-04-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-08-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-06-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-06-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 27,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "78a4f7eb-8d34-4467-8d40-74ed24323806",
+   "title": "SPEVIGO (SPESOLIMAB) INJECTION [LEO PHARMA INC.]",
+   "published_date": "Mar 19, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2026-03-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-03-19"
+   },
+   "lag_days_dailymed": 149,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 27,
+ "fetched_utc": "2026-10-16T08:40:28Z"
+}

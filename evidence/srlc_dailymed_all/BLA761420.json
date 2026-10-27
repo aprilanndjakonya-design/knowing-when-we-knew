@@ -1,0 +1,64 @@
+{
+ "application": "BLA761420",
+ "srlc_rows": [
+  {
+   "drug_name": "AVTOZMA",
+   "active_ingredient": "TOCILIZUMAB-ANOH",
+   "application_number": "761420",
+   "application_type": "BLA",
+   "supplement_date": "09/29/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "3167"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-09-29",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "581c288f-8015-40ef-a4c3-683c96db193d",
+   "title": "AVTOZMA (TOCILIZUMAB) INJECTION, SOLUTION [CELLTRION USA, INC.]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-02-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-06"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2026-06-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-07-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-07-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2026-10-09"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T08:41:59Z"
+}

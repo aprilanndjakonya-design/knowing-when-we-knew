@@ -1,0 +1,48 @@
+{
+ "application": "NDA217899",
+ "srlc_rows": [
+  {
+   "drug_name": "LIVDELZI",
+   "active_ingredient": "SELADELPAR LYSINE",
+   "application_number": "217899",
+   "application_type": "NDA",
+   "supplement_date": "01/30/2026",
+   "database_updated": "02/06/2026",
+   "drug_name_id": "3246"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-01-30",
+ "srlc_database_updated": "2026-02-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "89f79d98-135c-40b2-a585-6996c04e599c",
+   "title": "LIVDELZI (SELADELPAR LYSINE) CAPSULE [GILEAD SCIENCES, INC]",
+   "published_date": "Feb 10, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-08-16"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-02-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 3,
+    "published_date": "2026-02-10"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:10:16Z"
+}

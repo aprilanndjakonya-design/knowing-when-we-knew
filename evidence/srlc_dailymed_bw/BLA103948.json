@@ -1,0 +1,312 @@
+{
+ "application": "BLA103948",
+ "srlc_rows": [
+  {
+   "drug_name": "CAMPATH",
+   "active_ingredient": "ALEMTUZUMAB",
+   "application_number": "103948",
+   "application_type": "BLA",
+   "supplement_date": "06/29/2020",
+   "supplement": "SUPPL-5176",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/29/2020",
+     "suppl": "SUPPL-5176",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/26/2023",
+   "database_updated": "05/01/2023",
+   "drug_name_id": "1297"
+  },
+  {
+   "drug_name": "LEMTRADA",
+   "active_ingredient": "ALEMTUZUMAB",
+   "application_number": "103948",
+   "application_type": "BLA",
+   "supplement_date": "09/25/2020",
+   "supplement": "SUPPL-5179",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "11/28/2018",
+     "suppl": "SUPPL-5160",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "11/28/2018",
+     "suppl": "SUPPL-5165",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "09/25/2020",
+     "suppl": "SUPPL-5177",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "09/25/2020",
+     "suppl": "SUPPL-5179",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "02/08/2024",
+   "database_updated": "02/12/2024",
+   "drug_name_id": "1296"
+  }
+ ],
+ "latest_bw_supplement_date": "2020-09-25",
+ "srlc_database_updated": "2024-02-12",
+ "lag_days_srlc_database": 1235,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "4f5f7255-7abc-4328-bd1a-ceaf139ef3e0",
+   "title": "CAMPATH (ALEMTUZUMAB) INJECTION [GENZYME CORPORATION]",
+   "published_date": "Nov 19, 2025",
+   "spl_version": 21,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2009-12-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-05-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2012-12-20"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-09-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-10-21"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-04-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-11-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-12-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-11-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-12-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-07-09"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-12-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-08-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-11-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-11-22"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-05-05"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2024-12-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-11-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2020-12-02"
+   },
+   "lag_days_dailymed": 68,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "6236b0bc-82e9-4447-9a78-f57d94770269",
+   "title": "LEMTRADA (ALEMTUZUMAB) INJECTION, SOLUTION, CONCENTRATE [GENZYME CORPORATION]",
+   "published_date": "Nov 19, 2025",
+   "spl_version": 26,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-11-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-09-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-10-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-12-21"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-11-01"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-12-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2019-01-25"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-08-08"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-11-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-06-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-10-06"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-03-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-05-10"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-08-17"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-08-25"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2022-01-24"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-06-06"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-08-25"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-10-03"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-11-01"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2023-01-12"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-05-26"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-01-15"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-02-27"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-05-22"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2025-11-19"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2020-10-06"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:12:16Z"
+}

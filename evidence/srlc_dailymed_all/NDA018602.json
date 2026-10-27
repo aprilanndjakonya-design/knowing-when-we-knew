@@ -1,0 +1,232 @@
+{
+ "application": "NDA018602",
+ "srlc_rows": [
+  {
+   "drug_name": "CARDIZEM",
+   "active_ingredient": "DILTIAZEM HYDROCHLORIDE",
+   "application_number": "018602",
+   "application_type": "NDA",
+   "supplement_date": "04/16/2025",
+   "database_updated": "05/27/2025",
+   "drug_name_id": "563"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-16",
+ "srlc_database_updated": "2025-05-27",
+ "lag_days_srlc_database": 41,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "f3e7ecef-f360-4987-a4f5-933214130ab2",
+   "title": "CARDIZEM (DILTIAZEM HYDROCHLORIDE) TABLET, COATED [BAUSCH HEALTH US LLC]",
+   "published_date": "May 02, 2025",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-11-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-12-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-05-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-05-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2014-05-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-07-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-01-23"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-08-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-12-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-03-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-04-28"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-11-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-10-11"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-10-29"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2019-11-15"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-06-22"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2020-07-14"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2020-07-16"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2025-05-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2025-05-02"
+   },
+   "lag_days_dailymed": 16,
+   "versions_before_supplement": 18
+  },
+  {
+   "setid": "636556f6-2987-984f-e053-2991aa0a201a",
+   "title": "DILTIAZEM HYDROCHLORIDE TABLET [NUCARE PHARMACEUTICALS,INC.]",
+   "published_date": "Jun 10, 2024",
+   "spl_version": 5,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-01-23"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-03-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-07-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-02-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-06-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "225a87fb-d353-4ee7-bd08-14d631ff6b16",
+   "title": "DILTIAZEM HYDROCHLORIDE TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Jun 09, 2023",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-12-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-11-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-01-22"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-02-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-06-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "f6a24de7-8ffe-48af-873f-10fdcd5551d1",
+   "title": "DILTIAZEM HYDROCHLORIDE TABLET DILTIAZEM HYDROCHLORIDE TABLET [OCEANSIDE PHARMACEUTICALS]",
+   "published_date": "Mar 29, 2023",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-08-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-12"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-12-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-08-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-12-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-12-15"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-03-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "13bfcfc6-deb9-439f-98ec-85a2b94b4a8a",
+   "title": "DILTIAZEM HYDROCHLORIDE TABLET [BRYANT RANCH PREPACK]",
+   "published_date": "Feb 14, 2022",
+   "spl_version": 100,
+   "versions": [
+    {
+     "spl_version": 100,
+     "published_date": "2022-02-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 16,
+ "fetched_utc": "2026-10-16T08:44:25Z"
+}

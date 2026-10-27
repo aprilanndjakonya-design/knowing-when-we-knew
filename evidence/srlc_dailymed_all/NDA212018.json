@@ -1,0 +1,84 @@
+{
+ "application": "NDA212018",
+ "srlc_rows": [
+  {
+   "drug_name": "BALVERSA",
+   "active_ingredient": "ERDAFITINIB",
+   "application_number": "212018",
+   "application_type": "NDA",
+   "supplement_date": "10/17/2025",
+   "database_updated": "10/20/2025",
+   "drug_name_id": "2612"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-17",
+ "srlc_database_updated": "2025-10-20",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee",
+   "title": "BALVERSA (ERDAFITINIB) TABLET, FILM COATED [JANSSEN PRODUCTS LP]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2019-04-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-04-13"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-08-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-05-05"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-09-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-01-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-02-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-09-29"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-02-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-08-23"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-11-14"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 31,
+   "versions_before_supplement": 11
+  }
+ ],
+ "lag_days_dailymed_min": 31,
+ "fetched_utc": "2026-10-16T09:06:03Z"
+}

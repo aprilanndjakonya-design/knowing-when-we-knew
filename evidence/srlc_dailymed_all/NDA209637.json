@@ -1,0 +1,202 @@
+{
+ "application": "NDA209637",
+ "srlc_rows": [
+  {
+   "drug_name": "OZEMPIC",
+   "active_ingredient": "SEMAGLUTIDE",
+   "application_number": "209637",
+   "application_type": "NDA",
+   "supplement_date": "06/01/2026",
+   "database_updated": "06/11/2026",
+   "drug_name_id": "2183"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-01",
+ "srlc_database_updated": "2026-06-11",
+ "lag_days_srlc_database": 10,
+ "dailymed_setids": 6,
+ "labels": [
+  {
+   "setid": "42bdd912-2393-44c4-b7e0-47672ca28991",
+   "title": "OZEMPIC (SEMAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 31, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-07-31"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-07-31"
+   },
+   "lag_days_dailymed": 60,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+   "title": "OZEMPIC (SEMAGLUTIDE) INJECTION, SOLUTION [NOVO NORDISK PHARMACEUTICAL INDUSTRIES, LP]",
+   "published_date": "Jun 10, 2026",
+   "spl_version": 20,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-12-06"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2018-01-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-03-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2019-04-22"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-12-12"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-01-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-10-07"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-12-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-04-20"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-04-19"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-06-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-10-21"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-10-09"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-11-15"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-02-10"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-01-26"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2026-06-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2026-06-10"
+   },
+   "lag_days_dailymed": 9,
+   "versions_before_supplement": 18
+  },
+  {
+   "setid": "979e4df4-0597-48ea-b51c-0f699fa6d166",
+   "title": "OZEMPIC (SEMAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 23, 2023",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-05-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-11-23"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "e6da837c-0da0-41d6-973c-5559bf764367",
+   "title": "OZEMPIC (SEMAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Nov 20, 2023",
+   "spl_version": 6,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-08-17"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-11-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "35902e95-e00c-47ae-8f4e-ba17d41881ce",
+   "title": "OZEMPIC (SEMAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 19, 2021",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-19"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "fdf509ac-7ae5-49be-9a3e-8465c76f38e1",
+   "title": "OZEMPIC (SEMAGLUTIDE) INJECTION, SOLUTION [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Sep 18, 2020",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2020-09-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 9,
+ "fetched_utc": "2026-10-16T09:04:16Z"
+}

@@ -1,0 +1,273 @@
+{
+ "application": "NDA021343",
+ "srlc_rows": [
+  {
+   "drug_name": "ELIGARD KIT",
+   "active_ingredient": "LEUPROLIDE ACETATE",
+   "application_number": "021343",
+   "application_type": "NDA",
+   "supplement_date": "05/06/2026",
+   "database_updated": "05/13/2026",
+   "drug_name_id": "2841"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-06",
+ "srlc_database_updated": "2026-05-13",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "008776cc-83f1-4f8c-819b-6471425da15f",
+   "title": "VABRINTY (LEUPROLIDE ACETATE) INJECTION, SUSPENSION, EXTENDED RELEASE [URONOVA PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 26, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2025-08-05"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-08-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-09-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-12-04"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-12-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-01-28"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-06-26"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-06-26"
+   },
+   "lag_days_dailymed": 51,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "b7b679a9-6823-4ef8-8d31-3ab5058ffcfc",
+   "title": "ELIGARD (LEUPROLIDE ACETATE) INJECTION, SUSPENSION, EXTENDED RELEASE [TOLMAR INC.]",
+   "published_date": "May 11, 2026",
+   "spl_version": 19,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-09-01"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-09-15"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-12-18"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-01-22"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2024-02-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2024-06-03"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-08-30"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-12-13"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-02-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-02-28"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2026-05-11"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2026-05-11"
+   },
+   "lag_days_dailymed": 5,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "b78d1919-9dee-44fa-90f9-e0a26d32481d",
+   "title": "ELIGARD (LEUPROLIDE ACETATE) KIT [TOLMAR INC.]",
+   "published_date": "Aug 22, 2024",
+   "spl_version": 51,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-04-01"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-04-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-05-08"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-05-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-11-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2016-03-14"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-01-27"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2017-02-17"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2017-11-13"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2017-12-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2018-02-27"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2018-03-07"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2018-11-07"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-12-05"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2019-04-29"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2019-06-17"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2019-09-13"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2019-10-17"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2020-04-01"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2020-09-11"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2020-09-15"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2020-11-20"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2020-12-22"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2021-04-09"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2023-01-11"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2023-04-11"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2023-04-13"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2023-04-20"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2023-04-27"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2023-06-01"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2024-06-27"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2024-07-04"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2024-07-15"
+    },
+    {
+     "spl_version": 51,
+     "published_date": "2024-08-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 34
+  }
+ ],
+ "lag_days_dailymed_min": 5,
+ "fetched_utc": "2026-10-16T08:51:16Z"
+}

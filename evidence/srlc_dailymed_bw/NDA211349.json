@@ -1,0 +1,86 @@
+{
+ "application": "NDA211349",
+ "srlc_rows": [
+  {
+   "drug_name": "XOSPATA",
+   "active_ingredient": "GILTERITINIB FUMARATE",
+   "application_number": "211349",
+   "application_type": "NDA",
+   "supplement_date": "05/29/2019",
+   "supplement": "SUPPL-1",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/29/2019",
+     "suppl": "SUPPL-1",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/12/2022",
+   "database_updated": "01/13/2022",
+   "drug_name_id": "1959"
+  }
+ ],
+ "latest_bw_supplement_date": "2019-05-29",
+ "srlc_database_updated": "2022-01-13",
+ "lag_days_srlc_database": 960,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b5ff59aa-9c0d-49a8-9053-1f179b482383",
+   "title": "XOSPATA (GILTERITINIB) TABLET [ASTELLAS PHARMA US, INC.]",
+   "published_date": "Sep 21, 2026",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2018-12-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-06-13"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-01-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2022-05-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-07-27"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-05-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-01-27"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-09-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2019-06-13"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:29:11Z"
+}

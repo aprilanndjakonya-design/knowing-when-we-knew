@@ -1,0 +1,136 @@
+{
+ "application": "NDA202429",
+ "srlc_rows": [
+  {
+   "drug_name": "ZELBORAF",
+   "active_ingredient": "VEMURAFENIB",
+   "application_number": "202429",
+   "application_type": "NDA",
+   "supplement_date": "08/20/2026",
+   "database_updated": "08/27/2026",
+   "drug_name_id": "240"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-08-20",
+ "srlc_database_updated": "2026-08-27",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "38eea320-7e0c-485a-bc30-98c3c45e2763",
+   "title": "ZELBORAF (VEMURAFENIB) TABLET, FILM COATED [GENENTECH, INC.]",
+   "published_date": "Sep 04, 2026",
+   "spl_version": 29,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2011-08-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2013-04-16"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2013-07-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-08-16"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-02-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2014-04-01"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2015-01-07"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2015-02-02"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2015-08-24"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2016-05-23"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2016-09-13"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-04-24"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-09-22"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2017-11-16"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2017-12-28"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-12-20"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2020-05-28"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2020-11-05"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2021-10-28"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-04-06"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-12-01"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2024-11-25"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2025-12-10"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-09-04"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2026-09-04"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 24
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:59:26Z"
+}

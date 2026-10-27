@@ -1,0 +1,72 @@
+{
+ "application": "NDA217225",
+ "srlc_rows": [
+  {
+   "drug_name": "IZERVAY",
+   "active_ingredient": "AVACINCAPTAD PEGOL SODIUM",
+   "application_number": "217225",
+   "application_type": "NDA",
+   "supplement_date": "02/27/2026",
+   "database_updated": "03/06/2026",
+   "drug_name_id": "3082"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-27",
+ "srlc_database_updated": "2026-03-06",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "1642fe6a-dc26-4d20-ae6e-654af744e3bd",
+   "title": "IZERVAY (AVACINCAPTAD PEGOL) INJECTION [ASTELLAS PHARMA US, INC.]",
+   "published_date": "Sep 14, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-08-21"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-12-11"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-04-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-05-24"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-08-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-02-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-03-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-09-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2026-03-16"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:09:43Z"
+}

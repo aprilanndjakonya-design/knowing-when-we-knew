@@ -1,0 +1,37 @@
+{
+ "application": "NDA022114",
+ "srlc_rows": [
+  {
+   "drug_name": "ZINGO",
+   "active_ingredient": "LIDOCAINE HYDROCHLORIDE",
+   "application_number": "022114",
+   "application_type": "NDA",
+   "supplement_date": "12/19/2025",
+   "database_updated": "12/23/2025",
+   "drug_name_id": "1729"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-12-19",
+ "srlc_database_updated": "2025-12-23",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "ea5416d6-5988-413b-8682-6835b359eb78",
+   "title": "ZINGO (LIDOCAINE HYDROCHLORIDE MONOHYDRATE) POWDER [POWDER PHARMACEUTICALS INC.]",
+   "published_date": "Jan 08, 2015",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2015-01-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:54:04Z"
+}

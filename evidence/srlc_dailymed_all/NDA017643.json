@@ -1,0 +1,49 @@
+{
+ "application": "NDA017643",
+ "srlc_rows": [
+  {
+   "drug_name": "INTRALIPID 10%",
+   "active_ingredient": "",
+   "application_number": "017643",
+   "application_type": "NDA",
+   "supplement_date": "07/24/2025",
+   "database_updated": "07/28/2025",
+   "drug_name_id": "2623"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-07-24",
+ "srlc_database_updated": "2025-07-28",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "069460a5-3e9a-428f-b2dc-3405690f4fd7",
+   "title": "INTRALIPID (I.V. FAT EMULSION) EMULSION [BAXTER HEALTHCARE CORP\n]",
+   "published_date": "Aug 01, 2022",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-07-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-11-28"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-15"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-08-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:43:48Z"
+}

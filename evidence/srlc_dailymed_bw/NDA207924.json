@@ -1,0 +1,139 @@
+{
+ "application": "NDA207924",
+ "srlc_rows": [
+  {
+   "drug_name": "OLUMIANT",
+   "active_ingredient": "BARICITINIB",
+   "application_number": "207924",
+   "application_type": "NDA",
+   "supplement_date": "05/10/2022",
+   "supplement": "SUPPL-6",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/02/2021",
+     "suppl": "SUPPL-4",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Patient Counseling Information"
+     ]
+    },
+    {
+     "date": "05/10/2022",
+     "suppl": "SUPPL-6",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/25/2026",
+   "database_updated": "10/06/2026",
+   "drug_name_id": "2084"
+  }
+ ],
+ "latest_bw_supplement_date": "2022-05-10",
+ "srlc_database_updated": "2026-10-06",
+ "lag_days_srlc_database": 1610,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "866e9f35-9035-4581-a4b1-75a621ab55cf",
+   "title": "OLUMIANT (BARICITINIB) TABLET, FILM COATED [ELI LILLY AND COMPANY]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-06-12"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-10-15"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-01-09"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-06-22"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-07-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2020-12-04"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2021-09-20"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-12-09"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-01-04"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-01-21"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-05-25"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-06-23"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2023-03-22"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2024-12-06"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2026-01-23"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-04-24"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2026-06-10"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-07-14"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 19,
+    "published_date": "2022-05-25"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:28:07Z"
+}

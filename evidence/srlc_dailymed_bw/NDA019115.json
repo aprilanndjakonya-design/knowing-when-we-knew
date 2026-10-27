@@ -1,0 +1,248 @@
+{
+ "application": "NDA019115",
+ "srlc_rows": [
+  {
+   "drug_name": "FENTANYL CITRATE",
+   "active_ingredient": "FENTANYL CITRATE",
+   "application_number": "019115",
+   "application_type": "NDA",
+   "supplement_date": "12/15/2023",
+   "supplement": "SUPPL-42",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-30",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Contraindications"
+     ]
+    },
+    {
+     "date": "12/15/2023",
+     "suppl": "SUPPL-42",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/22/2025",
+   "database_updated": "01/07/2026",
+   "drug_name_id": "781"
+  }
+ ],
+ "latest_bw_supplement_date": "2023-12-15",
+ "srlc_database_updated": "2026-01-07",
+ "lag_days_srlc_database": 754,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "bfa8018a-4cbc-434b-e09e-782872b0340a",
+   "title": "FENTANYL CITRATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Aug 25, 2026",
+   "spl_version": 35,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-07-18"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2007-04-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2009-06-30"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2012-01-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2014-10-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2016-02-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2017-01-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-06-22"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2017-10-18"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2018-02-05"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-02-20"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-08-17"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2019-01-28"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-02-11"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2019-03-19"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2019-10-30"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2019-12-05"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2019-12-30"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2022-12-01"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2022-12-06"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2023-12-25"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2024-11-25"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-12-30"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2025-01-22"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2026-01-01"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2026-02-27"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2026-08-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 29,
+    "published_date": "2023-12-25"
+   },
+   "lag_days_dailymed": 10,
+   "versions_before_supplement": 21
+  },
+  {
+   "setid": "1ed25b2c-334e-4021-ada1-3396f07630dc",
+   "title": "FENTANYL CITRATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+   "published_date": "Apr 10, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-07-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2017-02-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2018-08-22"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-08-28"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-11-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2020-01-02"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-01-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-03-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-11-06"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2022-11-30"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-12-06"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-01-22"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-11-25"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-04-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 15,
+    "published_date": "2024-01-22"
+   },
+   "lag_days_dailymed": 38,
+   "versions_before_supplement": 12
+  }
+ ],
+ "lag_days_dailymed_min": 10,
+ "fetched_utc": "2026-10-16T09:15:36Z"
+}

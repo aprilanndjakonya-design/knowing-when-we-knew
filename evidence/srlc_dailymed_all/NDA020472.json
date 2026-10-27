@@ -1,0 +1,79 @@
+{
+ "application": "NDA020472",
+ "srlc_rows": [
+  {
+   "drug_name": "ESTRING",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "020472",
+   "application_type": "NDA",
+   "supplement_date": "02/12/2026",
+   "database_updated": "02/12/2026",
+   "drug_name_id": "1341"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-12",
+ "srlc_database_updated": "2026-02-12",
+ "lag_days_srlc_database": 0,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "110b9865-5a07-4d45-b560-e89947f12600",
+   "title": "ESTRING (ESTRADIOL) SYSTEM [PFIZER LABORATORIES DIV PFIZER INC]",
+   "published_date": "Apr 27, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-06-07"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2023-09-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-02-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-04-03"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-05-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-02-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-04-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-02-27"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "50ee3815-7675-4bc0-a88a-ab3886aea795",
+   "title": "ESTRING (ESTRADIOL) RING [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Sep 01, 2010",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-09-01"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T08:47:22Z"
+}

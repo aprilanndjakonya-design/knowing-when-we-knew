@@ -1,0 +1,72 @@
+{
+ "application": "NDA214876",
+ "srlc_rows": [
+  {
+   "drug_name": "ZEJULA",
+   "active_ingredient": "NIRAPARIB TOSYLATE",
+   "application_number": "214876",
+   "application_type": "NDA",
+   "supplement_date": "06/18/2025",
+   "database_updated": "06/23/2025",
+   "drug_name_id": "3142"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-18",
+ "srlc_database_updated": "2025-06-23",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "b7f675e2-159c-490c-b6f4-3f16d9492b7d",
+   "title": "ZEJULA (NIRAPARIB) TABLET, FILM COATED [GLAXOSMITHKLINE LLC]",
+   "published_date": "Aug 06, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-06-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-01-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-05-09"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-03-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-06-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2026-03-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2026-04-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-08-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 7,
+    "published_date": "2025-06-30"
+   },
+   "lag_days_dailymed": 12,
+   "versions_before_supplement": 5
+  }
+ ],
+ "lag_days_dailymed_min": 12,
+ "fetched_utc": "2026-10-16T09:07:53Z"
+}

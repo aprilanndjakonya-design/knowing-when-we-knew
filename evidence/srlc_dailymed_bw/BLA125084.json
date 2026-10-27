@@ -1,0 +1,201 @@
+{
+ "application": "BLA125084",
+ "srlc_rows": [
+  {
+   "drug_name": "ERBITUX",
+   "active_ingredient": "CETUXIMAB",
+   "application_number": "125084",
+   "application_type": "BLA",
+   "supplement_date": "06/05/2018",
+   "supplement": "SUPPL-269",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "06/05/2018",
+     "suppl": "SUPPL-269",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Use in Specific Populations",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "09/24/2021",
+   "database_updated": "10/01/2021",
+   "drug_name_id": "469"
+  }
+ ],
+ "latest_bw_supplement_date": "2018-06-05",
+ "srlc_database_updated": "2021-10-01",
+ "lag_days_srlc_database": 1214,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "8bc6397e-4bd8-4d37-a007-a327e4da34d9",
+   "title": "ERBITUX (CETUXIMAB) SOLUTION [IMCLONE LLC]",
+   "published_date": "Apr 30, 2026",
+   "spl_version": 58,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2008-11-14"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2009-07-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2009-09-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2010-03-04"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2010-05-24"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2010-10-01"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2010-10-05"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2010-10-20"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2011-04-05"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2011-11-14"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2011-12-06"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2012-01-31"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2012-07-18"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2012-12-12"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2013-03-13"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2013-08-12"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2015-03-05"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2015-04-27"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2015-10-01"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2015-10-05"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2016-04-27"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2016-10-20"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2017-11-21"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2018-05-18"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2018-06-19"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2019-02-12"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2019-05-08"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2019-12-27"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2020-05-13"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2020-11-24"
+    },
+    {
+     "spl_version": 52,
+     "published_date": "2021-03-25"
+    },
+    {
+     "spl_version": 53,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 54,
+     "published_date": "2021-11-03"
+    },
+    {
+     "spl_version": 55,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 56,
+     "published_date": "2023-06-28"
+    },
+    {
+     "spl_version": 57,
+     "published_date": "2024-07-29"
+    },
+    {
+     "spl_version": 58,
+     "published_date": "2026-04-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 42,
+    "published_date": "2018-06-19"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 24
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T09:12:23Z"
+}

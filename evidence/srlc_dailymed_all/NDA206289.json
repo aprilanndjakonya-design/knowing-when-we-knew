@@ -1,0 +1,142 @@
+{
+ "application": "NDA206289",
+ "srlc_rows": [
+  {
+   "drug_name": "ATROPINE SULFATE",
+   "active_ingredient": "ATROPINE SULFATE",
+   "application_number": "206289",
+   "application_type": "NDA",
+   "supplement_date": "09/18/2025",
+   "database_updated": "09/24/2025",
+   "drug_name_id": "3189"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-18",
+ "srlc_database_updated": "2025-09-24",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "6818d479-860a-422e-be16-6589392b063f",
+   "title": "ATROPINE (ATROPINE SULFATE) SOLUTION/ DROPS [AKORN]",
+   "published_date": "Jan 18, 2023",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-05-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-06-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2022-07-04"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2023-01-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "57760bfa-38bc-48cb-a898-96a55e0072d2",
+   "title": "ATROPINE (ATROPINE SULFATE) SOLUTION/ DROPS [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Dec 29, 2022",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-12-29"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f7b40bf1-3063-4849-a5a0-0ac5d0d1e72a",
+   "title": "ATROPINE (ATROPINE SULFATE) SOLUTION/ DROPS [AKORN]",
+   "published_date": "Jul 04, 2022",
+   "spl_version": 12,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-07-20"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2011-06-15"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-06-18"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-07-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-07-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-12-07"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-10-13"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-03-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-06-07"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-07-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "590a4e7b-565f-415f-a8e4-499a382c9a3b",
+   "title": "ATROPINE (ATROPINE SULFATE) SOLUTION/ DROPS [MWI]",
+   "published_date": "May 20, 2022",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-03-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-12-18"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-10-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2022-05-20"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:02:01Z"
+}

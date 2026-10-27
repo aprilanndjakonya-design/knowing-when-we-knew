@@ -1,0 +1,128 @@
+{
+ "application": "BLA125526",
+ "srlc_rows": [
+  {
+   "drug_name": "NUCALA",
+   "active_ingredient": "MEPOLIZUMAB",
+   "application_number": "125526",
+   "application_type": "BLA",
+   "supplement_date": "05/22/2025",
+   "database_updated": "06/05/2025",
+   "drug_name_id": "855"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-22",
+ "srlc_database_updated": "2025-06-05",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "fefb887c-e4ac-431e-8893-e9d1a5a63fea",
+   "title": "NUCALA (MEPOLIZUMAB) INJECTION, POWDER, FOR SOLUTION NUCALA (MEPOLIZUMAB) INJECTION, SOLUTION [GLAXOSMITHKLINE LLC]",
+   "published_date": "Aug 18, 2025",
+   "spl_version": 24,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2015-11-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-11-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2016-06-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-11-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-02-21"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-12-12"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-11-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-03-13"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2019-06-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-09-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-11-01"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-10-02"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-06-02"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2021-08-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-10-06"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2022-03-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2022-10-21"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2023-03-17"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2023-11-01"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2024-10-28"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-05-26"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2025-06-26"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-08-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 22,
+    "published_date": "2025-05-26"
+   },
+   "lag_days_dailymed": 4,
+   "versions_before_supplement": 20
+  }
+ ],
+ "lag_days_dailymed_min": 4,
+ "fetched_utc": "2026-10-16T08:38:21Z"
+}

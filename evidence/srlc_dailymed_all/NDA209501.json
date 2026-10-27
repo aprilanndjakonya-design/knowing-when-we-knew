@@ -1,0 +1,64 @@
+{
+ "application": "NDA209501",
+ "srlc_rows": [
+  {
+   "drug_name": "LYRICA CR",
+   "active_ingredient": "PREGABALIN",
+   "application_number": "209501",
+   "application_type": "NDA",
+   "supplement_date": "04/25/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "2223"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-25",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 34,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "f280bbd8-2af2-444a-bd96-e409337ca6dd",
+   "title": "LYRICA CR (PREGABALIN) TABLET, FILM COATED, EXTENDED RELEASE [VIATRIS SPECIALTY LLC]",
+   "published_date": "Apr 15, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-12-29"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-06-03"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-07-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-12-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2025-05-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2025-09-01"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-04-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2025-05-08"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 4
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T09:04:07Z"
+}

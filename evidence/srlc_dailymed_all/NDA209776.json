@@ -1,0 +1,90 @@
+{
+ "application": "NDA209776",
+ "srlc_rows": [
+  {
+   "drug_name": "VABOMERE",
+   "active_ingredient": "MEROPENEM; VABORBACTAM",
+   "application_number": "209776",
+   "application_type": "NDA",
+   "supplement_date": "02/20/2026",
+   "database_updated": "02/24/2026",
+   "drug_name_id": "2851"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-20",
+ "srlc_database_updated": "2026-02-24",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "e237fd0f-3050-42a3-b43e-b6fb4824e93d",
+   "title": "VABOMERE (MEROPENEM-VABORBACTAM) INJECTION, POWDER, FOR SOLUTION [MELINTA THERAPEUTICS, LLC]",
+   "published_date": "Mar 09, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-04-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-03-08"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-06-05"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-11-25"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-06-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-01-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2023-10-27"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2024-12-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-04-17"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-03-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 14,
+    "published_date": "2026-03-09"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 10
+  },
+  {
+   "setid": "b1a98f8c-7b20-4bc2-b772-289c5d0949a9",
+   "title": "INJECTION [FOOD AND DRUG ADMINISTRATION]",
+   "published_date": "Dec 18, 2017",
+   "spl_version": -1,
+   "versions": [],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 0
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:04:18Z"
+}

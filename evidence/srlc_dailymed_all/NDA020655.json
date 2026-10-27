@@ -1,0 +1,21 @@
+{
+ "application": "NDA020655",
+ "srlc_rows": [
+  {
+   "drug_name": "ALORA",
+   "active_ingredient": "ESTRADIOL",
+   "application_number": "020655",
+   "application_type": "NDA",
+   "supplement_date": "05/05/2025",
+   "database_updated": "05/30/2025",
+   "drug_name_id": "1327"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-05-05",
+ "srlc_database_updated": "2025-05-30",
+ "lag_days_srlc_database": 25,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:48:14Z"
+}

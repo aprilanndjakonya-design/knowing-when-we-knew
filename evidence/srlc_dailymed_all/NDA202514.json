@@ -1,0 +1,122 @@
+{
+ "application": "NDA202514",
+ "srlc_rows": [
+  {
+   "drug_name": "ZIOPTAN",
+   "active_ingredient": "TAFLUPROST",
+   "application_number": "202514",
+   "application_type": "NDA",
+   "supplement_date": "02/25/2026",
+   "database_updated": "03/02/2026",
+   "drug_name_id": "3255"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-02-25",
+ "srlc_database_updated": "2026-03-02",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "db529b54-2ac7-4020-9791-7333bbe6c90f",
+   "title": "ZIOPTAN (TAFLUPROST) SOLUTION/ DROPS [THEA PHARMA INC.]",
+   "published_date": "May 06, 2026",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2022-10-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-04-30"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2026-03-04"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2026-05-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 6,
+    "published_date": "2026-03-04"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "79fceaef-7d83-4f4b-8d5c-61a6c1ee6368",
+   "title": "TAFLUPROST OPHTHALMIC (TAFLUPROST) SOLUTION/ DROPS [PRASCO LABORATORIES]",
+   "published_date": "Nov 18, 2022",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-11-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "a3173c26-0e19-47af-a01c-3fc06b2700d1",
+   "title": "ZIOPTAN (TAFLUPROST) SOLUTION/ DROPS [AKORN]",
+   "published_date": "Oct 05, 2022",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-12-02"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-09-25"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-12-12"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-12-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-12-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-09-11"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-10-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-11-12"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-05-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-10-05"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T08:59:29Z"
+}

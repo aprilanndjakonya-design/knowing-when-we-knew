@@ -1,0 +1,235 @@
+{
+ "application": "NDA018735",
+ "srlc_rows": [
+  {
+   "drug_name": "ISOVUE-128",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "018735",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "982"
+  },
+  {
+   "drug_name": "ISOVUE-200",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "018735",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "983"
+  },
+  {
+   "drug_name": "ISOVUE-250",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "018735",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "984"
+  },
+  {
+   "drug_name": "ISOVUE-300",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "018735",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "985"
+  },
+  {
+   "drug_name": "ISOVUE-370",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "018735",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "986"
+  },
+  {
+   "drug_name": "ISOVUE-M 200",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "018735",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "987"
+  },
+  {
+   "drug_name": "ISOVUE-M 300",
+   "active_ingredient": "IOPAMIDOL",
+   "application_number": "018735",
+   "application_type": "NDA",
+   "supplement_date": "10/10/2025",
+   "database_updated": "10/15/2025",
+   "drug_name_id": "988"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-10",
+ "srlc_database_updated": "2025-10-15",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "ae8c18c9-3e7d-4515-b980-120025a88fc1",
+   "title": "ISOVUE 300 (IOPAMIDOL) INJECTION, SOLUTION ISOVUE 370 (IOPAMIDOL) INJECTION, SOLUTION ISOVUE 200 (IOPAMIDOL) INJECTION, SOLUTION ISOVUE 250 (IOPAMIDOL) INJECTION, SOLUTION [BRACCO DIAGNOSTICS INC]",
+   "published_date": "Mar 16, 2026",
+   "spl_version": 22,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-03-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2011-09-29"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2012-02-27"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-08-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2015-03-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-01-18"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2017-04-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2019-11-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2020-11-17"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-12-29"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2022-03-18"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2022-12-02"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-05-04"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2025-01-01"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2025-01-13"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2026-03-16"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 21,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 38,
+   "versions_before_supplement": 16
+  },
+  {
+   "setid": "11e893d2-0183-4581-b908-c8b7302c7edb",
+   "title": "ISOVUE-M (IOPAMIDOL) INJECTION, SOLUTION [BRACCO DIAGNOSTICS INC]",
+   "published_date": "Feb 13, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-09-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-02-22"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-03-24"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-01-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-04-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-10-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-11-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-11-08"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-02-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 10,
+    "published_date": "2026-02-13"
+   },
+   "lag_days_dailymed": 126,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "60979ac0-024e-4dc8-9a84-c9195093c08d",
+   "title": "ISOVUE-M 200 (IOPAMIDOL) INJECTION, SOLUTION [GENERAL INJECTABLES & VACCINES, INC.]",
+   "published_date": "Jan 18, 2017",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2010-11-30"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2012-04-20"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-01-18"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 38,
+ "fetched_utc": "2026-10-16T08:44:39Z"
+}

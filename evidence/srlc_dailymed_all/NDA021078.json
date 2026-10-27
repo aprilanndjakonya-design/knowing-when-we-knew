@@ -1,0 +1,308 @@
+{
+ "application": "NDA021078",
+ "srlc_rows": [
+  {
+   "drug_name": "MALARONE",
+   "active_ingredient": "ATOVAQUONE; PROGUANIL HYDROCHLORIDE",
+   "application_number": "021078",
+   "application_type": "NDA",
+   "supplement_date": "06/10/2026",
+   "database_updated": "06/17/2026",
+   "drug_name_id": "1908"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-10",
+ "srlc_database_updated": "2026-06-17",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 4,
+ "labels": [
+  {
+   "setid": "7069521a-c7f9-4e8d-99b8-0cb5c971e7cf",
+   "title": "ATOVAQUONE AND PROGUANIL HCL (ATOVAQUONE AND PROGUANIL HYDROCHLORIDE) TABLET, FILM COATED [PRASCO LABORATORIES]",
+   "published_date": "Oct 06, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-08-01"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-01-06"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2014-09-03"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2015-08-11"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2017-01-06"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2017-04-05"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-07-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2019-06-20"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2020-07-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2021-02-04"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2021-07-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2022-05-16"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-07-26"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-09-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-10-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2026-10-06"
+   },
+   "lag_days_dailymed": 118,
+   "versions_before_supplement": 15
+  },
+  {
+   "setid": "fc22e8d8-3bfb-4f70-a599-dd81262a4887",
+   "title": "MALARONE (ATOVAQUONE AND PROGUANIL HYDROCHLORIDE) TABLET, FILM COATED [GLAXOSMITHKLINE LLC]",
+   "published_date": "Jul 23, 2026",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2006-12-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-01-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-07-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-08-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2009-09-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2009-09-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2009-10-21"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2010-04-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2010-06-17"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-08-03"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-12-15"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2012-12-05"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2013-03-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2013-06-28"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2014-07-07"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2015-08-11"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2016-06-28"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2016-07-29"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2017-04-05"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2018-07-10"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2019-03-04"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2020-07-17"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-11-02"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2021-07-15"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2022-05-05"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-07-07"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2023-11-22"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-07-11"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-07-28"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-04-06"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-07-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 31,
+    "published_date": "2026-07-23"
+   },
+   "lag_days_dailymed": 43,
+   "versions_before_supplement": 30
+  },
+  {
+   "setid": "593baf3d-bd9e-4a44-8f90-125aa4a7a99e",
+   "title": "ATOVAQUONE AND PROGUANIL HCL (ATOVAQUONE AND PROGUANIL HYDROCHLORIDE) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Oct 24, 2023",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-03-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-02-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-01-21"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-12-19"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2023-10-24"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  },
+  {
+   "setid": "7d124c6f-dbdb-48ee-8fd2-9880fdf9d765",
+   "title": "ATOVAQUONE AND PROGUANIL HCL (ATOVAQUONE AND PROGUANIL HYDROCHLORIDE) TABLET, FILM COATED [BRYANT RANCH PREPACK]",
+   "published_date": "Jul 04, 2022",
+   "spl_version": 1007,
+   "versions": [
+    {
+     "spl_version": 1000,
+     "published_date": "2015-03-20"
+    },
+    {
+     "spl_version": 1002,
+     "published_date": "2017-05-23"
+    },
+    {
+     "spl_version": 1004,
+     "published_date": "2019-03-22"
+    },
+    {
+     "spl_version": 1005,
+     "published_date": "2022-01-14"
+    },
+    {
+     "spl_version": 1006,
+     "published_date": "2022-06-30"
+    },
+    {
+     "spl_version": 1007,
+     "published_date": "2022-07-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 43,
+ "fetched_utc": "2026-10-16T08:49:30Z"
+}

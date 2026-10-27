@@ -1,0 +1,45 @@
+{
+ "application": "NDA209552",
+ "srlc_rows": [
+  {
+   "drug_name": "ARGATROBAN IN SODIUM CHLORIDE",
+   "active_ingredient": "ARGATROBAN",
+   "application_number": "209552",
+   "application_type": "NDA",
+   "supplement_date": "06/10/2026",
+   "database_updated": "06/23/2026",
+   "drug_name_id": "3294"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-10",
+ "srlc_database_updated": "2026-06-23",
+ "lag_days_srlc_database": 13,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d9b975bd-e3f4-466e-96ca-7bef7899506d",
+   "title": "ARGATROBAN INJECTION, SOLUTION [EUGIA US LLC]",
+   "published_date": "Aug 04, 2023",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-12-05"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-06-07"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-08-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:04:11Z"
+}

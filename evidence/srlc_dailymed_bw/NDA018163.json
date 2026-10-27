@@ -1,0 +1,344 @@
+{
+ "application": "NDA018163",
+ "srlc_rows": [
+  {
+   "drug_name": "RESTORIL",
+   "active_ingredient": "TEMAZEPAM",
+   "application_number": "018163",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-67",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-64",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-67",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "01/13/2023",
+   "database_updated": "01/23/2023",
+   "drug_name_id": "604"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2023-01-23",
+ "lag_days_srlc_database": 717,
+ "dailymed_setids": 7,
+ "labels": [
+  {
+   "setid": "97afda58-4daf-4192-bd87-3ccbb000ee52",
+   "title": "TEMAZEPAM CAPSULE [PD-RX PHARMACEUTICALS, INC.]",
+   "published_date": "Oct 09, 2026",
+   "spl_version": 18,
+   "versions": [
+    {
+     "spl_version": 16,
+     "published_date": "2024-11-08"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2026-10-09"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2024-11-08"
+   },
+   "lag_days_dailymed": 1372,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "bc56f7fd-1aaf-48ff-8aa7-d467e59e1015",
+   "title": "RESTORIL (TEMAZEPAM) CAPSULE [SPECGX LLC]",
+   "published_date": "Jun 15, 2026",
+   "spl_version": 25,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-01-19"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2009-11-02"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2010-03-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2011-07-26"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2014-04-29"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2014-08-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2015-06-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2016-04-12"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2016-06-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2016-12-22"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2018-01-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2019-02-14"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2020-02-21"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2021-02-16"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-01-30"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2024-05-17"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2026-06-15"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 20,
+    "published_date": "2021-02-16"
+   },
+   "lag_days_dailymed": 11,
+   "versions_before_supplement": 13
+  },
+  {
+   "setid": "c9bc61b4-a579-4003-98da-b6f6e381c150",
+   "title": "TEMAZEPAM CAPSULE [SPECGX LLC]",
+   "published_date": "Jun 10, 2026",
+   "spl_version": 16,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2010-03-24"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2011-10-31"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2014-02-10"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-07-29"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-06-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2017-04-27"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2018-01-23"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-02-14"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-11-14"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2021-03-10"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2023-02-21"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-05-17"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2026-06-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 13,
+    "published_date": "2021-03-10"
+   },
+   "lag_days_dailymed": 33,
+   "versions_before_supplement": 9
+  },
+  {
+   "setid": "a3f06243-fa03-4cbd-951a-144ec43dcdfd",
+   "title": "TEMAZEPAM CAPSULE [AMERICAN HEALTH PACKAGING]",
+   "published_date": "Nov 18, 2025",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2012-03-28"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2014-02-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-10-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2017-12-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-11-08"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-11-25"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-12-24"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-01-11"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-01-31"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-11-18"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 8,
+    "published_date": "2022-01-11"
+   },
+   "lag_days_dailymed": 340,
+   "versions_before_supplement": 7
+  },
+  {
+   "setid": "a8deb28b-c5a3-4775-8bec-3f276698d064",
+   "title": "TEMAZEPAM CAPSULE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC ]",
+   "published_date": "Jun 25, 2024",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2022-01-31"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2024-03-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2024-03-14"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-06-25"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2022-01-31"
+   },
+   "lag_days_dailymed": 360,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "dbea1ee6-cdaa-4b1a-8dd5-4bff31b2a1ef",
+   "title": "TEMAZEPAM CAPSULE [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jan 21, 2020",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-08-30"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2020-01-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "405b1ee2-777b-4fd3-b4ee-bd2aacbe1dc1",
+   "title": "TEMAZEPAM CAPSULE [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Apr 09, 2019",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2017-12-11"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-04-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 11,
+ "fetched_utc": "2026-10-16T09:14:53Z"
+}

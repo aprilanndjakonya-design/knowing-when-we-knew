@@ -1,0 +1,89 @@
+{
+ "name_lookup": {
+  "glatiramer": [
+   "214582"
+  ],
+  "glatiramer acetate": [
+   "84375"
+  ],
+  "copaxone": [
+   "135779"
+  ]
+ },
+ "concepts": {
+  "214582": {
+   "name": "glatiramer",
+   "tty": "IN",
+   "suppress": "N",
+   "status": "Active",
+   "activeStartDate": "042005",
+   "activeEndDate": ""
+  },
+  "84375": {
+   "name": "glatiramer acetate",
+   "tty": "PIN",
+   "suppress": "N",
+   "status": "Active",
+   "activeStartDate": "042005",
+   "activeEndDate": ""
+  },
+  "135779": {
+   "name": "Copaxone",
+   "tty": "BN",
+   "suppress": "N",
+   "status": "Active",
+   "activeStartDate": "042005",
+   "activeEndDate": ""
+  },
+  "1111642": {
+   "name": "1 ML glatiramer acetate 20 MG/ML Prefilled Syringe [Copaxone]",
+   "tty": "SBD",
+   "suppress": "N",
+   "status": "Active",
+   "activeStartDate": "072011",
+   "activeEndDate": ""
+  },
+  "1487363": {
+   "name": "1 ML glatiramer acetate 40 MG/ML Prefilled Syringe [Copaxone]",
+   "tty": "SBD",
+   "suppress": "N",
+   "status": "Active",
+   "activeStartDate": "032014",
+   "activeEndDate": ""
+  }
+ },
+ "spl_set_id": {
+  "1111642": [
+   "aa88f583-4f5f-433b-80b4-1f4c9fb28357"
+  ],
+  "1487363": [
+   "aa88f583-4f5f-433b-80b4-1f4c9fb28357"
+  ]
+ },
+ "ndcstatus": {
+  "68546031730": {
+   "ndc11": "68546031730",
+   "status": "ACTIVE",
+   "rxcui": "1111642",
+   "conceptName": "1 ML glatiramer acetate 20 MG/ML Prefilled Syringe [Copaxone]"
+  },
+  "68546032512": {
+   "ndc11": "68546032512",
+   "status": "ACTIVE",
+   "rxcui": "1487363",
+   "conceptName": "1 ML glatiramer acetate 40 MG/ML Prefilled Syringe [Copaxone]"
+  }
+ },
+ "drugs_copaxone": [
+  {
+   "tty": "SBD",
+   "rxcui": "1111642",
+   "name": "1 ML glatiramer acetate 20 MG/ML Prefilled Syringe [Copaxone]"
+  },
+  {
+   "tty": "SBD",
+   "rxcui": "1487363",
+   "name": "1 ML glatiramer acetate 40 MG/ML Prefilled Syringe [Copaxone]"
+  }
+ ]
+}

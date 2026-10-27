@@ -1,0 +1,102 @@
+{
+ "application": "NDA021612",
+ "srlc_rows": [
+  {
+   "drug_name": "LIPOFEN",
+   "active_ingredient": "FENOFIBRATE",
+   "application_number": "021612",
+   "application_type": "NDA",
+   "supplement_date": "06/06/2025",
+   "database_updated": "06/10/2025",
+   "drug_name_id": "1570"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-06",
+ "srlc_database_updated": "2025-06-10",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 2,
+ "labels": [
+  {
+   "setid": "3a69e15a-eda6-4a6e-8934-6881e4370521",
+   "title": "FENOFIBRATE CAPSULE [ANI PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2016-04-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2016-04-19"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2017-09-25"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-08-31"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2019-01-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-11-26"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-07-29"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-12-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-07-07"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 9,
+    "published_date": "2025-07-07"
+   },
+   "lag_days_dailymed": 31,
+   "versions_before_supplement": 8
+  },
+  {
+   "setid": "78b789b9-854f-46b9-97f3-a48759a6ff89",
+   "title": "LIPOFEN (FENOFIBRATE) CAPSULE [ANI PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 01, 2026",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-09-27"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2025-06-23"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2026-06-01"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2025-06-23"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:52:31Z"
+}

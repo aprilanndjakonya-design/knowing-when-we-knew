@@ -1,0 +1,158 @@
+{
+ "application": "NDA203993",
+ "srlc_rows": [
+  {
+   "drug_name": "ONFI",
+   "active_ingredient": "CLOBAZAM",
+   "application_number": "203993",
+   "application_type": "NDA",
+   "supplement_date": "02/05/2021",
+   "supplement": "SUPPL-8",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-5",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Drug Interactions",
+      "Patient Counseling Information",
+      "Medication Guide"
+     ]
+    },
+    {
+     "date": "02/05/2021",
+     "suppl": "SUPPL-8",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Adverse Reactions",
+      "Medication Guide",
+      "Patient Counseling Information"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "03/12/2024",
+   "database_updated": "03/14/2024",
+   "drug_name_id": "601"
+  }
+ ],
+ "latest_bw_supplement_date": "2021-02-05",
+ "srlc_database_updated": "2024-03-14",
+ "lag_days_srlc_database": 1133,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "de03bd69-2dca-459c-93b4-541fd3e9571c",
+   "title": "ONFI (CLOBAZAM) TABLET ONFI (CLOBAZAM) SUSPENSION [LUNDBECK PHARMACEUTICALS LLC]",
+   "published_date": "Dec 17, 2025",
+   "spl_version": 42,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-12-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2013-01-11"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2013-09-26"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2013-12-12"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2014-12-23"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2017-01-06"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2017-02-13"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2018-06-28"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2020-01-16"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2020-10-26"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2021-02-22"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2021-10-18"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2021-12-09"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2022-03-02"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2022-03-09"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2023-01-30"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2023-12-21"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2024-01-10"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2024-02-05"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2024-03-27"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2024-04-04"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2025-12-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 26,
+    "published_date": "2021-02-22"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T09:27:03Z"
+}

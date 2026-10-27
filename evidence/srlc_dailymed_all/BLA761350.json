@@ -1,0 +1,21 @@
+{
+ "application": "BLA761350",
+ "srlc_rows": [
+  {
+   "drug_name": "OPUVIZ",
+   "active_ingredient": "AFLIBERCEPT-YSZY",
+   "application_number": "761350",
+   "application_type": "BLA",
+   "supplement_date": "06/06/2025",
+   "database_updated": "06/10/2025",
+   "drug_name_id": "3132"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-06-06",
+ "srlc_database_updated": "2025-06-10",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:41:23Z"
+}

@@ -1,0 +1,37 @@
+{
+ "application": "NDA012249",
+ "srlc_rows": [
+  {
+   "drug_name": "LIBRIUM",
+   "active_ingredient": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+   "application_number": "012249",
+   "application_type": "NDA",
+   "supplement_date": "12/16/2016",
+   "supplement": "SUPPL-49",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "12/16/2016",
+     "suppl": "SUPPL-49",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions",
+      "Drug Interactions",
+      "Medication Guide"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "12/16/2016",
+   "database_updated": "12/21/2016",
+   "drug_name_id": "624"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-12-16",
+ "srlc_database_updated": "2016-12-21",
+ "lag_days_srlc_database": 5,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T09:13:43Z"
+}

@@ -1,0 +1,21 @@
+{
+ "application": "NDA020599",
+ "srlc_rows": [
+  {
+   "drug_name": "RILUTEK",
+   "active_ingredient": "RILUZOLE",
+   "application_number": "020599",
+   "application_type": "NDA",
+   "supplement_date": "09/11/2025",
+   "database_updated": "09/15/2025",
+   "drug_name_id": "2255"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-11",
+ "srlc_database_updated": "2025-09-15",
+ "lag_days_srlc_database": 4,
+ "dailymed_setids": 0,
+ "labels": [],
+ "lag_days_dailymed_min": null,
+ "fetched_utc": "2026-10-16T08:48:01Z"
+}

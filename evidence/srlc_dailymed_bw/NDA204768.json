@@ -1,0 +1,66 @@
+{
+ "application": "NDA204768",
+ "srlc_rows": [
+  {
+   "drug_name": "TIVORBEX",
+   "active_ingredient": "INDOMETHACIN",
+   "application_number": "204768",
+   "application_type": "NDA",
+   "supplement_date": "05/09/2016",
+   "supplement": "SUPPL-3",
+   "boxed_warning_newly_added": false,
+   "bw_supplements": [
+    {
+     "date": "05/09/2016",
+     "suppl": "SUPPL-3",
+     "newly_added": false,
+     "sections": [
+      "Boxed Warning",
+      "Warnings and Precautions"
+     ]
+    }
+   ],
+   "latest_supplement_date_any_section": "04/28/2021",
+   "database_updated": "05/07/2021",
+   "drug_name_id": "207"
+  }
+ ],
+ "latest_bw_supplement_date": "2016-05-09",
+ "srlc_database_updated": "2021-05-07",
+ "lag_days_srlc_database": 1824,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "04ca474c-798e-43dd-be7a-1b36720e6a3d",
+   "title": "TIVORBEX (INDOMETHACIN) CAPSULE [IROKO PHARMACEUTICALS, LLC]",
+   "published_date": "Feb 21, 2018",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-03-10"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-07-06"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-05-24"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2018-02-21"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 5,
+    "published_date": "2016-05-24"
+   },
+   "lag_days_dailymed": 15,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 15,
+ "fetched_utc": "2026-10-16T09:27:31Z"
+}

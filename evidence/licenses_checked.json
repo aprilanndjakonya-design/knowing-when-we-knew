@@ -1,0 +1,14 @@
+{
+ "obo_foundry_registry": {
+  "mondo": "label: CC BY 4.0 url: http://creativecommons.org/licenses/by/4.0/",
+  "chebi": "label: CC BY 4.0 url: https://creativecommons.org/licenses/by/4.0/",
+  "ro": "label: CC0 1.0 url: http://creativecommons.org/publicdomain/zero/1.0/",
+  "bfo": "label: CC BY 4.0 url: http://creativecommons.org/licenses/by/4.0/",
+  "iao": "label: CC BY 4.0 url: http://creativecommons.org/licenses/by/4.0/"
+ },
+ "rxnav_terms": {
+  "no_license_needed_phrase_present": true,
+  "exception_mentioned": true,
+  "rate_limit_20_per_second_present": true
+ }
+}

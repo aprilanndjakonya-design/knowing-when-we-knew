@@ -1,0 +1,261 @@
+{
+ "application": "NDA020235",
+ "srlc_rows": [
+  {
+   "drug_name": "NEURONTIN",
+   "active_ingredient": "GABAPENTIN",
+   "application_number": "020235",
+   "application_type": "NDA",
+   "supplement_date": "04/25/2025",
+   "database_updated": "05/29/2025",
+   "drug_name_id": "922"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-04-25",
+ "srlc_database_updated": "2025-05-29",
+ "lag_days_srlc_database": 34,
+ "dailymed_setids": 3,
+ "labels": [
+  {
+   "setid": "97935fd9-1d4a-43b6-a5d9-de994591187b",
+   "title": "NEURONTIN (GABAPENTIN) CAPSULE NEURONTIN (GABAPENTIN) TABLET, FILM COATED NEURONTIN (GABAPENTIN) SOLUTION [VIATRIS SPECIALTY LLC]",
+   "published_date": "Aug 06, 2026",
+   "spl_version": 48,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2024-07-24"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2025-05-21"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2025-07-16"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2025-08-04"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2025-09-22"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2025-10-06"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2026-01-16"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2026-04-10"
+    },
+    {
+     "spl_version": 48,
+     "published_date": "2026-08-06"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 41,
+    "published_date": "2025-05-21"
+   },
+   "lag_days_dailymed": 26,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "ee9ad9ed-6d9f-4ee1-9d7f-cfad438df388",
+   "title": "NEURONTIN (GABAPENTIN) CAPSULE NEURONTIN (GABAPENTIN) TABLET, FILM COATED NEURONTIN (GABAPENTIN) SOLUTION [PARKE-DAVIS DIV OF PFIZER INC]",
+   "published_date": "Apr 10, 2026",
+   "spl_version": 47,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-05-10"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2009-06-17"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2010-01-06"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2010-08-10"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2010-10-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2011-05-06"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-08-26"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-09-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2012-04-03"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2012-09-11"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2012-10-04"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2013-01-10"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2013-04-04"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2013-06-05"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2014-03-26"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2014-09-18"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2014-10-22"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2015-03-19"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2015-05-04"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2015-09-30"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2016-03-14"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2016-06-30"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2016-10-11"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2017-04-19"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2018-02-28"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2018-03-06"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2019-04-11"
+    },
+    {
+     "spl_version": 35,
+     "published_date": "2020-01-23"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2020-04-15"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2021-01-05"
+    },
+    {
+     "spl_version": 38,
+     "published_date": "2021-10-04"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2022-07-15"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2023-04-03"
+    },
+    {
+     "spl_version": 41,
+     "published_date": "2023-08-30"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2024-10-09"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2025-07-16"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2025-09-22"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2025-10-03"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2026-01-16"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2026-04-10"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 43,
+    "published_date": "2025-07-16"
+   },
+   "lag_days_dailymed": 82,
+   "versions_before_supplement": 35
+  },
+  {
+   "setid": "d9a88774-1fb2-4a5d-8753-686af1f0e174",
+   "title": "NEURONTIN (GABAPENTIN) CAPSULE [STAT RX USA LLC]",
+   "published_date": "Nov 08, 2010",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 7,
+     "published_date": "2010-11-08"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 26,
+ "fetched_utc": "2026-10-16T08:46:41Z"
+}

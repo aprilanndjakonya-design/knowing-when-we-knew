@@ -1,0 +1,84 @@
+{
+ "application": "BLA761304",
+ "srlc_rows": [
+  {
+   "drug_name": "VYVGART HYTRULO",
+   "active_ingredient": "EFGARTIGIMOD ALFA AND HYALURONIDASE-QVFC",
+   "application_number": "761304",
+   "application_type": "BLA",
+   "supplement_date": "05/08/2026",
+   "database_updated": "05/19/2026",
+   "drug_name_id": "2893"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-05-08",
+ "srlc_database_updated": "2026-05-19",
+ "lag_days_srlc_database": 11,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "7104d9e5-9910-47f5-9a93-741ac50f43b6",
+   "title": "VYVGART HYTRULO (EFGARTIGIMOD ALFA AND HYALURONIDASE (HUMAN RECOMBINANT)) INJECTION, SOLUTION [ARGENX US]",
+   "published_date": "Jul 20, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2023-06-26"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2023-12-19"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2024-02-14"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2024-06-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2024-08-23"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2025-04-18"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-12-05"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2026-02-19"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2026-03-16"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2026-05-21"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-07-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2026-05-21"
+   },
+   "lag_days_dailymed": 13,
+   "versions_before_supplement": 10
+  }
+ ],
+ "lag_days_dailymed_min": 13,
+ "fetched_utc": "2026-10-16T08:40:57Z"
+}

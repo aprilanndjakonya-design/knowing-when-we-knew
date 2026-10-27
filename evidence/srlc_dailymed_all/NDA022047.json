@@ -1,0 +1,263 @@
+{
+ "application": "NDA022047",
+ "srlc_rows": [
+  {
+   "drug_name": "SEROQUEL XR",
+   "active_ingredient": "QUETIAPINE FUMARATE",
+   "application_number": "022047",
+   "application_type": "NDA",
+   "supplement_date": "01/22/2025",
+   "database_updated": "02/05/2025",
+   "drug_name_id": "142"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-01-22",
+ "srlc_database_updated": "2025-02-05",
+ "lag_days_srlc_database": 14,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "ab959a35-d0ba-4f18-8f2e-6619d88b16e3",
+   "title": "SEROQUEL XR (QUETIAPINE) TABLET, EXTENDED RELEASE [H2-PHARMA, LLC]",
+   "published_date": "Apr 13, 2026",
+   "spl_version": 50,
+   "versions": [
+    {
+     "spl_version": 48,
+     "published_date": "2025-04-16"
+    },
+    {
+     "spl_version": 49,
+     "published_date": "2025-06-16"
+    },
+    {
+     "spl_version": 50,
+     "published_date": "2026-04-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 48,
+    "published_date": "2025-04-16"
+   },
+   "lag_days_dailymed": 84,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "473a3ac4-67f4-4782-baa9-7f9bdd8761f4",
+   "title": "SEROQUEL XR (QUETIAPINE) TABLET, EXTENDED RELEASE [ASTRAZENECA PHARMACEUTICALS LP]",
+   "published_date": "Mar 13, 2025",
+   "spl_version": 47,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2007-06-25"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2008-01-31"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2008-06-02"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2010-01-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2010-05-28"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2010-12-20"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2011-01-28"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2011-03-24"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2011-03-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2011-04-11"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2011-05-25"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2011-07-20"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2011-11-18"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2012-01-24"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2012-06-01"
+    },
+    {
+     "spl_version": 18,
+     "published_date": "2012-06-26"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2012-09-27"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2013-04-18"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2013-05-10"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2013-07-15"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2013-09-13"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2013-11-07"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2015-04-30"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2016-06-14"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2016-06-22"
+    },
+    {
+     "spl_version": 33,
+     "published_date": "2017-03-07"
+    },
+    {
+     "spl_version": 34,
+     "published_date": "2018-04-06"
+    },
+    {
+     "spl_version": 36,
+     "published_date": "2018-12-12"
+    },
+    {
+     "spl_version": 37,
+     "published_date": "2019-09-04"
+    },
+    {
+     "spl_version": 39,
+     "published_date": "2019-12-05"
+    },
+    {
+     "spl_version": 40,
+     "published_date": "2020-01-08"
+    },
+    {
+     "spl_version": 42,
+     "published_date": "2020-07-09"
+    },
+    {
+     "spl_version": 43,
+     "published_date": "2020-09-28"
+    },
+    {
+     "spl_version": 44,
+     "published_date": "2022-02-08"
+    },
+    {
+     "spl_version": 45,
+     "published_date": "2024-11-20"
+    },
+    {
+     "spl_version": 46,
+     "published_date": "2025-02-05"
+    },
+    {
+     "spl_version": 47,
+     "published_date": "2025-03-13"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 46,
+    "published_date": "2025-02-05"
+   },
+   "lag_days_dailymed": 14,
+   "versions_before_supplement": 35
+  },
+  {
+   "setid": "63cf6e35-4d68-4316-8579-823419f386de",
+   "title": "SEROQUEL XR (QUETIAPINE FUMARATE) TABLET, EXTENDED RELEASE [AVERA MCKENNAN HOSPITAL]",
+   "published_date": "Apr 14, 2017",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-04-14"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "51927f2e-3d56-4644-a6a8-40e0b9a5b579",
+   "title": "SEROQUEL XR (QUETIAPINE FUMARATE) TABLET, EXTENDED RELEASE [TYA PHARMACEUTICALS]",
+   "published_date": "Nov 10, 2014",
+   "spl_version": 10,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2014-09-29"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2014-11-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  },
+  {
+   "setid": "2a74e8a0-b2fd-4d7f-8bf8-72148b1d3ae7",
+   "title": "SEROQUEL XR (QUETIAPINE FUMARATE) TABLET, EXTENDED RELEASE [PHYSICIANS TOTAL CARE, INC.]",
+   "published_date": "Feb 15, 2012",
+   "spl_version": 3,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2011-11-29"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2012-02-15"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 2
+  }
+ ],
+ "lag_days_dailymed_min": 14,
+ "fetched_utc": "2026-10-16T08:53:50Z"
+}

@@ -1,0 +1,112 @@
+{
+ "application": "BLA761119",
+ "srlc_rows": [
+  {
+   "drug_name": "VYEPTI",
+   "active_ingredient": "EPTINEZUMAB-JJMR",
+   "application_number": "761119",
+   "application_type": "BLA",
+   "supplement_date": "06/05/2026",
+   "database_updated": "06/12/2026",
+   "drug_name_id": "2535"
+  }
+ ],
+ "latest_bw_supplement_date": "2026-06-05",
+ "srlc_database_updated": "2026-06-12",
+ "lag_days_srlc_database": 7,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "79065861-6aa5-4d1f-829f-3a6471286b36",
+   "title": "VYEPTI (EPTINEZUMAB-JJMR) INJECTION [LUNDBECK PHARMACEUTICALS LLC]",
+   "published_date": "Aug 20, 2026",
+   "spl_version": 32,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2020-03-09"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-09-27"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2021-10-12"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-12-09"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2022-03-03"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-03-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-04-25"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2023-01-10"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-04-24"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2024-02-05"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2024-09-06"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2024-12-23"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2025-04-07"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2025-09-12"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2025-12-17"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2026-06-01"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2026-06-22"
+    },
+    {
+     "spl_version": 32,
+     "published_date": "2026-08-20"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2026-06-22"
+   },
+   "lag_days_dailymed": 17,
+   "versions_before_supplement": 17
+  }
+ ],
+ "lag_days_dailymed_min": 17,
+ "fetched_utc": "2026-10-16T08:39:39Z"
+}

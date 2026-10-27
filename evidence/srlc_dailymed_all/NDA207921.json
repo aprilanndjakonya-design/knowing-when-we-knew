@@ -1,0 +1,180 @@
+{
+ "application": "NDA207921",
+ "srlc_rows": [
+  {
+   "drug_name": "QVAR REDIHALER",
+   "active_ingredient": "BECLOMETHASONE DIPROPIONATE",
+   "application_number": "207921",
+   "application_type": "NDA",
+   "supplement_date": "09/26/2025",
+   "database_updated": "09/29/2025",
+   "drug_name_id": "2386"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-09-26",
+ "srlc_database_updated": "2025-09-29",
+ "lag_days_srlc_database": 3,
+ "dailymed_setids": 5,
+ "labels": [
+  {
+   "setid": "cada897a-264e-450d-ae00-36e7fe747080",
+   "title": "QVAR REDIHALER (BECLOMETHASONE DIPROPIONATE HFA) AEROSOL, METERED [TEVA RESPIRATORY, LLC]",
+   "published_date": "Sep 14, 2026",
+   "spl_version": 17,
+   "versions": [
+    {
+     "spl_version": 3,
+     "published_date": "2018-02-07"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2018-02-13"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2018-05-18"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2019-10-07"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-10-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2021-01-14"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2022-04-06"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2022-09-28"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2023-05-01"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2024-02-02"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2025-08-22"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2026-09-14"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 16,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 52,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "ccd3aaec-4892-40d0-ad60-3e570178fbe1",
+   "title": "QVAR REDIHALER (BECLOMETHASONE DIPROPIONATE HFA) AEROSOL, METERED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jun 27, 2024",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 6,
+     "published_date": "2018-05-31"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2018-06-05"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2024-06-27"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "6c19254b-6333-46fa-835b-16b48df57bdd",
+   "title": "QVAR REDIHALER (BECLOMETHASONE DIPROPIONATE HFA) AEROSOL, METERED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Sep 22, 2023",
+   "spl_version": 7,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-09-22"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "2814cf81-392e-4dd4-9816-ae7e6e5ec84f",
+   "title": "QVAR REDIHALER (BECLOMETHASONE DIPROPIONATE HFA) AEROSOL, METERED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Sep 21, 2023",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2021-01-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-09-21"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "9fb78667-7db9-4d98-b8a2-0de60458de11",
+   "title": "QVAR REDIHALER (BECLOMETHASONE DIPROPIONATE HFA) AEROSOL, METERED [RPK PHARMACEUTICALS, INC.]",
+   "published_date": "Jun 09, 2023",
+   "spl_version": 8,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2018-10-24"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2020-12-17"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2023-06-09"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 3
+  }
+ ],
+ "lag_days_dailymed_min": 52,
+ "fetched_utc": "2026-10-16T09:02:38Z"
+}

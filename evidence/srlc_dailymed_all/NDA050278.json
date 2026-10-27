@@ -1,0 +1,68 @@
+{
+ "application": "NDA050278",
+ "srlc_rows": [
+  {
+   "drug_name": "ACHROMYCIN V",
+   "active_ingredient": "TETRACYCLINE HYDROCHLORIDE",
+   "application_number": "050278",
+   "application_type": "NDA",
+   "supplement_date": "03/31/2025",
+   "database_updated": "04/08/2025",
+   "drug_name_id": "3099"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-03-31",
+ "srlc_database_updated": "2025-04-08",
+ "lag_days_srlc_database": 8,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "eaa5b1bd-0927-46e4-b941-32fcc492d258",
+   "title": "TETRACYCLINE HYDROCHLORIDE CAPSULE [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+   "published_date": "Apr 07, 2025",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2013-10-18"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2015-12-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2018-05-22"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2020-12-01"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-12-26"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-08-23"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2024-09-16"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-04-07"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-04-07"
+   },
+   "lag_days_dailymed": 7,
+   "versions_before_supplement": 7
+  }
+ ],
+ "lag_days_dailymed_min": 7,
+ "fetched_utc": "2026-10-16T08:56:29Z"
+}

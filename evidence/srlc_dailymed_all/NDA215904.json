@@ -1,0 +1,76 @@
+{
+ "application": "NDA215904",
+ "srlc_rows": [
+  {
+   "drug_name": "ZTALMY",
+   "active_ingredient": "GANAXOLONE",
+   "application_number": "215904",
+   "application_type": "NDA",
+   "supplement_date": "10/16/2025",
+   "database_updated": "10/22/2025",
+   "drug_name_id": "2698"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-16",
+ "srlc_database_updated": "2025-10-22",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 1,
+ "labels": [
+  {
+   "setid": "d91612c4-b03a-4be4-a1ee-6a13e3b83d4e",
+   "title": "ZTALMY (GANAXOLONE) SUSPENSION [IMMEDICA PHARMA US INC]",
+   "published_date": "Sep 30, 2026",
+   "spl_version": 14,
+   "versions": [
+    {
+     "spl_version": 4,
+     "published_date": "2022-07-01"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-11-23"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2023-06-30"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-05-16"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2025-05-21"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-08-21"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-11-18"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2025-12-01"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2026-09-30"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 11,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 32,
+   "versions_before_supplement": 6
+  }
+ ],
+ "lag_days_dailymed_min": 32,
+ "fetched_utc": "2026-10-16T09:08:47Z"
+}

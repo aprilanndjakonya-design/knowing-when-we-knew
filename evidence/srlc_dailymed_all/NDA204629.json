@@ -1,0 +1,380 @@
+{
+ "application": "NDA204629",
+ "srlc_rows": [
+  {
+   "drug_name": "JARDIANCE",
+   "active_ingredient": "EMPAGLIFLOZIN",
+   "application_number": "204629",
+   "application_type": "NDA",
+   "supplement_date": "10/24/2025",
+   "database_updated": "10/30/2025",
+   "drug_name_id": "323"
+  }
+ ],
+ "latest_bw_supplement_date": "2025-10-24",
+ "srlc_database_updated": "2025-10-30",
+ "lag_days_srlc_database": 6,
+ "dailymed_setids": 9,
+ "labels": [
+  {
+   "setid": "59ed43d9-b4e0-72a2-e063-6394a90a327d",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [REDPHARM DRUG]",
+   "published_date": "Aug 27, 2026",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2026-08-27"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 1,
+    "published_date": "2026-08-27"
+   },
+   "lag_days_dailymed": 307,
+   "versions_before_supplement": 0
+  },
+  {
+   "setid": "334f1b3d-5670-6685-e063-6294a90a7e47",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC ]",
+   "published_date": "Jun 22, 2026",
+   "spl_version": 2,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2025-04-24"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2026-06-22"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 2,
+    "published_date": "2026-06-22"
+   },
+   "lag_days_dailymed": 241,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "5777b8a8-ada6-4950-8548-43a1de11f075",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [CARDINAL HEALTH 107, LLC]",
+   "published_date": "Feb 23, 2026",
+   "spl_version": 13,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2017-03-14"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2019-01-04"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2019-06-20"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-08-07"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2022-01-28"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-08-08"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2023-02-03"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2024-09-30"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2024-12-25"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2025-01-30"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2025-05-05"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2025-12-19"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2026-02-23"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 12,
+    "published_date": "2025-12-19"
+   },
+   "lag_days_dailymed": 56,
+   "versions_before_supplement": 11
+  },
+  {
+   "setid": "faf3dd6a-9cd0-39c2-0d2e-232cb3f67565",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+   "published_date": "Feb 02, 2026",
+   "spl_version": 31,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2014-08-15"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2015-07-09"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2015-12-21"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2016-02-17"
+    },
+    {
+     "spl_version": 5,
+     "published_date": "2016-03-31"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2016-07-19"
+    },
+    {
+     "spl_version": 7,
+     "published_date": "2016-12-14"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2017-12-26"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2018-03-02"
+    },
+    {
+     "spl_version": 10,
+     "published_date": "2018-11-09"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2019-01-18"
+    },
+    {
+     "spl_version": 12,
+     "published_date": "2019-07-29"
+    },
+    {
+     "spl_version": 13,
+     "published_date": "2020-02-06"
+    },
+    {
+     "spl_version": 14,
+     "published_date": "2020-04-15"
+    },
+    {
+     "spl_version": 15,
+     "published_date": "2021-02-08"
+    },
+    {
+     "spl_version": 16,
+     "published_date": "2021-06-23"
+    },
+    {
+     "spl_version": 17,
+     "published_date": "2021-09-01"
+    },
+    {
+     "spl_version": 19,
+     "published_date": "2022-03-14"
+    },
+    {
+     "spl_version": 20,
+     "published_date": "2022-03-29"
+    },
+    {
+     "spl_version": 21,
+     "published_date": "2022-09-27"
+    },
+    {
+     "spl_version": 22,
+     "published_date": "2022-10-19"
+    },
+    {
+     "spl_version": 23,
+     "published_date": "2023-06-30"
+    },
+    {
+     "spl_version": 24,
+     "published_date": "2023-09-21"
+    },
+    {
+     "spl_version": 25,
+     "published_date": "2023-10-03"
+    },
+    {
+     "spl_version": 26,
+     "published_date": "2023-11-22"
+    },
+    {
+     "spl_version": 27,
+     "published_date": "2024-07-04"
+    },
+    {
+     "spl_version": 28,
+     "published_date": "2024-10-18"
+    },
+    {
+     "spl_version": 29,
+     "published_date": "2025-04-10"
+    },
+    {
+     "spl_version": 30,
+     "published_date": "2025-11-17"
+    },
+    {
+     "spl_version": 31,
+     "published_date": "2026-02-02"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 30,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 24,
+   "versions_before_supplement": 28
+  },
+  {
+   "setid": "8b6261f6-4bdc-462e-8af1-4064664c62f3",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [APHENA PHARMA SOLUTIONS - TENNESSEE, LLC]",
+   "published_date": "Nov 17, 2025",
+   "spl_version": 4,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2018-11-13"
+    },
+    {
+     "spl_version": 2,
+     "published_date": "2022-12-14"
+    },
+    {
+     "spl_version": 3,
+     "published_date": "2025-04-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2025-11-17"
+    }
+   ],
+   "carrier_version": {
+    "spl_version": 4,
+    "published_date": "2025-11-17"
+   },
+   "lag_days_dailymed": 24,
+   "versions_before_supplement": 3
+  },
+  {
+   "setid": "a77214ca-572e-485e-aae9-f7950187e5fb",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Aug 10, 2023",
+   "spl_version": 11,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-07-29"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2020-05-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 8,
+     "published_date": "2022-02-28"
+    },
+    {
+     "spl_version": 11,
+     "published_date": "2023-08-10"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 5
+  },
+  {
+   "setid": "942a82a4-cbbd-4e44-9965-8d03f767912b",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "Jul 25, 2023",
+   "spl_version": 9,
+   "versions": [
+    {
+     "spl_version": 2,
+     "published_date": "2019-09-09"
+    },
+    {
+     "spl_version": 4,
+     "published_date": "2021-04-19"
+    },
+    {
+     "spl_version": 6,
+     "published_date": "2022-12-01"
+    },
+    {
+     "spl_version": 9,
+     "published_date": "2023-07-25"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 4
+  },
+  {
+   "setid": "1782b947-4a72-4feb-a488-1469d9af82bd",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 04, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  },
+  {
+   "setid": "f2b41c77-0abb-40ee-8578-86a748d0e19e",
+   "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [A-S MEDICATION SOLUTIONS]",
+   "published_date": "May 04, 2023",
+   "spl_version": 1,
+   "versions": [
+    {
+     "spl_version": 1,
+     "published_date": "2023-05-04"
+    }
+   ],
+   "carrier_version": null,
+   "lag_days_dailymed": null,
+   "versions_before_supplement": 1
+  }
+ ],
+ "lag_days_dailymed_min": 24,
+ "fetched_utc": "2026-10-16T09:00:57Z"
+}
